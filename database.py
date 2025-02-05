@@ -1,6 +1,7 @@
 
 import asyncio
 import json
+import os
 import pprint
 import re
 
@@ -8,6 +9,19 @@ import httpx
 
 
 headers = { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" }
+
+async def async_download_image(client, semaphore, url: str, p: str):
+    if os.path.exists(p): return
+    if not os.path.exists(os.path.dirname(p)): os.makedirs(os.path.dirname(p))
+    async with semaphore:
+        resp = await client.get(url, headers=headers)
+        if resp.status_code == 200:
+            with open(p, mode="wb") as f:
+                f.write(resp.content)
+            print(f"{url} saved at {p}")
+            return
+        else:
+            raise Exception(f"Failed to download {url}")
 
 
 async def fetch_product(client):
@@ -174,18 +188,35 @@ async def main():
         for product_id, card_no_list in card_no_lists:
             products[product_id]["card_list"] = card_no_list
             all_card_no += card_no_list
-        with open("products.json", "w", encoding="utf-8") as f:
-            json.dump(products, f, indent=4, ensure_ascii=False)
         
         cards = { card_no: {} for card_no in all_card_no }
-        semaphore = asyncio.Semaphore(10)
+        semaphore = asyncio.Semaphore(100)
         card_info_lists = await asyncio.gather(
             *(fetch_card_info(client, semaphore, card_no) for card_no in all_card_no)
         )
         for card_info in card_info_lists:
             cards[card_info["card_no"]] = card_info
+            
+        
+        img_list = []
+        for product in product_list:
+            product_img = f"img/products/" + product["img"].split("/")[-1]
+            img_list.append((product["img"], product_img))
+            products[product["product_id"]]["_img"] = product_img
+        for card_no, card in cards.items():
+            card_img = f"img/cards/" + card["img"].split("/")[-2] + "/" + card["img"].split("/")[-1]
+            img_list.append((card["img"], card_img))
+            cards[card_no]["_img"] = card_img
+        
+        with open("products.json", "w", encoding="utf-8") as f:
+            json.dump(products, f, indent=4, ensure_ascii=False)
         with open("cards.json", "w", encoding="utf-8") as f:
             json.dump(cards, f, indent=4, ensure_ascii=False)
+        
+        semaphore = asyncio.Semaphore(100)
+        await asyncio.gather(
+            *(async_download_image(client, semaphore, img[0], img[1]) for img in img_list)
+        )
 
 
 

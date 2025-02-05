@@ -24,7 +24,8 @@
             "PL!HS-PR-011-PR",
             "PL!HS-PR-012-PR",
             "PL!HS-PR-013-PR"
-        ]
+        ],
+        "_img": "img/products/thumb_default.jpg"
     },
     "BP01": {
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/uploads/2024/12/27190840/L_TCG_-BP_vol1_box_image-1.png",
@@ -211,7 +212,8 @@
             "PL!HS-bp1-030-PE＋",
             "PL!HS-bp1-031-PE",
             "PL!HS-bp1-031-PE＋"
-        ]
+        ],
+        "_img": "img/products/L_TCG_-BP_vol1_box_image-1.png"
     },
     "NSD01": {
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/thumb/L_TCG_SD_02_BOX_image.png",
@@ -262,7 +264,8 @@
             "PL!N-sd1-038-P",
             "PL!N-sd1-039-P",
             "PL!N-sd1-040-P"
-        ]
+        ],
+        "_img": "img/products/L_TCG_SD_02_BOX_image.png"
     },
     "SPSD01": {
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/thumb/L_TCG_SD_01_BOX_image.png",
@@ -310,6 +313,7 @@
             "PL!SP-sd1-035-P",
             "PL!SP-sd1-036-P",
             "PL!SP-sd1-037-P"
-        ]
+        ],
+        "_img": "img/products/L_TCG_SD_01_BOX_image.png"
     }
 }

@@ -12,7 +12,8 @@
                 "card_no": "LL-PR-001-PR",
                 "name": ""
             }
-        ]
+        ],
+        "_img": "img/cards/PR/LL-PR-001-PR.png"
     },
     "PL!S-PR-001-PR": {
         "card_no": "PL!S-PR-001-PR",
@@ -28,7 +29,8 @@
                 "card_no": "PL!S-PR-001-PR",
                 "name": ""
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!S-PR-001-PR.png"
     },
     "PL!N-PR-001-PR": {
         "card_no": "PL!N-PR-001-PR",
@@ -44,7 +46,8 @@
                 "card_no": "PL!N-PR-001-PR",
                 "name": ""
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!N-PR-001-PR.png"
     },
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
@@ -60,7 +63,8 @@
                 "card_no": "LL-E-002-PR",
                 "name": "エネルギー(無地)"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/LL-E-002-PR.png"
     },
     "PL!HS-PR-001-PR": {
         "card_no": "PL!HS-PR-001-PR",
@@ -85,7 +89,8 @@
                 "card_no": "PL!HS-PR-001-PR",
                 "name": "日野下花帆"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-001-PR.png"
     },
     "PL!HS-PR-002-PR": {
         "card_no": "PL!HS-PR-002-PR",
@@ -110,7 +115,8 @@
                 "card_no": "PL!HS-PR-002-PR",
                 "name": "村野さやか"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-002-PR.png"
     },
     "PL!HS-PR-003-PR": {
         "card_no": "PL!HS-PR-003-PR",
@@ -136,7 +142,8 @@
                 "card_no": "PL!HS-PR-003-PR",
                 "name": "乙宗 梢"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-003-PR.png"
     },
     "PL!HS-PR-004-PR": {
         "card_no": "PL!HS-PR-004-PR",
@@ -162,7 +169,8 @@
                 "card_no": "PL!HS-PR-004-PR",
                 "name": "夕霧綴理"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-004-PR.png"
     },
     "PL!HS-PR-005-PR": {
         "card_no": "PL!HS-PR-005-PR",
@@ -187,7 +195,8 @@
                 "card_no": "PL!HS-PR-005-PR",
                 "name": "大沢瑠璃乃"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-005-PR.png"
     },
     "PL!HS-PR-006-PR": {
         "card_no": "PL!HS-PR-006-PR",
@@ -213,7 +222,8 @@
                 "card_no": "PL!HS-PR-006-PR",
                 "name": "藤島 慈"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-006-PR.png"
     },
     "PL!HS-PR-007-PR": {
         "card_no": "PL!HS-PR-007-PR",
@@ -237,7 +247,8 @@
                 "card_no": "PL!HS-PR-007-PR",
                 "name": "百生 吟子"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-007-PR.png"
     },
     "PL!HS-PR-008-PR": {
         "card_no": "PL!HS-PR-008-PR",
@@ -261,7 +272,8 @@
                 "card_no": "PL!HS-PR-008-PR",
                 "name": "徒町 小鈴"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-008-PR.png"
     },
     "PL!HS-PR-009-PR": {
         "card_no": "PL!HS-PR-009-PR",
@@ -285,7 +297,8 @@
                 "card_no": "PL!HS-PR-009-PR",
                 "name": "安養寺 姫芽"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-009-PR.png"
     },
     "PL!HS-PR-010-PR": {
         "card_no": "PL!HS-PR-010-PR",
@@ -311,7 +324,8 @@
                 "card_no": "PL!HS-PR-010-PR",
                 "name": "Reflection in the mirror"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-010-PR.png"
     },
     "PL!HS-PR-011-PR": {
         "card_no": "PL!HS-PR-011-PR",
@@ -337,7 +351,8 @@
                 "card_no": "PL!HS-PR-011-PR",
                 "name": "Sparkly Spot"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-011-PR.png"
     },
     "PL!HS-PR-012-PR": {
         "card_no": "PL!HS-PR-012-PR",
@@ -363,7 +378,8 @@
                 "card_no": "PL!HS-PR-012-PR",
                 "name": "アイデンティティ"
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-012-PR.png"
     },
     "PL!HS-PR-013-PR": {
         "card_no": "PL!HS-PR-013-PR",
@@ -379,7 +395,8 @@
                 "card_no": "PL!HS-PR-013-PR",
                 "name": ""
             }
-        ]
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-013-PR.png"
     },
     "LL-bp1-001-R＋": {
         "card_no": "LL-bp1-001-R＋",
@@ -427,7 +444,8 @@
                 "card_no": "LL-bp1-001-R＋",
                 "name": "上原歩夢&澁谷かのん&日野下花帆"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/LL-bp1-001-R2.png"
     },
     "PL!-bp1-000-LLE": {
         "card_no": "PL!-bp1-000-LLE",
@@ -444,7 +462,8 @@
                 "card_no": "PL!-bp1-000-LLE",
                 "name": "高坂穂乃果"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!-bp1-000-LLE.png"
     },
     "PL!S-bp1-000-LLE": {
         "card_no": "PL!S-bp1-000-LLE",
@@ -461,7 +480,8 @@
                 "card_no": "PL!S-bp1-000-LLE",
                 "name": "高海千歌"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!S-bp1-000-LLE.png"
     },
     "PL!N-bp1-000-LLE": {
         "card_no": "PL!N-bp1-000-LLE",
@@ -478,7 +498,8 @@
                 "card_no": "PL!N-bp1-000-LLE",
                 "name": "上原歩夢"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-000-LLE.png"
     },
     "PL!N-bp1-001-R": {
         "card_no": "PL!N-bp1-001-R",
@@ -505,7 +526,8 @@
                 "card_no": "PL!N-bp1-001-P",
                 "name": "上原歩夢"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-001-R.png"
     },
     "PL!N-bp1-001-P": {
         "card_no": "PL!N-bp1-001-P",
@@ -532,7 +554,8 @@
                 "card_no": "PL!N-bp1-001-R",
                 "name": "上原歩夢"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-001-P.png"
     },
     "PL!N-bp1-002-R＋": {
         "card_no": "PL!N-bp1-002-R＋",
@@ -591,7 +614,8 @@
                 "card_no": "PL!N-bp1-002-SEC",
                 "name": "中須かすみ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-002-R2.png"
     },
     "PL!N-bp1-002-P": {
         "card_no": "PL!N-bp1-002-P",
@@ -650,7 +674,8 @@
                 "card_no": "PL!N-bp1-002-SEC",
                 "name": "中須かすみ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-002-P.png"
     },
     "PL!N-bp1-002-P＋": {
         "card_no": "PL!N-bp1-002-P＋",
@@ -709,7 +734,8 @@
                 "card_no": "PL!N-bp1-002-SEC",
                 "name": "中須かすみ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-002-P2.png"
     },
     "PL!N-bp1-002-SEC": {
         "card_no": "PL!N-bp1-002-SEC",
@@ -768,7 +794,8 @@
                 "card_no": "PL!N-bp1-002-P＋",
                 "name": "中須かすみ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-002-SEC.png"
     },
     "PL!N-bp1-003-R＋": {
         "card_no": "PL!N-bp1-003-R＋",
@@ -807,7 +834,8 @@
                 "card_no": "PL!N-bp1-003-SEC",
                 "name": "桜坂しずく"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-003-R2.png"
     },
     "PL!N-bp1-003-P": {
         "card_no": "PL!N-bp1-003-P",
@@ -846,7 +874,8 @@
                 "card_no": "PL!N-bp1-003-SEC",
                 "name": "桜坂しずく"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-003-P.png"
     },
     "PL!N-bp1-003-P＋": {
         "card_no": "PL!N-bp1-003-P＋",
@@ -885,7 +914,8 @@
                 "card_no": "PL!N-bp1-003-SEC",
                 "name": "桜坂しずく"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-003-P2.png"
     },
     "PL!N-bp1-003-SEC": {
         "card_no": "PL!N-bp1-003-SEC",
@@ -924,7 +954,8 @@
                 "card_no": "PL!N-bp1-003-P＋",
                 "name": "桜坂しずく"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-003-SEC.png"
     },
     "PL!N-bp1-004-R": {
         "card_no": "PL!N-bp1-004-R",
@@ -952,7 +983,8 @@
                 "card_no": "PL!N-bp1-004-P",
                 "name": "朝香果林"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-004-R.png"
     },
     "PL!N-bp1-004-P": {
         "card_no": "PL!N-bp1-004-P",
@@ -980,7 +1012,8 @@
                 "card_no": "PL!N-bp1-004-R",
                 "name": "朝香果林"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-004-P.png"
     },
     "PL!N-bp1-005-R": {
         "card_no": "PL!N-bp1-005-R",
@@ -1008,7 +1041,8 @@
                 "card_no": "PL!N-bp1-005-P",
                 "name": "宮下 愛"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-005-R.png"
     },
     "PL!N-bp1-005-P": {
         "card_no": "PL!N-bp1-005-P",
@@ -1036,7 +1070,8 @@
                 "card_no": "PL!N-bp1-005-R",
                 "name": "宮下 愛"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-005-P.png"
     },
     "PL!N-bp1-006-R＋": {
         "card_no": "PL!N-bp1-006-R＋",
@@ -1076,7 +1111,8 @@
                 "card_no": "PL!N-bp1-006-SEC",
                 "name": "近江彼方"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-006-R2.png"
     },
     "PL!N-bp1-006-P": {
         "card_no": "PL!N-bp1-006-P",
@@ -1116,7 +1152,8 @@
                 "card_no": "PL!N-bp1-006-SEC",
                 "name": "近江彼方"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-006-P.png"
     },
     "PL!N-bp1-006-P＋": {
         "card_no": "PL!N-bp1-006-P＋",
@@ -1156,7 +1193,8 @@
                 "card_no": "PL!N-bp1-006-SEC",
                 "name": "近江彼方"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-006-P2.png"
     },
     "PL!N-bp1-006-SEC": {
         "card_no": "PL!N-bp1-006-SEC",
@@ -1196,7 +1234,8 @@
                 "card_no": "PL!N-bp1-006-P＋",
                 "name": "近江彼方"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-006-SEC.png"
     },
     "PL!N-bp1-007-R": {
         "card_no": "PL!N-bp1-007-R",
@@ -1224,7 +1263,8 @@
                 "card_no": "PL!N-bp1-007-P",
                 "name": "優木せつ菜"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-007-R.png"
     },
     "PL!N-bp1-007-P": {
         "card_no": "PL!N-bp1-007-P",
@@ -1252,7 +1292,8 @@
                 "card_no": "PL!N-bp1-007-R",
                 "name": "優木せつ菜"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-007-P.png"
     },
     "PL!N-bp1-008-R": {
         "card_no": "PL!N-bp1-008-R",
@@ -1281,7 +1322,8 @@
                 "card_no": "PL!N-bp1-008-P",
                 "name": "エマ・ヴェルデ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-008-R.png"
     },
     "PL!N-bp1-008-P": {
         "card_no": "PL!N-bp1-008-P",
@@ -1310,7 +1352,8 @@
                 "card_no": "PL!N-bp1-008-R",
                 "name": "エマ・ヴェルデ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-008-P.png"
     },
     "PL!N-bp1-009-R": {
         "card_no": "PL!N-bp1-009-R",
@@ -1339,7 +1382,8 @@
                 "card_no": "PL!N-bp1-009-P",
                 "name": "天王寺璃奈"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-009-R.png"
     },
     "PL!N-bp1-009-P": {
         "card_no": "PL!N-bp1-009-P",
@@ -1368,7 +1412,8 @@
                 "card_no": "PL!N-bp1-009-R",
                 "name": "天王寺璃奈"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-009-P.png"
     },
     "PL!N-bp1-010-R": {
         "card_no": "PL!N-bp1-010-R",
@@ -1396,7 +1441,8 @@
                 "card_no": "PL!N-bp1-010-P",
                 "name": "三船栞子"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-010-R.png"
     },
     "PL!N-bp1-010-P": {
         "card_no": "PL!N-bp1-010-P",
@@ -1424,7 +1470,8 @@
                 "card_no": "PL!N-bp1-010-R",
                 "name": "三船栞子"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-010-P.png"
     },
     "PL!N-bp1-011-R": {
         "card_no": "PL!N-bp1-011-R",
@@ -1453,7 +1500,8 @@
                 "card_no": "PL!N-bp1-011-P",
                 "name": "ミア・テイラー"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-011-R.png"
     },
     "PL!N-bp1-011-P": {
         "card_no": "PL!N-bp1-011-P",
@@ -1482,7 +1530,8 @@
                 "card_no": "PL!N-bp1-011-R",
                 "name": "ミア・テイラー"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-011-P.png"
     },
     "PL!N-bp1-012-R＋": {
         "card_no": "PL!N-bp1-012-R＋",
@@ -1522,7 +1571,8 @@
                 "card_no": "PL!N-bp1-012-SEC",
                 "name": "鐘 嵐珠"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-012-R2.png"
     },
     "PL!N-bp1-012-P": {
         "card_no": "PL!N-bp1-012-P",
@@ -1562,7 +1612,8 @@
                 "card_no": "PL!N-bp1-012-SEC",
                 "name": "鐘 嵐珠"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-012-P.png"
     },
     "PL!N-bp1-012-P＋": {
         "card_no": "PL!N-bp1-012-P＋",
@@ -1602,7 +1653,8 @@
                 "card_no": "PL!N-bp1-012-SEC",
                 "name": "鐘 嵐珠"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-012-P2.png"
     },
     "PL!N-bp1-012-SEC": {
         "card_no": "PL!N-bp1-012-SEC",
@@ -1642,7 +1694,8 @@
                 "card_no": "PL!N-bp1-012-P＋",
                 "name": "鐘 嵐珠"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-012-SEC.png"
     },
     "PL!N-bp1-013-N": {
         "card_no": "PL!N-bp1-013-N",
@@ -1668,7 +1721,8 @@
                 "card_no": "PL!N-bp1-013-N",
                 "name": "上原歩夢"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-013-N.png"
     },
     "PL!N-bp1-014-N": {
         "card_no": "PL!N-bp1-014-N",
@@ -1691,7 +1745,8 @@
                 "card_no": "PL!N-bp1-014-N",
                 "name": "中須かすみ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-014-N.png"
     },
     "PL!N-bp1-015-N": {
         "card_no": "PL!N-bp1-015-N",
@@ -1714,7 +1769,8 @@
                 "card_no": "PL!N-bp1-015-N",
                 "name": "桜坂しずく"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-015-N.png"
     },
     "PL!N-bp1-016-N": {
         "card_no": "PL!N-bp1-016-N",
@@ -1740,7 +1796,8 @@
                 "card_no": "PL!N-bp1-016-N",
                 "name": "朝香果林"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-016-N.png"
     },
     "PL!N-bp1-017-N": {
         "card_no": "PL!N-bp1-017-N",
@@ -1766,7 +1823,8 @@
                 "card_no": "PL!N-bp1-017-N",
                 "name": "宮下 愛"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-017-N.png"
     },
     "PL!N-bp1-018-N": {
         "card_no": "PL!N-bp1-018-N",
@@ -1790,7 +1848,8 @@
                 "card_no": "PL!N-bp1-018-N",
                 "name": "近江彼方"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-018-N.png"
     },
     "PL!N-bp1-019-N": {
         "card_no": "PL!N-bp1-019-N",
@@ -1813,7 +1872,8 @@
                 "card_no": "PL!N-bp1-019-N",
                 "name": "優木せつ菜"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-019-N.png"
     },
     "PL!N-bp1-020-N": {
         "card_no": "PL!N-bp1-020-N",
@@ -1837,7 +1897,8 @@
                 "card_no": "PL!N-bp1-020-N",
                 "name": "エマ・ヴェルデ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-020-N.png"
     },
     "PL!N-bp1-021-N": {
         "card_no": "PL!N-bp1-021-N",
@@ -1863,7 +1924,8 @@
                 "card_no": "PL!N-bp1-021-N",
                 "name": "天王寺璃奈"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-021-N.png"
     },
     "PL!N-bp1-022-N": {
         "card_no": "PL!N-bp1-022-N",
@@ -1889,7 +1951,8 @@
                 "card_no": "PL!N-bp1-022-N",
                 "name": "三船栞子"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-022-N.png"
     },
     "PL!N-bp1-023-N": {
         "card_no": "PL!N-bp1-023-N",
@@ -1913,7 +1976,8 @@
                 "card_no": "PL!N-bp1-023-N",
                 "name": "ミア・テイラー"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-023-N.png"
     },
     "PL!N-bp1-024-N": {
         "card_no": "PL!N-bp1-024-N",
@@ -1939,7 +2003,8 @@
                 "card_no": "PL!N-bp1-024-N",
                 "name": "鐘 嵐珠"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-024-N.png"
     },
     "PL!N-bp1-025-L": {
         "card_no": "PL!N-bp1-025-L",
@@ -1964,7 +2029,8 @@
                 "card_no": "PL!N-bp1-025-L",
                 "name": "虹色Passions！"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-025-L.png"
     },
     "PL!N-bp1-026-L": {
         "card_no": "PL!N-bp1-026-L",
@@ -1989,7 +2055,8 @@
                 "card_no": "PL!N-bp1-026-L",
                 "name": "Poppin' Up!"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-026-L.png"
     },
     "PL!N-bp1-027-L": {
         "card_no": "PL!N-bp1-027-L",
@@ -2011,7 +2078,8 @@
                 "card_no": "PL!N-bp1-027-L",
                 "name": "Solitude Rain"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-027-L.png"
     },
     "PL!N-bp1-028-L": {
         "card_no": "PL!N-bp1-028-L",
@@ -2037,7 +2105,8 @@
                 "card_no": "PL!N-bp1-028-L",
                 "name": "Butterfly"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-028-L.png"
     },
     "PL!N-bp1-029-L": {
         "card_no": "PL!N-bp1-029-L",
@@ -2063,7 +2132,8 @@
                 "card_no": "PL!N-bp1-029-L",
                 "name": "Eutopia"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-029-L.png"
     },
     "PL!N-bp1-030-SECE": {
         "card_no": "PL!N-bp1-030-SECE",
@@ -2080,7 +2150,8 @@
                 "card_no": "PL!N-bp1-030-SECE",
                 "name": "中須かすみ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-030-SECE.png"
     },
     "PL!N-bp1-031-SECE": {
         "card_no": "PL!N-bp1-031-SECE",
@@ -2097,7 +2168,8 @@
                 "card_no": "PL!N-bp1-031-SECE",
                 "name": "桜坂しずく"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-031-SECE.png"
     },
     "PL!N-bp1-032-SECE": {
         "card_no": "PL!N-bp1-032-SECE",
@@ -2114,7 +2186,8 @@
                 "card_no": "PL!N-bp1-032-SECE",
                 "name": "近江彼方"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-032-SECE.png"
     },
     "PL!N-bp1-033-SECE": {
         "card_no": "PL!N-bp1-033-SECE",
@@ -2131,7 +2204,8 @@
                 "card_no": "PL!N-bp1-033-SECE",
                 "name": "鐘 嵐珠"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-033-SECE.png"
     },
     "PL!N-bp1-034-PE": {
         "card_no": "PL!N-bp1-034-PE",
@@ -2152,7 +2226,8 @@
                 "card_no": "PL!N-bp1-034-PE＋",
                 "name": "UEHARA\nAYUMU"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-034-PE.png"
     },
     "PL!N-bp1-034-PE＋": {
         "card_no": "PL!N-bp1-034-PE＋",
@@ -2173,7 +2248,8 @@
                 "card_no": "PL!N-bp1-034-PE",
                 "name": "UEHARA\nAYUMU"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-034-PE2.png"
     },
     "PL!N-bp1-035-PE": {
         "card_no": "PL!N-bp1-035-PE",
@@ -2194,7 +2270,8 @@
                 "card_no": "PL!N-bp1-035-PE＋",
                 "name": "NAKASU\nKASUMI"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-035-PE.png"
     },
     "PL!N-bp1-035-PE＋": {
         "card_no": "PL!N-bp1-035-PE＋",
@@ -2215,7 +2292,8 @@
                 "card_no": "PL!N-bp1-035-PE",
                 "name": "NAKASU\nKASUMI"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-035-PE2.png"
     },
     "PL!N-bp1-036-PE": {
         "card_no": "PL!N-bp1-036-PE",
@@ -2236,7 +2314,8 @@
                 "card_no": "PL!N-bp1-036-PE＋",
                 "name": "KONOE\nKANATA"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-036-PE.png"
     },
     "PL!N-bp1-036-PE＋": {
         "card_no": "PL!N-bp1-036-PE＋",
@@ -2257,7 +2336,8 @@
                 "card_no": "PL!N-bp1-036-PE",
                 "name": "KONOE\nKANATA"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-036-PE2.png"
     },
     "PL!N-bp1-037-PE": {
         "card_no": "PL!N-bp1-037-PE",
@@ -2278,7 +2358,8 @@
                 "card_no": "PL!N-bp1-037-PE＋",
                 "name": "TENNOJI\nRINA"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-037-PE.png"
     },
     "PL!N-bp1-037-PE＋": {
         "card_no": "PL!N-bp1-037-PE＋",
@@ -2299,7 +2380,8 @@
                 "card_no": "PL!N-bp1-037-PE",
                 "name": "TENNOJI\nRINA"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-037-PE2.png"
     },
     "PL!N-bp1-038-PE": {
         "card_no": "PL!N-bp1-038-PE",
@@ -2320,7 +2402,8 @@
                 "card_no": "PL!N-bp1-038-PE＋",
                 "name": "MIA\nTAYLOR"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-038-PE.png"
     },
     "PL!N-bp1-038-PE＋": {
         "card_no": "PL!N-bp1-038-PE＋",
@@ -2341,7 +2424,8 @@
                 "card_no": "PL!N-bp1-038-PE",
                 "name": "MIA\nTAYLOR"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!N-bp1-038-PE2.png"
     },
     "PL!SP-bp1-000-LLE": {
         "card_no": "PL!SP-bp1-000-LLE",
@@ -2358,7 +2442,8 @@
                 "card_no": "PL!SP-bp1-000-LLE",
                 "name": "澁谷かのん"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-000-LLE.png"
     },
     "PL!SP-bp1-001-R": {
         "card_no": "PL!SP-bp1-001-R",
@@ -2387,7 +2472,8 @@
                 "card_no": "PL!SP-bp1-001-P",
                 "name": "澁谷かのん"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-001-R.png"
     },
     "PL!SP-bp1-001-P": {
         "card_no": "PL!SP-bp1-001-P",
@@ -2416,7 +2502,8 @@
                 "card_no": "PL!SP-bp1-001-R",
                 "name": "澁谷かのん"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-001-P.png"
     },
     "PL!SP-bp1-002-R＋": {
         "card_no": "PL!SP-bp1-002-R＋",
@@ -2451,7 +2538,8 @@
                 "card_no": "PL!SP-bp1-002-SEC",
                 "name": "唐 可可"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-002-R2.png"
     },
     "PL!SP-bp1-002-P": {
         "card_no": "PL!SP-bp1-002-P",
@@ -2486,7 +2574,8 @@
                 "card_no": "PL!SP-bp1-002-SEC",
                 "name": "唐 可可"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-002-P.png"
     },
     "PL!SP-bp1-002-P＋": {
         "card_no": "PL!SP-bp1-002-P＋",
@@ -2521,7 +2610,8 @@
                 "card_no": "PL!SP-bp1-002-SEC",
                 "name": "唐 可可"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-002-P2.png"
     },
     "PL!SP-bp1-002-SEC": {
         "card_no": "PL!SP-bp1-002-SEC",
@@ -2556,7 +2646,8 @@
                 "card_no": "PL!SP-bp1-002-P＋",
                 "name": "唐 可可"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-002-SEC.png"
     },
     "PL!SP-bp1-003-R＋": {
         "card_no": "PL!SP-bp1-003-R＋",
@@ -2593,7 +2684,8 @@
                 "card_no": "PL!SP-bp1-003-SEC",
                 "name": "嵐 千砂都"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-003-R2.png"
     },
     "PL!SP-bp1-003-P": {
         "card_no": "PL!SP-bp1-003-P",
@@ -2630,7 +2722,8 @@
                 "card_no": "PL!SP-bp1-003-SEC",
                 "name": "嵐 千砂都"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-003-P.png"
     },
     "PL!SP-bp1-003-P＋": {
         "card_no": "PL!SP-bp1-003-P＋",
@@ -2667,7 +2760,8 @@
                 "card_no": "PL!SP-bp1-003-SEC",
                 "name": "嵐 千砂都"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-003-P2.png"
     },
     "PL!SP-bp1-003-SEC": {
         "card_no": "PL!SP-bp1-003-SEC",
@@ -2704,7 +2798,8 @@
                 "card_no": "PL!SP-bp1-003-P＋",
                 "name": "嵐 千砂都"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-003-SEC.png"
     },
     "PL!SP-bp1-004-R": {
         "card_no": "PL!SP-bp1-004-R",
@@ -2736,7 +2831,8 @@
                 "card_no": "PL!SP-bp1-004-P",
                 "name": "平安名すみれ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-004-R.png"
     },
     "PL!SP-bp1-004-P": {
         "card_no": "PL!SP-bp1-004-P",
@@ -2768,7 +2864,8 @@
                 "card_no": "PL!SP-bp1-004-R",
                 "name": "平安名すみれ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-004-P.png"
     },
     "PL!SP-bp1-005-R": {
         "card_no": "PL!SP-bp1-005-R",
@@ -2798,7 +2895,8 @@
                 "card_no": "PL!SP-bp1-005-P",
                 "name": "葉月 恋"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-005-R.png"
     },
     "PL!SP-bp1-005-P": {
         "card_no": "PL!SP-bp1-005-P",
@@ -2828,7 +2926,8 @@
                 "card_no": "PL!SP-bp1-005-R",
                 "name": "葉月 恋"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-005-P.png"
     },
     "PL!SP-bp1-006-R": {
         "card_no": "PL!SP-bp1-006-R",
@@ -2857,7 +2956,8 @@
                 "card_no": "PL!SP-bp1-006-P",
                 "name": "桜小路きな子"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-006-R.png"
     },
     "PL!SP-bp1-006-P": {
         "card_no": "PL!SP-bp1-006-P",
@@ -2886,7 +2986,8 @@
                 "card_no": "PL!SP-bp1-006-R",
                 "name": "桜小路きな子"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-006-P.png"
     },
     "PL!SP-bp1-007-R＋": {
         "card_no": "PL!SP-bp1-007-R＋",
@@ -2926,7 +3027,8 @@
                 "card_no": "PL!SP-bp1-007-SEC",
                 "name": "米女メイ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-007-R2.png"
     },
     "PL!SP-bp1-007-P": {
         "card_no": "PL!SP-bp1-007-P",
@@ -2966,7 +3068,8 @@
                 "card_no": "PL!SP-bp1-007-SEC",
                 "name": "米女メイ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-007-P.png"
     },
     "PL!SP-bp1-007-P＋": {
         "card_no": "PL!SP-bp1-007-P＋",
@@ -3006,7 +3109,8 @@
                 "card_no": "PL!SP-bp1-007-SEC",
                 "name": "米女メイ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-007-P2.png"
     },
     "PL!SP-bp1-007-SEC": {
         "card_no": "PL!SP-bp1-007-SEC",
@@ -3046,7 +3150,8 @@
                 "card_no": "PL!SP-bp1-007-P＋",
                 "name": "米女メイ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-007-SEC.png"
     },
     "PL!SP-bp1-008-R": {
         "card_no": "PL!SP-bp1-008-R",
@@ -3078,7 +3183,8 @@
                 "card_no": "PL!SP-bp1-008-P",
                 "name": "若菜四季"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-008-R.png"
     },
     "PL!SP-bp1-008-P": {
         "card_no": "PL!SP-bp1-008-P",
@@ -3110,7 +3216,8 @@
                 "card_no": "PL!SP-bp1-008-R",
                 "name": "若菜四季"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-008-P.png"
     },
     "PL!SP-bp1-009-R": {
         "card_no": "PL!SP-bp1-009-R",
@@ -3139,7 +3246,8 @@
                 "card_no": "PL!SP-bp1-009-P",
                 "name": "鬼塚夏美"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-009-R.png"
     },
     "PL!SP-bp1-009-P": {
         "card_no": "PL!SP-bp1-009-P",
@@ -3168,7 +3276,8 @@
                 "card_no": "PL!SP-bp1-009-R",
                 "name": "鬼塚夏美"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-009-P.png"
     },
     "PL!SP-bp1-010-R": {
         "card_no": "PL!SP-bp1-010-R",
@@ -3197,7 +3306,8 @@
                 "card_no": "PL!SP-bp1-010-P",
                 "name": "ウィーン・マルガレーテ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-010-R.png"
     },
     "PL!SP-bp1-010-P": {
         "card_no": "PL!SP-bp1-010-P",
@@ -3226,7 +3336,8 @@
                 "card_no": "PL!SP-bp1-010-R",
                 "name": "ウィーン・マルガレーテ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-010-P.png"
     },
     "PL!SP-bp1-011-R": {
         "card_no": "PL!SP-bp1-011-R",
@@ -3256,7 +3367,8 @@
                 "card_no": "PL!SP-bp1-011-P",
                 "name": "鬼塚冬毬"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-011-R.png"
     },
     "PL!SP-bp1-011-P": {
         "card_no": "PL!SP-bp1-011-P",
@@ -3286,7 +3398,8 @@
                 "card_no": "PL!SP-bp1-011-R",
                 "name": "鬼塚冬毬"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-011-P.png"
     },
     "PL!SP-bp1-012-N": {
         "card_no": "PL!SP-bp1-012-N",
@@ -3309,7 +3422,8 @@
                 "card_no": "PL!SP-bp1-012-N",
                 "name": "澁谷かのん"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-012-N.png"
     },
     "PL!SP-bp1-013-N": {
         "card_no": "PL!SP-bp1-013-N",
@@ -3333,7 +3447,8 @@
                 "card_no": "PL!SP-bp1-013-N",
                 "name": "唐 可可"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-013-N.png"
     },
     "PL!SP-bp1-014-N": {
         "card_no": "PL!SP-bp1-014-N",
@@ -3359,7 +3474,8 @@
                 "card_no": "PL!SP-bp1-014-N",
                 "name": "嵐 千砂都"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-014-N.png"
     },
     "PL!SP-bp1-015-N": {
         "card_no": "PL!SP-bp1-015-N",
@@ -3385,7 +3501,8 @@
                 "card_no": "PL!SP-bp1-015-N",
                 "name": "平安名すみれ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-015-N.png"
     },
     "PL!SP-bp1-016-N": {
         "card_no": "PL!SP-bp1-016-N",
@@ -3411,7 +3528,8 @@
                 "card_no": "PL!SP-bp1-016-N",
                 "name": "葉月 恋"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-016-N.png"
     },
     "PL!SP-bp1-017-N": {
         "card_no": "PL!SP-bp1-017-N",
@@ -3438,7 +3556,8 @@
                 "card_no": "PL!SP-bp1-017-N",
                 "name": "桜小路きな子"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-017-N.png"
     },
     "PL!SP-bp1-018-N": {
         "card_no": "PL!SP-bp1-018-N",
@@ -3461,7 +3580,8 @@
                 "card_no": "PL!SP-bp1-018-N",
                 "name": "米女メイ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-018-N.png"
     },
     "PL!SP-bp1-019-N": {
         "card_no": "PL!SP-bp1-019-N",
@@ -3488,7 +3608,8 @@
                 "card_no": "PL!SP-bp1-019-N",
                 "name": "若菜四季"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-019-N.png"
     },
     "PL!SP-bp1-020-N": {
         "card_no": "PL!SP-bp1-020-N",
@@ -3513,7 +3634,8 @@
                 "card_no": "PL!SP-bp1-020-N",
                 "name": "鬼塚夏美"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-020-N.png"
     },
     "PL!SP-bp1-021-N": {
         "card_no": "PL!SP-bp1-021-N",
@@ -3535,7 +3657,8 @@
                 "card_no": "PL!SP-bp1-021-N",
                 "name": "ウィーン・マルガレーテ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-021-N.png"
     },
     "PL!SP-bp1-022-N": {
         "card_no": "PL!SP-bp1-022-N",
@@ -3562,7 +3685,8 @@
                 "card_no": "PL!SP-bp1-022-N",
                 "name": "鬼塚冬毬"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-022-N.png"
     },
     "PL!SP-bp1-023-L": {
         "card_no": "PL!SP-bp1-023-L",
@@ -3588,7 +3712,8 @@
                 "card_no": "PL!SP-bp1-023-L",
                 "name": "START!! True dreams"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-023-L.png"
     },
     "PL!SP-bp1-024-L": {
         "card_no": "PL!SP-bp1-024-L",
@@ -3614,7 +3739,8 @@
                 "card_no": "PL!SP-bp1-024-L",
                 "name": "Tiny Stars"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-024-L.png"
     },
     "PL!SP-bp1-025-L": {
         "card_no": "PL!SP-bp1-025-L",
@@ -3639,7 +3765,8 @@
                 "card_no": "PL!SP-bp1-025-L",
                 "name": "Starlight Prologue"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-025-L.png"
     },
     "PL!SP-bp1-026-L": {
         "card_no": "PL!SP-bp1-026-L",
@@ -3678,7 +3805,8 @@
                 "card_no": "PL!SP-bp1-026-L",
                 "name": "未来予報ハレルヤ！"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-026-L.png"
     },
     "PL!SP-bp1-027-L": {
         "card_no": "PL!SP-bp1-027-L",
@@ -3706,7 +3834,8 @@
                 "card_no": "PL!SP-bp1-027-L",
                 "name": "Sing！Shine！Smile！"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-027-L.png"
     },
     "PL!SP-bp1-028-SECE": {
         "card_no": "PL!SP-bp1-028-SECE",
@@ -3723,7 +3852,8 @@
                 "card_no": "PL!SP-bp1-028-SECE",
                 "name": "唐 可可"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-028-SECE.png"
     },
     "PL!SP-bp1-029-SECE": {
         "card_no": "PL!SP-bp1-029-SECE",
@@ -3740,7 +3870,8 @@
                 "card_no": "PL!SP-bp1-029-SECE",
                 "name": "嵐 千砂都"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-029-SECE.png"
     },
     "PL!SP-bp1-030-SECE": {
         "card_no": "PL!SP-bp1-030-SECE",
@@ -3757,7 +3888,8 @@
                 "card_no": "PL!SP-bp1-030-SECE",
                 "name": "米女メイ"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-030-SECE.png"
     },
     "PL!SP-bp1-031-PE": {
         "card_no": "PL!SP-bp1-031-PE",
@@ -3778,7 +3910,8 @@
                 "card_no": "PL!SP-bp1-031-PE＋",
                 "name": "SHIBUYA\nKANON"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-031-PE.png"
     },
     "PL!SP-bp1-031-PE＋": {
         "card_no": "PL!SP-bp1-031-PE＋",
@@ -3799,7 +3932,8 @@
                 "card_no": "PL!SP-bp1-031-PE",
                 "name": "SHIBUYA\nKANON"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-031-PE2.png"
     },
     "PL!SP-bp1-032-PE": {
         "card_no": "PL!SP-bp1-032-PE",
@@ -3820,7 +3954,8 @@
                 "card_no": "PL!SP-bp1-032-PE＋",
                 "name": "ARASHI\nCHISATO"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-032-PE.png"
     },
     "PL!SP-bp1-032-PE＋": {
         "card_no": "PL!SP-bp1-032-PE＋",
@@ -3841,7 +3976,8 @@
                 "card_no": "PL!SP-bp1-032-PE",
                 "name": "ARASHI\nCHISATO"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-032-PE2.png"
     },
     "PL!SP-bp1-033-PE": {
         "card_no": "PL!SP-bp1-033-PE",
@@ -3862,7 +3998,8 @@
                 "card_no": "PL!SP-bp1-033-PE＋",
                 "name": "HAZUKI\nREN"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-033-PE.png"
     },
     "PL!SP-bp1-033-PE＋": {
         "card_no": "PL!SP-bp1-033-PE＋",
@@ -3883,7 +4020,8 @@
                 "card_no": "PL!SP-bp1-033-PE",
                 "name": "HAZUKI\nREN"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-033-PE2.png"
     },
     "PL!SP-bp1-034-PE": {
         "card_no": "PL!SP-bp1-034-PE",
@@ -3904,7 +4042,8 @@
                 "card_no": "PL!SP-bp1-034-PE＋",
                 "name": "SAKURAKOJIKINAKO"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-034-PE.png"
     },
     "PL!SP-bp1-034-PE＋": {
         "card_no": "PL!SP-bp1-034-PE＋",
@@ -3925,7 +4064,8 @@
                 "card_no": "PL!SP-bp1-034-PE",
                 "name": "SAKURAKOJI\nKINAKO"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-034-PE2.png"
     },
     "PL!SP-bp1-035-PE": {
         "card_no": "PL!SP-bp1-035-PE",
@@ -3946,7 +4086,8 @@
                 "card_no": "PL!SP-bp1-035-PE＋",
                 "name": "ONITSUKA NATSUMI"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-035-PE.png"
     },
     "PL!SP-bp1-035-PE＋": {
         "card_no": "PL!SP-bp1-035-PE＋",
@@ -3967,7 +4108,8 @@
                 "card_no": "PL!SP-bp1-035-PE",
                 "name": "ONITSUKA NATSUMI"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!SP-bp1-035-PE2.png"
     },
     "PL!HS-bp1-000-LLE": {
         "card_no": "PL!HS-bp1-000-LLE",
@@ -3984,7 +4126,8 @@
                 "card_no": "PL!HS-bp1-000-LLE",
                 "name": "日野下花帆"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-000-LLE.png"
     },
     "PL!HS-bp1-001-R": {
         "card_no": "PL!HS-bp1-001-R",
@@ -4015,7 +4158,8 @@
                 "card_no": "PL!HS-bp1-001-P",
                 "name": "日野下花帆"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-001-R.png"
     },
     "PL!HS-bp1-001-P": {
         "card_no": "PL!HS-bp1-001-P",
@@ -4046,7 +4190,8 @@
                 "card_no": "PL!HS-bp1-001-R",
                 "name": "日野下花帆"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-001-P.png"
     },
     "PL!HS-bp1-002-R": {
         "card_no": "PL!HS-bp1-002-R",
@@ -4075,7 +4220,8 @@
                 "card_no": "PL!HS-bp1-002-P",
                 "name": "村野さやか"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-002-R.png"
     },
     "PL!HS-bp1-002-P": {
         "card_no": "PL!HS-bp1-002-P",
@@ -4104,7 +4250,8 @@
                 "card_no": "PL!HS-bp1-002-R",
                 "name": "村野さやか"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-002-P.png"
     },
     "PL!HS-bp1-003-R＋": {
         "card_no": "PL!HS-bp1-003-R＋",
@@ -4144,7 +4291,8 @@
                 "card_no": "PL!HS-bp1-003-SEC",
                 "name": "乙宗 梢"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-003-R2.png"
     },
     "PL!HS-bp1-003-P": {
         "card_no": "PL!HS-bp1-003-P",
@@ -4184,7 +4332,8 @@
                 "card_no": "PL!HS-bp1-003-SEC",
                 "name": "乙宗 梢"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-003-P.png"
     },
     "PL!HS-bp1-003-P＋": {
         "card_no": "PL!HS-bp1-003-P＋",
@@ -4224,7 +4373,8 @@
                 "card_no": "PL!HS-bp1-003-SEC",
                 "name": "乙宗 梢"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-003-P2.png"
     },
     "PL!HS-bp1-003-SEC": {
         "card_no": "PL!HS-bp1-003-SEC",
@@ -4264,7 +4414,8 @@
                 "card_no": "PL!HS-bp1-003-P＋",
                 "name": "乙宗 梢"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-003-SEC.png"
     },
     "PL!HS-bp1-004-R＋": {
         "card_no": "PL!HS-bp1-004-R＋",
@@ -4304,7 +4455,8 @@
                 "card_no": "PL!HS-bp1-004-SEC",
                 "name": "夕霧綴理"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-004-R2.png"
     },
     "PL!HS-bp1-004-P": {
         "card_no": "PL!HS-bp1-004-P",
@@ -4344,7 +4496,8 @@
                 "card_no": "PL!HS-bp1-004-SEC",
                 "name": "夕霧綴理"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-004-P.png"
     },
     "PL!HS-bp1-004-P＋": {
         "card_no": "PL!HS-bp1-004-P＋",
@@ -4384,7 +4537,8 @@
                 "card_no": "PL!HS-bp1-004-SEC",
                 "name": "夕霧綴理"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-004-P2.png"
     },
     "PL!HS-bp1-004-SEC": {
         "card_no": "PL!HS-bp1-004-SEC",
@@ -4424,7 +4578,8 @@
                 "card_no": "PL!HS-bp1-004-P＋",
                 "name": "夕霧綴理"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-004-SEC.png"
     },
     "PL!HS-bp1-005-R": {
         "card_no": "PL!HS-bp1-005-R",
@@ -4452,7 +4607,8 @@
                 "card_no": "PL!HS-bp1-005-P",
                 "name": "大沢瑠璃乃"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-005-R.png"
     },
     "PL!HS-bp1-005-P": {
         "card_no": "PL!HS-bp1-005-P",
@@ -4480,7 +4636,8 @@
                 "card_no": "PL!HS-bp1-005-R",
                 "name": "大沢瑠璃乃"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-005-P.png"
     },
     "PL!HS-bp1-006-R＋": {
         "card_no": "PL!HS-bp1-006-R＋",
@@ -4517,7 +4674,8 @@
                 "card_no": "PL!HS-bp1-006-SEC",
                 "name": "藤島 慈"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-006-R2.png"
     },
     "PL!HS-bp1-006-P": {
         "card_no": "PL!HS-bp1-006-P",
@@ -4554,7 +4712,8 @@
                 "card_no": "PL!HS-bp1-006-SEC",
                 "name": "藤島 慈"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-006-P.png"
     },
     "PL!HS-bp1-006-P＋": {
         "card_no": "PL!HS-bp1-006-P＋",
@@ -4591,7 +4750,8 @@
                 "card_no": "PL!HS-bp1-006-SEC",
                 "name": "藤島 慈"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-006-P2.png"
     },
     "PL!HS-bp1-006-SEC": {
         "card_no": "PL!HS-bp1-006-SEC",
@@ -4628,7 +4788,8 @@
                 "card_no": "PL!HS-bp1-006-P＋",
                 "name": "藤島 慈"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-006-SEC.png"
     },
     "PL!HS-bp1-007-R": {
         "card_no": "PL!HS-bp1-007-R",
@@ -4658,7 +4819,8 @@
                 "card_no": "PL!HS-bp1-007-P",
                 "name": "百生 吟子"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-007-R.png"
     },
     "PL!HS-bp1-007-P": {
         "card_no": "PL!HS-bp1-007-P",
@@ -4688,7 +4850,8 @@
                 "card_no": "PL!HS-bp1-007-R",
                 "name": "百生 吟子"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-007-P.png"
     },
     "PL!HS-bp1-008-R": {
         "card_no": "PL!HS-bp1-008-R",
@@ -4718,7 +4881,8 @@
                 "card_no": "PL!HS-bp1-008-P",
                 "name": "徒町 小鈴"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-008-R.png"
     },
     "PL!HS-bp1-008-P": {
         "card_no": "PL!HS-bp1-008-P",
@@ -4748,7 +4912,8 @@
                 "card_no": "PL!HS-bp1-008-R",
                 "name": "徒町 小鈴"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-008-P.png"
     },
     "PL!HS-bp1-009-R": {
         "card_no": "PL!HS-bp1-009-R",
@@ -4777,7 +4942,8 @@
                 "card_no": "PL!HS-bp1-009-P",
                 "name": "安養寺 姫芽"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-009-R.png"
     },
     "PL!HS-bp1-009-P": {
         "card_no": "PL!HS-bp1-009-P",
@@ -4806,7 +4972,8 @@
                 "card_no": "PL!HS-bp1-009-R",
                 "name": "安養寺 姫芽"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-009-P.png"
     },
     "PL!HS-bp1-010-N": {
         "card_no": "PL!HS-bp1-010-N",
@@ -4829,7 +4996,8 @@
                 "card_no": "PL!HS-bp1-010-N",
                 "name": "日野下花帆"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-010-N.png"
     },
     "PL!HS-bp1-011-N": {
         "card_no": "PL!HS-bp1-011-N",
@@ -4853,7 +5021,8 @@
                 "card_no": "PL!HS-bp1-011-N",
                 "name": "村野さやか"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-011-N.png"
     },
     "PL!HS-bp1-012-N": {
         "card_no": "PL!HS-bp1-012-N",
@@ -4879,7 +5048,8 @@
                 "card_no": "PL!HS-bp1-012-N",
                 "name": "乙宗 梢"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-012-N.png"
     },
     "PL!HS-bp1-013-N": {
         "card_no": "PL!HS-bp1-013-N",
@@ -4905,7 +5075,8 @@
                 "card_no": "PL!HS-bp1-013-N",
                 "name": "夕霧綴理"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-013-N.png"
     },
     "PL!HS-bp1-014-N": {
         "card_no": "PL!HS-bp1-014-N",
@@ -4928,7 +5099,8 @@
                 "card_no": "PL!HS-bp1-014-N",
                 "name": "大沢瑠璃乃"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-014-N.png"
     },
     "PL!HS-bp1-015-N": {
         "card_no": "PL!HS-bp1-015-N",
@@ -4954,7 +5126,8 @@
                 "card_no": "PL!HS-bp1-015-N",
                 "name": "藤島 慈"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-015-N.png"
     },
     "PL!HS-bp1-016-N": {
         "card_no": "PL!HS-bp1-016-N",
@@ -4978,7 +5151,8 @@
                 "card_no": "PL!HS-bp1-016-N",
                 "name": "百生 吟子"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-016-N.png"
     },
     "PL!HS-bp1-017-N": {
         "card_no": "PL!HS-bp1-017-N",
@@ -5002,7 +5176,8 @@
                 "card_no": "PL!HS-bp1-017-N",
                 "name": "徒町 小鈴"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-017-N.png"
     },
     "PL!HS-bp1-018-N": {
         "card_no": "PL!HS-bp1-018-N",
@@ -5026,7 +5201,8 @@
                 "card_no": "PL!HS-bp1-018-N",
                 "name": "安養寺 姫芽"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-018-N.png"
     },
     "PL!HS-bp1-019-L": {
         "card_no": "PL!HS-bp1-019-L",
@@ -5048,7 +5224,8 @@
                 "card_no": "PL!HS-bp1-019-L",
                 "name": "Dream Believers"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-019-L.png"
     },
     "PL!HS-bp1-020-L": {
         "card_no": "PL!HS-bp1-020-L",
@@ -5071,7 +5248,8 @@
                 "card_no": "PL!HS-bp1-020-L",
                 "name": "365 Days"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-020-L.png"
     },
     "PL!HS-bp1-021-L": {
         "card_no": "PL!HS-bp1-021-L",
@@ -5097,7 +5275,8 @@
                 "card_no": "PL!HS-bp1-021-L",
                 "name": "Holiday∞Holiday"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-021-L.png"
     },
     "PL!HS-bp1-022-L": {
         "card_no": "PL!HS-bp1-022-L",
@@ -5124,7 +5303,8 @@
                 "card_no": "PL!HS-bp1-022-L",
                 "name": "AWOKE"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-022-L.png"
     },
     "PL!HS-bp1-023-L": {
         "card_no": "PL!HS-bp1-023-L",
@@ -5150,7 +5330,8 @@
                 "card_no": "PL!HS-bp1-023-L",
                 "name": "ド！ド！ド！"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-023-L.png"
     },
     "PL!HS-bp1-024-SECE": {
         "card_no": "PL!HS-bp1-024-SECE",
@@ -5167,7 +5348,8 @@
                 "card_no": "PL!HS-bp1-024-SECE",
                 "name": "乙宗 梢"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-024-SECE.png"
     },
     "PL!HS-bp1-025-SECE": {
         "card_no": "PL!HS-bp1-025-SECE",
@@ -5184,7 +5366,8 @@
                 "card_no": "PL!HS-bp1-025-SECE",
                 "name": "夕霧綴理"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-025-SECE.png"
     },
     "PL!HS-bp1-026-SECE": {
         "card_no": "PL!HS-bp1-026-SECE",
@@ -5201,7 +5384,8 @@
                 "card_no": "PL!HS-bp1-026-SECE",
                 "name": "藤島 慈"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-026-SECE.png"
     },
     "PL!HS-bp1-027-PE": {
         "card_no": "PL!HS-bp1-027-PE",
@@ -5222,7 +5406,8 @@
                 "card_no": "PL!HS-bp1-027-PE＋",
                 "name": "HINOSHITA\nKAHO"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-027-PE.png"
     },
     "PL!HS-bp1-027-PE＋": {
         "card_no": "PL!HS-bp1-027-PE＋",
@@ -5243,7 +5428,8 @@
                 "card_no": "PL!HS-bp1-027-PE",
                 "name": "HINOSHITA\nKAHO"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-027-PE2.png"
     },
     "PL!HS-bp1-028-PE": {
         "card_no": "PL!HS-bp1-028-PE",
@@ -5264,7 +5450,8 @@
                 "card_no": "PL!HS-bp1-028-PE＋",
                 "name": "OTOMUNE\nKOZUE"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-028-PE.png"
     },
     "PL!HS-bp1-028-PE＋": {
         "card_no": "PL!HS-bp1-028-PE＋",
@@ -5285,7 +5472,8 @@
                 "card_no": "PL!HS-bp1-028-PE",
                 "name": "OTOMUNE\nKOZUE"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-028-PE2.png"
     },
     "PL!HS-bp1-029-PE": {
         "card_no": "PL!HS-bp1-029-PE",
@@ -5306,7 +5494,8 @@
                 "card_no": "PL!HS-bp1-029-PE＋",
                 "name": "YUGIRI\nTSUZURI"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-029-PE.png"
     },
     "PL!HS-bp1-029-PE＋": {
         "card_no": "PL!HS-bp1-029-PE＋",
@@ -5327,7 +5516,8 @@
                 "card_no": "PL!HS-bp1-029-PE",
                 "name": "YUGIRI\nTSUZURI"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-029-PE2.png"
     },
     "PL!HS-bp1-030-PE": {
         "card_no": "PL!HS-bp1-030-PE",
@@ -5348,7 +5538,8 @@
                 "card_no": "PL!HS-bp1-030-PE＋",
                 "name": "FUJISHIMA\nMEGUMI"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-030-PE.png"
     },
     "PL!HS-bp1-030-PE＋": {
         "card_no": "PL!HS-bp1-030-PE＋",
@@ -5369,7 +5560,8 @@
                 "card_no": "PL!HS-bp1-030-PE",
                 "name": "FUJISHIMA\nMEGUMI"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-030-PE2.png"
     },
     "PL!HS-bp1-031-PE": {
         "card_no": "PL!HS-bp1-031-PE",
@@ -5390,7 +5582,8 @@
                 "card_no": "PL!HS-bp1-031-PE＋",
                 "name": "ANYOJI\nHIME"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-031-PE.png"
     },
     "PL!HS-bp1-031-PE＋": {
         "card_no": "PL!HS-bp1-031-PE＋",
@@ -5411,7 +5604,8 @@
                 "card_no": "PL!HS-bp1-031-PE",
                 "name": "ANYOJI\nHIME"
             }
-        ]
+        ],
+        "_img": "img/cards/BP01/PL!HS-bp1-031-PE2.png"
     },
     "LL-E-003-SD": {
         "card_no": "LL-E-003-SD",
@@ -5427,7 +5621,8 @@
                 "card_no": "LL-E-003-SD",
                 "name": "エネルギー(無地)"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/LL-E-003-SD.png"
     },
     "PL!N-sd1-001-SD": {
         "card_no": "PL!N-sd1-001-SD",
@@ -5455,7 +5650,8 @@
                 "card_no": "PL!N-sd1-001-SD",
                 "name": "上原歩夢"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-001-SD.png"
     },
     "PL!N-sd1-002-SD": {
         "card_no": "PL!N-sd1-002-SD",
@@ -5479,7 +5675,8 @@
                 "card_no": "PL!N-sd1-002-SD",
                 "name": "中須かすみ"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-002-SD.png"
     },
     "PL!N-sd1-003-SD": {
         "card_no": "PL!N-sd1-003-SD",
@@ -5503,7 +5700,8 @@
                 "card_no": "PL!N-sd1-003-SD",
                 "name": "桜坂しずく"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-003-SD.png"
     },
     "PL!N-sd1-004-SD": {
         "card_no": "PL!N-sd1-004-SD",
@@ -5531,7 +5729,8 @@
                 "card_no": "PL!N-sd1-004-SD",
                 "name": "朝香果林"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-004-SD.png"
     },
     "PL!N-sd1-005-SD": {
         "card_no": "PL!N-sd1-005-SD",
@@ -5556,7 +5755,8 @@
                 "card_no": "PL!N-sd1-005-SD",
                 "name": "宮下 愛"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-005-SD.png"
     },
     "PL!N-sd1-006-SD": {
         "card_no": "PL!N-sd1-006-SD",
@@ -5582,7 +5782,8 @@
                 "card_no": "PL!N-sd1-006-SD",
                 "name": "近江彼方"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-006-SD.png"
     },
     "PL!N-sd1-007-SD": {
         "card_no": "PL!N-sd1-007-SD",
@@ -5610,7 +5811,8 @@
                 "card_no": "PL!N-sd1-007-SD",
                 "name": "優木せつ菜"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-007-SD.png"
     },
     "PL!N-sd1-008-SD": {
         "card_no": "PL!N-sd1-008-SD",
@@ -5633,7 +5835,8 @@
                 "card_no": "PL!N-sd1-008-SD",
                 "name": "エマ・ヴェルデ"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-008-SD.png"
     },
     "PL!N-sd1-009-SD": {
         "card_no": "PL!N-sd1-009-SD",
@@ -5658,7 +5861,8 @@
                 "card_no": "PL!N-sd1-009-SD",
                 "name": "天王寺璃奈"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-009-SD.png"
     },
     "PL!N-sd1-010-SD": {
         "card_no": "PL!N-sd1-010-SD",
@@ -5683,7 +5887,8 @@
                 "card_no": "PL!N-sd1-010-SD",
                 "name": "三船栞子"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-010-SD.png"
     },
     "PL!N-sd1-011-SD": {
         "card_no": "PL!N-sd1-011-SD",
@@ -5709,7 +5914,8 @@
                 "card_no": "PL!N-sd1-011-SD",
                 "name": "ミア・テイラー"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-011-SD.png"
     },
     "PL!N-sd1-012-SD": {
         "card_no": "PL!N-sd1-012-SD",
@@ -5733,7 +5939,8 @@
                 "card_no": "PL!N-sd1-012-SD",
                 "name": "鐘 嵐珠"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-012-SD.png"
     },
     "PL!N-sd1-013-SD": {
         "card_no": "PL!N-sd1-013-SD",
@@ -5756,7 +5963,8 @@
                 "card_no": "PL!N-sd1-013-SD",
                 "name": "上原歩夢"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-013-SD.png"
     },
     "PL!N-sd1-014-SD": {
         "card_no": "PL!N-sd1-014-SD",
@@ -5780,7 +5988,8 @@
                 "card_no": "PL!N-sd1-014-SD",
                 "name": "中須かすみ"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-014-SD.png"
     },
     "PL!N-sd1-015-SD": {
         "card_no": "PL!N-sd1-015-SD",
@@ -5806,7 +6015,8 @@
                 "card_no": "PL!N-sd1-015-SD",
                 "name": "桜坂しずく"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-015-SD.png"
     },
     "PL!N-sd1-016-SD": {
         "card_no": "PL!N-sd1-016-SD",
@@ -5830,7 +6040,8 @@
                 "card_no": "PL!N-sd1-016-SD",
                 "name": "朝香果林"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-016-SD.png"
     },
     "PL!N-sd1-017-SD": {
         "card_no": "PL!N-sd1-017-SD",
@@ -5856,7 +6067,8 @@
                 "card_no": "PL!N-sd1-017-SD",
                 "name": "宮下 愛"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-017-SD.png"
     },
     "PL!N-sd1-018-SD": {
         "card_no": "PL!N-sd1-018-SD",
@@ -5880,7 +6092,8 @@
                 "card_no": "PL!N-sd1-018-SD",
                 "name": "近江彼方"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-018-SD.png"
     },
     "PL!N-sd1-019-SD": {
         "card_no": "PL!N-sd1-019-SD",
@@ -5906,7 +6119,8 @@
                 "card_no": "PL!N-sd1-019-SD",
                 "name": "優木せつ菜"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-019-SD.png"
     },
     "PL!N-sd1-020-SD": {
         "card_no": "PL!N-sd1-020-SD",
@@ -5932,7 +6146,8 @@
                 "card_no": "PL!N-sd1-020-SD",
                 "name": "エマ・ヴェルデ"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-020-SD.png"
     },
     "PL!N-sd1-021-SD": {
         "card_no": "PL!N-sd1-021-SD",
@@ -5955,7 +6170,8 @@
                 "card_no": "PL!N-sd1-021-SD",
                 "name": "天王寺璃奈"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-021-SD.png"
     },
     "PL!N-sd1-022-SD": {
         "card_no": "PL!N-sd1-022-SD",
@@ -5978,7 +6194,8 @@
                 "card_no": "PL!N-sd1-022-SD",
                 "name": "三船栞子"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-022-SD.png"
     },
     "PL!N-sd1-023-SD": {
         "card_no": "PL!N-sd1-023-SD",
@@ -6004,7 +6221,8 @@
                 "card_no": "PL!N-sd1-023-SD",
                 "name": "ミア・テイラー"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-023-SD.png"
     },
     "PL!N-sd1-024-SD": {
         "card_no": "PL!N-sd1-024-SD",
@@ -6030,7 +6248,8 @@
                 "card_no": "PL!N-sd1-024-SD",
                 "name": "鐘 嵐珠"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-024-SD.png"
     },
     "PL!N-sd1-025-SD": {
         "card_no": "PL!N-sd1-025-SD",
@@ -6053,7 +6272,8 @@
                 "card_no": "PL!N-sd1-025-SD",
                 "name": "Colorful Dreams! Colorful Smiles!"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-025-SD.png"
     },
     "PL!N-sd1-026-SD": {
         "card_no": "PL!N-sd1-026-SD",
@@ -6079,7 +6299,8 @@
                 "card_no": "PL!N-sd1-026-SD",
                 "name": "夢が僕らの太陽さ"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-026-SD.png"
     },
     "PL!N-sd1-027-SD": {
         "card_no": "PL!N-sd1-027-SD",
@@ -6106,7 +6327,8 @@
                 "card_no": "PL!N-sd1-027-SD",
                 "name": "Just Believe!!!"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-027-SD.png"
     },
     "PL!N-sd1-028-SD": {
         "card_no": "PL!N-sd1-028-SD",
@@ -6132,7 +6354,8 @@
                 "card_no": "PL!N-sd1-028-SD",
                 "name": "Dream with You"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-028-SD.png"
     },
     "PL!N-sd1-029-P": {
         "card_no": "PL!N-sd1-029-P",
@@ -6149,7 +6372,8 @@
                 "card_no": "PL!N-sd1-029-P",
                 "name": "上原歩夢"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-029-P.png"
     },
     "PL!N-sd1-030-P": {
         "card_no": "PL!N-sd1-030-P",
@@ -6166,7 +6390,8 @@
                 "card_no": "PL!N-sd1-030-P",
                 "name": "中須かすみ"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-030-P.png"
     },
     "PL!N-sd1-031-P": {
         "card_no": "PL!N-sd1-031-P",
@@ -6183,7 +6408,8 @@
                 "card_no": "PL!N-sd1-031-P",
                 "name": "桜坂しずく"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-031-P.png"
     },
     "PL!N-sd1-032-P": {
         "card_no": "PL!N-sd1-032-P",
@@ -6200,7 +6426,8 @@
                 "card_no": "PL!N-sd1-032-P",
                 "name": "朝香果林"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-032-P.png"
     },
     "PL!N-sd1-033-P": {
         "card_no": "PL!N-sd1-033-P",
@@ -6217,7 +6444,8 @@
                 "card_no": "PL!N-sd1-033-P",
                 "name": "宮下 愛"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-033-P.png"
     },
     "PL!N-sd1-034-P": {
         "card_no": "PL!N-sd1-034-P",
@@ -6234,7 +6462,8 @@
                 "card_no": "PL!N-sd1-034-P",
                 "name": "近江彼方"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-034-P.png"
     },
     "PL!N-sd1-035-P": {
         "card_no": "PL!N-sd1-035-P",
@@ -6251,7 +6480,8 @@
                 "card_no": "PL!N-sd1-035-P",
                 "name": "優木せつ菜"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-035-P.png"
     },
     "PL!N-sd1-036-P": {
         "card_no": "PL!N-sd1-036-P",
@@ -6268,7 +6498,8 @@
                 "card_no": "PL!N-sd1-036-P",
                 "name": "エマ・ヴェルデ"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-036-P.png"
     },
     "PL!N-sd1-037-P": {
         "card_no": "PL!N-sd1-037-P",
@@ -6285,7 +6516,8 @@
                 "card_no": "PL!N-sd1-037-P",
                 "name": "天王寺璃奈"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-037-P.png"
     },
     "PL!N-sd1-038-P": {
         "card_no": "PL!N-sd1-038-P",
@@ -6302,7 +6534,8 @@
                 "card_no": "PL!N-sd1-038-P",
                 "name": "三船栞子"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-038-P.png"
     },
     "PL!N-sd1-039-P": {
         "card_no": "PL!N-sd1-039-P",
@@ -6319,7 +6552,8 @@
                 "card_no": "PL!N-sd1-039-P",
                 "name": "ミア・テイラー"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-039-P.png"
     },
     "PL!N-sd1-040-P": {
         "card_no": "PL!N-sd1-040-P",
@@ -6336,7 +6570,8 @@
                 "card_no": "PL!N-sd1-040-P",
                 "name": "鐘 嵐珠"
             }
-        ]
+        ],
+        "_img": "img/cards/NSD01/PL!N-sd1-040-P.png"
     },
     "LL-E-005-SD": {
         "card_no": "LL-E-005-SD",
@@ -6352,7 +6587,8 @@
                 "card_no": "LL-E-005-SD",
                 "name": "エネルギー(無地)"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/LL-E-005-SD.png"
     },
     "PL!SP-sd1-001-SD": {
         "card_no": "PL!SP-sd1-001-SD",
@@ -6379,7 +6615,8 @@
                 "card_no": "PL!SP-sd1-001-SD",
                 "name": "澁谷かのん"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-001-SD.png"
     },
     "PL!SP-sd1-002-SD": {
         "card_no": "PL!SP-sd1-002-SD",
@@ -6402,7 +6639,8 @@
                 "card_no": "PL!SP-sd1-002-SD",
                 "name": "唐 可可"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-002-SD.png"
     },
     "PL!SP-sd1-003-SD": {
         "card_no": "PL!SP-sd1-003-SD",
@@ -6429,7 +6667,8 @@
                 "card_no": "PL!SP-sd1-003-SD",
                 "name": "嵐 千砂都"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-003-SD.png"
     },
     "PL!SP-sd1-004-SD": {
         "card_no": "PL!SP-sd1-004-SD",
@@ -6453,7 +6692,8 @@
                 "card_no": "PL!SP-sd1-004-SD",
                 "name": "平安名すみれ"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-004-SD.png"
     },
     "PL!SP-sd1-005-SD": {
         "card_no": "PL!SP-sd1-005-SD",
@@ -6477,7 +6717,8 @@
                 "card_no": "PL!SP-sd1-005-SD",
                 "name": "葉月 恋"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-005-SD.png"
     },
     "PL!SP-sd1-006-SD": {
         "card_no": "PL!SP-sd1-006-SD",
@@ -6503,7 +6744,8 @@
                 "card_no": "PL!SP-sd1-006-SD",
                 "name": "桜小路きな子"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-006-SD.png"
     },
     "PL!SP-sd1-007-SD": {
         "card_no": "PL!SP-sd1-007-SD",
@@ -6527,7 +6769,8 @@
                 "card_no": "PL!SP-sd1-007-SD",
                 "name": "米女メイ"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-007-SD.png"
     },
     "PL!SP-sd1-008-SD": {
         "card_no": "PL!SP-sd1-008-SD",
@@ -6550,7 +6793,8 @@
                 "card_no": "PL!SP-sd1-008-SD",
                 "name": "若菜四季"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-008-SD.png"
     },
     "PL!SP-sd1-009-SD": {
         "card_no": "PL!SP-sd1-009-SD",
@@ -6577,7 +6821,8 @@
                 "card_no": "PL!SP-sd1-009-SD",
                 "name": "鬼塚夏美"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-009-SD.png"
     },
     "PL!SP-sd1-010-SD": {
         "card_no": "PL!SP-sd1-010-SD",
@@ -6603,7 +6848,8 @@
                 "card_no": "PL!SP-sd1-010-SD",
                 "name": "ウィーン・マルガレーテ"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-010-SD.png"
     },
     "PL!SP-sd1-011-SD": {
         "card_no": "PL!SP-sd1-011-SD",
@@ -6627,7 +6873,8 @@
                 "card_no": "PL!SP-sd1-011-SD",
                 "name": "鬼塚冬毬"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-011-SD.png"
     },
     "PL!SP-sd1-012-SD": {
         "card_no": "PL!SP-sd1-012-SD",
@@ -6650,7 +6897,8 @@
                 "card_no": "PL!SP-sd1-012-SD",
                 "name": "澁谷かのん"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-012-SD.png"
     },
     "PL!SP-sd1-013-SD": {
         "card_no": "PL!SP-sd1-013-SD",
@@ -6675,7 +6923,8 @@
                 "card_no": "PL!SP-sd1-013-SD",
                 "name": "唐 可可"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-013-SD.png"
     },
     "PL!SP-sd1-014-SD": {
         "card_no": "PL!SP-sd1-014-SD",
@@ -6697,7 +6946,8 @@
                 "card_no": "PL!SP-sd1-014-SD",
                 "name": "嵐 千砂都"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-014-SD.png"
     },
     "PL!SP-sd1-015-SD": {
         "card_no": "PL!SP-sd1-015-SD",
@@ -6722,7 +6972,8 @@
                 "card_no": "PL!SP-sd1-015-SD",
                 "name": "平安名すみれ"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-015-SD.png"
     },
     "PL!SP-sd1-016-SD": {
         "card_no": "PL!SP-sd1-016-SD",
@@ -6744,7 +6995,8 @@
                 "card_no": "PL!SP-sd1-016-SD",
                 "name": "葉月 恋"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-016-SD.png"
     },
     "PL!SP-sd1-017-SD": {
         "card_no": "PL!SP-sd1-017-SD",
@@ -6767,7 +7019,8 @@
                 "card_no": "PL!SP-sd1-017-SD",
                 "name": "桜小路きな子"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-017-SD.png"
     },
     "PL!SP-sd1-018-SD": {
         "card_no": "PL!SP-sd1-018-SD",
@@ -6793,7 +7046,8 @@
                 "card_no": "PL!SP-sd1-018-SD",
                 "name": "米女メイ"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-018-SD.png"
     },
     "PL!SP-sd1-019-SD": {
         "card_no": "PL!SP-sd1-019-SD",
@@ -6818,7 +7072,8 @@
                 "card_no": "PL!SP-sd1-019-SD",
                 "name": "若菜四季"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-019-SD.png"
     },
     "PL!SP-sd1-020-SD": {
         "card_no": "PL!SP-sd1-020-SD",
@@ -6843,7 +7098,8 @@
                 "card_no": "PL!SP-sd1-020-SD",
                 "name": "鬼塚夏美"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-020-SD.png"
     },
     "PL!SP-sd1-021-SD": {
         "card_no": "PL!SP-sd1-021-SD",
@@ -6866,7 +7122,8 @@
                 "card_no": "PL!SP-sd1-021-SD",
                 "name": "ウィーン・マルガレーテ"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-021-SD.png"
     },
     "PL!SP-sd1-022-SD": {
         "card_no": "PL!SP-sd1-022-SD",
@@ -6889,7 +7146,8 @@
                 "card_no": "PL!SP-sd1-022-SD",
                 "name": "鬼塚冬毬"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-022-SD.png"
     },
     "PL!SP-sd1-023-SD": {
         "card_no": "PL!SP-sd1-023-SD",
@@ -6914,7 +7172,8 @@
                 "card_no": "PL!SP-sd1-023-SD",
                 "name": "WE WILL!!"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-023-SD.png"
     },
     "PL!SP-sd1-024-SD": {
         "card_no": "PL!SP-sd1-024-SD",
@@ -6940,7 +7199,8 @@
                 "card_no": "PL!SP-sd1-024-SD",
                 "name": "シェキラ☆☆☆"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-024-SD.png"
     },
     "PL!SP-sd1-025-SD": {
         "card_no": "PL!SP-sd1-025-SD",
@@ -6966,7 +7226,8 @@
                 "card_no": "PL!SP-sd1-025-SD",
                 "name": "未来は風のように"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-025-SD.png"
     },
     "PL!SP-sd1-026-SD": {
         "card_no": "PL!SP-sd1-026-SD",
@@ -6993,7 +7254,8 @@
                 "card_no": "PL!SP-sd1-026-SD",
                 "name": "私のSymphony 〜澁谷かのんVer.〜"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-026-SD.png"
     },
     "PL!SP-sd1-027-P": {
         "card_no": "PL!SP-sd1-027-P",
@@ -7010,7 +7272,8 @@
                 "card_no": "PL!SP-sd1-027-P",
                 "name": "澁谷かのん"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-027-P.png"
     },
     "PL!SP-sd1-028-P": {
         "card_no": "PL!SP-sd1-028-P",
@@ -7027,7 +7290,8 @@
                 "card_no": "PL!SP-sd1-028-P",
                 "name": "唐 可可"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-028-P.png"
     },
     "PL!SP-sd1-029-P": {
         "card_no": "PL!SP-sd1-029-P",
@@ -7044,7 +7308,8 @@
                 "card_no": "PL!SP-sd1-029-P",
                 "name": "嵐 千砂都"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-029-P.png"
     },
     "PL!SP-sd1-030-P": {
         "card_no": "PL!SP-sd1-030-P",
@@ -7061,7 +7326,8 @@
                 "card_no": "PL!SP-sd1-030-P",
                 "name": "平安名すみれ"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-030-P.png"
     },
     "PL!SP-sd1-031-P": {
         "card_no": "PL!SP-sd1-031-P",
@@ -7078,7 +7344,8 @@
                 "card_no": "PL!SP-sd1-031-P",
                 "name": "葉月 恋"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-031-P.png"
     },
     "PL!SP-sd1-032-P": {
         "card_no": "PL!SP-sd1-032-P",
@@ -7095,7 +7362,8 @@
                 "card_no": "PL!SP-sd1-032-P",
                 "name": "桜小路きな子"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-032-P.png"
     },
     "PL!SP-sd1-033-P": {
         "card_no": "PL!SP-sd1-033-P",
@@ -7112,7 +7380,8 @@
                 "card_no": "PL!SP-sd1-033-P",
                 "name": "米女メイ"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-033-P.png"
     },
     "PL!SP-sd1-034-P": {
         "card_no": "PL!SP-sd1-034-P",
@@ -7129,7 +7398,8 @@
                 "card_no": "PL!SP-sd1-034-P",
                 "name": "若菜四季"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-034-P.png"
     },
     "PL!SP-sd1-035-P": {
         "card_no": "PL!SP-sd1-035-P",
@@ -7146,7 +7416,8 @@
                 "card_no": "PL!SP-sd1-035-P",
                 "name": "鬼塚夏美"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-035-P.png"
     },
     "PL!SP-sd1-036-P": {
         "card_no": "PL!SP-sd1-036-P",
@@ -7163,7 +7434,8 @@
                 "card_no": "PL!SP-sd1-036-P",
                 "name": "ウィーン・マルガレーテ"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-036-P.png"
     },
     "PL!SP-sd1-037-P": {
         "card_no": "PL!SP-sd1-037-P",
@@ -7180,6 +7452,7 @@
                 "card_no": "PL!SP-sd1-037-P",
                 "name": "鬼塚冬毬"
             }
-        ]
+        ],
+        "_img": "img/cards/SPSD01/PL!SP-sd1-037-P.png"
     }
 }
