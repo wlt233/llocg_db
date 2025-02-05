@@ -77,7 +77,7 @@ attr_name = {
     '基本ハート': 'base_heart',
     '必要ハート': 'need_heart',
     'ブレードハート': 'blade_heart',
-    'レアリティ': 'rarity',
+    'レアリティ': 'rare',
 }
 
 async def fetch_card_info(client, semaphore, card_no: str):
@@ -142,16 +142,16 @@ async def fetch_card_info(client, semaphore, card_no: str):
             })
         card_info["faq"].append(faq)
     
-    # rarity list
-    card_info["rarity_list"] = [{
+    # rare list
+    card_info["rare_list"] = [{
         "card_no": card_info["card_no"],
         "name": card_info["name"]
     }]
-    rarity_items = re.findall(r"""relatedCard\('(.*?)', .*?alt="(.*?)"/>""", text, re.DOTALL)
-    for rarity_item in rarity_items:
-        card_info["rarity_list"].append({
-            "card_no": rarity_item[0].strip(),
-            "name": rarity_item[1].strip()
+    rare_items = re.findall(r"""relatedCard\('(.*?)', .*?alt="(.*?)"/>""", text, re.DOTALL)
+    for rare_item in rare_items:
+        card_info["rare_list"].append({
+            "card_no": rare_item[0].strip(),
+            "name": rare_item[1].strip()
         })
     
     print(f"{card_info['card_no']} {card_info['name']} fetched")

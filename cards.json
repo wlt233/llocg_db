@@ -5,9 +5,9 @@
         "name": "",
         "product": "PRカード",
         "type": "エネルギー",
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "LL-PR-001-PR",
                 "name": ""
@@ -21,9 +21,9 @@
         "product": "PRカード",
         "type": "エネルギー",
         "series": "ラブライブ！サンシャイン!!",
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!S-PR-001-PR",
                 "name": ""
@@ -37,9 +37,9 @@
         "product": "PRカード",
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-PR-001-PR",
                 "name": ""
@@ -53,9 +53,9 @@
         "product": "PRカード",
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "LL-E-002-PR",
                 "name": "エネルギー(無地)"
@@ -77,10 +77,10 @@
             "heart05": 1
         },
         "blade": 3,
-        "rarity": "PR",
+        "rare": "PR",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-001-PR",
                 "name": "日野下花帆"
@@ -102,10 +102,10 @@
             "heart05": 2
         },
         "blade": 3,
-        "rarity": "PR",
+        "rare": "PR",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-002-PR",
                 "name": "村野さやか"
@@ -129,9 +129,9 @@
             "b_heart04": 1
         },
         "blade": 1,
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-003-PR",
                 "name": "乙宗 梢"
@@ -155,9 +155,9 @@
             "b_heart05": 1
         },
         "blade": 1,
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-004-PR",
                 "name": "夕霧綴理"
@@ -179,10 +179,10 @@
             "heart05": 1
         },
         "blade": 3,
-        "rarity": "PR",
+        "rare": "PR",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-005-PR",
                 "name": "大沢瑠璃乃"
@@ -206,9 +206,9 @@
             "b_heart01": 1
         },
         "blade": 1,
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-006-PR",
                 "name": "藤島 慈"
@@ -230,9 +230,9 @@
             "heart05": 1
         },
         "blade": 3,
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-007-PR",
                 "name": "百生 吟子"
@@ -254,9 +254,9 @@
             "heart05": 2
         },
         "blade": 3,
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-008-PR",
                 "name": "徒町 小鈴"
@@ -278,9 +278,9 @@
             "heart05": 1
         },
         "blade": 3,
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-009-PR",
                 "name": "安養寺 姫芽"
@@ -303,10 +303,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "PR",
+        "rare": "PR",
         "ability": "({{icon_b_all.png|ALL1}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-010-PR",
                 "name": "Reflection in the mirror"
@@ -329,10 +329,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "PR",
+        "rare": "PR",
         "ability": "({{icon_b_all.png|ALL1}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-011-PR",
                 "name": "Sparkly Spot"
@@ -355,10 +355,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "PR",
+        "rare": "PR",
         "ability": "({{icon_b_all.png|ALL1}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-012-PR",
                 "name": "アイデンティティ"
@@ -372,9 +372,9 @@
         "product": "PRカード",
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
-        "rarity": "PR",
+        "rare": "PR",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-PR-013-PR",
                 "name": ""
@@ -396,7 +396,7 @@
             "heart06": 3
         },
         "blade": 5,
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{toujyou.png|登場}}自分の控え室からメンバーカードを1枚手札に加える。\n{{live_start.png|ライブ開始時}}手札の「上原歩夢」と「澁谷かのん」と「日野下花帆」を、好きな組み合わせで合計3枚、控え室に置いてもよい：ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋３する。」を得る。\n（手札のこのカードもこの効果で控え室に置ける。）",
         "faq": [
             {
@@ -422,7 +422,7 @@
                 ]
             }
         ],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "LL-bp1-001-R＋",
                 "name": "上原歩夢&澁谷かのん&日野下花帆"
@@ -437,9 +437,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！",
         "unit": "Printemps",
-        "rarity": "LLE",
+        "rare": "LLE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!-bp1-000-LLE",
                 "name": "高坂穂乃果"
@@ -454,9 +454,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！サンシャイン!!",
         "unit": "CYaRon！",
-        "rarity": "LLE",
+        "rare": "LLE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!S-bp1-000-LLE",
                 "name": "高海千歌"
@@ -471,9 +471,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "A・ZU・NA",
-        "rarity": "LLE",
+        "rare": "LLE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-000-LLE",
                 "name": "上原歩夢"
@@ -493,10 +493,10 @@
             "heart01": 3
         },
         "blade": 4,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-001-R",
                 "name": "上原歩夢"
@@ -520,10 +520,10 @@
             "heart01": 3
         },
         "blade": 4,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-001-P",
                 "name": "上原歩夢"
@@ -547,7 +547,7 @@
             "heart03": 1
         },
         "blade": 2,
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。\n{{kidou.png|起動}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札を1枚控え室に置く：このカードを控え室からステージに登場させる。この能力は、このカードが控え室にある場合のみ起動できる。",
         "faq": [
             {
@@ -574,7 +574,7 @@
                 ]
             }
         ],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-002-R＋",
                 "name": "中須かすみ"
@@ -606,7 +606,7 @@
             "heart03": 1
         },
         "blade": 2,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。\n{{kidou.png|起動}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札を1枚控え室に置く：このカードを控え室からステージに登場させる。この能力は、このカードが控え室にある場合のみ起動できる。",
         "faq": [
             {
@@ -633,7 +633,7 @@
                 ]
             }
         ],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-002-P",
                 "name": "中須かすみ"
@@ -665,7 +665,7 @@
             "heart03": 1
         },
         "blade": 2,
-        "rarity": "P+",
+        "rare": "P+",
         "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。\n{{kidou.png|起動}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札を1枚控え室に置く：このカードを控え室からステージに登場させる。この能力は、このカードが控え室にある場合のみ起動できる。",
         "faq": [
             {
@@ -692,7 +692,7 @@
                 ]
             }
         ],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-002-P＋",
                 "name": "中須かすみ"
@@ -724,7 +724,7 @@
             "heart03": 1
         },
         "blade": 2,
-        "rarity": "SEC",
+        "rare": "SEC",
         "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。\n{{kidou.png|起動}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札を1枚控え室に置く：このカードを控え室からステージに登場させる。この能力は、このカードが控え室にある場合のみ起動できる。",
         "faq": [
             {
@@ -751,7 +751,7 @@
                 ]
             }
         ],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-002-SEC",
                 "name": "中須かすみ"
@@ -787,10 +787,10 @@
             "b_heart05": 1
         },
         "blade": 2,
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-003-R＋",
                 "name": "桜坂しずく"
@@ -826,10 +826,10 @@
             "b_heart05": 1
         },
         "blade": 2,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-003-P",
                 "name": "桜坂しずく"
@@ -865,10 +865,10 @@
             "b_heart05": 1
         },
         "blade": 2,
-        "rarity": "P+",
+        "rare": "P+",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-003-P＋",
                 "name": "桜坂しずく"
@@ -904,10 +904,10 @@
             "b_heart05": 1
         },
         "blade": 2,
-        "rarity": "SEC",
+        "rare": "SEC",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-003-SEC",
                 "name": "桜坂しずく"
@@ -940,10 +940,10 @@
             "heart06": 1
         },
         "blade": 1,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}自分のステージにほかの『虹ヶ咲』のメンバーがいる場合、エネルギーを1枚アクティブにする。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-004-R",
                 "name": "朝香果林"
@@ -968,10 +968,10 @@
             "heart06": 1
         },
         "blade": 1,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}自分のステージにほかの『虹ヶ咲』のメンバーがいる場合、エネルギーを1枚アクティブにする。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-004-P",
                 "name": "朝香果林"
@@ -996,10 +996,10 @@
             "heart02": 1
         },
         "blade": 1,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-005-R",
                 "name": "宮下 愛"
@@ -1024,10 +1024,10 @@
             "heart02": 1
         },
         "blade": 1,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-005-P",
                 "name": "宮下 愛"
@@ -1056,10 +1056,10 @@
             "b_heart06": 1
         },
         "blade": 2,
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を1枚控え室に置く：このターン、自分のステージに『虹ヶ咲』のメンバーが登場している場合、エネルギーを2枚アクティブにする。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}：カードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-006-R＋",
                 "name": "近江彼方"
@@ -1096,10 +1096,10 @@
             "b_heart06": 1
         },
         "blade": 2,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を1枚控え室に置く：このターン、自分のステージに『虹ヶ咲』のメンバーが登場している場合、エネルギーを2枚アクティブにする。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}：カードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-006-P",
                 "name": "近江彼方"
@@ -1136,10 +1136,10 @@
             "b_heart06": 1
         },
         "blade": 2,
-        "rarity": "P+",
+        "rare": "P+",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を1枚控え室に置く：このターン、自分のステージに『虹ヶ咲』のメンバーが登場している場合、エネルギーを2枚アクティブにする。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}：カードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-006-P＋",
                 "name": "近江彼方"
@@ -1176,10 +1176,10 @@
             "b_heart06": 1
         },
         "blade": 2,
-        "rarity": "SEC",
+        "rare": "SEC",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を1枚控え室に置く：このターン、自分のステージに『虹ヶ咲』のメンバーが登場している場合、エネルギーを2枚アクティブにする。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}：カードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-006-SEC",
                 "name": "近江彼方"
@@ -1212,10 +1212,10 @@
             "heart03": 1
         },
         "blade": 1,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-007-R",
                 "name": "優木せつ菜"
@@ -1240,10 +1240,10 @@
             "heart03": 1
         },
         "blade": 1,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-007-P",
                 "name": "優木せつ菜"
@@ -1269,10 +1269,10 @@
             "heart05": 1
         },
         "blade": 2,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札のメンバーカードを1枚控え室に置く：自分の控え室から、これにより控え室に置いたメンバーカードより、コストの低いメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-008-R",
                 "name": "エマ・ヴェルデ"
@@ -1298,10 +1298,10 @@
             "heart05": 1
         },
         "blade": 2,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札のメンバーカードを1枚控え室に置く：自分の控え室から、これにより控え室に置いたメンバーカードより、コストの低いメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-008-P",
                 "name": "エマ・ヴェルデ"
@@ -1327,10 +1327,10 @@
             "heart06": 2
         },
         "blade": 2,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを2枚控え室に置く。その後、自分の控え室からメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-009-R",
                 "name": "天王寺璃奈"
@@ -1356,10 +1356,10 @@
             "heart06": 2
         },
         "blade": 2,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを2枚控え室に置く。その後、自分の控え室からメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-009-P",
                 "name": "天王寺璃奈"
@@ -1384,10 +1384,10 @@
             "heart04": 1
         },
         "blade": 1,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-010-R",
                 "name": "三船栞子"
@@ -1412,10 +1412,10 @@
             "heart04": 1
         },
         "blade": 1,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-010-P",
                 "name": "三船栞子"
@@ -1441,10 +1441,10 @@
             "heart06": 1
         },
         "blade": 1,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：ライブカードが公開されるまで、自分のデッキの一番上のカードを公開し続ける。そのライブカードを手札に加え、これにより公開されたほかのすべてのカードを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-011-R",
                 "name": "ミア・テイラー"
@@ -1470,10 +1470,10 @@
             "heart06": 1
         },
         "blade": 1,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：ライブカードが公開されるまで、自分のデッキの一番上のカードを公開し続ける。そのライブカードを手札に加え、これにより公開されたほかのすべてのカードを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-011-P",
                 "name": "ミア・テイラー"
@@ -1502,10 +1502,10 @@
             "b_heart01": 1
         },
         "blade": 4,
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{jyouji.png|常時}}自分のライブ中のカードが3枚以上あり、その中に『虹ヶ咲』のライブカードを1枚以上含む場合、{{icon_all.png|ALL}}{{icon_all.png|ALL}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-012-R＋",
                 "name": "鐘 嵐珠"
@@ -1542,10 +1542,10 @@
             "b_heart01": 1
         },
         "blade": 4,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{jyouji.png|常時}}自分のライブ中のカードが3枚以上あり、その中に『虹ヶ咲』のライブカードを1枚以上含む場合、{{icon_all.png|ALL}}{{icon_all.png|ALL}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-012-P",
                 "name": "鐘 嵐珠"
@@ -1582,10 +1582,10 @@
             "b_heart01": 1
         },
         "blade": 4,
-        "rarity": "P+",
+        "rare": "P+",
         "ability": "{{jyouji.png|常時}}自分のライブ中のカードが3枚以上あり、その中に『虹ヶ咲』のライブカードを1枚以上含む場合、{{icon_all.png|ALL}}{{icon_all.png|ALL}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-012-P＋",
                 "name": "鐘 嵐珠"
@@ -1622,10 +1622,10 @@
             "b_heart01": 1
         },
         "blade": 4,
-        "rarity": "SEC",
+        "rare": "SEC",
         "ability": "{{jyouji.png|常時}}自分のライブ中のカードが3枚以上あり、その中に『虹ヶ咲』のライブカードを1枚以上含む場合、{{icon_all.png|ALL}}{{icon_all.png|ALL}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-012-SEC",
                 "name": "鐘 嵐珠"
@@ -1661,9 +1661,9 @@
             "b_heart01": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-013-N",
                 "name": "上原歩夢"
@@ -1683,10 +1683,10 @@
             "heart03": 2
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-014-N",
                 "name": "中須かすみ"
@@ -1706,10 +1706,10 @@
             "heart05": 2
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-015-N",
                 "name": "桜坂しずく"
@@ -1733,9 +1733,9 @@
             "b_heart05": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-016-N",
                 "name": "朝香果林"
@@ -1759,9 +1759,9 @@
             "b_heart02": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-017-N",
                 "name": "宮下 愛"
@@ -1783,9 +1783,9 @@
             "heart06": 2
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-018-N",
                 "name": "近江彼方"
@@ -1805,10 +1805,10 @@
             "heart02": 2
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-019-N",
                 "name": "優木せつ菜"
@@ -1830,9 +1830,9 @@
             "heart06": 1
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-020-N",
                 "name": "エマ・ヴェルデ"
@@ -1856,9 +1856,9 @@
             "b_heart06": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-021-N",
                 "name": "天王寺璃奈"
@@ -1882,9 +1882,9 @@
             "b_heart04": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-022-N",
                 "name": "三船栞子"
@@ -1906,9 +1906,9 @@
             "heart04": 1
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-023-N",
                 "name": "ミア・テイラー"
@@ -1932,9 +1932,9 @@
             "b_heart01": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-024-N",
                 "name": "鐘 嵐珠"
@@ -1957,9 +1957,9 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "L",
+        "rare": "L",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-025-L",
                 "name": "虹色Passions！"
@@ -1981,10 +1981,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、エールにより公開された自分のカードの中から、『虹ヶ咲』のカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-026-L",
                 "name": "Poppin' Up!"
@@ -2003,10 +2003,10 @@
             "heart0": 7
         },
         "特殊ハート": "{{icon_draw.png|ドロー}}",
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる『虹ヶ咲』のメンバーが持つ{{heart_01.png|heart01}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_06.png|heart06}}のうち1色につき、このカードのスコアを＋１する。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-027-L",
                 "name": "Solitude Rain"
@@ -2029,10 +2029,10 @@
             "b_heart06": 1
         },
         "特殊ハート": "{{icon_draw.png|ドロー}}",
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：自分のステージに『虹ヶ咲』のメンバーがいる場合、このカードのスコアを＋１する。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-028-L",
                 "name": "Butterfly"
@@ -2055,10 +2055,10 @@
             "b_heart01": 1
         },
         "特殊ハート": "{{icon_draw.png|ドロー}}",
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分のライブ中のカードが3枚以上ある場合、このカードのスコアを＋２する。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-029-L",
                 "name": "Eutopia"
@@ -2073,9 +2073,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "SECE",
+        "rare": "SECE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-030-SECE",
                 "name": "中須かすみ"
@@ -2090,9 +2090,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "A・ZU・NA",
-        "rarity": "SECE",
+        "rare": "SECE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-031-SECE",
                 "name": "桜坂しずく"
@@ -2107,9 +2107,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "SECE",
+        "rare": "SECE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-032-SECE",
                 "name": "近江彼方"
@@ -2124,9 +2124,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "R3BIRTH",
-        "rarity": "SECE",
+        "rare": "SECE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-033-SECE",
                 "name": "鐘 嵐珠"
@@ -2141,9 +2141,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "A・ZU・NA",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-034-PE",
                 "name": "UEHARA\nAYUMU"
@@ -2162,9 +2162,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "A・ZU・NA",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-034-PE＋",
                 "name": "UEHARA\nAYUMU"
@@ -2183,9 +2183,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-035-PE",
                 "name": "NAKASU\nKASUMI"
@@ -2204,9 +2204,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-035-PE＋",
                 "name": "NAKASU\nKASUMI"
@@ -2225,9 +2225,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-036-PE",
                 "name": "KONOE\nKANATA"
@@ -2246,9 +2246,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-036-PE＋",
                 "name": "KONOE\nKANATA"
@@ -2267,9 +2267,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-037-PE",
                 "name": "TENNOJI\nRINA"
@@ -2288,9 +2288,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-037-PE＋",
                 "name": "TENNOJI\nRINA"
@@ -2309,9 +2309,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "R3BIRTH",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-038-PE",
                 "name": "MIA\nTAYLOR"
@@ -2330,9 +2330,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "R3BIRTH",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-bp1-038-PE＋",
                 "name": "MIA\nTAYLOR"
@@ -2351,9 +2351,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "CatChu!",
-        "rarity": "LLE",
+        "rare": "LLE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-000-LLE",
                 "name": "澁谷かのん"
@@ -2375,10 +2375,10 @@
             "heart06": 3
         },
         "blade": 3,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{jyouji.png|常時}}自分のステージにほかのメンバーがいない場合、自分はライブできない。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-001-R",
                 "name": "澁谷かのん"
@@ -2404,10 +2404,10 @@
             "heart06": 3
         },
         "blade": 3,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{jyouji.png|常時}}自分のステージにほかのメンバーがいない場合、自分はライブできない。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-001-P",
                 "name": "澁谷かのん"
@@ -2431,10 +2431,10 @@
             "heart02": 1,
             "heart03": 1
         },
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：ステージの左サイドエリアに登場しているなら、カードを2枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-002-R＋",
                 "name": "唐 可可"
@@ -2466,10 +2466,10 @@
             "heart02": 1,
             "heart03": 1
         },
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：ステージの左サイドエリアに登場しているなら、カードを2枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-002-P",
                 "name": "唐 可可"
@@ -2501,10 +2501,10 @@
             "heart02": 1,
             "heart03": 1
         },
-        "rarity": "P+",
+        "rare": "P+",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：ステージの左サイドエリアに登場しているなら、カードを2枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-002-P＋",
                 "name": "唐 可可"
@@ -2536,10 +2536,10 @@
             "heart02": 1,
             "heart03": 1
         },
-        "rarity": "SEC",
+        "rare": "SEC",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：ステージの左サイドエリアに登場しているなら、カードを2枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-002-SEC",
                 "name": "唐 可可"
@@ -2573,10 +2573,10 @@
             "heart06": 2
         },
         "blade": 1,
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-003-R＋",
                 "name": "嵐 千砂都"
@@ -2610,10 +2610,10 @@
             "heart06": 2
         },
         "blade": 1,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-003-P",
                 "name": "嵐 千砂都"
@@ -2647,10 +2647,10 @@
             "heart06": 2
         },
         "blade": 1,
-        "rarity": "P+",
+        "rare": "P+",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-003-P＋",
                 "name": "嵐 千砂都"
@@ -2684,10 +2684,10 @@
             "heart06": 2
         },
         "blade": 1,
-        "rarity": "SEC",
+        "rare": "SEC",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-003-SEC",
                 "name": "嵐 千砂都"
@@ -2724,10 +2724,10 @@
             "b_heart03": 1
         },
         "blade": 2,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{jyouji.png|常時}}ステージのセンターエリアにいる場合、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-004-R",
                 "name": "平安名すみれ"
@@ -2756,10 +2756,10 @@
             "b_heart03": 1
         },
         "blade": 2,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{jyouji.png|常時}}ステージのセンターエリアにいる場合、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-004-P",
                 "name": "平安名すみれ"
@@ -2786,10 +2786,10 @@
             "b_heart03": 1
         },
         "blade": 1,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中から『Liella!』のカードを1枚まで公開して手札に加えてもよい。残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-005-R",
                 "name": "葉月 恋"
@@ -2816,10 +2816,10 @@
             "b_heart03": 1
         },
         "blade": 1,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中から『Liella!』のカードを1枚まで公開して手札に加えてもよい。残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-005-P",
                 "name": "葉月 恋"
@@ -2845,10 +2845,10 @@
             "heart06": 1
         },
         "blade": 2,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-006-R",
                 "name": "桜小路きな子"
@@ -2874,10 +2874,10 @@
             "heart06": 1
         },
         "blade": 2,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-006-P",
                 "name": "桜小路きな子"
@@ -2906,10 +2906,10 @@
             "b_heart03": 1
         },
         "blade": 3,
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{toujyou.png|登場}}自分のエネルギーが11枚以上ある場合、自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-007-R＋",
                 "name": "米女メイ"
@@ -2946,10 +2946,10 @@
             "b_heart03": 1
         },
         "blade": 3,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}自分のエネルギーが11枚以上ある場合、自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-007-P",
                 "name": "米女メイ"
@@ -2986,10 +2986,10 @@
             "b_heart03": 1
         },
         "blade": 3,
-        "rarity": "P+",
+        "rare": "P+",
         "ability": "{{toujyou.png|登場}}自分のエネルギーが11枚以上ある場合、自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-007-P＋",
                 "name": "米女メイ"
@@ -3026,10 +3026,10 @@
             "b_heart03": 1
         },
         "blade": 3,
-        "rarity": "SEC",
+        "rare": "SEC",
         "ability": "{{toujyou.png|登場}}自分のエネルギーが11枚以上ある場合、自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-007-SEC",
                 "name": "米女メイ"
@@ -3066,10 +3066,10 @@
             "b_heart02": 1
         },
         "blade": 4,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}カードを1枚引く。自分のステージに「米女メイ」がいる場合、さらにカードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-008-R",
                 "name": "若菜四季"
@@ -3098,10 +3098,10 @@
             "b_heart02": 1
         },
         "blade": 4,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}カードを1枚引く。自分のステージに「米女メイ」がいる場合、さらにカードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-008-P",
                 "name": "若菜四季"
@@ -3127,10 +3127,10 @@
             "heart06": 1
         },
         "blade": 3,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}：カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-009-R",
                 "name": "鬼塚夏美"
@@ -3156,10 +3156,10 @@
             "heart06": 1
         },
         "blade": 3,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}：カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-009-P",
                 "name": "鬼塚夏美"
@@ -3185,10 +3185,10 @@
             "heart06": 2
         },
         "blade": 3,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札を1枚控え室に置く：自分のデッキの上からカードを5枚見る。その中から『Liella!』のカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-010-R",
                 "name": "ウィーン・マルガレーテ"
@@ -3214,10 +3214,10 @@
             "heart06": 2
         },
         "blade": 3,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札を1枚控え室に置く：自分のデッキの上からカードを5枚見る。その中から『Liella!』のカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-010-P",
                 "name": "ウィーン・マルガレーテ"
@@ -3244,10 +3244,10 @@
             "b_heart03": 1
         },
         "blade": 1,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-011-R",
                 "name": "鬼塚冬毬"
@@ -3274,10 +3274,10 @@
             "b_heart03": 1
         },
         "blade": 1,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-011-P",
                 "name": "鬼塚冬毬"
@@ -3301,10 +3301,10 @@
             "heart03": 2
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}支払ってもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-012-N",
                 "name": "澁谷かのん"
@@ -3326,9 +3326,9 @@
             "heart06": 1
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-013-N",
                 "name": "唐 可可"
@@ -3352,9 +3352,9 @@
             "b_heart03": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-014-N",
                 "name": "嵐 千砂都"
@@ -3378,9 +3378,9 @@
             "b_heart06": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-015-N",
                 "name": "平安名すみれ"
@@ -3404,9 +3404,9 @@
             "b_heart02": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-016-N",
                 "name": "葉月 恋"
@@ -3431,9 +3431,9 @@
             "b_heart03": 1
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-017-N",
                 "name": "桜小路きな子"
@@ -3454,9 +3454,9 @@
             "heart06": 2
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-018-N",
                 "name": "米女メイ"
@@ -3481,9 +3481,9 @@
             "b_heart02": 1
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-019-N",
                 "name": "若菜四季"
@@ -3506,9 +3506,9 @@
             "b_heart03": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-020-N",
                 "name": "鬼塚夏美"
@@ -3527,10 +3527,10 @@
         "base_heart": {
             "heart03": 1
         },
-        "rarity": "N",
+        "rare": "N",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-021-N",
                 "name": "ウィーン・マルガレーテ"
@@ -3555,9 +3555,9 @@
             "b_heart06": 1
         },
         "blade": 4,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-022-N",
                 "name": "鬼塚冬毬"
@@ -3580,10 +3580,10 @@
         },
         "blade_heart": {},
         "特殊ハート": "{{icon_score.png|スコア}}",
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-023-L",
                 "name": "START!! True dreams"
@@ -3606,10 +3606,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる「澁谷かのん」1人は{{heart_05.png|heart05}}{{icon_blade.png|ブレード}}を、「唐可可」1人は{{heart_01.png|heart01}}{{icon_blade.png|ブレード}}を得る。\n{{live_success.png|ライブ成功時}}自分のステージに「澁谷かのん」と「唐可可」がいる場合、カードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-024-L",
                 "name": "Tiny Stars"
@@ -3632,9 +3632,9 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "L",
+        "rare": "L",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-025-L",
                 "name": "Starlight Prologue"
@@ -3658,7 +3658,7 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを使用するためのコストは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。",
         "faq": [
             {
@@ -3673,7 +3673,7 @@
                 ]
             }
         ],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-026-L",
                 "name": "未来予報ハレルヤ！"
@@ -3698,10 +3698,10 @@
             "b_heart03": 1
         },
         "特殊ハート": "{{icon_draw.png|ドロー}}",
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが12枚以上ある場合、このカードのスコアを＋１する。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-027-L",
                 "name": "Sing！Shine！Smile！"
@@ -3716,9 +3716,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "KALEIDOSCORE",
-        "rarity": "SECE",
+        "rare": "SECE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-028-SECE",
                 "name": "唐 可可"
@@ -3733,9 +3733,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "SECE",
+        "rare": "SECE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-029-SECE",
                 "name": "嵐 千砂都"
@@ -3750,9 +3750,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "CatChu!",
-        "rarity": "SECE",
+        "rare": "SECE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-030-SECE",
                 "name": "米女メイ"
@@ -3767,9 +3767,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "CatChu!",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-031-PE",
                 "name": "SHIBUYA\nKANON"
@@ -3788,9 +3788,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "CatChu!",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-031-PE＋",
                 "name": "SHIBUYA\nKANON"
@@ -3809,9 +3809,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-032-PE",
                 "name": "ARASHI\nCHISATO"
@@ -3830,9 +3830,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-032-PE＋",
                 "name": "ARASHI\nCHISATO"
@@ -3851,9 +3851,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "KALEIDOSCORE",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-033-PE",
                 "name": "HAZUKI\nREN"
@@ -3872,9 +3872,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "KALEIDOSCORE",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-033-PE＋",
                 "name": "HAZUKI\nREN"
@@ -3893,9 +3893,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-034-PE",
                 "name": "SAKURAKOJI\nKINAKO"
@@ -3914,9 +3914,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-034-PE＋",
                 "name": "SAKURAKOJIKINAKO"
@@ -3935,9 +3935,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-035-PE",
                 "name": "ONITSUKA NATSUMI"
@@ -3956,9 +3956,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-bp1-035-PE＋",
                 "name": "ONITSUKA NATSUMI"
@@ -3977,9 +3977,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "スリーズブーケ",
-        "rarity": "LLE",
+        "rare": "LLE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-000-LLE",
                 "name": "日野下花帆"
@@ -4003,10 +4003,10 @@
         "blade_heart": {
             "b_heart04": 1
         },
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}エネルギーを2枚アクティブにする。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-001-R",
                 "name": "日野下花帆"
@@ -4034,10 +4034,10 @@
         "blade_heart": {
             "b_heart04": 1
         },
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}エネルギーを2枚アクティブにする。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-001-P",
                 "name": "日野下花帆"
@@ -4063,10 +4063,10 @@
             "heart05": 2
         },
         "blade": 2,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{kidou.png|起動}}{{icon_energy.png|E}}{{icon_energy.png|E}}、このメンバーをステージから控え室に置く：自分の控え室からコスト15以下の『蓮ノ空』のメンバーカードを1枚、このメンバーがいたエリアに登場させる。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-002-R",
                 "name": "村野さやか"
@@ -4092,10 +4092,10 @@
             "heart05": 2
         },
         "blade": 2,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{kidou.png|起動}}{{icon_energy.png|E}}{{icon_energy.png|E}}、このメンバーをステージから控え室に置く：自分の控え室からコスト15以下の『蓮ノ空』のメンバーカードを1枚、このメンバーがいたエリアに登場させる。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-002-P",
                 "name": "村野さやか"
@@ -4124,10 +4124,10 @@
             "b_heart04": 1
         },
         "blade": 3,
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{jyouji.png|常時}}自分のステージのエリアすべてに『蓮ノ空』のメンバーが登場しており、かつ名前が異なる場合、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}：自分の控え室から4コスト以下の『蓮ノ空』のメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-003-R＋",
                 "name": "乙宗 梢"
@@ -4164,10 +4164,10 @@
             "b_heart04": 1
         },
         "blade": 3,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{jyouji.png|常時}}自分のステージのエリアすべてに『蓮ノ空』のメンバーが登場しており、かつ名前が異なる場合、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}：自分の控え室から4コスト以下の『蓮ノ空』のメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-003-P",
                 "name": "乙宗 梢"
@@ -4204,10 +4204,10 @@
             "b_heart04": 1
         },
         "blade": 3,
-        "rarity": "P+",
+        "rare": "P+",
         "ability": "{{jyouji.png|常時}}自分のステージのエリアすべてに『蓮ノ空』のメンバーが登場しており、かつ名前が異なる場合、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}：自分の控え室から4コスト以下の『蓮ノ空』のメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-003-P＋",
                 "name": "乙宗 梢"
@@ -4244,10 +4244,10 @@
             "b_heart04": 1
         },
         "blade": 3,
-        "rarity": "SEC",
+        "rare": "SEC",
         "ability": "{{jyouji.png|常時}}自分のステージのエリアすべてに『蓮ノ空』のメンバーが登場しており、かつ名前が異なる場合、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}：自分の控え室から4コスト以下の『蓮ノ空』のメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-003-SEC",
                 "name": "乙宗 梢"
@@ -4284,10 +4284,10 @@
             "b_heart05": 1
         },
         "blade": 4,
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室から『蓮ノ空』のライブカードを1枚手札に加える。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、自分のライブ中のカード1枚につき、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-004-R＋",
                 "name": "夕霧綴理"
@@ -4324,10 +4324,10 @@
             "b_heart05": 1
         },
         "blade": 4,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室から『蓮ノ空』のライブカードを1枚手札に加える。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、自分のライブ中のカード1枚につき、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-004-P",
                 "name": "夕霧綴理"
@@ -4364,10 +4364,10 @@
             "b_heart05": 1
         },
         "blade": 4,
-        "rarity": "P+",
+        "rare": "P+",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室から『蓮ノ空』のライブカードを1枚手札に加える。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、自分のライブ中のカード1枚につき、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-004-P＋",
                 "name": "夕霧綴理"
@@ -4404,10 +4404,10 @@
             "b_heart05": 1
         },
         "blade": 4,
-        "rarity": "SEC",
+        "rare": "SEC",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室から『蓮ノ空』のライブカードを1枚手札に加える。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、自分のライブ中のカード1枚につき、{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-004-SEC",
                 "name": "夕霧綴理"
@@ -4440,10 +4440,10 @@
             "heart04": 1
         },
         "blade": 3,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}手札を3枚まで控え室に置いてもよい：これにより置いた枚数分カードを引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-005-R",
                 "name": "大沢瑠璃乃"
@@ -4468,10 +4468,10 @@
             "heart04": 1
         },
         "blade": 3,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}手札を3枚まで控え室に置いてもよい：これにより置いた枚数分カードを引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-005-P",
                 "name": "大沢瑠璃乃"
@@ -4497,10 +4497,10 @@
             "heart05": 1
         },
         "blade": 3,
-        "rarity": "R+",
+        "rare": "R+",
         "ability": "{{toujyou.png|登場}}カードを2枚引き、手札を1枚控え室に置く。\n{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：自分のステージにほかのメンバーがいる場合、好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-006-R＋",
                 "name": "藤島 慈"
@@ -4534,10 +4534,10 @@
             "heart05": 1
         },
         "blade": 3,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}カードを2枚引き、手札を1枚控え室に置く。\n{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：自分のステージにほかのメンバーがいる場合、好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-006-P",
                 "name": "藤島 慈"
@@ -4571,10 +4571,10 @@
             "heart05": 1
         },
         "blade": 3,
-        "rarity": "P+",
+        "rare": "P+",
         "ability": "{{toujyou.png|登場}}カードを2枚引き、手札を1枚控え室に置く。\n{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：自分のステージにほかのメンバーがいる場合、好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-006-P＋",
                 "name": "藤島 慈"
@@ -4608,10 +4608,10 @@
             "heart05": 1
         },
         "blade": 3,
-        "rarity": "SEC",
+        "rare": "SEC",
         "ability": "{{toujyou.png|登場}}カードを2枚引き、手札を1枚控え室に置く。\n{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：自分のステージにほかのメンバーがいる場合、好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-006-SEC",
                 "name": "藤島 慈"
@@ -4646,10 +4646,10 @@
             "b_heart04": 1
         },
         "blade": 1,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}：カードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-007-R",
                 "name": "百生 吟子"
@@ -4676,10 +4676,10 @@
             "b_heart04": 1
         },
         "blade": 1,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}：カードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-007-P",
                 "name": "百生 吟子"
@@ -4706,10 +4706,10 @@
             "b_heart05": 1
         },
         "blade": 1,
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚控え室に置く。それらがすべてメンバーカードの場合、カードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-008-R",
                 "name": "徒町 小鈴"
@@ -4736,10 +4736,10 @@
             "b_heart05": 1
         },
         "blade": 1,
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚控え室に置く。それらがすべてメンバーカードの場合、カードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-008-P",
                 "name": "徒町 小鈴"
@@ -4765,10 +4765,10 @@
         "blade_heart": {
             "b_heart01": 1
         },
-        "rarity": "R",
+        "rare": "R",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中から『みらくらぱーく！』のカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-009-R",
                 "name": "安養寺 姫芽"
@@ -4794,10 +4794,10 @@
         "blade_heart": {
             "b_heart01": 1
         },
-        "rarity": "P",
+        "rare": "P",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中から『みらくらぱーく！』のカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-009-P",
                 "name": "安養寺 姫芽"
@@ -4821,10 +4821,10 @@
             "heart04": 2
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-010-N",
                 "name": "日野下花帆"
@@ -4845,10 +4845,10 @@
             "heart05": 2
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中からライブカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-011-N",
                 "name": "村野さやか"
@@ -4872,9 +4872,9 @@
             "b_heart04": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-012-N",
                 "name": "乙宗 梢"
@@ -4898,9 +4898,9 @@
             "b_heart05": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-013-N",
                 "name": "夕霧綴理"
@@ -4920,10 +4920,10 @@
             "heart01": 2
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-014-N",
                 "name": "大沢瑠璃乃"
@@ -4947,9 +4947,9 @@
             "b_heart01": 1
         },
         "blade": 1,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-015-N",
                 "name": "藤島 慈"
@@ -4971,9 +4971,9 @@
             "heart05": 1
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-016-N",
                 "name": "百生 吟子"
@@ -4995,9 +4995,9 @@
             "heart05": 2
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-017-N",
                 "name": "徒町 小鈴"
@@ -5019,9 +5019,9 @@
             "heart05": 1
         },
         "blade": 3,
-        "rarity": "N",
+        "rare": "N",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-018-N",
                 "name": "安養寺 姫芽"
@@ -5041,9 +5041,9 @@
         },
         "blade_heart": {},
         "特殊ハート": "{{icon_score.png|スコア}}",
-        "rarity": "L",
+        "rare": "L",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-019-L",
                 "name": "Dream Believers"
@@ -5064,9 +5064,9 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "L",
+        "rare": "L",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-020-L",
                 "name": "365 Days"
@@ -5089,10 +5089,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中から、『蓮ノ空』のライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-021-L",
                 "name": "Holiday∞Holiday"
@@ -5116,10 +5116,10 @@
             "b_heart05": 1
         },
         "特殊ハート": "{{icon_draw.png|ドロー}}",
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に『蓮ノ空』のメンバーカードが10枚以上ある場合、このカードのスコアを＋１する。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-022-L",
                 "name": "AWOKE"
@@ -5142,10 +5142,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "L",
+        "rare": "L",
         "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高く、かつ自分のステージに『蓮ノ空』のメンバーがいる場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-023-L",
                 "name": "ド！ド！ド！"
@@ -5160,9 +5160,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "スリーズブーケ",
-        "rarity": "SECE",
+        "rare": "SECE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-024-SECE",
                 "name": "乙宗 梢"
@@ -5177,9 +5177,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "DOLLCHESTRA",
-        "rarity": "SECE",
+        "rare": "SECE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-025-SECE",
                 "name": "夕霧綴理"
@@ -5194,9 +5194,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "みらくらぱーく!",
-        "rarity": "SECE",
+        "rare": "SECE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-026-SECE",
                 "name": "藤島 慈"
@@ -5211,9 +5211,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "スリーズブーケ",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-027-PE",
                 "name": "HINOSHITA\nKAHO"
@@ -5232,9 +5232,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "スリーズブーケ",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-027-PE＋",
                 "name": "HINOSHITA\nKAHO"
@@ -5253,9 +5253,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "スリーズブーケ",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-028-PE",
                 "name": "OTOMUNE\nKOZUE"
@@ -5274,9 +5274,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "スリーズブーケ",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-028-PE＋",
                 "name": "OTOMUNE\nKOZUE"
@@ -5295,9 +5295,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "DOLLCHESTRA",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-029-PE",
                 "name": "YUGIRI\nTSUZURI"
@@ -5316,9 +5316,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "DOLLCHESTRA",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-029-PE＋",
                 "name": "YUGIRI\nTSUZURI"
@@ -5337,9 +5337,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "みらくらぱーく!",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-030-PE",
                 "name": "FUJISHIMA\nMEGUMI"
@@ -5358,9 +5358,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "みらくらぱーく!",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-030-PE＋",
                 "name": "FUJISHIMA\nMEGUMI"
@@ -5379,9 +5379,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "みらくらぱーく!",
-        "rarity": "PE",
+        "rare": "PE",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-031-PE",
                 "name": "ANYOJI\nHIME"
@@ -5400,9 +5400,9 @@
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
         "unit": "みらくらぱーく!",
-        "rarity": "PE+",
+        "rare": "PE+",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!HS-bp1-031-PE＋",
                 "name": "ANYOJI\nHIME"
@@ -5420,9 +5420,9 @@
         "product": "スタートデッキラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "LL-E-003-SD",
                 "name": "エネルギー(無地)"
@@ -5447,10 +5447,10 @@
             "b_heart01": 1
         },
         "blade": 4,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを5枚見る。その中から『虹ヶ咲』のライブカードを1枚まで公開して手札に加えてもよい。残りを控え室に置く。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、自分のステージにいるほかの『虹ヶ咲』のメンバーは{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-001-SD",
                 "name": "上原歩夢"
@@ -5471,10 +5471,10 @@
             "heart04": 1
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-002-SD",
                 "name": "中須かすみ"
@@ -5495,10 +5495,10 @@
             "heart05": 2
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-003-SD",
                 "name": "桜坂しずく"
@@ -5523,10 +5523,10 @@
             "b_heart05": 1
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-004-SD",
                 "name": "朝香果林"
@@ -5548,10 +5548,10 @@
             "heart04": 1
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を2枚控え室に置く：自分の控え室から『虹ヶ咲』のメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-005-SD",
                 "name": "宮下 愛"
@@ -5574,10 +5574,10 @@
             "b_heart06": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-006-SD",
                 "name": "近江彼方"
@@ -5602,10 +5602,10 @@
             "b_heart02": 1
         },
         "blade": 4,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を2枚控え室に置く：自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-007-SD",
                 "name": "優木せつ菜"
@@ -5625,10 +5625,10 @@
             "heart04": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}エネルギーを2枚アクティブにする。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-008-SD",
                 "name": "エマ・ヴェルデ"
@@ -5650,10 +5650,10 @@
             "heart06": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札を1枚控え室に置く：自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-009-SD",
                 "name": "天王寺璃奈"
@@ -5675,10 +5675,10 @@
             "heart04": 2
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}カードを2枚引き、手札を1枚控え室に置く。\n{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{heart_04.png|heart04}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-010-SD",
                 "name": "三船栞子"
@@ -5701,10 +5701,10 @@
             "b_heart03": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-011-SD",
                 "name": "ミア・テイラー"
@@ -5726,9 +5726,9 @@
             "heart03": 1
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-012-SD",
                 "name": "鐘 嵐珠"
@@ -5748,10 +5748,10 @@
             "heart01": 2
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-013-SD",
                 "name": "上原歩夢"
@@ -5773,9 +5773,9 @@
             "heart03": 2
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-014-SD",
                 "name": "中須かすみ"
@@ -5799,9 +5799,9 @@
             "b_heart05": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-015-SD",
                 "name": "桜坂しずく"
@@ -5823,9 +5823,9 @@
             "heart05": 2
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-016-SD",
                 "name": "朝香果林"
@@ -5849,9 +5849,9 @@
             "b_heart02": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-017-SD",
                 "name": "宮下 愛"
@@ -5873,9 +5873,9 @@
             "heart06": 2
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-018-SD",
                 "name": "近江彼方"
@@ -5899,9 +5899,9 @@
             "b_heart02": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-019-SD",
                 "name": "優木せつ菜"
@@ -5925,9 +5925,9 @@
             "b_heart04": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-020-SD",
                 "name": "エマ・ヴェルデ"
@@ -5947,10 +5947,10 @@
             "heart06": 2
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-021-SD",
                 "name": "天王寺璃奈"
@@ -5970,10 +5970,10 @@
             "heart04": 2
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-022-SD",
                 "name": "三船栞子"
@@ -5997,9 +5997,9 @@
             "b_heart03": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-023-SD",
                 "name": "ミア・テイラー"
@@ -6023,9 +6023,9 @@
             "b_heart01": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-024-SD",
                 "name": "鐘 嵐珠"
@@ -6045,10 +6045,10 @@
         },
         "blade_heart": {},
         "特殊ハート": "{{icon_score.png|スコア}}",
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "({{icon_score.png|スコア1}}はエールで公開された時、アイコン1つにつきスコアの合計に1を加算する。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-025-SD",
                 "name": "Colorful Dreams! Colorful Smiles!"
@@ -6071,10 +6071,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "({{icon_b_all.png|ALL1}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-026-SD",
                 "name": "夢が僕らの太陽さ"
@@ -6098,10 +6098,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "({{icon_b_all.png|ALL1}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-027-SD",
                 "name": "Just Believe!!!"
@@ -6124,10 +6124,10 @@
             "b_heart01": 1
         },
         "特殊ハート": "{{icon_draw.png|ドロー}}",
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるメンバーが持つ{{icon_blade.png|ブレード}}の合計が10以上の場合、このカードのスコアを＋１する。\n\n({{icon_draw.png|ドロー}}はエールで公開された時、{{icon_draw.png|ドロー}}アイコン1つにつきカードを1枚引く。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-028-SD",
                 "name": "Dream with You"
@@ -6142,9 +6142,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "A・ZU・NA",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-029-P",
                 "name": "上原歩夢"
@@ -6159,9 +6159,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-030-P",
                 "name": "中須かすみ"
@@ -6176,9 +6176,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "A・ZU・NA",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-031-P",
                 "name": "桜坂しずく"
@@ -6193,9 +6193,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "DiverDiva",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-032-P",
                 "name": "朝香果林"
@@ -6210,9 +6210,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "DiverDiva",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-033-P",
                 "name": "宮下 愛"
@@ -6227,9 +6227,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-034-P",
                 "name": "近江彼方"
@@ -6244,9 +6244,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "A・ZU・NA",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-035-P",
                 "name": "優木せつ菜"
@@ -6261,9 +6261,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-036-P",
                 "name": "エマ・ヴェルデ"
@@ -6278,9 +6278,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "QU4RTZ",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-037-P",
                 "name": "天王寺璃奈"
@@ -6295,9 +6295,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "R3BIRTH",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-038-P",
                 "name": "三船栞子"
@@ -6312,9 +6312,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "R3BIRTH",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-039-P",
                 "name": "ミア・テイラー"
@@ -6329,9 +6329,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "unit": "R3BIRTH",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!N-sd1-040-P",
                 "name": "鐘 嵐珠"
@@ -6345,9 +6345,9 @@
         "product": "スタートデッキラブライブ！スーパースター!!",
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "LL-E-005-SD",
                 "name": "エネルギー(無地)"
@@ -6371,10 +6371,10 @@
             "b_heart06": 1
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}自分のエネルギー6枚につき、カードを1枚引く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-001-SD",
                 "name": "澁谷かのん"
@@ -6394,10 +6394,10 @@
             "heart02": 1,
             "heart06": 2
         },
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}手札からコスト4以下の『Liella!』のメンバーカードを1枚ステージに登場させてもよい。\n（この効果で既にメンバーがいるエリアにも登場できる。ただし、このターンにステージに登場したメンバーがいるエリアには登場できない。）",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-002-SD",
                 "name": "唐 可可"
@@ -6421,10 +6421,10 @@
             "b_heart02": 1
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{live_start.png|ライブ開始時}}手札を2枚控え室に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-003-SD",
                 "name": "嵐 千砂都"
@@ -6445,10 +6445,10 @@
             "heart06": 2
         },
         "blade": 2,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-004-SD",
                 "name": "平安名すみれ"
@@ -6469,10 +6469,10 @@
             "heart06": 2
         },
         "blade": 2,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-005-SD",
                 "name": "葉月 恋"
@@ -6495,10 +6495,10 @@
             "b_heart06": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-006-SD",
                 "name": "桜小路きな子"
@@ -6519,10 +6519,10 @@
             "heart06": 2
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：自分の控え室から『Liella!』のメンバーカードを1枚手札に加える。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-007-SD",
                 "name": "米女メイ"
@@ -6542,10 +6542,10 @@
             "heart06": 2
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}支払ってもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-008-SD",
                 "name": "若菜四季"
@@ -6569,10 +6569,10 @@
             "b_heart06": 1
         },
         "blade": 4,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}支払ってもよい：自分のエネルギーが9枚以上ある場合、自分のデッキの上からカードを5枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-009-SD",
                 "name": "鬼塚夏美"
@@ -6596,9 +6596,9 @@
             "b_heart02": 1
         },
         "blade": 4,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-010-SD",
                 "name": "ウィーン・マルガレーテ"
@@ -6619,10 +6619,10 @@
             "heart06": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-011-SD",
                 "name": "鬼塚冬毬"
@@ -6643,9 +6643,9 @@
             "heart06": 2
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-012-SD",
                 "name": "澁谷かのん"
@@ -6668,9 +6668,9 @@
             "b_heart06": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-013-SD",
                 "name": "唐 可可"
@@ -6689,10 +6689,10 @@
         "base_heart": {
             "heart06": 1
         },
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-014-SD",
                 "name": "嵐 千砂都"
@@ -6715,9 +6715,9 @@
             "b_heart02": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-015-SD",
                 "name": "平安名すみれ"
@@ -6736,10 +6736,10 @@
         "base_heart": {
             "heart02": 1
         },
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-016-SD",
                 "name": "葉月 恋"
@@ -6759,10 +6759,10 @@
             "heart02": 2
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}支払ってもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-017-SD",
                 "name": "桜小路きな子"
@@ -6786,9 +6786,9 @@
             "b_heart02": 1
         },
         "blade": 1,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-018-SD",
                 "name": "米女メイ"
@@ -6811,9 +6811,9 @@
             "b_heart06": 1
         },
         "blade": 2,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-019-SD",
                 "name": "若菜四季"
@@ -6836,9 +6836,9 @@
             "b_heart02": 1
         },
         "blade": 2,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-020-SD",
                 "name": "鬼塚夏美"
@@ -6859,9 +6859,9 @@
             "heart06": 2
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-021-SD",
                 "name": "ウィーン・マルガレーテ"
@@ -6882,9 +6882,9 @@
             "heart06": 2
         },
         "blade": 3,
-        "rarity": "SD",
+        "rare": "SD",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-022-SD",
                 "name": "鬼塚冬毬"
@@ -6906,10 +6906,10 @@
         },
         "blade_heart": {},
         "特殊ハート": "{{icon_score.png|スコア}}",
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "({{icon_score.png|スコア1}}はエールで公開された時、アイコン1つにつきスコアの合計に1を加算する。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-023-SD",
                 "name": "WE WILL!!"
@@ -6932,10 +6932,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "({{icon_b_all.png|ALL1}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-024-SD",
                 "name": "シェキラ☆☆☆"
@@ -6958,10 +6958,10 @@
         "blade_heart": {
             "b_all": 1
         },
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "({{icon_b_all.png|ALL1}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-025-SD",
                 "name": "未来は風のように"
@@ -6985,10 +6985,10 @@
             "b_heart02": 1
         },
         "特殊ハート": "{{icon_draw.png|ドロー}}",
-        "rarity": "SD",
+        "rare": "SD",
         "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが9枚以上ある場合、このカードのスコアを＋１する。\n\n({{icon_draw.png|ドロー}}はエールで公開された時、{{icon_draw.png|ドロー}}アイコン1つにつきカードを1枚引く。)",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-026-SD",
                 "name": "私のSymphony 〜澁谷かのんVer.〜"
@@ -7003,9 +7003,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "CatChu!",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-027-P",
                 "name": "澁谷かのん"
@@ -7020,9 +7020,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "KALEIDOSCORE",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-028-P",
                 "name": "唐 可可"
@@ -7037,9 +7037,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-029-P",
                 "name": "嵐 千砂都"
@@ -7054,9 +7054,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "CatChu!",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-030-P",
                 "name": "平安名すみれ"
@@ -7071,9 +7071,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "KALEIDOSCORE",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-031-P",
                 "name": "葉月 恋"
@@ -7088,9 +7088,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-032-P",
                 "name": "桜小路きな子"
@@ -7105,9 +7105,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "CatChu!",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-033-P",
                 "name": "米女メイ"
@@ -7122,9 +7122,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-034-P",
                 "name": "若菜四季"
@@ -7139,9 +7139,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-035-P",
                 "name": "鬼塚夏美"
@@ -7156,9 +7156,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "KALEIDOSCORE",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-036-P",
                 "name": "ウィーン・マルガレーテ"
@@ -7173,9 +7173,9 @@
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
         "unit": "5yncri5e!",
-        "rarity": "P",
+        "rare": "P",
         "faq": [],
-        "rarity_list": [
+        "rare_list": [
             {
                 "card_no": "PL!SP-sd1-037-P",
                 "name": "鬼塚冬毬"
