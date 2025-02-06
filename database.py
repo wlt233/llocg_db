@@ -90,6 +90,7 @@ attr_name = {
     'スコア': 'score',
     '基本ハート': 'base_heart',
     '必要ハート': 'need_heart',
+    '特殊ハート': 'special_heart',
     'ブレードハート': 'blade_heart',
     'レアリティ': 'rare',
 }
@@ -121,13 +122,14 @@ async def fetch_card_info(client, semaphore, card_no: str):
                             text, re.DOTALL)
     for info in info_items:
         card_info[attr_name.get(info[0], info[0])] = parse_html(info[1])
-    for key in ["base_heart", "need_heart", "blade_heart"]:
+    for key in ["base_heart", "need_heart", "blade_heart", "special_heart"]:
         if key in card_info:
-            card_info[key] = card_info[key].replace(
-                r"{{icon_b_all.png|ALL1}}", 
-                r'<spanclass="iconb_all">1</span>')
+            # print(card_info[key])
+            card_info[key] = card_info[key].replace(r"{{icon_b_all.png|ALL1}}", r'<spanclass="iconb_all">1</span>')
             hearts = re.findall(r'<span\s*class="[^"]*\bicon\s*([^"]+)\b[^"]*">([^<]*)</span>', 
                                 card_info[key], re.DOTALL)
+            hearts += re.findall(r'\{\{icon_(.*?)\.png()\|.*?\}\}', 
+                                 card_info[key], re.DOTALL)
             card_info[key] = {key: (int(value) if value else 1) for key, value in hearts}
     if "blade" in card_info: card_info["blade"] = int(card_info["blade"])
     if "cost" in card_info: card_info["cost"] = int(card_info["cost"])
@@ -175,7 +177,8 @@ async def fetch_card_info(client, semaphore, card_no: str):
 
 async def main():
     # async with httpx.AsyncClient(timeout=None) as client:
-    #     pprint.pprint(await fetch_card_info(client, asyncio.Semaphore(10), "PL!N-bp1-012-R＋"),sort_dicts=False)
+    #     pprint.pprint(await fetch_card_info(client, asyncio.Semaphore(10), "PL!N-sd1-025-SD"),sort_dicts=False)
+    # return
     
     async with httpx.AsyncClient(timeout=None) as client:
         product_list = await fetch_product(client)
