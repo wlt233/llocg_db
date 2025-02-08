@@ -5,7 +5,7 @@ import requests
 
 endpoint = "https://llofficial-cardgame.com/wordpress/wp-content/images/texticon/"
 
-with open("cards.json", "r", encoding="utf-8") as f:
+with open("./json/cards.json", "r", encoding="utf-8") as f:
     text = f.read()
 pattern = r'\{\{(.*?)\|(.*?)\}\}'
 matches = list(set(re.findall(pattern, text)))

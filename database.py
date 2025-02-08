@@ -211,9 +211,10 @@ async def main():
             img_list.append((card["img"], card_img))
             cards[card_no]["_img"] = card_img
         
-        with open("products.json", "w", encoding="utf-8") as f:
+        if not os.path.exists("json"): os.makedirs("json")
+        with open("./json/products.json", "w", encoding="utf-8") as f:
             json.dump(products, f, indent=4, ensure_ascii=False)
-        with open("cards.json", "w", encoding="utf-8") as f:
+        with open("./json/cards.json", "w", encoding="utf-8") as f:
             json.dump(cards, f, indent=4, ensure_ascii=False)
         
         semaphore = asyncio.Semaphore(100)
