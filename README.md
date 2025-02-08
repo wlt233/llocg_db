@@ -12,5 +12,4 @@ Support data: Japanese, Simplified Chinese
 
 Data from https://llofficial-cardgame.com/, wxapp
 
-![wlp](https://github.com/wlt233/llocg_db/blob/master/img/cards_cn/PL!N-bp1-003-SEC.png?raw=true)
-![hswlp](https://github.com/wlt233/llocg_db/blob/master/img/cards/BP01/PL!N-bp1-034-PE2.png?raw=true)
+<img src="/img/cards_cn/PL!N-bp1-003-SEC.png" width="350" alt="wlp"> <img src="/img/cards/BP01/PL!N-bp1-034-PE2.png" width="350" alt="hswlp">
