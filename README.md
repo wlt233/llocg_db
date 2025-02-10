@@ -12,4 +12,8 @@ Support data: Japanese, Simplified Chinese
 
 Data from https://llofficial-cardgame.com/, wxapp
 
+**简中卡包数据现在有非常大的错误，小程序上就是错的，等修改吧...**
+
+**There is wrong data from server in CN products...**
+
 <img src="/img/cards_cn/PL!N-bp1-003-SEC.png" width="350" alt="wlp"> <img src="/img/cards/BP01/PL!N-bp1-034-PE2.png" width="350" alt="hswlp">
