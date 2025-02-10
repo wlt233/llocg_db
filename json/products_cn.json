@@ -11,25 +11,25 @@
         "details": "\n\n发售日\n\n2025年2月8日（周六）\n\n产品规格\n\n单包：每包5张\n\n其中3张必定为闪卡！\n\n整盒：每盒包含10包\n\n稀有度分类\n\n＜特殊稀有度＞\n\nLLE（LoveLive Energy）……5种\n\nSECE（Secret Energy）……10种\n\nPE+（Parallel Energy Plus）……15种\n\nPE（Parallel Energy）……15种\n\nSEC（Secret）……10种\n\nP+（Parallel Plus）……10种\n\nP（Parallel）……32种\n\n＜基础稀有度＞\n\nR+（Rare Plus）……11种\n\nR（Rare）……22种\n\nL（LIVE）……15种\n\nN（Normal）……32种\n\n全新绘制插图\n\n包含15位成员的全新绘制插图卡牌！\n\n◇高坂穗乃果\n\n◇高海千歌\n\n◇上原步梦、中须霞、樱坂雫、近江彼方、钟岚珠\n\n◇涉谷香音、唐可可、岚千砂都、米女芽衣\n\n◇日野下花帆、乙宗梢、夕雾缀理、藤岛慈\n\n声优实拍卡\n\nPE和PE+卡是使用声优实拍制作的能量卡！\n\nPE卡：声优实拍+银箔的特别设计！每盒中至少包含1张！\n\nPE+卡：声优实拍+金箔的豪华设计！更包含金箔声优签名！\n\n  成员签名+虹箔的豪华设计！其他卡牌将陆续公开！\n\n“SEC+兑换券”封入活动（更新日期：12月27日）\n\n获得“SEC+(Secret Plus)卡兑换券”即可兑换SEC+（Secret Plus）卡牌！\n\nSEC+卡牌为声优亲笔签名+箔押设计的特别式样！\n\n※“SEC+卡兑换券”封入活动也会于同日发售的：\n\n起始卡组 LoveLive! 虹咲学园学园偶像同好会\n\n起始卡组 LoveLive！Superstar!! 中封入\n\n※“SEC+卡兑换券”总数量计划不超过10张。\n\n※再版产品是否包含兑换券尚未确定。\n\n©2013 PL! ©2017 PL!S ©2022 PL!N ©2024 PL!SP ©PL!HS ©BUSHI\n\n",
         "_img": "img/products_cn/ll_bp01.png"
     },
-    "SD01": {
+    "SD02": {
         "id": 885,
         "pack_name": "起始卡组 - Love Live! SuperStar!!",
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/ll_sd01.png",
         "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/ll_sd01.png",
         "pack_categorize_name": "预构筑卡组",
-        "pack_prefix": "SD01",
+        "pack_prefix": "SD02",
         "card_prefix": "Loveca",
         "released_at": "2025-02-08",
         "details": "\n\n发售日\n\n2025年2月8日（周六）\n\n",
         "_img": "img/products_cn/ll_sd01.png"
     },
-    "SD02": {
+    "SD01": {
         "id": 886,
         "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/ll_sd02.png",
         "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/ll_sd02.png",
         "pack_categorize_name": "预构筑卡组",
-        "pack_prefix": "SD02",
+        "pack_prefix": "SD01",
         "card_prefix": "Loveca",
         "released_at": "2025-02-06",
         "details": "\n\n发售日\n\n2025年2月8日（周六）\n\n",

@@ -33,7 +33,14 @@
             "level": null,
             "copyright": "",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -73,7 +80,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -113,7 +127,14 @@
             "level": null,
             "copyright": "©2022 PL!N ©2024 PL!SP ©PL!HS",
             "display_attacks": "粉3绿3紫3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -153,7 +174,14 @@
             "level": null,
             "copyright": "©2013 PL!",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -193,7 +221,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -233,7 +268,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿2蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -273,7 +321,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿2蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -313,7 +374,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿1蓝2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -353,7 +427,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿1蓝2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -393,7 +480,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿4蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -433,7 +545,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿4蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -473,7 +610,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿4蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -513,7 +675,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿4蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -553,7 +740,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿1蓝4",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -593,7 +805,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿1蓝4",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -633,7 +870,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿1蓝4",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -673,7 +935,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿1蓝4",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -713,7 +1000,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉2绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -753,7 +1053,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉2绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -793,7 +1106,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉2绿1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -833,7 +1171,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉2绿1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -873,7 +1236,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉2绿1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -913,7 +1301,32 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉2绿1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -953,7 +1366,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -993,7 +1419,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1033,7 +1472,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1073,7 +1525,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1113,7 +1578,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1153,7 +1631,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1193,7 +1684,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "绿2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1233,7 +1731,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "绿1蓝2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1273,7 +1778,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "绿1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1313,7 +1825,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1353,7 +1872,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1393,7 +1919,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1433,7 +1966,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿2蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1473,7 +2013,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉1绿1蓝2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1513,7 +2060,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "粉2绿1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1553,7 +2107,14 @@
             "level": 1,
             "copyright": "©PL!HS",
             "display_attacks": "无色4",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1593,7 +2154,14 @@
             "level": 2,
             "copyright": "©PL!HS",
             "display_attacks": "无色6",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1633,7 +2201,14 @@
             "level": 4,
             "copyright": "©PL!HS",
             "display_attacks": "绿5无色5",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1673,7 +2248,14 @@
             "level": 5,
             "copyright": "©PL!HS",
             "display_attacks": "蓝6无色6",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1713,7 +2295,14 @@
             "level": 2,
             "copyright": "©PL!HS",
             "display_attacks": "粉3无色2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1753,7 +2342,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1793,7 +2389,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1833,7 +2436,14 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1873,7 +2483,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1913,7 +2536,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1953,7 +2589,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -1993,7 +2642,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2033,7 +2695,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2073,7 +2748,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2113,7 +2801,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2153,7 +2854,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2193,7 +2907,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2233,7 +2960,20 @@
             "level": null,
             "copyright": "©PL!HS",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2273,7 +3013,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2313,7 +3060,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2353,7 +3113,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2393,7 +3166,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2433,7 +3231,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2473,7 +3296,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2513,7 +3361,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2553,7 +3426,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿1蓝3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2593,7 +3491,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿1蓝3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2633,7 +3556,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿1蓝3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2673,7 +3621,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿1蓝3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2713,7 +3686,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "蓝1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2753,7 +3739,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "蓝1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2793,7 +3792,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2833,7 +3845,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2873,7 +3898,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1蓝1紫3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2913,7 +3963,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1蓝1紫3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2953,7 +4028,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1蓝1紫3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -2993,7 +4093,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1蓝1紫3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3033,7 +4158,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "红1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3073,7 +4211,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "红1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3113,7 +4264,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1绿2蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3153,7 +4317,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1绿2蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3193,7 +4370,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3233,7 +4423,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3273,7 +4476,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3313,7 +4529,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3353,7 +4582,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3393,7 +4635,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3433,7 +4688,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉3绿2紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3473,7 +4753,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉3绿2紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3513,7 +4818,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉3绿2紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3553,7 +4883,32 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉3绿2紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3593,7 +4948,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3633,7 +4995,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3673,7 +5042,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "蓝2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3713,7 +5089,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3753,7 +5136,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "红1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3793,7 +5183,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1蓝1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3833,7 +5230,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "红2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3873,7 +5277,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿2蓝1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3913,7 +5324,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "蓝1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3953,7 +5371,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -3993,7 +5418,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1黄2绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4033,7 +5465,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4073,7 +5512,14 @@
             "level": 2,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿1蓝1无色3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4113,7 +5559,14 @@
             "level": 1,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1无色2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4153,7 +5606,14 @@
             "level": 0,
             "copyright": "©2022 PL!N",
             "display_attacks": "蓝5无色7",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4193,7 +5653,14 @@
             "level": 5,
             "copyright": "©2022 PL!N",
             "display_attacks": "紫5无色7",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4233,7 +5700,14 @@
             "level": 5,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉5无色7",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4273,7 +5747,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4313,7 +5794,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4353,7 +5841,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4393,7 +5888,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4433,7 +5935,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4473,7 +5988,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4513,7 +6041,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4553,7 +6094,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4593,7 +6147,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4633,7 +6200,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4673,7 +6253,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4713,7 +6306,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4753,7 +6359,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4793,7 +6412,20 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4833,7 +6465,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉3红1绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4873,7 +6512,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿1黄2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4913,7 +6559,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1蓝2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4953,7 +6606,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1蓝2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -4993,7 +6653,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红3绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5033,7 +6700,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5073,7 +6747,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红3绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5113,7 +6794,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5153,7 +6841,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5193,7 +6888,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1黄1绿2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5233,7 +6935,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5273,7 +6982,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉2红1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5313,7 +7029,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5353,7 +7076,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1黄2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5393,7 +7123,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "红1蓝1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5433,7 +7170,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1蓝2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5473,7 +7217,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "红1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5513,7 +7264,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5553,7 +7311,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "红1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5593,7 +7358,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5633,7 +7405,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5673,7 +7452,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "绿2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5713,7 +7499,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5753,7 +7546,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1绿1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5793,7 +7593,14 @@
             "level": 1,
             "copyright": "©2022 PL!N",
             "display_attacks": "无色4",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5833,7 +7640,14 @@
             "level": 2,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1无色3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5873,7 +7687,14 @@
             "level": 3,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉1红1绿1无色4",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5913,7 +7734,14 @@
             "level": 4,
             "copyright": "©2022 PL!N",
             "display_attacks": "粉4无色7",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5953,7 +7781,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -5993,7 +7828,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6033,7 +7875,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6073,7 +7922,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6113,7 +7969,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6153,7 +8016,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6193,7 +8063,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6233,7 +8110,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6273,7 +8157,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6313,7 +8204,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6353,7 +8251,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6393,7 +8298,14 @@
             "level": null,
             "copyright": "©2022 PL!N",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 885,
+                    "pack_name": "起始卡组 - Love Live! SuperStar!!",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6433,7 +8345,14 @@
             "level": null,
             "copyright": "©2017 PL!S",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6473,7 +8392,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6513,7 +8439,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1紫3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6553,7 +8492,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1紫3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6593,7 +8545,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6633,7 +8610,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6673,7 +8675,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6713,7 +8740,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6753,7 +8805,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6793,7 +8870,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6833,7 +8935,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6873,7 +9000,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6913,7 +9065,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6953,7 +9118,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -6993,7 +9171,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7033,7 +9224,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7073,7 +9277,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄2紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7113,7 +9330,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄2紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7153,7 +9383,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7193,7 +9448,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7233,7 +9513,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7273,7 +9578,32 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7313,7 +9643,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7353,7 +9696,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7393,7 +9749,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7433,7 +9802,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7473,7 +9855,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7513,7 +9908,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7553,7 +9961,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7593,7 +10014,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7633,7 +10067,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "黄2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7673,7 +10114,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄2紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7713,7 +10161,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "黄1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7753,7 +10208,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7793,7 +10255,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7833,7 +10302,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄2紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7873,7 +10349,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "黄2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7913,7 +10396,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7953,7 +10443,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "黄2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -7993,7 +10490,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "黄1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8033,7 +10537,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8073,7 +10584,14 @@
             "level": 1,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1黄1紫1无色1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8113,7 +10631,14 @@
             "level": 2,
             "copyright": "©2024 PL!SP",
             "display_attacks": "粉1蓝1无色6",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8153,7 +10678,14 @@
             "level": 2,
             "copyright": "©2024 PL!SP",
             "display_attacks": "黄1紫1无色3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8193,7 +10725,14 @@
             "level": 3,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2黄2紫2无色2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8233,7 +10772,14 @@
             "level": 6,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红3黄3紫3无色5",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8273,7 +10819,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8313,7 +10866,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8353,7 +10913,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8393,7 +10960,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8433,7 +11013,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8473,7 +11066,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8513,7 +11119,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8553,7 +11172,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8593,7 +11225,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8633,7 +11278,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8673,7 +11331,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8713,7 +11384,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8753,7 +11437,20 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                },
+                {
+                    "id": 884,
+                    "pack_name": "补充包 vol.1",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-08 00:00:00"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8793,7 +11490,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8833,7 +11537,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8873,7 +11584,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红3紫3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8913,7 +11631,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8953,7 +11678,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -8993,7 +11725,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9033,7 +11772,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9073,7 +11819,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9113,7 +11866,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2紫3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9153,7 +11913,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红3紫3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9193,7 +11960,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9233,7 +12007,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9273,7 +12054,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9313,7 +12101,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9353,7 +12148,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9393,7 +12195,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9433,7 +12242,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9473,7 +12289,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9513,7 +12336,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "紫1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9553,7 +12383,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9593,7 +12430,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9633,7 +12477,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2紫2",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9673,7 +12524,14 @@
             "level": 1,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1紫1无色1",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9713,7 +12571,14 @@
             "level": 2,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红1紫1无色3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9753,7 +12618,14 @@
             "level": 3,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红2紫2无色3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9793,7 +12665,14 @@
             "level": 4,
             "copyright": "©2024 PL!SP",
             "display_attacks": "红4紫4无色3",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9833,7 +12712,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9873,7 +12759,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9913,7 +12806,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9953,7 +12853,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -9993,7 +12900,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -10033,7 +12947,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -10073,7 +12994,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -10113,7 +13041,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -10153,7 +13088,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -10193,7 +13135,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
@@ -10233,7 +13182,14 @@
             "level": null,
             "copyright": "©2024 PL!SP",
             "display_attacks": "",
-            "pack_lists": [],
+            "pack_lists": [
+                {
+                    "id": 886,
+                    "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-02-06 20:15:47"
+                }
+            ],
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
