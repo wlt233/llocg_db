@@ -9,11 +9,6 @@ with open(f"./json/products.json", "r", encoding="utf8") as f:
 with open(f"./json/cards.json", "r", encoding="utf8") as f:
     CARDS = json.load(f)
 
-def pops(l, n):
-    r = l[:n]
-    del l[:n]
-    return r
-
 def gen_parcel(colle):
     card_list = PRODUCTS[colle]["card_list"]
     card_rare = defaultdict(list)
@@ -31,35 +26,35 @@ def gen_parcel(colle):
     rare_list = sece_list + sec_list + pe2_list + p2_list
     random.shuffle(rare_list)
 
-    shiny_list = (card_rare["R"] + card_rare["R+"] + card_rare["P"] + card_rare["L"]) * 8
-    random.shuffle(shiny_list)
-    normal_list = card_rare["N"] * 15
-    random.shuffle(normal_list)
-    def gen_pack_fill():
-        fill = pops(shiny_list, 3) + pops(normal_list, 2)
-        random.shuffle(fill)
-        return fill
-    
-    _parcel_list = rare_list + [""] * (1000 - len(rare_list))
-    random.shuffle(_parcel_list)
+    _parcel_list = [[rare] for rare in rare_list] + [[] for _ in range(20 - len(rare_list))]
     parcel = []
-    while _parcel_list:
-        _box_list = pops(_parcel_list, 50)
-        _box_list.remove("")
-        _box_list.append(random.choice(card_rare["PE"]))
-        random.shuffle(_box_list)
+    for _box_high_list in _parcel_list:
+        _box_high_list.append(random.choice(card_rare["PE"])) # 1 PE
+        _box_high_list += random.sample(card_rare["L"], k=5)  # 5 L
+        # 3 R+ when rare or 4 R+ when not rare
+        _box_high_list += random.sample(card_rare["R+"], k=10 - len(_box_high_list))
         
         box = []
-        while _box_list:
-            _pack_list = pops(_box_list, 5)
-            _pack_fill = gen_pack_fill()
-            while "" in _pack_list:
-                _pack_list[_pack_list.index("")] = _pack_fill.pop()
+        p_list = card_rare["P"].copy()
+        random.shuffle(p_list)
+        r_list = card_rare["R"].copy()
+        random.shuffle(r_list)
+        n_list = card_rare["N"].copy()
+        random.shuffle(n_list)
+        for high in _box_high_list:
+            _pack_card_list = [high]
+            _pack_card_list += random.sample(p_list, k=1) # 1 P
+            _pack_card_list += random.sample(r_list, k=1) # 1 R
+            _pack_card_list += random.sample(n_list, k=2) # 2 N
+            
             if random.random() < 0.0001:
-                _pack_list = card_rare["LLE"].copy()
-            box.append(_pack_list)
+                _pack_card_list = card_rare["LLE"].copy()
+            
+            # random.shuffle(_pack_card_list)
+            box.append(_pack_card_list)
+        random.shuffle(box)
         parcel.append(box)
-        
+    random.shuffle(parcel)
     return parcel
 
 if __name__ == "__main__":

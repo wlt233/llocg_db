@@ -16,4 +16,6 @@ Data from https://llofficial-cardgame.com/, wxapp
 
 **There is wrong data from server in CN products...**
 
+~~抽卡模拟器 https://tqlwsl.moe/loveca/~~
+
 <img src="/img/cards_cn/PL!N-bp1-003-SEC.png" width="350" alt="wlp"> <img src="/img/cards/BP01/PL!N-bp1-034-PE2.png" width="350" alt="hswlp">
