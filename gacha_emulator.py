@@ -46,12 +46,11 @@ def gen_parcel(colle):
             _pack_card_list += random.sample(p_list, k=1) # 1 P
             _pack_card_list += random.sample(r_list, k=1) # 1 R
             _pack_card_list += random.sample(n_list, k=2) # 2 N
-            
-            if random.random() < 0.0001:
-                _pack_card_list = card_rare["LLE"].copy()
-            
             # random.shuffle(_pack_card_list)
             box.append(_pack_card_list)
+        
+        if random.random() < 0.0001:
+            box[-1] = card_rare["LLE"].copy() # the last pack in box (LLE replace R+)
         random.shuffle(box)
         parcel.append(box)
     random.shuffle(parcel)
