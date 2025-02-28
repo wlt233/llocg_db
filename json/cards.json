@@ -77,6 +77,336 @@
         ],
         "_img": "img/cards/PR/PL!N-PR-001-PR.png"
     },
+    "PL!N-PR-003-PR": {
+        "card_no": "PL!N-PR-003-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_003-PR.png",
+        "name": "上原歩夢",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札をすべて公開する：自分のステージにほかのメンバーがおり、かつこれにより公開した手札の中にライブカードがない場合、自分のデッキの上からカードを5枚見る。その中からライブカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-003-PR",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_003-PR.png"
+    },
+    "PL!N-PR-004-PR": {
+        "card_no": "PL!N-PR-004-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_004-PR.png",
+        "name": "中須かすみ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1,
+            "heart04": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-004-PR",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_004-PR.png"
+    },
+    "PL!N-PR-005-PR": {
+        "card_no": "PL!N-PR-005-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_005-PR.png",
+        "name": "桜坂しずく",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}カードを2枚引き、手札を2枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-005-PR",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_005-PR.png"
+    },
+    "PL!N-PR-006-PR": {
+        "card_no": "PL!N-PR-006-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_006-PR.png",
+        "name": "朝香果林",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-006-PR",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_006-PR.png"
+    },
+    "PL!N-PR-007-PR": {
+        "card_no": "PL!N-PR-007-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_007-PR.png",
+        "name": "宮下 愛",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}カードを2枚引き、手札を2枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-007-PR",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_007-PR.png"
+    },
+    "PL!N-PR-008-PR": {
+        "card_no": "PL!N-PR-008-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_008-PR.png",
+        "name": "近江彼方",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札をすべて公開する：自分のステージにほかのメンバーがおり、かつこれにより公開した手札の中にライブカードがない場合、自分のデッキの上からカードを5枚見る。その中からライブカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-008-PR",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_008-PR.png"
+    },
+    "PL!N-PR-009-PR": {
+        "card_no": "PL!N-PR-009-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_009-PR.png",
+        "name": "優木せつ菜",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-009-PR",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_009-PR.png"
+    },
+    "PL!N-PR-010-PR": {
+        "card_no": "PL!N-PR-010-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_010-PR.png",
+        "name": "エマ・ヴェルデ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札をすべて公開する：自分のステージにほかのメンバーがおり、かつこれにより公開した手札の中にライブカードがない場合、自分のデッキの上からカードを5枚見る。その中からライブカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-010-PR",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_010-PR.png"
+    },
+    "PL!N-PR-011-PR": {
+        "card_no": "PL!N-PR-011-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_011-PR.png",
+        "name": "天王寺璃奈",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}カードを2枚引き、手札を2枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-011-PR",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_011-PR.png"
+    },
+    "PL!N-PR-012-PR": {
+        "card_no": "PL!N-PR-012-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_012-PR.png",
+        "name": "三船栞子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 2,
+        "base_heart": {
+            "heart04": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-012-PR",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_012-PR.png"
+    },
+    "PL!N-PR-013-PR": {
+        "card_no": "PL!N-PR-013-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_013-PR.png",
+        "name": "ミア・テイラー",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-013-PR",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_013-PR.png"
+    },
+    "PL!N-PR-014-PR": {
+        "card_no": "PL!N-PR-014-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_014-PR.png",
+        "name": "鐘 嵐珠",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 2,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-014-PR",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR_014-PR.png"
+    },
+    "PL!N-PR-015-PR＋": {
+        "card_no": "PL!N-PR-015-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-015-PR2.png",
+        "name": "",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-015-PR＋",
+                "name": ""
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-015-PR2.png"
+    },
     "PL!SP-bp1-013-PR": {
         "card_no": "PL!SP-bp1-013-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-bp1-013-PR.png",
@@ -405,7 +735,7 @@
             "b_all": 1
         },
         "rare": "PR",
-        "ability": "({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -432,7 +762,7 @@
             "b_all": 1
         },
         "rare": "PR",
-        "ability": "({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -459,7 +789,7 @@
             "b_all": 1
         },
         "rare": "PR",
-        "ability": "({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -506,7 +836,7 @@
         "faq": [
             {
                 "title": "Q69（2025.02.10）",
-                "question": "\"『{{live_start.png|ライブ開始時}}手札の「上原歩夢」と「澁谷かのん」と「日野下花帆」を、好きな組み合わせで合計3枚、控え室に置いてもよい：ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋３する。」を得る。』について。\n『「上原歩夢」を3枚』や『「澁谷かのん」を2枚と「日野下花帆」を1枚』という組み合わせでコストを支払うことはできますか？",
+                "question": "『{{live_start.png|ライブ開始時}}手札の「上原歩夢」と「澁谷かのん」と「日野下花帆」を、好きな組み合わせで合計3枚、控え室に置いてもよい：ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋３する。」を得る。』について。\n『「上原歩夢」を3枚』や『「澁谷かのん」を2枚と「日野下花帆」を1枚』という組み合わせでコストを支払うことはできますか？",
                 "answer": "はい、できます。「上原歩夢」「澁谷かのん」「日野下花帆」のいずれかの名前を持つカードを合わせて3枚の組み合わせでコストを支払うことができます。",
                 "relation": [
                     {
@@ -2550,7 +2880,7 @@
             "b_all": 1
         },
         "rare": "L",
-        "ability": "({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -2576,7 +2906,7 @@
             "b_all": 1
         },
         "rare": "L",
-        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、エールにより公開された自分のカードの中から、『虹ヶ咲』のカードを1枚手札に加える。\n\n({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、エールにより公開された自分のカードの中から、『虹ヶ咲』のカードを1枚手札に加える。\n\n(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [
             {
                 "title": "Q66（2025.02.07）",
@@ -2609,15 +2939,19 @@
         "product": "ブースターパックvol.1",
         "type": "ライブ",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 0,
         "need_heart": {
             "heart05": 5,
             "heart0": 7
+        },
+        "blade_heart": {
+            "b_heart05": 1
         },
         "special_heart": {
             "draw": 1
         },
         "rare": "L",
-        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる『虹ヶ咲』のメンバーが持つ{{heart_01.png|heart01}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_06.png|heart06}}のうち1色につき、このカードのスコアを＋１する。\n\n({{icon_draw.png|ドロー}}はエールで公開された時、エールのチェックを全て行った後、{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる『虹ヶ咲』のメンバーが持つ{{heart_01.png|heart01}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_06.png|heart06}}のうち1色につき、このカードのスコアを＋１する。\n\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
         "faq": [
             {
                 "title": "Q67（2025.02.07）",
@@ -2658,7 +2992,7 @@
             "draw": 1
         },
         "rare": "L",
-        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：自分のステージに『虹ヶ咲』のメンバーがいる場合、このカードのスコアを＋１する。\n\n({{icon_draw.png|ドロー}}はエールで公開された時、エールのチェックを全て行った後、{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：自分のステージに『虹ヶ咲』のメンバーがいる場合、このカードのスコアを＋１する。\n\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
         "faq": [],
         "rare_list": [
             {
@@ -2687,7 +3021,7 @@
             "draw": 1
         },
         "rare": "L",
-        "ability": "{{live_start.png|ライブ開始時}}自分のライブ中のカードが3枚以上ある場合、このカードのスコアを＋２する。\n\n({{icon_draw.png|ドロー}}はエールで公開された時、エールのチェックを全て行った後、{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分のライブ中のカードが3枚以上ある場合、このカードのスコアを＋２する。\n\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
         "faq": [
             {
                 "title": "Q39（2025.02.07）",
@@ -3291,12 +3625,12 @@
         "faq": [
             {
                 "title": "Q78（2025.02.14）",
-                "question": "『{{kidou.png|起動}}[ターン1]回手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\nこの能力を使用したあと、このメンバーカードがステージから離れました。『{{jyouji.png|常時}}ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？",
+                "question": "『{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\nこの能力を使用したあと、このメンバーカードがステージから離れました。『{{jyouji.png|常時}}ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？",
                 "answer": "いいえ、できません。\n起動能力の効果で常時能力を得たこのメンバーカードがステージから離れることで、この常時能力が無くなるため、合計スコアは＋１されません。",
                 "relation": [
                     {
-                        "card_no": "ターン1]回手札にあるメンバーカードを好きな枚数公開する",
-                        "name": "公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「<img class=\"\" src=\"/wordpress/wp-content/images/texticon/jyouji.png\" alt=\"常時\" />ライブの合計スコアを＋１する。」を得る。』について。<br />\nこの能力を使用したあと、このメンバーカードがステージから離れました。『<img class=\"\" src=\"/wordpress/wp-content/images/texticon/jyouji.png\" alt=\"常時\" />ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？</p>\n            <p class=\"faq-Text answer\">いいえ、できません。<br />\n起動能力の効果で常時能力を得たこのメンバーカードがステージから離れることで、この常時能力が無くなるため、合計スコアは＋１されません。</p>\n                        <div class=\"faq-Relation\">\n              <p class=\"relation-Heading\">関連カード</p>\n              <p class=\"relation-Text\">\n                            [PL!SP-bp1-003-R＋ ： 嵐 千砂都"
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
                     },
                     {
                         "card_no": "PL!SP-bp1-003-P",
@@ -3353,12 +3687,12 @@
         "faq": [
             {
                 "title": "Q78（2025.02.14）",
-                "question": "『{{kidou.png|起動}}[ターン1]回手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\nこの能力を使用したあと、このメンバーカードがステージから離れました。『{{jyouji.png|常時}}ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？",
+                "question": "『{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\nこの能力を使用したあと、このメンバーカードがステージから離れました。『{{jyouji.png|常時}}ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？",
                 "answer": "いいえ、できません。\n起動能力の効果で常時能力を得たこのメンバーカードがステージから離れることで、この常時能力が無くなるため、合計スコアは＋１されません。",
                 "relation": [
                     {
-                        "card_no": "ターン1]回手札にあるメンバーカードを好きな枚数公開する",
-                        "name": "公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「<img class=\"\" src=\"/wordpress/wp-content/images/texticon/jyouji.png\" alt=\"常時\" />ライブの合計スコアを＋１する。」を得る。』について。<br />\nこの能力を使用したあと、このメンバーカードがステージから離れました。『<img class=\"\" src=\"/wordpress/wp-content/images/texticon/jyouji.png\" alt=\"常時\" />ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？</p>\n            <p class=\"faq-Text answer\">いいえ、できません。<br />\n起動能力の効果で常時能力を得たこのメンバーカードがステージから離れることで、この常時能力が無くなるため、合計スコアは＋１されません。</p>\n                        <div class=\"faq-Relation\">\n              <p class=\"relation-Heading\">関連カード</p>\n              <p class=\"relation-Text\">\n                            [PL!SP-bp1-003-R＋ ： 嵐 千砂都"
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
                     },
                     {
                         "card_no": "PL!SP-bp1-003-P",
@@ -3415,12 +3749,12 @@
         "faq": [
             {
                 "title": "Q78（2025.02.14）",
-                "question": "『{{kidou.png|起動}}[ターン1]回手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\nこの能力を使用したあと、このメンバーカードがステージから離れました。『{{jyouji.png|常時}}ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？",
+                "question": "『{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\nこの能力を使用したあと、このメンバーカードがステージから離れました。『{{jyouji.png|常時}}ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？",
                 "answer": "いいえ、できません。\n起動能力の効果で常時能力を得たこのメンバーカードがステージから離れることで、この常時能力が無くなるため、合計スコアは＋１されません。",
                 "relation": [
                     {
-                        "card_no": "ターン1]回手札にあるメンバーカードを好きな枚数公開する",
-                        "name": "公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「<img class=\"\" src=\"/wordpress/wp-content/images/texticon/jyouji.png\" alt=\"常時\" />ライブの合計スコアを＋１する。」を得る。』について。<br />\nこの能力を使用したあと、このメンバーカードがステージから離れました。『<img class=\"\" src=\"/wordpress/wp-content/images/texticon/jyouji.png\" alt=\"常時\" />ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？</p>\n            <p class=\"faq-Text answer\">いいえ、できません。<br />\n起動能力の効果で常時能力を得たこのメンバーカードがステージから離れることで、この常時能力が無くなるため、合計スコアは＋１されません。</p>\n                        <div class=\"faq-Relation\">\n              <p class=\"relation-Heading\">関連カード</p>\n              <p class=\"relation-Text\">\n                            [PL!SP-bp1-003-R＋ ： 嵐 千砂都"
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
                     },
                     {
                         "card_no": "PL!SP-bp1-003-P",
@@ -3477,12 +3811,12 @@
         "faq": [
             {
                 "title": "Q78（2025.02.14）",
-                "question": "『{{kidou.png|起動}}[ターン1]回手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\nこの能力を使用したあと、このメンバーカードがステージから離れました。『{{jyouji.png|常時}}ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？",
+                "question": "『{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\nこの能力を使用したあと、このメンバーカードがステージから離れました。『{{jyouji.png|常時}}ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？",
                 "answer": "いいえ、できません。\n起動能力の効果で常時能力を得たこのメンバーカードがステージから離れることで、この常時能力が無くなるため、合計スコアは＋１されません。",
                 "relation": [
                     {
-                        "card_no": "ターン1]回手札にあるメンバーカードを好きな枚数公開する",
-                        "name": "公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「<img class=\"\" src=\"/wordpress/wp-content/images/texticon/jyouji.png\" alt=\"常時\" />ライブの合計スコアを＋１する。」を得る。』について。<br />\nこの能力を使用したあと、このメンバーカードがステージから離れました。『<img class=\"\" src=\"/wordpress/wp-content/images/texticon/jyouji.png\" alt=\"常時\" />ライブの合計スコアを＋１する。』の能力で合計スコアを＋１することはできますか？</p>\n            <p class=\"faq-Text answer\">いいえ、できません。<br />\n起動能力の効果で常時能力を得たこのメンバーカードがステージから離れることで、この常時能力が無くなるため、合計スコアは＋１されません。</p>\n                        <div class=\"faq-Relation\">\n              <p class=\"relation-Heading\">関連カード</p>\n              <p class=\"relation-Text\">\n                            [PL!SP-bp1-003-R＋ ： 嵐 千砂都"
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
                     },
                     {
                         "card_no": "PL!SP-bp1-003-P",
@@ -4480,12 +4814,11 @@
             "heart06": 1,
             "heart0": 1
         },
-        "blade_heart": {},
         "special_heart": {
             "score": 1
         },
         "rare": "L",
-        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。\n\n({{icon_score.png|スコア}}1はエールで公開された時、アイコン1つにつきスコアの合計に1を加算する。)",
+        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。\n\n(エールで出た{{icon_score.png|スコア}}1つにつき、成功したライブのスコアの合計に1を加算する。)",
         "faq": [
             {
                 "title": "Q66（2025.02.07）",
@@ -4528,7 +4861,7 @@
             "b_all": 1
         },
         "rare": "L",
-        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる「澁谷かのん」1人は{{heart_05.png|heart05}}{{icon_blade.png|ブレード}}を、「唐可可」1人は{{heart_01.png|heart01}}{{icon_blade.png|ブレード}}を得る。\n{{live_success.png|ライブ成功時}}自分のステージに「澁谷かのん」と「唐可可」がいる場合、カードを1枚引く。\n\n({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる「澁谷かのん」1人は{{heart_05.png|heart05}}{{icon_blade.png|ブレード}}を、「唐可可」1人は{{heart_01.png|heart01}}{{icon_blade.png|ブレード}}を得る。\n{{live_success.png|ライブ成功時}}自分のステージに「澁谷かのん」と「唐可可」がいる場合、カードを1枚引く。\n\n(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -4555,7 +4888,7 @@
             "b_all": 1
         },
         "rare": "L",
-        "ability": "({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -4583,7 +4916,7 @@
             "b_all": 1
         },
         "rare": "L",
-        "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを使用するためのコストは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。\n\n({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを使用するためのコストは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。\n\n(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [
             {
                 "title": "Q74（2025.02.14）",
@@ -4637,7 +4970,7 @@
             "draw": 1
         },
         "rare": "L",
-        "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが12枚以上ある場合、このカードのスコアを＋１する。\n\n({{icon_draw.png|ドロー}}はエールで公開された時、エールのチェックを全て行った後、{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが12枚以上ある場合、このカードのスコアを＋１する。\n\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
         "faq": [],
         "rare_list": [
             {
@@ -6189,12 +6522,11 @@
         "need_heart": {
             "heart0": 4
         },
-        "blade_heart": {},
         "special_heart": {
             "score": 1
         },
         "rare": "L",
-        "ability": "({{icon_score.png|スコア}}1はエールで公開された時、アイコン1つにつきスコアの合計に1を加算する。)",
+        "ability": "(エールで出た{{icon_score.png|スコア}}1つにつき、成功したライブのスコアの合計に1を加算する。)",
         "faq": [],
         "rare_list": [
             {
@@ -6219,7 +6551,7 @@
             "b_all": 1
         },
         "rare": "L",
-        "ability": "({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -6246,7 +6578,7 @@
             "b_all": 1
         },
         "rare": "L",
-        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中から、『蓮ノ空』のライブカードを1枚手札に加える。\n\n({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中から、『蓮ノ空』のライブカードを1枚手札に加える。\n\n(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -6276,7 +6608,7 @@
             "draw": 1
         },
         "rare": "L",
-        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に『蓮ノ空』のメンバーカードが10枚以上ある場合、このカードのスコアを＋１する。\n\n({{icon_draw.png|ドロー}}はエールで公開された時、エールのチェックを全て行った後、{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に『蓮ノ空』のメンバーカードが10枚以上ある場合、このカードのスコアを＋１する。\n\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
         "faq": [],
         "rare_list": [
             {
@@ -6303,7 +6635,7 @@
             "b_all": 1
         },
         "rare": "L",
-        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高く、かつ自分のステージに『蓮ノ空』のメンバーがいる場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。\n\n({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高く、かつ自分のステージに『蓮ノ空』のメンバーがいる場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。\n\n(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -7298,12 +7630,11 @@
         "need_heart": {
             "heart0": 4
         },
-        "blade_heart": {},
         "special_heart": {
             "score": 1
         },
         "rare": "SD",
-        "ability": "({{icon_score.png|スコア}}1はエールで公開された時、アイコン1つにつきスコアの合計に1を加算する。)",
+        "ability": "(エールで出た{{icon_score.png|スコア}}1つにつき、成功したライブのスコアの合計に1を加算する。)",
         "faq": [],
         "rare_list": [
             {
@@ -7330,7 +7661,7 @@
             "b_all": 1
         },
         "rare": "SD",
-        "ability": "({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -7358,7 +7689,7 @@
             "b_all": 1
         },
         "rare": "SD",
-        "ability": "({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -7387,7 +7718,7 @@
             "draw": 1
         },
         "rare": "SD",
-        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるメンバーが持つ{{icon_blade.png|ブレード}}の合計が10以上の場合、このカードのスコアを＋１する。\n\n({{icon_draw.png|ドロー}}はエールで公開された時、エールのチェックを全て行った後、{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるメンバーが持つ{{icon_blade.png|ブレード}}の合計が10以上の場合、このカードのスコアを＋１する。\n\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
         "faq": [],
         "rare_list": [
             {
@@ -8230,12 +8561,11 @@
             "heart06": 1,
             "heart0": 1
         },
-        "blade_heart": {},
         "special_heart": {
             "score": 1
         },
         "rare": "SD",
-        "ability": "({{icon_score.png|スコア}}1はエールで公開された時、アイコン1つにつきスコアの合計に1を加算する。)",
+        "ability": "(エールで出た{{icon_score.png|スコア}}1つにつき、成功したライブのスコアの合計に1を加算する。)",
         "faq": [],
         "rare_list": [
             {
@@ -8262,7 +8592,7 @@
             "b_all": 1
         },
         "rare": "SD",
-        "ability": "({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -8289,7 +8619,7 @@
             "b_all": 1
         },
         "rare": "SD",
-        "ability": "({{icon_b_all.png|全ブレード}}はエールで公開された時、任意の色のハートアイコン1つとして扱える。)",
+        "ability": "(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
         "faq": [],
         "rare_list": [
             {
@@ -8319,7 +8649,7 @@
             "draw": 1
         },
         "rare": "SD",
-        "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが9枚以上ある場合、このカードのスコアを＋１する。\n\n({{icon_draw.png|ドロー}}はエールで公開された時、エールのチェックを全て行った後、{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが9枚以上ある場合、このカードのスコアを＋１する。\n\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
         "faq": [],
         "rare_list": [
             {
