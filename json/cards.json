@@ -77,6 +77,24 @@
         ],
         "_img": "img/cards/PR/PL!N-PR-001-PR.png"
     },
+    "PL!N-PR-002-PR": {
+        "card_no": "PL!N-PR-002-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-002-PR.png",
+        "name": "",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-002-PR",
+                "name": ""
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-002-PR.png"
+    },
     "PL!N-PR-003-PR": {
         "card_no": "PL!N-PR-003-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR_003-PR.png",
