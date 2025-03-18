@@ -2434,7 +2434,7 @@
         "ability": "{{jyouji.png|常時}}自分のライブ中のカードが3枚以上あり、その中に『虹ヶ咲』のライブカードを1枚以上含む場合、{{icon_all.png|ハート}}{{icon_all.png|ハート}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [
             {
-                "title": "Q39（2025.02.07）",
+                "title": "Q38（2025.02.07）",
                 "question": "「ライブ中のカード」とはどのようなカードですか？",
                 "answer": "ライブカード置き場に表向きに置かれているライブカードです。",
                 "relation": [
@@ -2503,7 +2503,7 @@
         "ability": "{{jyouji.png|常時}}自分のライブ中のカードが3枚以上あり、その中に『虹ヶ咲』のライブカードを1枚以上含む場合、{{icon_all.png|ハート}}{{icon_all.png|ハート}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [
             {
-                "title": "Q39（2025.02.07）",
+                "title": "Q38（2025.02.07）",
                 "question": "「ライブ中のカード」とはどのようなカードですか？",
                 "answer": "ライブカード置き場に表向きに置かれているライブカードです。",
                 "relation": [
@@ -2572,7 +2572,7 @@
         "ability": "{{jyouji.png|常時}}自分のライブ中のカードが3枚以上あり、その中に『虹ヶ咲』のライブカードを1枚以上含む場合、{{icon_all.png|ハート}}{{icon_all.png|ハート}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [
             {
-                "title": "Q39（2025.02.07）",
+                "title": "Q38（2025.02.07）",
                 "question": "「ライブ中のカード」とはどのようなカードですか？",
                 "answer": "ライブカード置き場に表向きに置かれているライブカードです。",
                 "relation": [
@@ -2641,7 +2641,7 @@
         "ability": "{{jyouji.png|常時}}自分のライブ中のカードが3枚以上あり、その中に『虹ヶ咲』のライブカードを1枚以上含む場合、{{icon_all.png|ハート}}{{icon_all.png|ハート}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からライブカードを1枚手札に加える。",
         "faq": [
             {
-                "title": "Q39（2025.02.07）",
+                "title": "Q38（2025.02.07）",
                 "question": "「ライブ中のカード」とはどのようなカードですか？",
                 "answer": "ライブカード置き場に表向きに置かれているライブカードです。",
                 "relation": [
@@ -3094,7 +3094,7 @@
             {
                 "title": "Q67（2025.02.07）",
                 "question": "『{{live_start.png|ライブ開始時}}自分のステージにいる『虹ヶ咲』のメンバーが持つ{{heart_01.png|heart01}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_06.png|heart06}}のうち1色につき、このカードのスコアを＋１する。』について。\nこの能力の効果で{{icon_all.png|ハート}}は任意の色として扱うことができますか？",
-                "answer": "いいえ、できません。{{icon_all.png|ハート}}はライブの成功判定の時に任意の色として扱えますが、ライブ開始時に特定の色を持っているわけではありません。",
+                "answer": "いいえ、扱えません。{{icon_all.png|ハート}}はライブの必要ハートの確認を行う時に任意の色として扱いますが、ライブ開始時には任意の色として扱いません。",
                 "relation": [
                     {
                         "card_no": "PL!N-bp1-027-L",
@@ -3162,7 +3162,7 @@
         "ability": "{{live_start.png|ライブ開始時}}自分のライブ中のカードが3枚以上ある場合、このカードのスコアを＋２する。\n\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
         "faq": [
             {
-                "title": "Q39（2025.02.07）",
+                "title": "Q38（2025.02.07）",
                 "question": "「ライブ中のカード」とはどのようなカードですか？",
                 "answer": "ライブカード置き場に表向きに置かれているライブカードです。",
                 "relation": [
