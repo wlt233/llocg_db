@@ -574,6 +574,40 @@
         ],
         "_img": "img/cards/PR/PL!SP-bp1-013-PR.png"
     },
+    "PL!SP-PR-001-PR": {
+        "card_no": "PL!SP-PR-001-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-001-PR.png",
+        "name": "",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-001-PR",
+                "name": ""
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-001-PR.png"
+    },
+    "PL!SP-PR-002-PR": {
+        "card_no": "PL!SP-PR-002-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-002-PR.png",
+        "name": "",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-002-PR",
+                "name": ""
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-002-PR.png"
+    },
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-002-PR.png",
@@ -953,6 +987,22 @@
             }
         ],
         "_img": "img/cards/PR/PL!HS-PR-013-PR.png"
+    },
+    "PYHN-PR-001-PR": {
+        "card_no": "PYHN-PR-001-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PYHN-PR-001-PR.png",
+        "name": "",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PYHN-PR-001-PR",
+                "name": ""
+            }
+        ],
+        "_img": "img/cards/PR/PYHN-PR-001-PR.png"
     },
     "LL-bp1-001-R＋": {
         "card_no": "LL-bp1-001-R＋",
