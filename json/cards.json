@@ -988,6 +988,33 @@
         ],
         "_img": "img/cards/PR/PL!HS-PR-013-PR.png"
     },
+    "PL!HS-PR-014-PR": {
+        "card_no": "PL!HS-PR-014-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-014-PR.png",
+        "name": "日野下花帆",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "スリーズブーケ",
+        "cost": 2,
+        "base_heart": {
+            "heart04": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-014-PR",
+                "name": "日野下花帆"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-014-PR.png"
+    },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PYHN-PR-001-PR.png",
