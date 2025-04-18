@@ -9135,6 +9135,36 @@
         ],
         "_img": "img/cards/SPSD01/PL!SP-sd1-037-P.png"
     },
+    "PL!SP-bp1-025-L＋": {
+        "card_no": "PL!SP-bp1-025-L＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-bp1_025-L2.png",
+        "name": "Starlight Prologue",
+        "product": "プレミアムブースターラブライブ！スーパースター!!",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 2,
+        "need_heart": {
+            "heart03": 1,
+            "heart06": 1,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp1-025-L＋",
+                "name": "Starlight Prologue"
+            },
+            {
+                "card_no": "PL!SP-bp1-025-L",
+                "name": "Starlight Prologue"
+            }
+        ],
+        "_img": "img/cards/PBSP/PL!SP-bp1_025-L2.png"
+    },
     "PL!SP-pb1-001-R": {
         "card_no": "PL!SP-pb1-001-R",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_001-R.png",
@@ -10082,6 +10112,151 @@
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_022-N.png"
+    },
+    "PL!SP-pb1-023-L": {
+        "card_no": "PL!SP-pb1-023-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_023-L.png",
+        "name": "ディストーション",
+        "product": "プレミアムブースターラブライブ！スーパースター!!",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "score": 3,
+        "need_heart": {
+            "heart02": 4,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージに名前の異なる『CatChu!』のメンバーが2人以上いる場合、エネルギーを6枚までアクティブにする。その後、自分のエネルギーがすべてアクティブ状態の場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-023-L",
+                "name": "ディストーション"
+            }
+        ],
+        "_img": "img/cards/PBSP/PL!SP-pb1_023-L.png"
+    },
+    "PL!SP-pb1-024-L": {
+        "card_no": "PL!SP-pb1-024-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_024-L.png",
+        "name": "ニュートラル",
+        "product": "プレミアムブースターラブライブ！スーパースター!!",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "score": 6,
+        "need_heart": {
+            "heart06": 8,
+            "heart0": 7
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージに名前の異なる『KALEIDOSCORE』のメンバーが2人以上いる場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-024-L",
+                "name": "ニュートラル"
+            }
+        ],
+        "_img": "img/cards/PBSP/PL!SP-pb1_024-L.png"
+    },
+    "PL!SP-pb1-025-L": {
+        "card_no": "PL!SP-pb1-025-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_025-L.png",
+        "name": "Jellyfish",
+        "product": "プレミアムブースターラブライブ！スーパースター!!",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "score": 6,
+        "need_heart": {
+            "heart02": 4,
+            "heart06": 4,
+            "heart0": 6
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる、このターン中に登場、またはエリアを移動した『5yncri5e!』のメンバー1人につき、このカードを成功させるための必要ハートを[heart0]減らす。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-025-L",
+                "name": "Jellyfish"
+            }
+        ],
+        "_img": "img/cards/PBSP/PL!SP-pb1_025-L.png"
+    },
+    "PL!SP-pb1-026-L": {
+        "card_no": "PL!SP-pb1-026-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_026-L.png",
+        "name": "Jump Into the New World",
+        "product": "プレミアムブースターラブライブ！スーパースター!!",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart02": 3,
+            "heart06": 3,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-026-L",
+                "name": "Jump Into the New World"
+            },
+            {
+                "card_no": "PL!SP-pb1-026-L＋",
+                "name": "Jump Into the New World"
+            }
+        ],
+        "_img": "img/cards/PBSP/PL!SP-pb1_026-L.png"
+    },
+    "PL!SP-pb1-026-L＋": {
+        "card_no": "PL!SP-pb1-026-L＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_026-L2.png",
+        "name": "Jump Into the New World",
+        "product": "プレミアムブースターラブライブ！スーパースター!!",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart02": 3,
+            "heart06": 3,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "special_heart": {},
+        "rare": "L+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-026-L＋",
+                "name": "Jump Into the New World"
+            },
+            {
+                "card_no": "PL!SP-pb1-026-L",
+                "name": "Jump Into the New World"
+            }
+        ],
+        "_img": "img/cards/PBSP/PL!SP-pb1_026-L2.png"
     },
     "PL!SP-pb1-027-PE": {
         "card_no": "PL!SP-pb1-027-PE",
