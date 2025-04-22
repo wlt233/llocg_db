@@ -1,4 +1,28 @@
 {
+    "PB01": {
+        "id": 937,
+        "pack_name": "LoveLive! Superstar!! 高级补充包",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/pb01_pack.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/pb01_box.png",
+        "pack_categorize_name": "高级补充包",
+        "pack_prefix": "PB01",
+        "card_prefix": "Loveca",
+        "released_at": "2025-04-19",
+        "details": "Premium Booster LoveLive! Superstar!!",
+        "_img": "img/products_cn/pb01_pack.png"
+    },
+    "PR": {
+        "id": 938,
+        "pack_name": "赛事PR卡",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
+        "pack_categorize_name": "PR卡",
+        "pack_prefix": "PR",
+        "card_prefix": "Loveca",
+        "released_at": "2025-04-19",
+        "details": "赛事PR卡",
+        "_img": "img/products_cn/loveca_pr.png"
+    },
     "BP01": {
         "id": 884,
         "pack_name": "补充包 vol.1",
