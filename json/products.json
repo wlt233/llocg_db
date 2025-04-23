@@ -338,7 +338,7 @@
         "_img": "img/products/L_TCG_SD_01_BOX_image.png"
     },
     "PBSP": {
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/themes/llofficial-cardgame_v1/assets/images/common/common/thumb_default.jpg",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/thumb/L_TCG_PB_01_BOX_image.png",
         "href": "https://llofficial-cardgame.com/cardlist/searchresults/?expansion=PBSP",
         "product_id": "PBSP",
         "title": "プレミアムブースター ラブライブ！スーパースター!!",
@@ -430,6 +430,6 @@
             "PL!SP-pb1-053-SRE",
             "PL!SP-pb1-054-SRE"
         ],
-        "_img": "img/products/thumb_default.jpg"
+        "_img": "img/products/L_TCG_PB_01_BOX_image.png"
     }
 }
