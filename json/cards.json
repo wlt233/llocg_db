@@ -656,6 +656,33 @@
         ],
         "_img": "img/cards/PR/PL!HS-bp1-012-PR.png"
     },
+    "PL!HS-bp2-011-PR": {
+        "card_no": "PL!HS-bp2-011-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-bp2-011-PR.png",
+        "name": "村野さやか",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "DOLLCHESTRA",
+        "cost": 2,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}デッキの上からカードを5枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-bp2-011-PR",
+                "name": "村野さやか"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-bp2-011-PR.png"
+    },
     "PL!HS-PR-001-PR": {
         "card_no": "PL!HS-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-001-PR.png",
