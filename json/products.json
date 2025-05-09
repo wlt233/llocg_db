@@ -9,7 +9,6 @@
         "card_list": [
             "LL-PR-001-PR",
             "PL!S-PR-001-PR",
-            "PL!HS-PR-015-PR",
             "PL!N-bp1-019-PR",
             "PL!N-PR-001-PR",
             "PL!N-PR-002-PR",
@@ -58,6 +57,7 @@
             "PL!HS-PR-012-PR",
             "PL!HS-PR-013-PR",
             "PL!HS-PR-014-PR",
+            "PL!HS-PR-015-PR",
             "PYHN-PR-001-PR"
         ],
         "_img": "img/products/thumb_default.jpg"

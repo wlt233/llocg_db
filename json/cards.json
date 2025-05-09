@@ -32,23 +32,6 @@
         ],
         "_img": "img/cards/PR/PL!S-PR-001-PR.png"
     },
-    "PL!HS-PR-015-PR": {
-        "card_no": "PL!HS-PR-015-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-015-PR.png",
-        "name": "",
-        "product": "PRカード",
-        "type": "エネルギー",
-        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
-        "rare": "PR",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!HS-PR-015-PR",
-                "name": ""
-            }
-        ],
-        "_img": "img/cards/PR/PL!HS-PR-015-PR.png"
-    },
     "PL!N-bp1-019-PR": {
         "card_no": "PL!N-bp1-019-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-bp1-019-PR.png",
@@ -1347,6 +1330,23 @@
             }
         ],
         "_img": "img/cards/PR/PL!HS-PR-014-PR.png"
+    },
+    "PL!HS-PR-015-PR": {
+        "card_no": "PL!HS-PR-015-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-015-PR.png",
+        "name": "",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-015-PR",
+                "name": ""
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-015-PR.png"
     },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
