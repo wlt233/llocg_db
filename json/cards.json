@@ -545,277 +545,6 @@
         ],
         "_img": "img/cards/PR/PL!N-PR-015-PR2.png"
     },
-    "PL!SP-003-PR": {
-        "card_no": "PL!SP-003-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-003-PR.png",
-        "name": "澁谷かのん",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "CatChu!",
-        "cost": 2,
-        "base_heart": {
-            "heart03": 1
-        },
-        "blade_heart": {
-            "b_heart03": 1
-        },
-        "rare": "PR",
-        "ability": "{{toujyou.png|登場}}自分のエネルギーが7枚以上ある場合、カードを1枚引く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-003-PR",
-                "name": "澁谷かのん"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-003-PR.png"
-    },
-    "PL!SP-004-PR": {
-        "card_no": "PL!SP-004-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-004-PR.png",
-        "name": "唐 可可",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "KALEIDOSCORE",
-        "cost": 4,
-        "base_heart": {
-            "heart06": 1
-        },
-        "rare": "PR",
-        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-004-PR",
-                "name": "唐 可可"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-004-PR.png"
-    },
-    "PL!SP-005-PR": {
-        "card_no": "PL!SP-005-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-005-PR.png",
-        "name": "嵐 千砂都",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "5yncri5e!",
-        "cost": 5,
-        "base_heart": {
-            "heart03": 3
-        },
-        "blade": 1,
-        "rare": "PR",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-005-PR",
-                "name": "嵐 千砂都"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-005-PR.png"
-    },
-    "PL!SP-006-PR": {
-        "card_no": "PL!SP-006-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-006-PR.png",
-        "name": "平安名すみれ",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "CatChu!",
-        "cost": 4,
-        "base_heart": {
-            "heart02": 1
-        },
-        "rare": "PR",
-        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-006-PR",
-                "name": "平安名すみれ"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-006-PR.png"
-    },
-    "PL!SP-007-PR": {
-        "card_no": "PL!SP-007-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-007-PR.png",
-        "name": "葉月 恋",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "KALEIDOSCORE",
-        "cost": 2,
-        "base_heart": {
-            "heart03": 1
-        },
-        "blade_heart": {
-            "b_heart03": 1
-        },
-        "rare": "PR",
-        "ability": "{{toujyou.png|登場}}自分のエネルギーが7枚以上ある場合、カードを1枚引く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-007-PR",
-                "name": "葉月 恋"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-007-PR.png"
-    },
-    "PL!SP-008-PR": {
-        "card_no": "PL!SP-008-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-008-PR.png",
-        "name": "桜小路きな子",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "5yncri5e!",
-        "cost": 5,
-        "base_heart": {
-            "heart03": 3
-        },
-        "blade": 1,
-        "rare": "PR",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-008-PR",
-                "name": "桜小路きな子"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-008-PR.png"
-    },
-    "PL!SP-009-PR": {
-        "card_no": "PL!SP-009-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-009-PR.png",
-        "name": "米女メイ",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "CatChu!",
-        "cost": 9,
-        "base_heart": {
-            "heart02": 2,
-            "heart03": 1,
-            "heart06": 1
-        },
-        "blade": 2,
-        "rare": "PR",
-        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。これによりライブカードを控え室に置いた場合、さらにカードを1枚引く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-009-PR",
-                "name": "米女メイ"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-009-PR.png"
-    },
-    "PL!SP-010-PR": {
-        "card_no": "PL!SP-010-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-010-PR.png",
-        "name": "若菜四季",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "5yncri5e!",
-        "cost": 2,
-        "base_heart": {
-            "heart03": 1
-        },
-        "blade_heart": {
-            "b_heart03": 1
-        },
-        "rare": "PR",
-        "ability": "{{toujyou.png|登場}}自分のエネルギーが7枚以上ある場合、カードを1枚引く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-010-PR",
-                "name": "若菜四季"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-010-PR.png"
-    },
-    "PL!SP-011-PR": {
-        "card_no": "PL!SP-011-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-011-PR.png",
-        "name": "鬼塚夏美",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "5yncri5e!",
-        "cost": 9,
-        "base_heart": {
-            "heart02": 2,
-            "heart03": 1,
-            "heart06": 1
-        },
-        "blade": 2,
-        "rare": "PR",
-        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。これによりライブカードを控え室に置いた場合、さらにカードを1枚引く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-011-PR",
-                "name": "鬼塚夏美"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-011-PR.png"
-    },
-    "PL!SP-012-PR": {
-        "card_no": "PL!SP-012-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-012-PR.png",
-        "name": "ウィーン・マルガレーテ",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "KALEIDOSCORE",
-        "cost": 9,
-        "base_heart": {
-            "heart02": 2,
-            "heart03": 1,
-            "heart06": 1
-        },
-        "blade": 2,
-        "rare": "PR",
-        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。これによりライブカードを控え室に置いた場合、さらにカードを1枚引く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-012-PR",
-                "name": "ウィーン・マルガレーテ"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-012-PR.png"
-    },
-    "PL!SP-013-PR": {
-        "card_no": "PL!SP-013-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-013-PR.png",
-        "name": "鬼塚冬毬",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "5yncri5e!",
-        "cost": 4,
-        "base_heart": {
-            "heart03": 1
-        },
-        "rare": "PR",
-        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-013-PR",
-                "name": "鬼塚冬毬"
-            }
-        ],
-        "_img": "img/cards/PR/PL!SP-013-PR.png"
-    },
     "PL!SP-bp1-013-PR": {
         "card_no": "PL!SP-bp1-013-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-bp1-013-PR.png",
@@ -878,6 +607,277 @@
             }
         ],
         "_img": "img/cards/PR/PL!SP-PR-002-PR.png"
+    },
+    "PL!SP-PR-003-PR": {
+        "card_no": "PL!SP-PR-003-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-003-PR.png",
+        "name": "澁谷かのん",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分のエネルギーが7枚以上ある場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-003-PR",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-003-PR.png"
+    },
+    "PL!SP-PR-004-PR": {
+        "card_no": "PL!SP-PR-004-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-004-PR.png",
+        "name": "唐 可可",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 1
+        },
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-004-PR",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-004-PR.png"
+    },
+    "PL!SP-PR-005-PR": {
+        "card_no": "PL!SP-PR-005-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-005-PR.png",
+        "name": "嵐 千砂都",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 5,
+        "base_heart": {
+            "heart03": 3
+        },
+        "blade": 1,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-005-PR",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-005-PR.png"
+    },
+    "PL!SP-PR-006-PR": {
+        "card_no": "PL!SP-PR-006-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-006-PR.png",
+        "name": "平安名すみれ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1
+        },
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-006-PR",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-006-PR.png"
+    },
+    "PL!SP-PR-007-PR": {
+        "card_no": "PL!SP-PR-007-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-007-PR.png",
+        "name": "葉月 恋",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分のエネルギーが7枚以上ある場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-007-PR",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-007-PR.png"
+    },
+    "PL!SP-PR-008-PR": {
+        "card_no": "PL!SP-PR-008-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-008-PR.png",
+        "name": "桜小路きな子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 5,
+        "base_heart": {
+            "heart03": 3
+        },
+        "blade": 1,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-008-PR",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-008-PR.png"
+    },
+    "PL!SP-PR-009-PR": {
+        "card_no": "PL!SP-PR-009-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-009-PR.png",
+        "name": "米女メイ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。これによりライブカードを控え室に置いた場合、さらにカードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-009-PR",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-009-PR.png"
+    },
+    "PL!SP-PR-010-PR": {
+        "card_no": "PL!SP-PR-010-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-010-PR.png",
+        "name": "若菜四季",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分のエネルギーが7枚以上ある場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-010-PR",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-010-PR.png"
+    },
+    "PL!SP-PR-011-PR": {
+        "card_no": "PL!SP-PR-011-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-011-PR.png",
+        "name": "鬼塚夏美",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。これによりライブカードを控え室に置いた場合、さらにカードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-011-PR",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-011-PR.png"
+    },
+    "PL!SP-PR-012-PR": {
+        "card_no": "PL!SP-PR-012-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-012-PR.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。これによりライブカードを控え室に置いた場合、さらにカードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-012-PR",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-012-PR.png"
+    },
+    "PL!SP-PR-013-PR": {
+        "card_no": "PL!SP-PR-013-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-013-PR.png",
+        "name": "鬼塚冬毬",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1
+        },
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-013-PR",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-013-PR.png"
     },
     "PL!SP-PR-014-PR＋": {
         "card_no": "PL!SP-PR-014-PR＋",
