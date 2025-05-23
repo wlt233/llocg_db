@@ -1,4 +1,16 @@
 {
+    " BP02": {
+        "id": 953,
+        "pack_name": "补充包 NEXT STEP",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_70d37d556a797c3a54b28f8846f8c92d.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_7799790ff14bc95eebdebcd6489561e9.png",
+        "pack_categorize_name": "补充包",
+        "pack_prefix": " BP02",
+        "card_prefix": " Loveca",
+        "released_at": "2025-05-31",
+        "details": "<p> </p>",
+        "_img": "img/products_cn/new_70d37d556a797c3a54b28f8846f8c92d.png"
+    },
     "PB01": {
         "id": 937,
         "pack_name": "LoveLive! Superstar!! 高级补充包",
