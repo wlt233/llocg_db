@@ -1372,6 +1372,22 @@
         ],
         "_img": "img/cards/PR/PL!HS-PR-015-PR.png"
     },
+    "PL!N-PR-016-PR": {
+        "card_no": "PL!N-PR-016-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-016-PR.png",
+        "name": "PR",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-016-PR",
+                "name": "PR"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-016-PR.png"
+    },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PYHN-PR-001-PR.png",
