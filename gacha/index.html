@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>拉布卡抽卡模拟器 v0.3.0(PBSP)</title>
+  <title>拉布卡抽卡模拟器 </title>
   <style>
     body {
       width: calc(100% - 20px);
@@ -92,11 +92,12 @@
 
 <div class="container">
   <div class="hoveritem center">
-    <h2 class="normal">拉布卡抽卡模拟器 v0.3.0(PBSP)</h2>
-    <h2 class="hover" >拉布卡戒赌模拟器 v0.3.0(PBSP)</h2>
+    <h2 class="normal">拉布卡抽卡模拟器 </h2>
+    <h2 class="hover" >拉布卡戒赌模拟器 </h2>
   </div>
   <div class="center">
     <select id="colle-select">
+      <option value="BP02">BP02</option>
       <option value="PBSP">PBSP</option>
       <option value="BP01">BP01</option>
     </select>
@@ -126,6 +127,11 @@
   </div>
 
 <script>
+const title = "v0.3.1(BP02)";
+document.title += title;
+for (const h2 of document.querySelectorAll('h2')) {
+  h2.textContent += title;
+}
 
 
 const RARE_SORT = {
@@ -178,10 +184,12 @@ function displayRecord(record) {
     const priceBox = {
         "PBSP": 300,
         "BP01": 250,
+        "BP02": 300,
     }[colle] || 50;
     const pricePack = {
         "PBSP": 15,
         "BP01": 25,
+        "BP02": 30,
     }[colle] || 25;
     const price = count.box * priceBox + count.pack * pricePack;
     let text = `次数：${count.box} 盒 ${count.pack} 包<br>价值： ${price}r<br><br>高罕：<br>`;
@@ -289,7 +297,7 @@ function sample(array, k) {
 function genParcel(colle) {
   if (colle == "PBSP") {
     return genParcelPremiumBooster(colle);
-  } else if (colle == "BP01") {
+  } else if (colle == "BP01" || colle == "BP02") {
     return genParcelBoostPack(colle);
   } else {
     return genParcelBoostPack(colle);
