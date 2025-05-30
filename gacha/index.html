@@ -1,0 +1,426 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>拉布卡抽卡模拟器 v0.3.0(PBSP)</title>
+  <style>
+    body {
+      width: calc(100% - 20px);
+        max-width: 950px;
+        margin: 0 auto;
+        padding: 10px;
+        background: #efeff4;
+        font-family: -apple-system, Arial, 'PingFang SC', 'STHeiti Light', 'Microsoft YaHei', sans-serif;
+        word-break: break-all;
+        -webkit-text-size-adjust: none;
+        text-align: center
+    }
+    div.center {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      justify-content: center;
+    }
+    select, button {
+      padding: 10px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      background-color: #fff;
+      cursor: pointer;
+    }
+    button {
+      background-color: #E5007F;
+      color: white;
+      border: none;
+    }
+    button:hover {
+      background-color: #a61163;
+    }
+    h2 {
+      margin: 0;
+    }
+    .container {
+      min-height: 100vh;
+    }
+    .cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .card {
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+      background-color: white;
+      width: 150px;
+      text-align: center;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .card img {
+      width: 100%;
+      height: auto;
+      border-radius: 5px;
+    }
+    .card p {
+      margin: 0;
+      font-size: 14px;
+    }
+    .bulk {
+      align-items: center;
+      justify-content: center;
+      gap: 1px;
+      margin: auto 0;
+    }
+    .hoveritem>.hover {
+      display: none
+    }
+    .hoveritem:hover>.normal {
+        display: none
+    }
+    .hoveritem:hover>.hover {
+        display: inline
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div class="hoveritem center">
+    <h2 class="normal">拉布卡抽卡模拟器 v0.3.0(PBSP)</h2>
+    <h2 class="hover" >拉布卡戒赌模拟器 v0.3.0(PBSP)</h2>
+  </div>
+  <div class="center">
+    <select id="colle-select">
+      <option value="PBSP">PBSP</option>
+      <option value="BP01">BP01</option>
+    </select>
+    <button id="draw-one">抽一包</button>
+    <button id="draw-box">抽一盒</button>
+    <div class="bulk">
+      <input id="bulk" type="checkbox"><span>散包/盒</span>
+    </div>
+    <span id="tip">数据加载中...</span>
+  </div>
+  <div class="center">
+    <details>
+      <summary>抽卡记录</summary>
+      <p id="record">您好像还没有抽过卡...</p>
+    </details>
+  </div>
+  <div id="result" class="cards center"></div>
+</div>
+
+  <div class="footer">
+    <p>
+      🌈code by <a href="https://tqlwsl.moe">wlt233</a> with❤️
+      | data: <a href="https://github.com/wlt233/llocg_db">llocg_db</a> 
+      | links: <a href="https://allb.tqlwsl.moe">土鸡梨栗资源站</a> <a href="https://tqlwsl.moe/omoiyoshino">オモイヨシノ</a>
+    </p>
+    <p>©2013 PL! ©2017 PL!S ©2022 PL!N ©2024 PL!SP ©PL!HS</p>
+  </div>
+
+<script>
+
+
+const RARE_SORT = {
+  "N": 0, "R": 1, "P": 2, "R+": 3, "L": 4, "PE": 5, "SRE":5, "P+": 6, "PE+": 7, "L+": 7, "SEC": 8, "SECE": 9, "LLE": 10
+};
+const RARE_COLOR = {
+  "N": "#000", "R": "#000", "P": "#000", 
+  "R+": "#B96025", "L": "#B96025", 
+  "PE": "#808080", "SRE": "#808080", 
+  "P+": "#8D3CC4", "PE+": "#F38500", "LE+": "#F38500", 
+  "SEC": "#E5007F", "SECE": "#33CCCC", "LLE": "#E5007F"
+}
+
+const RECORD = {
+  count: { parcel: 0, box: 0, pack: 0 },
+  cards: { }
+};
+
+function displayCards(cards) {
+  cards = cards.sort((a, b) => RARE_SORT[CARDS[b].rare] - RARE_SORT[CARDS[a].rare]);
+
+  const resultDiv = document.getElementById('result');
+  resultDiv.innerHTML = '';
+  cards.forEach(card_no => {
+    card = CARDS[card_no];
+    if (!RECORD.cards[card_no]) RECORD.cards[card_no] = 0;
+    RECORD.cards[card_no] += 1;
+
+    const cardElement = document.createElement('div');
+    cardElement.className = 'card';
+
+    const img = document.createElement('img');
+    img.src = card.img;
+    img.alt = card.name;
+
+    const name = document.createElement('p');
+    name.textContent = `${card.name} ${card.rare}`;
+
+    cardElement.appendChild(img);
+    cardElement.appendChild(name);
+    resultDiv.appendChild(cardElement);
+  });
+  displayRecord();
+}
+
+function displayRecord(record) {
+    const count = RECORD.count;
+    const cards = RECORD.cards;
+    const colle = document.getElementById('colle-select').value;
+    const priceBox = {
+        "PBSP": 300,
+        "BP01": 250,
+    }[colle] || 50;
+    const pricePack = {
+        "PBSP": 15,
+        "BP01": 25,
+    }[colle] || 25;
+    const price = count.box * priceBox + count.pack * pricePack;
+    let text = `次数：${count.box} 盒 ${count.pack} 包<br>价值： ${price}r<br><br>高罕：<br>`;
+    
+    const normalCard = {};
+    for (const [cardNo, num] of Object.entries(cards)) {
+        const card = CARDS[cardNo];
+        if (RARE_SORT[card.rare] >= 5) {
+            const name = card.name.replace("\n", " ");
+            text += `<span style="color:${RARE_COLOR[card.rare]}">(${card.rare}) ${name} x${num}<br></span>`;
+        } else {
+            if (!normalCard[card.rare]) normalCard[card.rare] = 0;
+            normalCard[card.rare] += num;
+        }
+    }
+
+    text += "<br>平卡：<br>";
+    for (const [rare, num] of Object.entries(normalCard)) {
+      text += `${rare} x${num}<br>`;
+    }
+    document.getElementById('record').innerHTML = text;
+}
+
+
+window.CURRENT_COLLE = "";
+window.CURRENT_PARCEL = [];
+window.CURRENT_BOX = [];
+
+document.getElementById('draw-one').onclick = () => {
+  RECORD.count.pack += 1;
+  const colle = document.getElementById('colle-select').value;
+  if (document.getElementById('bulk').checked) {
+    const parcel = genParcel(colle);
+    const box = parcel.pop();
+    const cards = box.pop();
+    displayCards(cards);
+  }
+  else {
+    if (CURRENT_COLLE != colle) {
+      CURRENT_COLLE = colle;
+      CURRENT_PARCEL = genParcel(colle);
+    }
+    if (CURRENT_BOX.length == 0) {
+      if (CURRENT_PARCEL.length == 0) {
+        CURRENT_PARCEL = genParcel(colle);
+      }
+      CURRENT_BOX = CURRENT_PARCEL.pop();
+    }
+    const cards = CURRENT_BOX.pop();
+    displayCards(cards);
+  }
+}
+
+document.getElementById('draw-box').onclick = () => {
+  RECORD.count.box += 1;
+  const colle = document.getElementById('colle-select').value;
+  if (document.getElementById('bulk').checked) {
+    const parcel = genParcel(colle);
+    const box = parcel.pop();
+    displayCards(box.flat());
+  }
+  else {
+    if (CURRENT_COLLE != colle || CURRENT_PARCEL.length == 0) {
+      CURRENT_COLLE = colle;
+      CURRENT_PARCEL = genParcel(colle);
+    }
+    CURRENT_BOX = CURRENT_PARCEL.pop();
+    displayCards(CURRENT_BOX.flat());
+  }
+}
+
+
+
+// from https://github.com/wlt233/llocg_db
+async function getData() {
+  const [PRODUCTS, CARDS] = await Promise.all([
+    fetch('./products.json').then(res => res.json()),
+    fetch('./cards.json').then(res => res.json())
+  ]);
+  console.log(PRODUCTS, CARDS);
+  window.PRODUCTS = PRODUCTS;
+  window.CARDS = CARDS;
+  document.getElementById('tip').textContent = '';
+}
+getData();
+
+
+
+// from https://github.com/wlt233/llocg_db/blob/master/gacha_emulator.py
+function shuffle(array) {
+  for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+  }
+}
+
+function sample(array, k) {
+  if (k === 0) return [];
+  const copied = [...array];
+  shuffle(copied);
+  return copied.slice(0, k);
+}
+
+
+function genParcel(colle) {
+  if (colle == "PBSP") {
+    return genParcelPremiumBooster(colle);
+  } else if (colle == "BP01") {
+    return genParcelBoostPack(colle);
+  } else {
+    return genParcelBoostPack(colle);
+  }
+}
+
+function genParcelBoostPack(colle) {
+  const cardList = PRODUCTS[colle].card_list;
+  const cardRare = {};
+  for (const cardNo of cardList) {
+      const rare = CARDS[cardNo].rare;
+      if (!cardRare[rare]) cardRare[rare] = [];
+      cardRare[rare].push(cardNo);
+  }
+  const getCards = (rarity) => cardRare[rarity] || [];
+
+
+  const seceNum = Math.random() < 0.005 ? 1 : 0;
+  const seceList = sample(getCards("SECE"), seceNum);
+  const secNum = 1 + (Math.random() < 0.05 ? 1 : 0);
+  const secList = sample(getCards("SEC"), secNum);
+  const pe2Num = 3 + (Math.random() < 0.1 ? 1 : 0);
+  const pe2List = sample(getCards("PE+"), pe2Num);
+  const p2Num = 4 + (Math.random() < 0.1 ? 1 : 0);
+  const p2List = sample(getCards("P+"), p2Num);
+  const rareList = [...seceList, ...secList, ...pe2List, ...p2List];
+  shuffle(rareList);
+
+  const _parcelList = rareList.map(card => [card]);
+  while (_parcelList.length < 20) _parcelList.push([]);
+
+  const parcel = [];
+  for (const boxHigh of _parcelList) {
+
+      if (getCards("PE").length > 0) {
+          boxHigh.push(sample(getCards("PE"), 1)[0]);
+      }
+      boxHigh.push(...sample(getCards("L"), 5));
+      const needed = 10 - boxHigh.length;
+      boxHigh.push(...sample(getCards("R+"), needed));
+
+      const box = [];
+      const pPool = [...getCards("P")];
+      const rPool = [...getCards("R")];
+      const nPool = [...getCards("N")];
+      shuffle(pPool);
+      shuffle(rPool);
+      shuffle(nPool);
+
+      for (const highCard of boxHigh) {
+          let pack = [highCard];
+          
+          pack.push(pPool.length ? pPool.pop() : null);
+          pack.push(rPool.length ? rPool.pop() : null);
+          pack.push(...nPool.splice(0, 2));
+          box.push(pack.filter(c => c !== null));
+      }
+      if (Math.random() < 0.0001) {
+        box[box.length - 1] = [...getCards("LLE")];
+      }
+      shuffle(box);
+      parcel.push(box);
+  }
+  shuffle(parcel);
+  console.log(parcel);
+  return parcel;
+}
+
+
+
+function genParcelPremiumBooster(colle) {
+  const cardList = PRODUCTS[colle].card_list;
+  const cardRare = {};
+  for (const cardNo of cardList) {
+      const rare = CARDS[cardNo].rare;
+      if (!cardRare[rare]) cardRare[rare] = [];
+      cardRare[rare].push(cardNo);
+  }
+  const getCards = (rarity) => cardRare[rarity] || [];
+
+
+  const seceNum = Math.random() < 0.005 ? 1 : 0;
+  const seceList = sample(getCards("SECE"), seceNum);
+  const pe2Num = 3 + (Math.random() < 0.1 ? 1 : 0);
+  const pe2List = sample(getCards("PE+"), pe2Num);
+  const p2Num = 4 + (Math.random() < 0.1 ? 1 : 0);
+  const p2List = sample(getCards("P+"), p2Num);
+  const l2Num = 4 + (Math.random() < 0.1 ? 1 : 0);
+  const l2List = sample(getCards("L+"), l2Num);
+  const rareList = [...seceList, ...pe2List, ...p2List, ...l2List];
+  shuffle(rareList);
+
+  const _parcelList = rareList.map(card => [card]);
+  while (_parcelList.length < 18) _parcelList.push([]);
+
+  const parcel = [];
+  for (const boxHigh of _parcelList) {
+
+      if (getCards("PE").length > 0) {
+          const peNum = 1 + (Math.random() < 0.1 ? 1 : 0);
+          boxHigh.push(...sample(getCards("PE"), peNum));
+      }
+      boxHigh.push(...sample(getCards("SRE"), 3));
+      const needed = 20 - boxHigh.length;
+      boxHigh.push(...sample(getCards("L"), needed));
+
+      const box = [];
+      const rPool = [...getCards("R")];
+      const nPool = [...getCards("N")];
+      shuffle(rPool);
+      shuffle(nPool);
+
+      for (const highCard of boxHigh) {
+          let pack = [highCard];
+          
+          pack.push(rPool.length ? rPool.pop() : null);
+          pack.push(nPool.length ? nPool.pop() : null);
+          box.push(pack.filter(c => c !== null));
+      }
+      if (Math.random() < 0.0001) {
+        box[box.length - 1] = [...sample(getCards("LLE"), 3)];
+      }
+      shuffle(box);
+      parcel.push(box);
+  }
+  shuffle(parcel);
+  console.log(parcel);
+  return parcel;
+}
+
+
+</script>
+</body>
+</html>
