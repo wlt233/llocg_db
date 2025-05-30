@@ -193,7 +193,7 @@ async def main():
             all_card_no += card_no_list
         
         cards = { card_no: {} for card_no in all_card_no }
-        semaphore = asyncio.Semaphore(100)
+        semaphore = asyncio.Semaphore(10)
         card_info_lists = await asyncio.gather(
             *(fetch_card_info(client, semaphore, card_no) for card_no in all_card_no)
         )
@@ -217,7 +217,7 @@ async def main():
         with open("./json/cards.json", "w", encoding="utf-8") as f:
             json.dump(cards, f, indent=4, ensure_ascii=False)
         
-        semaphore = asyncio.Semaphore(100)
+        semaphore = asyncio.Semaphore(10)
         await asyncio.gather(
             *(async_download_image(client, semaphore, img[0], img[1]) for img in img_list)
         )
