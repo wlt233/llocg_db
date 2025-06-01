@@ -177,6 +177,9 @@ function displayCards(cards) {
   displayRecord();
 }
 
+window.RECORD_BOX = [];
+window.RECORD_PACK = [];
+
 function displayRecord(record) {
     const count = RECORD.count;
     const cards = RECORD.cards;
@@ -185,14 +188,20 @@ function displayRecord(record) {
         "PBSP": 300,
         "BP01": 250,
         "BP02": 300,
-    }[colle] || 50;
+    };
     const pricePack = {
         "PBSP": 15,
         "BP01": 25,
         "BP02": 30,
-    }[colle] || 25;
-    const price = count.box * priceBox + count.pack * pricePack;
-    let text = `次数：${count.box} 盒 ${count.pack} 包<br>价值： ${price}r<br><br>高罕：<br>`;
+    };
+    let price = 0;
+    window.RECORD_BOX.forEach(box => {
+        price += priceBox[box] || 0;
+    });
+    window.RECORD_PACK.forEach(pack => {
+        price += pricePack[pack] || 0;
+    });
+    let text = `次数：${window.RECORD_BOX.length} 盒 ${window.RECORD_PACK.length} 包<br>价值： ${price}r<br><br>高罕：<br>`;
     
     const normalCard = {};
     for (const [cardNo, num] of Object.entries(cards)) {
@@ -230,7 +239,8 @@ document.getElementById('draw-one').onclick = () => {
   else {
     if (CURRENT_COLLE != colle) {
       CURRENT_COLLE = colle;
-      CURRENT_PARCEL = genParcel(colle);
+      CURRENT_PARCEL = [];
+      CURRENT_BOX = [];
     }
     if (CURRENT_BOX.length == 0) {
       if (CURRENT_PARCEL.length == 0) {
@@ -239,6 +249,7 @@ document.getElementById('draw-one').onclick = () => {
       CURRENT_BOX = CURRENT_PARCEL.pop();
     }
     const cards = CURRENT_BOX.pop();
+    window.RECORD_PACK.push(colle);
     displayCards(cards);
   }
 }
@@ -257,6 +268,7 @@ document.getElementById('draw-box').onclick = () => {
       CURRENT_PARCEL = genParcel(colle);
     }
     CURRENT_BOX = CURRENT_PARCEL.pop();
+    window.RECORD_BOX.push(colle);
     displayCards(CURRENT_BOX.flat());
   }
 }
