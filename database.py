@@ -8,7 +8,10 @@ import re
 import httpx
 
 
-headers = { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" }
+headers = {
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
+    "referer": "https://llofficial-cardgame.com/"
+}
 
 async def async_download_image(client, semaphore, url: str, p: str):
     if os.path.exists(p): return
