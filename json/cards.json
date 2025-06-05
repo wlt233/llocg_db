@@ -16718,8 +16718,7 @@
         "unit": "みらくらぱーく!",
         "cost": 10,
         "base_heart": {
-            "heart01": 4,
-            "heart05": 1
+            "heart01": 4
         },
         "blade": 3,
         "rare": "R+",
@@ -16755,8 +16754,7 @@
         "unit": "みらくらぱーく!",
         "cost": 10,
         "base_heart": {
-            "heart01": 4,
-            "heart05": 1
+            "heart01": 4
         },
         "blade": 3,
         "rare": "P",
@@ -16792,8 +16790,7 @@
         "unit": "みらくらぱーく!",
         "cost": 10,
         "base_heart": {
-            "heart01": 4,
-            "heart05": 1
+            "heart01": 4
         },
         "blade": 3,
         "rare": "P+",
@@ -16829,8 +16826,7 @@
         "unit": "みらくらぱーく!",
         "cost": 10,
         "base_heart": {
-            "heart01": 4,
-            "heart05": 1
+            "heart01": 4
         },
         "blade": 3,
         "rare": "SEC",
