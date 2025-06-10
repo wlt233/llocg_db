@@ -1,4 +1,16 @@
 {
+    "PR": {
+        "id": 938,
+        "pack_name": "赛事PR卡",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
+        "pack_categorize_name": "PR卡",
+        "pack_prefix": "PR",
+        "card_prefix": "Loveca",
+        "released_at": "2025-04-19",
+        "details": "赛事PR卡",
+        "_img": "img/products_cn/loveca_pr.png"
+    },
     " BP02": {
         "id": 953,
         "pack_name": "补充包 NEXT STEP",
@@ -22,18 +34,6 @@
         "released_at": "2025-04-19",
         "details": "Premium Booster LoveLive! Superstar!!",
         "_img": "img/products_cn/pb01_pack.png"
-    },
-    "PR": {
-        "id": 938,
-        "pack_name": "赛事PR卡",
-        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
-        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
-        "pack_categorize_name": "PR卡",
-        "pack_prefix": "PR",
-        "card_prefix": "Loveca",
-        "released_at": "2025-04-19",
-        "details": "赛事PR卡",
-        "_img": "img/products_cn/loveca_pr.png"
     },
     "BP01": {
         "id": 884,
