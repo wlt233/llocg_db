@@ -18531,6 +18531,59 @@
         },
         "_img": "img/cards_cn/PL!SP-bp1-025-L.png"
     },
+    "PL!SP-bp1-025-L+": {
+        "version_id": 304,
+        "card_name_org": "Starlight Prologue",
+        "card_name_alias": "Starlight ProloguePL!SP-bp1-025",
+        "card_id": 214,
+        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-bp1-025-Lplus.png",
+        "card_prefix": "",
+        "status": 0,
+        "card_type": 14,
+        "level": 6,
+        "is_common_card": 0,
+        "can_join_main_deck": 1,
+        "can_join_engery_deck": 0,
+        "card_name_cn": "Starlight Prologue",
+        "detail": {
+            "version_id": 304,
+            "card_id": 214,
+            "card_name_org": "Starlight Prologue",
+            "card_name_cn": "Starlight Prologue",
+            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-bp1-025-Lplus.png",
+            "card_type": 14,
+            "ability": "-",
+            "flavor": "",
+            "card_number": "PL!SP-bp1-025-L+",
+            "rarity": "L+",
+            "illustrator": "",
+            "cost": null,
+            "trigger_count": null,
+            "trigger": "ALL1-",
+            "participation_unit": null,
+            "animation": null,
+            "level": 6,
+            "copyright": "©2060 PL!SP",
+            "display_attacks": "黄1紫1无色3",
+            "pack_lists": [
+                {
+                    "id": 937,
+                    "pack_name": "LoveLive! Superstar!! 高级补充包",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-04-19 00:00:00"
+                },
+                {
+                    "id": 937,
+                    "pack_name": "LoveLive! Superstar!! 高级补充包",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-04-19 00:00:00"
+                }
+            ],
+            "faq_lists": [],
+            "top_deck_collection_lists": []
+        },
+        "_img": "img/cards_cn/PL!SP-bp1-025-Lplus.png"
+    },
     "PL!SP-bp1-026-L": {
         "version_id": 132,
         "card_name_org": "未来予報ハレルヤ！",
@@ -24373,59 +24426,6 @@
             "top_deck_collection_lists": []
         },
         "_img": "img/cards_cn/PL!SP-pb1-025-L.png"
-    },
-    "PL!SP-pb1-025-L+": {
-        "version_id": 304,
-        "card_name_org": "Jellyfish",
-        "card_name_alias": "JellyfishPL!SP-pb1-025",
-        "card_id": 214,
-        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-pb1-025-Lplus.png",
-        "card_prefix": "",
-        "status": 0,
-        "card_type": 14,
-        "level": 6,
-        "is_common_card": 0,
-        "can_join_main_deck": 1,
-        "can_join_engery_deck": 0,
-        "card_name_cn": "Jellyfish",
-        "detail": {
-            "version_id": 304,
-            "card_id": 214,
-            "card_name_org": "Jellyfish",
-            "card_name_cn": "Jellyfish",
-            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-pb1-025-Lplus.png",
-            "card_type": 14,
-            "ability": "【LIVE开始时】每有1名存在于自己的舞台的，此回合中登场，或是进行了区域移动的『5yncri5e!』的成员，使此卡成功的必要HEART减少[無ハート]。",
-            "flavor": "",
-            "card_number": "PL!SP-pb1-025-L+",
-            "rarity": "L+",
-            "illustrator": "",
-            "cost": null,
-            "trigger_count": null,
-            "trigger": "ALL1-",
-            "participation_unit": null,
-            "animation": null,
-            "level": 6,
-            "copyright": "©2060 PL!SP",
-            "display_attacks": "红4紫4无色6",
-            "pack_lists": [
-                {
-                    "id": 937,
-                    "pack_name": "LoveLive! Superstar!! 高级补充包",
-                    "card_prefix": "Loveca",
-                    "released_at": "2025-04-19 00:00:00"
-                },
-                {
-                    "id": 937,
-                    "pack_name": "LoveLive! Superstar!! 高级补充包",
-                    "card_prefix": "Loveca",
-                    "released_at": "2025-04-19 00:00:00"
-                }
-            ],
-            "faq_lists": [],
-            "top_deck_collection_lists": []
-        },
-        "_img": "img/cards_cn/PL!SP-pb1-025-Lplus.png"
     },
     "PL!SP-pb1-026-L": {
         "version_id": 303,
