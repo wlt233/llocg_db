@@ -1,4 +1,16 @@
 {
+    "PB02": {
+        "id": 970,
+        "pack_name": "【LoveLive! Sunshine!!】高级补充包",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_95fd37a1b08fc20c93f02440ff62c8e0.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_06abdfb657aba763cb8ea3df1a9a1c0c.png",
+        "pack_categorize_name": "补充包",
+        "pack_prefix": "PB02",
+        "card_prefix": "Loveca",
+        "released_at": "2025-06-21",
+        "details": "<p>  </p>",
+        "_img": "img/products_cn/new_95fd37a1b08fc20c93f02440ff62c8e0.png"
+    },
     "PR": {
         "id": 938,
         "pack_name": "赛事PR卡",
@@ -32,7 +44,7 @@
         "pack_prefix": "PB01",
         "card_prefix": "Loveca",
         "released_at": "2025-04-19",
-        "details": "Premium Booster LoveLive! Superstar!!",
+        "details": "<p><strong>Premium Booster LoveLive! Superstar!!</strong></p><p>\n</p><p><strong style=\"color: rgb(255, 36, 0);\">■ 发售日期</strong></p><p>2025年4月19日</p><p>\n</p><p><strong style=\"color: rgb(255, 36, 0);\">■ 商品规格</strong></p><p>1包3张卡，1盒20包，1箱18盒</p><p>1包中收录至少2张闪卡！</p><p>\n</p><p><strong style=\"color: rgb(255, 36, 0);\">■ 卡片种类数</strong></p><p>普通卡片26种+平行闪卡58种</p><p>＜普通卡片＞</p><p>R・・・・・11种</p><p>L・・・・・4种</p><p>N・・・・・11种</p><p>————————————————————</p><p>＜平行闪卡＞</p><p>L+・・・・・・2种</p><p>LLE・・・・・・5种</p><p>SECE・・・・・1种</p><p>PE+・・・・・11种</p><p>PE・・・・・・11种</p><p>SRE・・・・・17种</p><p>P+・・・・・11种</p><p>\n</p>",
         "_img": "img/products_cn/pb01_pack.png"
     },
     "BP01": {
