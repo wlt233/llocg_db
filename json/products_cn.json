@@ -1,5 +1,5 @@
 {
-    "PB02": {
+    "970": {
         "id": 970,
         "pack_name": "【LoveLive! Sunshine!!】高级补充包",
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_95fd37a1b08fc20c93f02440ff62c8e0.png",
@@ -9,21 +9,23 @@
         "card_prefix": "Loveca",
         "released_at": "2025-06-21",
         "details": "<p>  </p>",
-        "_img": "img/products_cn/new_95fd37a1b08fc20c93f02440ff62c8e0.png"
+        "_pack_img": "img/products_cn/new_95fd37a1b08fc20c93f02440ff62c8e0.png",
+        "_box_img": "img/products_cn/new_06abdfb657aba763cb8ea3df1a9a1c0c.png"
     },
-    "PR": {
-        "id": 938,
-        "pack_name": "赛事PR卡",
+    "966": {
+        "id": 966,
+        "pack_name": "赛事PR卡(2025年5-6月)",
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
         "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
         "pack_categorize_name": "PR卡",
         "pack_prefix": "PR",
         "card_prefix": "Loveca",
-        "released_at": "2025-04-19",
-        "details": "赛事PR卡",
-        "_img": "img/products_cn/loveca_pr.png"
+        "released_at": "2025-06-06",
+        "details": "店级的赛事PR卡 2025年5-6月赛事发放的PR包内的卡片",
+        "_pack_img": "img/products_cn/loveca_pr.png",
+        "_box_img": "img/products_cn/loveca_pr.png"
     },
-    " BP02": {
+    "953": {
         "id": 953,
         "pack_name": "补充包 NEXT STEP",
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_70d37d556a797c3a54b28f8846f8c92d.png",
@@ -33,9 +35,10 @@
         "card_prefix": " Loveca",
         "released_at": "2025-05-31",
         "details": "<p> </p>",
-        "_img": "img/products_cn/new_70d37d556a797c3a54b28f8846f8c92d.png"
+        "_pack_img": "img/products_cn/new_70d37d556a797c3a54b28f8846f8c92d.png",
+        "_box_img": "img/products_cn/new_7799790ff14bc95eebdebcd6489561e9.png"
     },
-    "PB01": {
+    "937": {
         "id": 937,
         "pack_name": "LoveLive! Superstar!! 高级补充包",
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/pb01_pack.png",
@@ -44,10 +47,24 @@
         "pack_prefix": "PB01",
         "card_prefix": "Loveca",
         "released_at": "2025-04-19",
-        "details": "<p><strong>Premium Booster LoveLive! Superstar!!</strong></p><p>\n</p><p><strong style=\"color: rgb(255, 36, 0);\">■ 发售日期</strong></p><p>2025年4月19日</p><p>\n</p><p><strong style=\"color: rgb(255, 36, 0);\">■ 商品规格</strong></p><p>1包3张卡，1盒20包，1箱18盒</p><p>1包中收录至少2张闪卡！</p><p>\n</p><p><strong style=\"color: rgb(255, 36, 0);\">■ 卡片种类数</strong></p><p>普通卡片26种+平行闪卡58种</p><p>＜普通卡片＞</p><p>R・・・・・11种</p><p>L・・・・・4种</p><p>N・・・・・11种</p><p>————————————————————</p><p>＜平行闪卡＞</p><p>L+・・・・・・2种</p><p>LLE・・・・・・5种</p><p>SECE・・・・・1种</p><p>PE+・・・・・11种</p><p>PE・・・・・・11种</p><p>SRE・・・・・17种</p><p>P+・・・・・11种</p><p>\n</p>",
-        "_img": "img/products_cn/pb01_pack.png"
+        "details": "<p><strong>Premium Booster LoveLive! Superstar!!</strong></p><p><br></p><p><strong style=\"color: rgb(255, 36, 0);\">■ 发售日期</strong></p><p>2025年4月19日</p><p><br></p><p><strong style=\"color: rgb(255, 36, 0);\">■ 商品规格</strong></p><p>1包3张卡，1盒20包，1箱18盒</p><p>1包中收录至少2张闪卡！</p><p><br></p><p><strong style=\"color: rgb(255, 36, 0);\">■ 卡片种类数</strong></p><p>普通卡片26种+平行闪卡58种</p><p>＜普通卡片＞</p><p>R・・・・・11种</p><p>L・・・・・4种</p><p>N・・・・・11种</p><p>————————————————————</p><p>＜平行闪卡＞</p><p>L+・・・・・・2种</p><p>LLE・・・・・・5种</p><p>SECE・・・・・1种</p><p>PE+・・・・・11种</p><p>PE・・・・・・11种</p><p>SRE・・・・・17种</p><p>P+・・・・・11种</p><p><br></p>",
+        "_pack_img": "img/products_cn/pb01_pack.png",
+        "_box_img": "img/products_cn/pb01_box.png"
     },
-    "BP01": {
+    "938": {
+        "id": 938,
+        "pack_name": "赛事PR卡",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
+        "pack_categorize_name": "PR卡",
+        "pack_prefix": "PR",
+        "card_prefix": "Loveca",
+        "released_at": "2025-04-19",
+        "details": "赛事PR卡",
+        "_pack_img": "img/products_cn/loveca_pr.png",
+        "_box_img": "img/products_cn/loveca_pr.png"
+    },
+    "884": {
         "id": 884,
         "pack_name": "补充包 vol.1",
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/ll_bp01.png",
@@ -56,10 +73,11 @@
         "pack_prefix": "BP01",
         "card_prefix": "Loveca",
         "released_at": "2025-02-08",
-        "details": "\n\n发售日\n\n2025年2月8日（周六）\n\n产品规格\n\n单包：每包5张\n\n其中3张必定为闪卡！\n\n整盒：每盒包含10包\n\n稀有度分类\n\n＜特殊稀有度＞\n\nLLE（LoveLive Energy）……5种\n\nSECE（Secret Energy）……10种\n\nPE+（Parallel Energy Plus）……15种\n\nPE（Parallel Energy）……15种\n\nSEC（Secret）……10种\n\nP+（Parallel Plus）……10种\n\nP（Parallel）……32种\n\n＜基础稀有度＞\n\nR+（Rare Plus）……11种\n\nR（Rare）……22种\n\nL（LIVE）……15种\n\nN（Normal）……32种\n\n全新绘制插图\n\n包含15位成员的全新绘制插图卡牌！\n\n◇高坂穗乃果\n\n◇高海千歌\n\n◇上原步梦、中须霞、樱坂雫、近江彼方、钟岚珠\n\n◇涉谷香音、唐可可、岚千砂都、米女芽衣\n\n◇日野下花帆、乙宗梢、夕雾缀理、藤岛慈\n\n声优实拍卡\n\nPE和PE+卡是使用声优实拍制作的能量卡！\n\nPE卡：声优实拍+银箔的特别设计！每盒中至少包含1张！\n\nPE+卡：声优实拍+金箔的豪华设计！更包含金箔声优签名！\n\n  成员签名+虹箔的豪华设计！其他卡牌将陆续公开！\n\n“SEC+兑换券”封入活动（更新日期：12月27日）\n\n获得“SEC+(Secret Plus)卡兑换券”即可兑换SEC+（Secret Plus）卡牌！\n\nSEC+卡牌为声优亲笔签名+箔押设计的特别式样！\n\n※“SEC+卡兑换券”封入活动也会于同日发售的：\n\n起始卡组 LoveLive! 虹咲学园学园偶像同好会\n\n起始卡组 LoveLive！Superstar!! 中封入\n\n※“SEC+卡兑换券”总数量计划不超过10张。\n\n※再版产品是否包含兑换券尚未确定。\n\n©2013 PL! ©2017 PL!S ©2022 PL!N ©2024 PL!SP ©PL!HS ©BUSHI\n\n",
-        "_img": "img/products_cn/ll_bp01.png"
+        "details": "<br><br>发售日<br><br>2025年2月8日（周六）<br><br>产品规格<br><br>单包：每包5张<br><br>其中3张必定为闪卡！<br><br>整盒：每盒包含10包<br><br>稀有度分类<br><br>＜特殊稀有度＞<br><br>LLE（LoveLive Energy）……5种<br><br>SECE（Secret Energy）……10种<br><br>PE+（Parallel Energy Plus）……15种<br><br>PE（Parallel Energy）……15种<br><br>SEC（Secret）……10种<br><br>P+（Parallel Plus）……10种<br><br>P（Parallel）……32种<br><br>＜基础稀有度＞<br><br>R+（Rare Plus）……11种<br><br>R（Rare）……22种<br><br>L（LIVE）……15种<br><br>N（Normal）……32种<br><br>全新绘制插图<br><br>包含15位成员的全新绘制插图卡牌！<br><br>◇高坂穗乃果<br><br>◇高海千歌<br><br>◇上原步梦、中须霞、樱坂雫、近江彼方、钟岚珠<br><br>◇涉谷香音、唐可可、岚千砂都、米女芽衣<br><br>◇日野下花帆、乙宗梢、夕雾缀理、藤岛慈<br><br>声优实拍卡<br><br>PE和PE+卡是使用声优实拍制作的能量卡！<br><br>PE卡：声优实拍+银箔的特别设计！每盒中至少包含1张！<br><br>PE+卡：声优实拍+金箔的豪华设计！更包含金箔声优签名！<br><br>  成员签名+虹箔的豪华设计！其他卡牌将陆续公开！<br><br>“SEC+兑换券”封入活动（更新日期：12月27日）<br><br>获得“SEC+(Secret Plus)卡兑换券”即可兑换SEC+（Secret Plus）卡牌！<br><br>SEC+卡牌为声优亲笔签名+箔押设计的特别式样！<br><br>※“SEC+卡兑换券”封入活动也会于同日发售的：<br><br>起始卡组 LoveLive! 虹咲学园学园偶像同好会<br><br>起始卡组 LoveLive！Superstar!! 中封入<br><br>※“SEC+卡兑换券”总数量计划不超过10张。<br><br>※再版产品是否包含兑换券尚未确定。<br><br>©2013 PL! ©2017 PL!S ©2022 PL!N ©2024 PL!SP ©PL!HS ©BUSHI<br><br>",
+        "_pack_img": "img/products_cn/ll_bp01.png",
+        "_box_img": "img/products_cn/ll_bp01.png"
     },
-    "SD02": {
+    "886": {
         "id": 886,
         "pack_name": "起始卡组 - Love Live! SuperStar!!",
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/ll_sd01.png",
@@ -68,10 +86,11 @@
         "pack_prefix": "SD02",
         "card_prefix": "Loveca",
         "released_at": "2025-02-08",
-        "details": "\n\n发售日\n\n2025年2月8日（周六）\n\n",
-        "_img": "img/products_cn/ll_sd01.png"
+        "details": "<br><br>发售日<br><br>2025年2月8日（周六）<br><br>",
+        "_pack_img": "img/products_cn/ll_sd01.png",
+        "_box_img": "img/products_cn/ll_sd01.png"
     },
-    "SD01": {
+    "885": {
         "id": 885,
         "pack_name": "起始卡组 - Love Live! 虹咲学园学园偶像同好会",
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/ll_sd02.png",
@@ -80,7 +99,8 @@
         "pack_prefix": "SD01",
         "card_prefix": "Loveca",
         "released_at": "2025-02-06",
-        "details": "\n\n发售日\n\n2025年2月8日（周六）\n\n",
-        "_img": "img/products_cn/ll_sd02.png"
+        "details": "<br><br>发售日<br><br>2025年2月8日（周六）<br><br>",
+        "_pack_img": "img/products_cn/ll_sd02.png",
+        "_box_img": "img/products_cn/ll_sd02.png"
     }
 }
