@@ -96,11 +96,7 @@
     <h2 class="hover" >拉布卡戒赌模拟器 </h2>
   </div>
   <div class="center">
-    <select id="colle-select">
-      <option value="BP02">BP02</option>
-      <option value="PBSP">PBSP</option>
-      <option value="BP01">BP01</option>
-    </select>
+    <select id="colle-select"></select>
     <button id="draw-one">抽一包</button>
     <button id="draw-box">抽一盒</button>
     <div class="bulk">
@@ -127,11 +123,38 @@
   </div>
 
 <script>
-const title = "v0.3.1(BP02)";
+const title = "v0.3.2(PBLS)";
+const cardData = {
+  "PBLS": {
+    "priceBox": 300,
+    "pricePack": 15,
+    "type": "PB"
+  },
+  "BP02": {
+    "priceBox": 300,
+    "pricePack": 30,
+    "type": "BP"
+  },
+  "PBSP": {
+    "priceBox": 300,
+    "pricePack": 15,
+    "type": "PB"
+  },
+  "BP01": {
+    "priceBox": 250,
+    "pricePack": 25,
+    "type": "BP"
+  },
+};
+
+
 document.title += title;
 for (const h2 of document.querySelectorAll('h2')) {
   h2.textContent += title;
 }
+Object.entries(cardData).forEach(([colle, data]) => {
+  document.getElementById('colle-select').innerHTML += `<option value="${colle}">${colle}</option>`;
+});
 
 
 const RARE_SORT = {
@@ -184,24 +207,14 @@ function displayRecord(record) {
     const count = RECORD.count;
     const cards = RECORD.cards;
     const colle = document.getElementById('colle-select').value;
-    const priceBox = {
-        "PBSP": 300,
-        "BP01": 250,
-        "BP02": 300,
-    };
-    const pricePack = {
-        "PBSP": 15,
-        "BP01": 25,
-        "BP02": 30,
-    };
     let price = 0;
     window.RECORD_BOX.forEach(box => {
-        price += priceBox[box] || 0;
+        price += cardData[box].priceBox || 0;
     });
     window.RECORD_PACK.forEach(pack => {
-        price += pricePack[pack] || 0;
+        price += cardData[pack].pricePack || 0;
     });
-    let text = `次数：${window.RECORD_BOX.length} 盒 ${window.RECORD_PACK.length} 包<br>价值： ${price}r<br><br>高罕：<br>`;
+    let text = `次数：${window.RECORD_BOX.length} 盒 ${window.RECORD_PACK.length} 包<br>价格： ${price}r<br><br>高罕：<br>`;
     
     const normalCard = {};
     for (const [cardNo, num] of Object.entries(cards)) {
@@ -300,20 +313,19 @@ function shuffle(array) {
 
 function sample(array, k) {
   if (k === 0) return [];
-  const copied = [...array];
+  const copied = Array(Math.ceil(k / array.length)).fill(array).flat();
   shuffle(copied);
   return copied.slice(0, k);
 }
 
 
 function genParcel(colle) {
-  if (colle == "PBSP") {
+  if (cardData[colle].type == "PB") {
     return genParcelPremiumBooster(colle);
-  } else if (colle == "BP01" || colle == "BP02") {
-    return genParcelBoostPack(colle);
-  } else {
+  } else if (cardData[colle].type == "BP") {
     return genParcelBoostPack(colle);
   }
+  return genParcelBoostPack(colle);
 }
 
 function genParcelBoostPack(colle) {
@@ -348,13 +360,13 @@ function genParcelBoostPack(colle) {
           boxHigh.push(sample(getCards("PE"), 1)[0]);
       }
       boxHigh.push(...sample(getCards("L"), 5));
-      const needed = 10 - boxHigh.length;
-      boxHigh.push(...sample(getCards("R+"), needed));
+      const remain = 10 - boxHigh.length;
+      boxHigh.push(...sample(getCards("R+"), remain));
 
       const box = [];
-      const pPool = [...getCards("P")];
-      const rPool = [...getCards("R")];
-      const nPool = [...getCards("N")];
+      const pPool = Array(Math.ceil(10 / getCards("P").length)).fill(getCards("P")).flat();
+      const rPool = Array(Math.ceil(10 / getCards("R").length)).fill(getCards("R")).flat();
+      const nPool = Array(Math.ceil(10 / getCards("N").length)).fill(getCards("N")).flat();
       shuffle(pPool);
       shuffle(rPool);
       shuffle(nPool);
@@ -367,7 +379,7 @@ function genParcelBoostPack(colle) {
           pack.push(...nPool.splice(0, 2));
           box.push(pack.filter(c => c !== null));
       }
-      if (Math.random() < 0.0001) {
+      if (Math.random() < 0.001) {
         box[box.length - 1] = [...getCards("LLE")];
       }
       shuffle(box);
@@ -412,13 +424,16 @@ function genParcelPremiumBooster(colle) {
           const peNum = 1 + (Math.random() < 0.1 ? 1 : 0);
           boxHigh.push(...sample(getCards("PE"), peNum));
       }
-      boxHigh.push(...sample(getCards("SRE"), 3));
-      const needed = 20 - boxHigh.length;
-      boxHigh.push(...sample(getCards("L"), needed));
+      const sreNum = 3 + (Math.random() < 0.1 ? 1 : 0);
+      boxHigh.push(...sample(getCards("SRE"), sreNum));
+      const lNum = 5 + (Math.random() < 0.1 ? 1 : 0);
+      boxHigh.push(...sample(getCards("L"), lNum));
+      const remain = 20 - boxHigh.length;
+      boxHigh.push(...sample([...getCards("N"), ...getCards("R")], remain));
 
       const box = [];
-      const rPool = [...getCards("R")];
-      const nPool = [...getCards("N")];
+      const rPool = Array(Math.ceil(20 / getCards("R").length)).fill(getCards("R")).flat();
+      const nPool = Array(Math.ceil(20 / getCards("N").length)).fill(getCards("N")).flat();
       shuffle(rPool);
       shuffle(nPool);
 
@@ -429,7 +444,7 @@ function genParcelPremiumBooster(colle) {
           pack.push(nPool.length ? nPool.pop() : null);
           box.push(pack.filter(c => c !== null));
       }
-      if (Math.random() < 0.0001) {
+      if (Math.random() < 0.001) {
         box[box.length - 1] = [...sample(getCards("LLE"), 3)];
       }
       shuffle(box);
