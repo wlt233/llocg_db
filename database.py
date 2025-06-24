@@ -16,15 +16,19 @@ headers = {
 async def async_download_image(client, semaphore, url: str, p: str):
     if os.path.exists(p): return
     if not os.path.exists(os.path.dirname(p)): os.makedirs(os.path.dirname(p))
-    async with semaphore:
-        resp = await client.get(url, headers=headers)
-        if resp.status_code == 200:
-            with open(p, mode="wb") as f:
-                f.write(resp.content)
-            print(f"{url} saved at {p}")
-            return
-        else:
-            raise Exception(f"Failed to download {url}")
+    try:
+        async with semaphore:
+            resp = await client.get(url, headers=headers)
+            if resp.status_code == 200:
+                with open(p, mode="wb") as f:
+                    f.write(resp.content)
+                print(f"{url} saved at {p}")
+                return
+            else:
+                raise Exception(f"Failed to download {url}, status code: {resp.status_code}")
+    except Exception as e:
+        print(f"Error downloading {url}: {e}")
+        return
 
 
 async def fetch_product(client):
