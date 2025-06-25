@@ -652,7 +652,7 @@
         "_img": "img/products/L_TCG_BP_02_BOX_image.png"
     },
     "PBLS": {
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/thumb/L!_TCG_ PBP_02_box_image",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/thumb/L_TCG_PB_02_box_image.png",
         "href": "https://llofficial-cardgame.com/cardlist/searchresults/?expansion=PBLS",
         "product_id": "PBLS",
         "title": "プレミアムブースター ラブライブ！サンシャイン!!",
@@ -753,6 +753,6 @@
             "PL!S-pb1-062-SRE",
             "PL!S-pb1-063-SRE"
         ],
-        "_img": "img/products/L!_TCG_ PBP_02_box_image"
+        "_img": "img/products/L_TCG_PB_02_box_image.png"
     }
 }
