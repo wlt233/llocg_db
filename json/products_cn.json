@@ -1,4 +1,17 @@
 {
+    "976": {
+        "id": 976,
+        "pack_name": "赛事PR卡(2025年7-8月)",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/llocg/loveca_pr.png",
+        "pack_categorize_name": "PR卡",
+        "pack_prefix": "PR",
+        "card_prefix": "Loveca",
+        "released_at": "2025-06-30",
+        "details": "店级的赛事PR卡 2025年7-8月赛事发放的PR包内的卡片",
+        "_pack_img": "img/products_cn/loveca_pr.png",
+        "_box_img": "img/products_cn/loveca_pr.png"
+    },
     "970": {
         "id": 970,
         "pack_name": "【LoveLive! Sunshine!!】高级补充包",
