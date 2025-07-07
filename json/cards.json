@@ -561,6 +561,258 @@
         ],
         "_img": "img/cards/PR/PL!S-PR-024-PR.png"
     },
+    "PL!S-PR-025-PR": {
+        "card_no": "PL!S-PR-025-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-025-PR.png",
+        "name": "高海千歌",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-025-PR",
+                "name": "高海千歌"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-025-PR.png"
+    },
+    "PL!S-PR-026-PR": {
+        "card_no": "PL!S-PR-026-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-026-PR.png",
+        "name": "桜内梨子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "GuiltyKiss",
+        "cost": 2,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-026-PR",
+                "name": "桜内梨子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-026-PR.png"
+    },
+    "PL!S-PR-027-PR": {
+        "card_no": "PL!S-PR-027-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-027-PR.png",
+        "name": "松浦果南",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "AZALEA",
+        "cost": 2,
+        "base_heart": {
+            "heart04": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-027-PR",
+                "name": "松浦果南"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-027-PR.png"
+    },
+    "PL!S-PR-028-PR": {
+        "card_no": "PL!S-PR-028-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-028-PR.png",
+        "name": "黒澤ダイヤ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "AZALEA",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1,
+            "heart04": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-028-PR",
+                "name": "黒澤ダイヤ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-028-PR.png"
+    },
+    "PL!S-PR-029-PR": {
+        "card_no": "PL!S-PR-029-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-029-PR.png",
+        "name": "渡辺 曜",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{jyouji.png|常時}}自分か相手のステージにコスト13以上のメンバーがいる場合、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-029-PR",
+                "name": "渡辺 曜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-029-PR.png"
+    },
+    "PL!S-PR-030-PR": {
+        "card_no": "PL!S-PR-030-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-030-PR.png",
+        "name": "津島善子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "GuiltyKiss",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{jyouji.png|常時}}自分か相手のステージにコスト13以上のメンバーがいる場合、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-030-PR",
+                "name": "津島善子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-030-PR.png"
+    },
+    "PL!S-PR-031-PR": {
+        "card_no": "PL!S-PR-031-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-031-PR.png",
+        "name": "国木田花丸",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "AZALEA",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{jyouji.png|常時}}自分か相手のステージにコスト13以上のメンバーがいる場合、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-031-PR",
+                "name": "国木田花丸"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-031-PR.png"
+    },
+    "PL!S-PR-032-PR": {
+        "card_no": "PL!S-PR-032-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-032-PR.png",
+        "name": "小原鞠莉",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "GuiltyKiss",
+        "cost": 4,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-032-PR",
+                "name": "小原鞠莉"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-032-PR.png"
+    },
+    "PL!S-PR-033-PR": {
+        "card_no": "PL!S-PR-033-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-033-PR.png",
+        "name": "黒澤ルビィ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1,
+            "heart05": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-033-PR",
+                "name": "黒澤ルビィ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-033-PR.png"
+    },
+    "PL!S-PR-034-PR2": {
+        "card_no": "PL!S-PR-034-PR2",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-034-PR2.png",
+        "name": "",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-034-PR2",
+                "name": ""
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-034-PR2.png"
+    },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PYHN-PR-001-PR.png",
