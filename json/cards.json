@@ -803,7 +803,7 @@
         "type": "エネルギー",
         "series": "ラブライブ！サンシャイン!!",
         "unit": "CYaRon！",
-        "rare": "PR",
+        "rare": "PR+",
         "faq": [],
         "rare_list": [
             {
@@ -812,6 +812,24 @@
             }
         ],
         "_img": "img/cards/PR/PL!S-PR-034-PR2.png"
+    },
+    "PL!S-PR-035-PR": {
+        "card_no": "PL!S-PR-035-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-035-PR.png",
+        "name": "",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-035-PR",
+                "name": ""
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-035-PR.png"
     },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
