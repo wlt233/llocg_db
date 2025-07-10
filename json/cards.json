@@ -1,4 +1,765 @@
 {
+    "LL-E-001-SD": {
+        "card_no": "LL-E-001-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/LL-E-001-SD.png",
+        "name": "エネルギー(無地)",
+        "product": "スタートデッキラブライブ！",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "rare": "SD",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-E-001-SD",
+                "name": "エネルギー(無地)"
+            }
+        ],
+        "_img": "img/cards/PLSD01/LL-E-001-SD.png"
+    },
+    "PL!-sd1-001-SD": {
+        "card_no": "PL!-sd1-001-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-001-SD.png",
+        "name": "高坂 穂乃果",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "SD",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にカードが2枚以上ある場合、自分の控え室からライブカードを1枚手札に加える。\n{{jyouji.png|常時}}自分の成功ライブカード置き場にあるカード1枚につき、{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-001-SD",
+                "name": "高坂 穂乃果"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-001-SD.png"
+    },
+    "PL!-sd1-002-SD": {
+        "card_no": "PL!-sd1-002-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-002-SD.png",
+        "name": "絢瀬 絵里",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "SD",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-002-SD",
+                "name": "絢瀬 絵里"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-002-SD.png"
+    },
+    "PL!-sd1-003-SD": {
+        "card_no": "PL!-sd1-003-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-003-SD.png",
+        "name": "南 ことり",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 3,
+        "rare": "SD",
+        "ability": "{{toujyou.png|登場}}自分の控え室からコスト4以下の『μ's』のメンバーカードを1枚手札に加える。\n{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：{{heart_01.png|heart01}}か{{heart_03.png|heart03}}か{{heart_06.png|heart06}}のうち、1つを選ぶ。ライブ終了時まで、選んだハートを1つ得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-003-SD",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-003-SD.png"
+    },
+    "PL!-sd1-004-SD": {
+        "card_no": "PL!-sd1-004-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-004-SD.png",
+        "name": "園田 海未",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 3,
+        "rare": "SD",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを5枚見る。その中から『μ's』のライブカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-004-SD",
+                "name": "園田 海未"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-004-SD.png"
+    },
+    "PL!-sd1-005-SD": {
+        "card_no": "PL!-sd1-005-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-005-SD.png",
+        "name": "星空 凛",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 2,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 1,
+        "rare": "SD",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-005-SD",
+                "name": "星空 凛"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-005-SD.png"
+    },
+    "PL!-sd1-006-SD": {
+        "card_no": "PL!-sd1-006-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-006-SD.png",
+        "name": "西木野 真姫",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade": 2,
+        "rare": "SD",
+        "ability": "{{toujyou.png|登場}}手札のライブカードを1枚公開してもよい：自分の成功ライブカード置き場にあるカードを1枚手札に加える。そうした場合、これにより公開したカードを自分の成功ライブカード置き場に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-006-SD",
+                "name": "西木野 真姫"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-006-SD.png"
+    },
+    "PL!-sd1-007-SD": {
+        "card_no": "PL!-sd1-007-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-007-SD.png",
+        "name": "東條 希",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 7,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "SD",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを5枚控え室に置く。それらの中にライブカードがある場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-007-SD",
+                "name": "東條 希"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-007-SD.png"
+    },
+    "PL!-sd1-008-SD": {
+        "card_no": "PL!-sd1-008-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-008-SD.png",
+        "name": "小泉 花陽",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "SD",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分のデッキの上からカードを10枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-008-SD",
+                "name": "小泉 花陽"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-008-SD.png"
+    },
+    "PL!-sd1-009-SD": {
+        "card_no": "PL!-sd1-009-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-009-SD.png",
+        "name": "矢澤 にこ",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 5,
+        "rare": "SD",
+        "ability": "{{live_start.png|ライブ開始時}}自分の控え室に『μ's』のカードが25枚以上ある場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-009-SD",
+                "name": "矢澤 にこ"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-009-SD.png"
+    },
+    "PL!-sd1-010-SD": {
+        "card_no": "PL!-sd1-010-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-010-SD.png",
+        "name": "高坂 穂乃果",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 1,
+        "rare": "SD",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-010-SD",
+                "name": "高坂 穂乃果"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-010-SD.png"
+    },
+    "PL!-sd1-011-SD": {
+        "card_no": "PL!-sd1-011-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-011-SD.png",
+        "name": "絢瀬 絵里",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "SD",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-011-SD",
+                "name": "絢瀬 絵里"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-011-SD.png"
+    },
+    "PL!-sd1-012-SD": {
+        "card_no": "PL!-sd1-012-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-012-SD.png",
+        "name": "南 ことり",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "SD",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-012-SD",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-012-SD.png"
+    },
+    "PL!-sd1-013-SD": {
+        "card_no": "PL!-sd1-013-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-013-SD.png",
+        "name": "園田 海未",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 1,
+        "rare": "SD",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-013-SD",
+                "name": "園田 海未"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-013-SD.png"
+    },
+    "PL!-sd1-014-SD": {
+        "card_no": "PL!-sd1-014-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-014-SD.png",
+        "name": "星空 凛",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "SD",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-014-SD",
+                "name": "星空 凛"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-014-SD.png"
+    },
+    "PL!-sd1-015-SD": {
+        "card_no": "PL!-sd1-015-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-015-SD.png",
+        "name": "西木野 真姫",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart06": 2
+        },
+        "blade": 3,
+        "rare": "SD",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中からメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-015-SD",
+                "name": "西木野 真姫"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-015-SD.png"
+    },
+    "PL!-sd1-016-SD": {
+        "card_no": "PL!-sd1-016-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-016-SD.png",
+        "name": "東條 希",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1
+        },
+        "blade": 1,
+        "rare": "SD",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-016-SD",
+                "name": "東條 希"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-016-SD.png"
+    },
+    "PL!-sd1-017-SD": {
+        "card_no": "PL!-sd1-017-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-017-SD.png",
+        "name": "小泉 花陽",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "SD",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-017-SD",
+                "name": "小泉 花陽"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-017-SD.png"
+    },
+    "PL!-sd1-018-SD": {
+        "card_no": "PL!-sd1-018-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-018-SD.png",
+        "name": "矢澤 にこ",
+        "product": "スタートデッキラブライブ！",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade": 3,
+        "rare": "SD",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-018-SD",
+                "name": "矢澤 にこ"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-018-SD.png"
+    },
+    "PL!-sd1-019-SD": {
+        "card_no": "PL!-sd1-019-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-pb1-019-SD.png",
+        "name": "START:DASH!!",
+        "product": "スタートデッキラブライブ！",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "score": 1,
+        "need_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "special_heart": {},
+        "rare": "SD",
+        "ability": "{{live_success.png|ライブ成功時}}自分のデッキの上からカードを3枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-019-SD",
+                "name": "START:DASH!!"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-pb1-019-SD.png"
+    },
+    "PL!-sd1-020-SD": {
+        "card_no": "PL!-sd1-020-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-pb1-020-SD.png",
+        "name": "きっと青春が聞こえる",
+        "product": "スタートデッキラブライブ！",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "score": 2,
+        "need_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SD",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-020-SD",
+                "name": "きっと青春が聞こえる"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-pb1-020-SD.png"
+    },
+    "PL!-sd1-021-SD": {
+        "card_no": "PL!-sd1-021-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-pb1-021-SD.png",
+        "name": "これからのSomeday",
+        "product": "スタートデッキラブライブ！",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "score": 3,
+        "need_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SD",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-021-SD",
+                "name": "これからのSomeday"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-pb1-021-SD.png"
+    },
+    "PL!-sd1-022-SD": {
+        "card_no": "PL!-sd1-022-SD",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-pb1-022-SD.png",
+        "name": "僕らは今のなかで",
+        "product": "スタートデッキラブライブ！",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "score": 4,
+        "need_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 2,
+            "heart0": 6
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "special_heart": {},
+        "rare": "SD",
+        "ability": "{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場にあるカード1枚につき、このカードを成功させるための必要ハートは{{heart_00.png|heart0}}{{heart_00.png|heart0}}少なくなる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-022-SD",
+                "name": "僕らは今のなかで"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-pb1-022-SD.png"
+    },
+    "PL!-sd1-023-P": {
+        "card_no": "PL!-sd1-023-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-023-P.png",
+        "name": "高坂 穂乃果",
+        "product": "スタートデッキラブライブ！",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "rare": "P",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-023-P",
+                "name": "高坂 穂乃果"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-023-P.png"
+    },
+    "PL!-sd1-024-P": {
+        "card_no": "PL!-sd1-024-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-024-P.png",
+        "name": "絢瀬 絵里",
+        "product": "スタートデッキラブライブ！",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "rare": "P",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-024-P",
+                "name": "絢瀬 絵里"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-024-P.png"
+    },
+    "PL!-sd1-025-P": {
+        "card_no": "PL!-sd1-025-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-025-P.png",
+        "name": "南 ことり",
+        "product": "スタートデッキラブライブ！",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "rare": "P",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-025-P",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-025-P.png"
+    },
+    "PL!-sd1-026-P": {
+        "card_no": "PL!-sd1-026-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-026-P.png",
+        "name": "園田 海未",
+        "product": "スタートデッキラブライブ！",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "rare": "P",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-026-P",
+                "name": "園田 海未"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-026-P.png"
+    },
+    "PL!-sd1-027-P": {
+        "card_no": "PL!-sd1-027-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-027-P.png",
+        "name": "星空 凛",
+        "product": "スタートデッキラブライブ！",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "rare": "P",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-027-P",
+                "name": "星空 凛"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-027-P.png"
+    },
+    "PL!-sd1-028-P": {
+        "card_no": "PL!-sd1-028-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-028-P.png",
+        "name": "西木野 真姫",
+        "product": "スタートデッキラブライブ！",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "rare": "P",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-028-P",
+                "name": "西木野 真姫"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-028-P.png"
+    },
+    "PL!-sd1-029-P": {
+        "card_no": "PL!-sd1-029-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-029-P.png",
+        "name": "東條 希",
+        "product": "スタートデッキラブライブ！",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "rare": "P",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-029-P",
+                "name": "東條 希"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-029-P.png"
+    },
+    "PL!-sd1-030-P": {
+        "card_no": "PL!-sd1-030-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-030-P.png",
+        "name": "小泉 花陽",
+        "product": "スタートデッキラブライブ！",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "rare": "P",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-030-P",
+                "name": "小泉 花陽"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-030-P.png"
+    },
+    "PL!-sd1-031-P": {
+        "card_no": "PL!-sd1-031-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/PL!-sd1-031-P.png",
+        "name": "矢澤 にこ",
+        "product": "スタートデッキラブライブ！",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "rare": "P",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-031-P",
+                "name": "矢澤 にこ"
+            }
+        ],
+        "_img": "img/cards/PLSD01/PL!-sd1-031-P.png"
+    },
     "LL-PR-001-PR": {
         "card_no": "LL-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-001-PR.png",
