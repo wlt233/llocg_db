@@ -504,7 +504,9 @@
             "heart03": 1,
             "heart06": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "score": 1
+        },
         "rare": "SD",
         "ability": "{{live_success.png|ライブ成功時}}自分のデッキの上からカードを3枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。",
         "faq": [],
@@ -586,7 +588,9 @@
         "blade_heart": {
             "b_heart03": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "draw": 1
+        },
         "rare": "SD",
         "ability": "{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場にあるカード1枚につき、このカードを成功させるための必要ハートは{{heart_00.png|heart0}}{{heart_00.png|heart0}}少なくなる。",
         "faq": [],
@@ -15234,7 +15238,9 @@
         "blade_heart": {
             "b_heart05": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "draw": 1
+        },
         "rare": "L",
         "faq": [],
         "rare_list": [
@@ -15311,7 +15317,9 @@
         "blade_heart": {
             "b_heart02": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "draw": 1
+        },
         "rare": "L",
         "ability": "{{live_success.png|ライブ成功時}}このターン、自分のデッキがリフレッシュしていた場合、このカードのスコアを＋２する。",
         "faq": [],
@@ -15371,7 +15379,9 @@
             "heart05": 1,
             "heart0": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "score": 1
+        },
         "rare": "L",
         "ability": "{{jyouji.png|常時}}このカードは成功ライブカード置き場に置くことができない。\n{{live_success.png|ライブ成功時}}カードを2枚引き、手札を1枚控え室に置く。",
         "faq": [],
@@ -15397,7 +15407,9 @@
             "heart05": 1,
             "heart0": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "score": 1
+        },
         "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場にカードが2枚以上ある場合、ライブ終了時まで、自分のステージにいるメンバー1人は、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
@@ -17770,7 +17782,9 @@
             "heart06": 1,
             "heart0": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "score": 1
+        },
         "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場のカード枚数が相手より少ない場合、このカードのスコアを＋１する。",
         "faq": [],
@@ -17799,7 +17813,9 @@
         "blade_heart": {
             "b_heart03": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "draw": 1
+        },
         "rare": "L",
         "ability": "{{live_success.png|ライブ成功時}}自分の手札の枚数が相手より多い場合、このカードのスコアを＋１する。",
         "faq": [
@@ -17889,7 +17905,9 @@
         "blade_heart": {
             "b_heart02": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "draw": 1
+        },
         "rare": "L",
         "faq": [],
         "rare_list": [
@@ -19245,7 +19263,9 @@
             "heart05": 1,
             "heart0": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "score": 1
+        },
         "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分のステージに『蓮ノ空』のメンバーがいる場合、このカードを成功させるための必要ハートは、{{heart_01.png|heart01}}{{heart_01.png|heart01}}{{heart_00.png|heart0}}か、{{heart_04.png|heart04}}{{heart_04.png|heart04}}{{heart_00.png|heart0}}か、{{heart_05.png|heart05}}{{heart_05.png|heart05}}{{heart_00.png|heart0}}のうち、選んだ1つにしてもよい。",
         "faq": [],
@@ -19299,7 +19319,9 @@
         "blade_heart": {
             "b_heart04": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "draw": 1
+        },
         "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分のステージに、このターン中にバトンタッチして登場した『蓮ノ空』のメンバーが2人以上いる場合、このカードを成功させるための必要ハートを{{heart_04.png|heart04}}減らす。",
         "faq": [],
@@ -19439,7 +19461,9 @@
         "blade_heart": {
             "b_heart01": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "draw": 1
+        },
         "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分のステージの右サイドエリアに「大沢瑠璃乃」が、左サイドエリアに「安養寺姫芽」が、センターエリアに「藤島慈」がそれぞれ登場している場合、このカードのスコアを＋２する。",
         "faq": [],
@@ -20574,7 +20598,9 @@
         "blade_heart": {
             "b_heart04": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "draw": 1
+        },
         "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる『Aqours』のメンバーが持つハートに、{{heart_04.png|heart04}}が合計10個以上ある場合、このカードのスコアを＋２する。",
         "faq": [],
@@ -20599,7 +20625,9 @@
             "heart05": 2,
             "heart0": 2
         },
-        "special_heart": {},
+        "special_heart": {
+            "score": 1
+        },
         "rare": "L",
         "ability": "{{live_success.png|ライブ成功時}}自分のステージにいる『Aqours』のメンバーが持つハートに、{{heart_05.png|heart05}}が合計4個以上あり、このターン、相手が余剰のハートを持たずにライブを成功させていた場合、このカードのスコアを＋２する。",
         "faq": [],
