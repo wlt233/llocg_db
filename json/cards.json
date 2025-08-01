@@ -2,7 +2,7 @@
     "LL-E-001-SD": {
         "card_no": "LL-E-001-SD",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PLSD01/LL-E-001-SD.png",
-        "name": "エネルギー(無地)",
+        "name": "エネルギーカード",
         "product": "スタートデッキラブライブ！",
         "type": "エネルギー",
         "series": "ラブライブ！",
@@ -11,7 +11,7 @@
         "rare_list": [
             {
                 "card_no": "LL-E-001-SD",
-                "name": "エネルギー(無地)"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PLSD01/LL-E-001-SD.png"
@@ -1170,7 +1170,7 @@
     "LL-PR-001-PR": {
         "card_no": "LL-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-001-PR.png",
-        "name": "",
+        "name": "ラブライブ！オフィシャルカードゲーム",
         "product": "PRカード",
         "type": "エネルギー",
         "rare": "PR",
@@ -1178,7 +1178,7 @@
         "rare_list": [
             {
                 "card_no": "LL-PR-001-PR",
-                "name": ""
+                "name": "ラブライブ！オフィシャルカードゲーム"
             }
         ],
         "_img": "img/cards/PR/LL-PR-001-PR.png"
@@ -1186,7 +1186,7 @@
     "LL-E-004-PR": {
         "card_no": "LL-E-004-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-004-PR.png",
-        "name": "エネルギー(無地)(水色)",
+        "name": "エネルギーカード",
         "product": "PRカード",
         "type": "エネルギー",
         "series": "ラブライブ！サンシャイン!!",
@@ -1195,7 +1195,7 @@
         "rare_list": [
             {
                 "card_no": "LL-E-004-PR",
-                "name": "エネルギー(無地)(水色)"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PR/LL-E-004-PR.png"
@@ -1203,7 +1203,7 @@
     "PL!S-PR-001-PR": {
         "card_no": "PL!S-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-001-PR.png",
-        "name": "",
+        "name": "エネルギーカード",
         "product": "PRカード",
         "type": "エネルギー",
         "series": "ラブライブ！サンシャイン!!",
@@ -1212,7 +1212,7 @@
         "rare_list": [
             {
                 "card_no": "PL!S-PR-001-PR",
-                "name": ""
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PR/PL!S-PR-001-PR.png"
@@ -2341,7 +2341,7 @@
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PYHN-PR-001-PR.png",
-        "name": "",
+        "name": "幻日のヨハネ",
         "product": "PRカード",
         "type": "エネルギー",
         "series": "ラブライブ！サンシャイン!!",
@@ -2350,7 +2350,7 @@
         "rare_list": [
             {
                 "card_no": "PYHN-PR-001-PR",
-                "name": ""
+                "name": "幻日のヨハネ"
             }
         ],
         "_img": "img/cards/PR/PYHN-PR-001-PR.png"
@@ -2386,7 +2386,7 @@
     "PL!N-PR-001-PR": {
         "card_no": "PL!N-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-001-PR.png",
-        "name": "",
+        "name": "エネルギーカード",
         "product": "PRカード",
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
@@ -2395,7 +2395,7 @@
         "rare_list": [
             {
                 "card_no": "PL!N-PR-001-PR",
-                "name": ""
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PR/PL!N-PR-001-PR.png"
@@ -2403,7 +2403,7 @@
     "PL!N-PR-002-PR": {
         "card_no": "PL!N-PR-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-002-PR.png",
-        "name": "",
+        "name": "上原歩夢",
         "product": "PRカード",
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
@@ -2413,7 +2413,7 @@
         "rare_list": [
             {
                 "card_no": "PL!N-PR-002-PR",
-                "name": ""
+                "name": "上原歩夢"
             }
         ],
         "_img": "img/cards/PR/PL!N-PR-002-PR.png"
@@ -3245,7 +3245,7 @@
     "PL!SP-PR-001-PR": {
         "card_no": "PL!SP-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-001-PR.png",
-        "name": "",
+        "name": "エネルギーカード",
         "product": "PRカード",
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
@@ -3254,7 +3254,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-PR-001-PR",
-                "name": ""
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PR/PL!SP-PR-001-PR.png"
@@ -3568,7 +3568,7 @@
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-002-PR.png",
-        "name": "エネルギー(無地)",
+        "name": "エネルギーカード",
         "product": "PRカード",
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
@@ -3577,7 +3577,7 @@
         "rare_list": [
             {
                 "card_no": "LL-E-002-PR",
-                "name": "エネルギー(無地)"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PR/LL-E-002-PR.png"
@@ -3962,7 +3962,7 @@
     "PL!HS-PR-013-PR": {
         "card_no": "PL!HS-PR-013-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-013-PR.png",
-        "name": "",
+        "name": "蓮ノ空女学院スクールアイドルクラブ",
         "product": "PRカード",
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
@@ -3971,7 +3971,7 @@
         "rare_list": [
             {
                 "card_no": "PL!HS-PR-013-PR",
-                "name": ""
+                "name": "蓮ノ空女学院スクールアイドルクラブ"
             }
         ],
         "_img": "img/cards/PR/PL!HS-PR-013-PR.png"
@@ -4098,7 +4098,7 @@
     "PL!HS-PR-015-PR": {
         "card_no": "PL!HS-PR-015-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-015-PR.png",
-        "name": "",
+        "name": "蓮ノ空女学院スクールアイドルクラブ",
         "product": "PRカード",
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
@@ -4107,7 +4107,7 @@
         "rare_list": [
             {
                 "card_no": "PL!HS-PR-015-PR",
-                "name": ""
+                "name": "蓮ノ空女学院スクールアイドルクラブ"
             }
         ],
         "_img": "img/cards/PR/PL!HS-PR-015-PR.png"
@@ -11940,7 +11940,7 @@
     "LL-E-003-SD": {
         "card_no": "LL-E-003-SD",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/NSD01/LL-E-003-SD.png",
-        "name": "エネルギー(無地)",
+        "name": "エネルギー",
         "product": "スタートデッキラブライブ！虹ヶ咲学園スクールアイドル同好会",
         "type": "エネルギー",
         "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
@@ -11949,7 +11949,7 @@
         "rare_list": [
             {
                 "card_no": "LL-E-003-SD",
-                "name": "エネルギー(無地)"
+                "name": "エネルギー"
             }
         ],
         "_img": "img/cards/NSD01/LL-E-003-SD.png"
@@ -17113,7 +17113,7 @@
     "PL!SP-pb1-100-LLE": {
         "card_no": "PL!SP-pb1-100-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_100-LLE.png",
-        "name": "1st",
+        "name": "Liella!",
         "product": "プレミアムブースターラブライブ！スーパースター!!",
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
@@ -17122,7 +17122,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-100-LLE",
-                "name": "1st"
+                "name": "Liella!"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_100-LLE.png"
@@ -17130,7 +17130,7 @@
     "PL!SP-pb1-200-LLE": {
         "card_no": "PL!SP-pb1-200-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_200-LLE.png",
-        "name": "2nd",
+        "name": "Liella!",
         "product": "プレミアムブースターラブライブ！スーパースター!!",
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
@@ -17139,7 +17139,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-200-LLE",
-                "name": "2nd"
+                "name": "Liella!"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_200-LLE.png"
@@ -17147,7 +17147,7 @@
     "PL!SP-pb1-300-LLE": {
         "card_no": "PL!SP-pb1-300-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_300-LLE.png",
-        "name": "3rd",
+        "name": "Liella!",
         "product": "プレミアムブースターラブライブ！スーパースター!!",
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
@@ -17156,7 +17156,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-300-LLE",
-                "name": "3rd"
+                "name": "Liella!"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_300-LLE.png"
@@ -17164,7 +17164,7 @@
     "PL!SP-pb1-400-LLE": {
         "card_no": "PL!SP-pb1-400-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_400-LLE.png",
-        "name": "4th",
+        "name": "Liella!",
         "product": "プレミアムブースターラブライブ！スーパースター!!",
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
@@ -17173,7 +17173,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-400-LLE",
-                "name": "4th"
+                "name": "Liella!"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_400-LLE.png"
@@ -17181,7 +17181,7 @@
     "PL!SP-pb1-500-LLE": {
         "card_no": "PL!SP-pb1-500-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_500-LLE.png",
-        "name": "5th",
+        "name": "Liella!",
         "product": "プレミアムブースターラブライブ！スーパースター!!",
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
@@ -17190,7 +17190,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-500-LLE",
-                "name": "5th"
+                "name": "Liella!"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_500-LLE.png"
@@ -17278,7 +17278,7 @@
     "PL!SP-pb1-050-SRE": {
         "card_no": "PL!SP-pb1-050-SRE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_050-SRE.png",
-        "name": "-",
+        "name": "エネルギーカード",
         "product": "プレミアムブースターラブライブ！スーパースター!!",
         "type": "エネルギー",
         "rare": "SRE",
@@ -17286,7 +17286,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-050-SRE",
-                "name": "-"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_050-SRE.png"
@@ -17294,7 +17294,7 @@
     "PL!SP-pb1-051-SRE": {
         "card_no": "PL!SP-pb1-051-SRE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_051-SRE.png",
-        "name": "-",
+        "name": "エネルギーカード",
         "product": "プレミアムブースターラブライブ！スーパースター!!",
         "type": "エネルギー",
         "rare": "SRE",
@@ -17302,7 +17302,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-051-SRE",
-                "name": "-"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_051-SRE.png"
@@ -17310,7 +17310,7 @@
     "PL!SP-pb1-052-SRE": {
         "card_no": "PL!SP-pb1-052-SRE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_052-SRE.png",
-        "name": "-",
+        "name": "エネルギーカード",
         "product": "プレミアムブースターラブライブ！スーパースター!!",
         "type": "エネルギー",
         "rare": "SRE",
@@ -17318,7 +17318,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-052-SRE",
-                "name": "-"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_052-SRE.png"
@@ -17326,7 +17326,7 @@
     "PL!SP-pb1-053-SRE": {
         "card_no": "PL!SP-pb1-053-SRE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_053-SRE.png",
-        "name": "-",
+        "name": "エネルギーカード",
         "product": "プレミアムブースターラブライブ！スーパースター!!",
         "type": "エネルギー",
         "rare": "SRE",
@@ -17334,7 +17334,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-053-SRE",
-                "name": "-"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_053-SRE.png"
@@ -17342,7 +17342,7 @@
     "PL!SP-pb1-054-SRE": {
         "card_no": "PL!SP-pb1-054-SRE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1_054-SRE.png",
-        "name": "-",
+        "name": "エネルギーカード",
         "product": "プレミアムブースターラブライブ！スーパースター!!",
         "type": "エネルギー",
         "rare": "SRE",
@@ -17350,7 +17350,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-054-SRE",
-                "name": "-"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1_054-SRE.png"
@@ -20469,7 +20469,7 @@
     "PL!S-bp2-100-LLE": {
         "card_no": "PL!S-bp2-100-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/PL!S-bp2-100-LLE.png",
-        "name": "",
+        "name": "Aqours",
         "product": "ブースターパックNEXTSTEP",
         "type": "エネルギー",
         "series": "ラブライブ！サンシャイン!!",
@@ -20478,7 +20478,7 @@
         "rare_list": [
             {
                 "card_no": "PL!S-bp2-100-LLE",
-                "name": ""
+                "name": "Aqours"
             }
         ],
         "_img": "img/cards/BP02/PL!S-bp2-100-LLE.png"
@@ -20486,7 +20486,7 @@
     "PL!S-bp2-200-LLE": {
         "card_no": "PL!S-bp2-200-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/PL!S-bp2-200-LLE.png",
-        "name": "",
+        "name": "Aqours",
         "product": "ブースターパックNEXTSTEP",
         "type": "エネルギー",
         "series": "ラブライブ！サンシャイン!!",
@@ -20495,7 +20495,7 @@
         "rare_list": [
             {
                 "card_no": "PL!S-bp2-200-LLE",
-                "name": ""
+                "name": "Aqours"
             }
         ],
         "_img": "img/cards/BP02/PL!S-bp2-200-LLE.png"
@@ -23963,7 +23963,7 @@
     "PL!SP-bp2-100-LLE": {
         "card_no": "PL!SP-bp2-100-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/PL!SP-bp2-100-LLE.png",
-        "name": "",
+        "name": "Liella!",
         "product": "ブースターパックNEXTSTEP",
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
@@ -23972,7 +23972,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-bp2-100-LLE",
-                "name": ""
+                "name": "Liella!"
             }
         ],
         "_img": "img/cards/BP02/PL!SP-bp2-100-LLE.png"
@@ -23980,7 +23980,7 @@
     "PL!SP-bp2-200-LLE": {
         "card_no": "PL!SP-bp2-200-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/PL!SP-bp2-200-LLE.png",
-        "name": "",
+        "name": "Liella!",
         "product": "ブースターパックNEXTSTEP",
         "type": "エネルギー",
         "series": "ラブライブ！スーパースター!!",
@@ -23989,7 +23989,7 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-bp2-200-LLE",
-                "name": ""
+                "name": "Liella!"
             }
         ],
         "_img": "img/cards/BP02/PL!SP-bp2-200-LLE.png"
@@ -25554,7 +25554,7 @@
     "PL!HS-bp2-100-LLE": {
         "card_no": "PL!HS-bp2-100-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/PL!HS-bp2-100-LLE.png",
-        "name": "",
+        "name": "蓮ノ空女学院スクールアイドルクラブ",
         "product": "ブースターパックNEXTSTEP",
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
@@ -25563,7 +25563,7 @@
         "rare_list": [
             {
                 "card_no": "PL!HS-bp2-100-LLE",
-                "name": ""
+                "name": "蓮ノ空女学院スクールアイドルクラブ"
             }
         ],
         "_img": "img/cards/BP02/PL!HS-bp2-100-LLE.png"
@@ -25571,7 +25571,7 @@
     "PL!HS-bp2-200-LLE": {
         "card_no": "PL!HS-bp2-200-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/PL!HS-bp2-200-LLE.png",
-        "name": "",
+        "name": "蓮ノ空女学院スクールアイドルクラブ",
         "product": "ブースターパックNEXTSTEP",
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
@@ -25580,7 +25580,7 @@
         "rare_list": [
             {
                 "card_no": "PL!HS-bp2-200-LLE",
-                "name": ""
+                "name": "蓮ノ空女学院スクールアイドルクラブ"
             }
         ],
         "_img": "img/cards/BP02/PL!HS-bp2-200-LLE.png"
@@ -29362,7 +29362,7 @@
     "PL!S-pb1-060-SRE": {
         "card_no": "PL!S-pb1-060-SRE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBLS/PL!S-pb1-060-SRE.png",
-        "name": "-",
+        "name": "エネルギーカード",
         "product": "プレミアムブースターラブライブ！サンシャイン!!",
         "type": "エネルギー",
         "rare": "SRE",
@@ -29370,7 +29370,7 @@
         "rare_list": [
             {
                 "card_no": "PL!S-pb1-060-SRE",
-                "name": "-"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PBLS/PL!S-pb1-060-SRE.png"
@@ -29378,7 +29378,7 @@
     "PL!S-pb1-061-SRE": {
         "card_no": "PL!S-pb1-061-SRE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBLS/PL!S-pb1-061-SRE.png",
-        "name": "-",
+        "name": "エネルギーカード",
         "product": "プレミアムブースターラブライブ！サンシャイン!!",
         "type": "エネルギー",
         "rare": "SRE",
@@ -29386,7 +29386,7 @@
         "rare_list": [
             {
                 "card_no": "PL!S-pb1-061-SRE",
-                "name": "-"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PBLS/PL!S-pb1-061-SRE.png"
@@ -29394,7 +29394,7 @@
     "PL!S-pb1-062-SRE": {
         "card_no": "PL!S-pb1-062-SRE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBLS/PL!S-pb1-062-SRE.png",
-        "name": "-",
+        "name": "エネルギーカード",
         "product": "プレミアムブースターラブライブ！サンシャイン!!",
         "type": "エネルギー",
         "rare": "SRE",
@@ -29402,7 +29402,7 @@
         "rare_list": [
             {
                 "card_no": "PL!S-pb1-062-SRE",
-                "name": "-"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PBLS/PL!S-pb1-062-SRE.png"
@@ -29410,7 +29410,7 @@
     "PL!S-pb1-063-SRE": {
         "card_no": "PL!S-pb1-063-SRE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBLS/PL!S-pb1-063-SRE.png",
-        "name": "-",
+        "name": "エネルギーカード",
         "product": "プレミアムブースターラブライブ！サンシャイン!!",
         "type": "エネルギー",
         "rare": "SRE",
@@ -29418,7 +29418,7 @@
         "rare_list": [
             {
                 "card_no": "PL!S-pb1-063-SRE",
-                "name": "-"
+                "name": "エネルギーカード"
             }
         ],
         "_img": "img/cards/PBLS/PL!S-pb1-063-SRE.png"
