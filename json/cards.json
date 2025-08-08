@@ -28476,12 +28476,8 @@
             {
                 "title": "Q142（2025.08.04）",
                 "question": "余剰ハートを持つとは、どのような状態ですか？",
-                "answer": "ライブカードの必要ハートよりもステージのメンバーが持つ基本ハートとエールで獲得したブレードハートが多い状態です。\n例えば、必要ハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_01.png|heart01}}の時、基本ハートとエールで獲得したハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{blade_heart01.png|ハート}}{{blade_heart01.png|ハート}}の場合、余剰ハートは{{heart_01.png|heart01}}1つになります。",
+                "answer": "ライブカードの必要ハートよりもステージのメンバーが持つ基本ハートとエールで獲得したブレードハートが多い状態です。\n例えば、必要ハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_04.png|heart04}}の時、基本ハートとエールで獲得したハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{blade_heart04.png|ハート}}{{blade_heart04.png|ハート}}の場合、余剰ハートは{{heart_04.png|heart04}}1つになります。",
                 "relation": [
-                    {
-                        "card_no": "PL!S-pb1-021-L",
-                        "name": "Strawberry Trapper"
-                    },
                     {
                         "card_no": "PL!-bp3-025-L",
                         "name": "タカラモノズ"
@@ -28489,6 +28485,10 @@
                     {
                         "card_no": "PL!N-bp3-027-L",
                         "name": "La Bella Patria"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-021-L",
+                        "name": "Strawberry Trapper"
                     }
                 ]
             },
@@ -32015,12 +32015,8 @@
             {
                 "title": "Q142（2025.08.04）",
                 "question": "余剰ハートを持つとは、どのような状態ですか？",
-                "answer": "ライブカードの必要ハートよりもステージのメンバーが持つ基本ハートとエールで獲得したブレードハートが多い状態です。\n例えば、必要ハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_01.png|heart01}}の時、基本ハートとエールで獲得したハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{blade_heart01.png|ハート}}{{blade_heart01.png|ハート}}の場合、余剰ハートは{{heart_01.png|heart01}}1つになります。",
+                "answer": "ライブカードの必要ハートよりもステージのメンバーが持つ基本ハートとエールで獲得したブレードハートが多い状態です。\n例えば、必要ハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_04.png|heart04}}の時、基本ハートとエールで獲得したハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{blade_heart04.png|ハート}}{{blade_heart04.png|ハート}}の場合、余剰ハートは{{heart_04.png|heart04}}1つになります。",
                 "relation": [
-                    {
-                        "card_no": "PL!S-pb1-021-L",
-                        "name": "Strawberry Trapper"
-                    },
                     {
                         "card_no": "PL!-bp3-025-L",
                         "name": "タカラモノズ"
@@ -32028,6 +32024,10 @@
                     {
                         "card_no": "PL!N-bp3-027-L",
                         "name": "La Bella Patria"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-021-L",
+                        "name": "Strawberry Trapper"
                     }
                 ]
             },
@@ -37164,12 +37164,8 @@
             {
                 "title": "Q142（2025.08.04）",
                 "question": "余剰ハートを持つとは、どのような状態ですか？",
-                "answer": "ライブカードの必要ハートよりもステージのメンバーが持つ基本ハートとエールで獲得したブレードハートが多い状態です。\n例えば、必要ハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_01.png|heart01}}の時、基本ハートとエールで獲得したハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{blade_heart01.png|ハート}}{{blade_heart01.png|ハート}}の場合、余剰ハートは{{heart_01.png|heart01}}1つになります。",
+                "answer": "ライブカードの必要ハートよりもステージのメンバーが持つ基本ハートとエールで獲得したブレードハートが多い状態です。\n例えば、必要ハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_04.png|heart04}}の時、基本ハートとエールで獲得したハートが{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{blade_heart04.png|ハート}}{{blade_heart04.png|ハート}}の場合、余剰ハートは{{heart_04.png|heart04}}1つになります。",
                 "relation": [
-                    {
-                        "card_no": "PL!S-pb1-021-L",
-                        "name": "Strawberry Trapper"
-                    },
                     {
                         "card_no": "PL!-bp3-025-L",
                         "name": "タカラモノズ"
@@ -37177,6 +37173,10 @@
                     {
                         "card_no": "PL!N-bp3-027-L",
                         "name": "La Bella Patria"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-021-L",
+                        "name": "Strawberry Trapper"
                     }
                 ]
             },
