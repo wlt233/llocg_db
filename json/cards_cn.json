@@ -23259,7 +23259,7 @@
             "card_name_cn": "Tiny Stars",
             "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-bp1-024-L.png",
             "card_type": 14,
-            "ability": "【LIVE开始时】LIVE结束时为止，存在于自己的舞台的1名「涉谷香音」获得[青ハート][BLADE]，1名「唐 可可」获得[桃ハート][BLADE]。\n【LIVE成功時】自己的舞台上存在「涩谷香音」与「唐 可可」的场合，抽1张卡。",
+            "ability": "【LIVE开始时】LIVE结束时为止，存在于自己的舞台的1名「涩谷香音」获得[青ハート][BLADE]，1名「唐 可可」获得[桃ハート][BLADE]。\n【LIVE成功時】自己的舞台上存在「涩谷香音」与「唐 可可」的场合，抽1张卡。",
             "flavor": "",
             "card_number": "PL!SP-bp1-024-L",
             "rarity": "L",
@@ -28569,7 +28569,7 @@
         "card_name_org": "澁谷かのん",
         "card_name_alias": "涩谷香音PL!SP-pb1-012",
         "card_id": 201,
-        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21SP-pb1_012-N.png",
+        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21SP-pb1-012-N_fix.png",
         "card_prefix": "",
         "status": 0,
         "card_type": 13,
@@ -28583,7 +28583,7 @@
             "card_id": 201,
             "card_name_org": "澁谷かのん",
             "card_name_cn": "涩谷香音",
-            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21SP-pb1_012-N.png",
+            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21SP-pb1-012-N_fix.png",
             "card_type": 13,
             "ability": "-",
             "flavor": "",
@@ -28609,7 +28609,7 @@
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
-        "_img": "img/cards_cn/PL%21SP-pb1_012-N.png"
+        "_img": "img/cards_cn/PL%21SP-pb1-012-N_fix.png"
     },
     "PL!SP-pb1-013-N": {
         "version_id": 317,
@@ -31598,7 +31598,7 @@
         "card_name_org": "澁谷かのん",
         "card_name_alias": "涩谷香音PL!SP-sd1-001",
         "card_id": 42,
-        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-SD01-001.png",
+        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21SP-sd1-001-SD_fix.png",
         "card_prefix": "",
         "status": 0,
         "card_type": 13,
@@ -31612,7 +31612,7 @@
             "card_id": 42,
             "card_name_org": "澁谷かのん",
             "card_name_cn": "涩谷香音",
-            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-SD01-001.png",
+            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21SP-sd1-001-SD_fix.png",
             "card_type": 13,
             "ability": "【登场】每存在6张自己的能量，抽1张卡。",
             "flavor": "",
@@ -31638,7 +31638,7 @@
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
-        "_img": "img/cards_cn/PL!SP-SD01-001.png"
+        "_img": "img/cards_cn/PL%21SP-sd1-001-SD_fix.png"
     },
     "PL!SP-sd1-002-SD": {
         "version_id": 78,
@@ -32123,7 +32123,7 @@
         "card_name_org": "澁谷かのん",
         "card_name_alias": "涩谷香音PL!SP-sd1-012",
         "card_id": 53,
-        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-SD01-012.png",
+        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21SP-sd1-012-SD_fix.png",
         "card_prefix": "",
         "status": 0,
         "card_type": 13,
@@ -32137,7 +32137,7 @@
             "card_id": 53,
             "card_name_org": "澁谷かのん",
             "card_name_cn": "涩谷香音",
-            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-SD01-012.png",
+            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21SP-sd1-012-SD_fix.png",
             "card_type": 13,
             "ability": "-",
             "flavor": "",
@@ -32163,7 +32163,7 @@
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
-        "_img": "img/cards_cn/PL!SP-SD01-012.png"
+        "_img": "img/cards_cn/PL%21SP-sd1-012-SD_fix.png"
     },
     "PL!SP-sd1-013-SD": {
         "version_id": 67,
@@ -32781,7 +32781,7 @@
         "card_name_org": "私のSymphony \r\n〜澁谷かのんVer.〜",
         "card_name_alias": "我的Symphony\r\n 〜涩谷香音Ver.〜\r\nPL!SP-sd1-026",
         "card_id": 67,
-        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-SD01-026.png",
+        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21SP-sd1-026-SD.png",
         "card_prefix": "",
         "status": 0,
         "card_type": 14,
@@ -32795,7 +32795,7 @@
             "card_id": 67,
             "card_name_org": "私のSymphony \r\n〜澁谷かのんVer.〜",
             "card_name_cn": "我的Symphony\r\n 〜涩谷香音Ver.〜",
-            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!SP-SD01-026.png",
+            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21SP-sd1-026-SD.png",
             "card_type": 14,
             "ability": "【LIVE开始时】自己的能量大于等于9张的场合，此卡的分数＋１。",
             "flavor": "",
@@ -32821,7 +32821,7 @@
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
-        "_img": "img/cards_cn/PL!SP-SD01-026.png"
+        "_img": "img/cards_cn/PL%21SP-sd1-026-SD.png"
     },
     "PL!SP-sd1-027-P": {
         "version_id": 53,
