@@ -4208,6 +4208,38 @@
         ],
         "_img": "img/cards/PR/PL!HS-PR-015-PR.png"
     },
+    "LL-PR-002-PR": {
+        "card_no": "LL-PR-002-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-002-PR.png",
+        "name": "桜坂しずく&渡辺 曜&乙宗 梢",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-PR-002-PR",
+                "name": "桜坂しずく&渡辺 曜&乙宗 梢"
+            }
+        ],
+        "_img": "img/cards/PR/LL-PR-002-PR.png"
+    },
+    "LL-PR-003-PR": {
+        "card_no": "LL-PR-003-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-003-PR.png",
+        "name": "園田海未&平安名すみれ",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-PR-003-PR",
+                "name": "園田海未&平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/PR/LL-PR-003-PR.png"
+    },
     "PL!N-PR-016-PR": {
         "card_no": "PL!N-PR-016-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-016-PR.png",
