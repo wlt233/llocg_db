@@ -1223,6 +1223,35 @@
         ],
         "_img": "img/cards/PR/LL-PR-001-PR.png"
     },
+    "PL!-bp3-012-PR": {
+        "card_no": "PL!-bp3-012-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-bp3-012-PR.png",
+        "name": "南 ことり",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 2,
+        "base_heart": {},
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 2,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}{{heart_01.png|heart01}}か{{heart_03.png|heart03}}か{{heart_06.png|heart06}}のうち、1つを選ぶ。ライブ終了時まで、自分の成功ライブカード置き場にあるカード1枚につき、選んだハートを1つ得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp3-012-PR",
+                "name": "南 ことり"
+            },
+            {
+                "card_no": "PL!-bp3-012-N",
+                "name": "南ことり"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-bp3-012-PR.png"
+    },
     "LL-E-004-PR": {
         "card_no": "LL-E-004-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-004-PR.png",
@@ -31675,6 +31704,10 @@
             {
                 "card_no": "PL!-bp3-012-N",
                 "name": "南ことり"
+            },
+            {
+                "card_no": "PL!-bp3-012-PR",
+                "name": "南 ことり"
             }
         ],
         "_img": "img/cards/BP03/PL!-bp3-N-012-N.png"
