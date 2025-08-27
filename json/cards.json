@@ -4237,6 +4237,235 @@
         ],
         "_img": "img/cards/PR/PL!HS-PR-015-PR.png"
     },
+    "PL!HS-PR-016-PR": {
+        "card_no": "PL!HS-PR-016-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-016-PR.png",
+        "name": "日野下花帆",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "スリーズブーケ",
+        "cost": 17,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 4,
+            "heart05": 1
+        },
+        "blade": 6,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}手札の同じユニット名を持つカード2枚を控え室に置いてもよい：ライブ終了時まで、{{heart_04.png|heart04}}{{heart_04.png|heart04}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-016-PR",
+                "name": "日野下花帆"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-016-PR.png"
+    },
+    "PL!HS-PR-017-PR": {
+        "card_no": "PL!HS-PR-017-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-017-PR.png",
+        "name": "村野さやか",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "DOLLCHESTRA",
+        "cost": 17,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 1,
+            "heart05": 4
+        },
+        "blade": 6,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}手札の同じユニット名を持つカード2枚を控え室に置いてもよい：ライブ終了時まで、{{heart_05.png|heart05}}{{heart_05.png|heart05}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-017-PR",
+                "name": "村野さやか"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-017-PR.png"
+    },
+    "PL!HS-PR-018-PR": {
+        "card_no": "PL!HS-PR-018-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-018-PR.png",
+        "name": "大沢瑠璃乃",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "みらくらぱーく！",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 2
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-018-PR",
+                "name": "大沢瑠璃乃"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-018-PR.png"
+    },
+    "PL!HS-PR-019-PR": {
+        "card_no": "PL!HS-PR-019-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-019-PR.png",
+        "name": "百生 吟子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "スリーズブーケ",
+        "cost": 2,
+        "base_heart": {
+            "heart04": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚控え室に置く。それらがすべて{{heart_04.png|heart04}}を持つメンバーカードの場合、ライブ終了時まで、{{heart_04.png|heart04}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-019-PR",
+                "name": "百生 吟子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-019-PR.png"
+    },
+    "PL!HS-PR-020-PR": {
+        "card_no": "PL!HS-PR-020-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-020-PR.png",
+        "name": "徒町 小鈴",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "DOLLCHESTRA",
+        "cost": 11,
+        "base_heart": {
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 6,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：自分の控え室にあるメンバーカード2枚を好きな順番でデッキの一番上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-020-PR",
+                "name": "徒町 小鈴"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-020-PR.png"
+    },
+    "PL!HS-PR-021-PR": {
+        "card_no": "PL!HS-PR-021-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-021-PR.png",
+        "name": "安養寺 姫芽",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "みらくらぱーく！",
+        "cost": 2,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚控え室に置く。それらがすべて{{heart_01.png|heart01}}を持つメンバーカードの場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-021-PR",
+                "name": "安養寺 姫芽"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-021-PR.png"
+    },
+    "PL!HS-PR-022-PR": {
+        "card_no": "PL!HS-PR-022-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-023-PR.png",
+        "name": "桂城 泉",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "EdelNote",
+        "cost": 11,
+        "base_heart": {
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 6,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：自分の控え室にあるメンバーカード2枚を好きな順番でデッキの一番上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-022-PR",
+                "name": "桂城 泉"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-023-PR.png"
+    },
+    "PL!HS-PR-023-PR": {
+        "card_no": "PL!HS-PR-023-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-022-PR.png",
+        "name": "セラス 柳田 リリエンフェルト",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "EdelNote",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-023-PR",
+                "name": "セラス 柳田 リリエンフェルト"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-022-PR.png"
+    },
+    "PL!HS-PR-024-PR＋": {
+        "card_no": "PL!HS-PR-024-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-024-PR2.png",
+        "name": "日野下花帆",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-024-PR＋",
+                "name": "日野下花帆"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-024-PR2.png"
+    },
     "LL-PR-002-PR": {
         "card_no": "LL-PR-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-002-PR.png",
@@ -31502,7 +31731,7 @@
             "heart06": 1
         },
         "blade": 2,
-        "rare": "R",
+        "rare": "R+",
         "ability": "{{toujyou.png|登場}}自分のステージにコスト13以上のメンバーがいる場合、カードを1枚引く。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバーをウェイトにする：{{heart_01.png|heart01}}か{{heart_03.png|heart03}}か{{heart_06.png|heart06}}のうち、1つを選ぶ。ライブ終了時まで、選んだハートを1つ得る。",
         "faq": [],
         "rare_list": [
