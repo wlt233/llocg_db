@@ -4498,6 +4498,33 @@
         ],
         "_img": "img/cards/PR/LL-PR-003-PR.png"
     },
+    "LL-PR-004-PR": {
+        "card_no": "LL-PR-004-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-004-PR.png",
+        "name": "愛♡スクリ～ム！",
+        "product": "PRカード",
+        "type": "ライブ",
+        "unit": "AiScReam",
+        "score": 3,
+        "need_heart": {
+            "heart01": 3,
+            "heart02": 3,
+            "heart04": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}相手に何が好き？と聞く。\n回答がチョコミントかストロベリーフレイバーかクッキー＆クリームの場合、自分と相手は手札を1枚控え室に置く。\n回答があなたの場合、自分と相手はカードを1枚引く。\n回答がそれ以外の場合、ライブ終了時まで、自分と相手のステージにいるメンバーは{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-PR-004-PR",
+                "name": "愛♡スクリ～ム！"
+            }
+        ],
+        "_img": "img/cards/PR/LL-PR-004-PR.png"
+    },
     "PL!N-PR-016-PR": {
         "card_no": "PL!N-PR-016-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-016-PR.png",
