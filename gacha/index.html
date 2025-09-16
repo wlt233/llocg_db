@@ -92,8 +92,9 @@
 
 <div class="container">
   <div class="hoveritem center">
-    <h2 class="normal">拉布卡抽卡模拟器 </h2>
-    <h2 class="hover" >拉布卡戒赌模拟器 </h2>
+    <h2 class="normal">拉布卡抽卡模拟器</h2>
+    <h2 class="hover" >拉布卡戒赌模拟器</h2>
+    <h3></h3>
   </div>
   <div class="center">
     <select id="colle-select"></select>
@@ -123,8 +124,14 @@
   </div>
 
 <script>
-const title = "v0.3.3(BP03)";
+const version = "v0.3.4(PBLL)";
+const date = "<br>2025.09.16";
 const cardData = {
+  "PBLL": {
+    "priceBox": 300,
+    "pricePack": 15,
+    "type": "PB"
+  },
   "BP03": {
     "priceBox": 300,
     "pricePack": 30,
@@ -153,10 +160,11 @@ const cardData = {
 };
 
 
-document.title += title;
-for (const h2 of document.querySelectorAll('h2')) {
-  h2.textContent += title;
-}
+document.title += version;
+//for (const h2 of document.querySelectorAll('h2')) {
+//  h2.textContent += title;
+//}
+document.querySelector('h3').innerHTML = version + date;
 Object.entries(cardData).forEach(([colle, data]) => {
   document.getElementById('colle-select').innerHTML += `<option value="${colle}">${colle}</option>`;
 });
