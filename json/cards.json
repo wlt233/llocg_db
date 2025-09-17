@@ -1579,7 +1579,135 @@
         "blade": 3,
         "rare": "PR",
         "ability": "{{toujyou.png|登場}}ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!S-PR-016-PR",
@@ -1684,7 +1812,135 @@
         "blade": 3,
         "rare": "PR",
         "ability": "{{toujyou.png|登場}}ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!S-PR-020-PR",
@@ -1709,7 +1965,135 @@
         "blade": 3,
         "rare": "PR",
         "ability": "{{toujyou.png|登場}}ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!S-PR-021-PR",
@@ -4254,7 +4638,23 @@
         "blade": 6,
         "rare": "PR",
         "ability": "{{live_start.png|ライブ開始時}}手札の同じユニット名を持つカード2枚を控え室に置いてもよい：ライブ終了時まで、{{heart_04.png|heart04}}{{heart_04.png|heart04}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q175（2025.09.17）",
+                "question": "『{{live_start.png|ライブ開始時}}手札の同じユニット名を持つカード2枚を控え室に置いてもよい：ライブ終了時まで、{{heart_04.png|heart04}}{{heart_04.png|heart04}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。』などについて、この能力を使用しているメンバーカードと同じユニットの必要はありますか？",
+                "answer": "\"いいえ、同じユニットである必要はありません。\n手札から控え室に置くカードのユニットが同じである必要があります。ただし、「μ's」や「Aqours」など、グループ名は参照できません。\"",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-PR-016-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-017-PR",
+                        "name": "村野さやか"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!HS-PR-016-PR",
@@ -4280,7 +4680,23 @@
         "blade": 6,
         "rare": "PR",
         "ability": "{{live_start.png|ライブ開始時}}手札の同じユニット名を持つカード2枚を控え室に置いてもよい：ライブ終了時まで、{{heart_05.png|heart05}}{{heart_05.png|heart05}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q175（2025.09.17）",
+                "question": "『{{live_start.png|ライブ開始時}}手札の同じユニット名を持つカード2枚を控え室に置いてもよい：ライブ終了時まで、{{heart_04.png|heart04}}{{heart_04.png|heart04}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。』などについて、この能力を使用しているメンバーカードと同じユニットの必要はありますか？",
+                "answer": "\"いいえ、同じユニットである必要はありません。\n手札から控え室に置くカードのユニットが同じである必要があります。ただし、「μ's」や「Aqours」など、グループ名は参照できません。\"",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-PR-016-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-017-PR",
+                        "name": "村野さやか"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!HS-PR-017-PR",
@@ -4333,7 +4749,135 @@
         "blade": 1,
         "rare": "PR",
         "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚控え室に置く。それらがすべて{{heart_04.png|heart04}}を持つメンバーカードの場合、ライブ終了時まで、{{heart_04.png|heart04}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!HS-PR-019-PR",
@@ -4387,7 +4931,135 @@
         "blade": 1,
         "rare": "PR",
         "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを3枚控え室に置く。それらがすべて{{heart_01.png|heart01}}を持つメンバーカードの場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!HS-PR-021-PR",
@@ -7746,6 +8418,133 @@
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [
             {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
+            {
                 "title": "Q129（2025.07.22）",
                 "question": "『{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\n手札が「[LL-bp2-001-R＋]渡辺曜&鬼塚夏美&大沢瑠璃乃」を含めて5枚の時、「[LL-bp2-001-R＋]渡辺曜&鬼塚夏美&大沢瑠璃乃」を公開した場合、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」は得ますか？",
                 "answer": "いいえ、得ません。\n「[LL-bp2-001-R＋]渡辺曜&鬼塚夏美&大沢瑠璃乃」の『{{jyouji.png|常時}}手札にあるこのメンバーカードのコストは、このカード以外の自分の手札1枚につき、1少なくなる。』の能力によってコストが下がっているため、条件を満たさず「公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合」は満たしません。",
@@ -7834,6 +8633,133 @@
         "rare": "P",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
             {
                 "title": "Q129（2025.07.22）",
                 "question": "『{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\n手札が「[LL-bp2-001-R＋]渡辺曜&鬼塚夏美&大沢瑠璃乃」を含めて5枚の時、「[LL-bp2-001-R＋]渡辺曜&鬼塚夏美&大沢瑠璃乃」を公開した場合、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」は得ますか？",
@@ -7924,6 +8850,133 @@
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [
             {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
+            {
                 "title": "Q129（2025.07.22）",
                 "question": "『{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\n手札が「[LL-bp2-001-R＋]渡辺曜&鬼塚夏美&大沢瑠璃乃」を含めて5枚の時、「[LL-bp2-001-R＋]渡辺曜&鬼塚夏美&大沢瑠璃乃」を公開した場合、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」は得ますか？",
                 "answer": "いいえ、得ません。\n「[LL-bp2-001-R＋]渡辺曜&鬼塚夏美&大沢瑠璃乃」の『{{jyouji.png|常時}}手札にあるこのメンバーカードのコストは、このカード以外の自分の手札1枚につき、1少なくなる。』の能力によってコストが下がっているため、条件を満たさず「公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合」は満たしません。",
@@ -8012,6 +9065,133 @@
         "rare": "SEC",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
             {
                 "title": "Q129（2025.07.22）",
                 "question": "『{{kidou.png|起動}}{{turn1.png|ターン1回}}手札にあるメンバーカードを好きな枚数公開する：公開したカードのコストの合計が、10、20、30、40、50のいずれかの場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\n手札が「[LL-bp2-001-R＋]渡辺曜&鬼塚夏美&大沢瑠璃乃」を含めて5枚の時、「[LL-bp2-001-R＋]渡辺曜&鬼塚夏美&大沢瑠璃乃」を公開した場合、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」は得ますか？",
@@ -13915,7 +15095,135 @@
         "blade": 2,
         "rare": "SD",
         "ability": "{{toujyou.png|登場}}ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!SP-sd1-004-SD",
@@ -15977,6 +17285,133 @@
         "ability": "{{jidou.png|自動}}このメンバーが登場か、エリアを移動するたび、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n(対戦相手のカードの効果でも発動する。)",
         "faq": [
             {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
+            {
                 "title": "Q94（2025.04.22）",
                 "question": "『{{jidou.png|自動}}このメンバーが登場か、エリアを移動するたび、ライブ終了時まで、ブレードブレードを得る。』について。\n例えば、このメンバーカードが登場して、その後、このメンバーカードが別のエリアに移動した場合、この自動能力は合わせて2回発動しますか？",
                 "answer": "はい、登場した時と移動した時の合わせて2回発動します。",
@@ -16022,6 +17457,133 @@
         "rare": "P+",
         "ability": "{{jidou.png|自動}}このメンバーが登場か、エリアを移動するたび、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n(対戦相手のカードの効果でも発動する。)",
         "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
             {
                 "title": "Q94（2025.04.22）",
                 "question": "『{{jidou.png|自動}}このメンバーが登場か、エリアを移動するたび、ライブ終了時まで、ブレードブレードを得る。』について。\n例えば、このメンバーカードが登場して、その後、このメンバーカードが別のエリアに移動した場合、この自動能力は合わせて2回発動しますか？",
@@ -21431,6 +22993,133 @@
         "ability": "{{toujyou.png|登場}}自分のステージにいる『Liella!』のメンバー1人のすべての{{live_start.png|ライブ開始時}}能力を、ライブ終了時まで、無効にしてもよい。これにより無効にした場合、自分の控え室から『Liella!』のカードを1枚手札に加える。",
         "faq": [
             {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
+            {
                 "title": "Q106（2025.05.30）",
                 "question": "『{{toujyou.png|登場}}自分のステージにいる『Liella!』のメンバー1人のすべての{{live_start.png|ライブ開始時}}能力を、ライブ終了時まで、無効にしてもよい。これにより無効にした場合、自分の控え室から『Liella!』のカードを1枚手札に加える。』について。\nすべての{{live_start.png|ライブ開始時}}能力が無効になっているメンバーを選んで、もう一度無効にすることで、自分の控え室から『Liella!』のカードを1枚手札に加えることはできますか？",
                 "answer": "いいえ、できません。\n無効である能力がさらに無効にはならないため、「無効にした場合」の条件を満たしていません。",
@@ -21495,6 +23184,133 @@
         "rare": "P",
         "ability": "{{toujyou.png|登場}}自分のステージにいる『Liella!』のメンバー1人のすべての{{live_start.png|ライブ開始時}}能力を、ライブ終了時まで、無効にしてもよい。これにより無効にした場合、自分の控え室から『Liella!』のカードを1枚手札に加える。",
         "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
             {
                 "title": "Q106（2025.05.30）",
                 "question": "『{{toujyou.png|登場}}自分のステージにいる『Liella!』のメンバー1人のすべての{{live_start.png|ライブ開始時}}能力を、ライブ終了時まで、無効にしてもよい。これにより無効にした場合、自分の控え室から『Liella!』のカードを1枚手札に加える。』について。\nすべての{{live_start.png|ライブ開始時}}能力が無効になっているメンバーを選んで、もう一度無効にすることで、自分の控え室から『Liella!』のカードを1枚手札に加えることはできますか？",
@@ -21561,6 +23377,133 @@
         "ability": "{{toujyou.png|登場}}自分のステージにいる『Liella!』のメンバー1人のすべての{{live_start.png|ライブ開始時}}能力を、ライブ終了時まで、無効にしてもよい。これにより無効にした場合、自分の控え室から『Liella!』のカードを1枚手札に加える。",
         "faq": [
             {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
+            {
                 "title": "Q106（2025.05.30）",
                 "question": "『{{toujyou.png|登場}}自分のステージにいる『Liella!』のメンバー1人のすべての{{live_start.png|ライブ開始時}}能力を、ライブ終了時まで、無効にしてもよい。これにより無効にした場合、自分の控え室から『Liella!』のカードを1枚手札に加える。』について。\nすべての{{live_start.png|ライブ開始時}}能力が無効になっているメンバーを選んで、もう一度無効にすることで、自分の控え室から『Liella!』のカードを1枚手札に加えることはできますか？",
                 "answer": "いいえ、できません。\n無効である能力がさらに無効にはならないため、「無効にした場合」の条件を満たしていません。",
@@ -21625,6 +23568,133 @@
         "rare": "SEC",
         "ability": "{{toujyou.png|登場}}自分のステージにいる『Liella!』のメンバー1人のすべての{{live_start.png|ライブ開始時}}能力を、ライブ終了時まで、無効にしてもよい。これにより無効にした場合、自分の控え室から『Liella!』のカードを1枚手札に加える。",
         "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
             {
                 "title": "Q106（2025.05.30）",
                 "question": "『{{toujyou.png|登場}}自分のステージにいる『Liella!』のメンバー1人のすべての{{live_start.png|ライブ開始時}}能力を、ライブ終了時まで、無効にしてもよい。これにより無効にした場合、自分の控え室から『Liella!』のカードを1枚手札に加える。』について。\nすべての{{live_start.png|ライブ開始時}}能力が無効になっているメンバーを選んで、もう一度無効にすることで、自分の控え室から『Liella!』のカードを1枚手札に加えることはできますか？",
@@ -25758,7 +27828,135 @@
         "blade": 1,
         "rare": "R",
         "ability": "{{toujyou.png|登場}}このメンバーよりコストが低い『DOLLCHESTRA』のメンバーからバトンタッチして登場した場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!HS-bp2-008-R",
@@ -25786,7 +27984,135 @@
         "blade": 1,
         "rare": "P",
         "ability": "{{toujyou.png|登場}}このメンバーよりコストが低い『DOLLCHESTRA』のメンバーからバトンタッチして登場した場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!HS-bp2-008-P",
@@ -25819,7 +28145,135 @@
         "blade": 4,
         "rare": "R",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}支払ってもよい：このメンバーよりコストが低い『みらくらぱーく！』のメンバーからバトンタッチして登場した場合、ライブ終了時まで、{{heart_01.png|heart01}}{{heart_01.png|heart01}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!HS-bp2-009-R",
@@ -25852,7 +28306,135 @@
         "blade": 4,
         "rare": "P",
         "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}支払ってもよい：このメンバーよりコストが低い『みらくらぱーく！』のメンバーからバトンタッチして登場した場合、ライブ終了時まで、{{heart_01.png|heart01}}{{heart_01.png|heart01}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!HS-bp2-009-P",
@@ -26814,6 +29396,133 @@
         "ability": "{{toujyou.png|登場}}相手は手札からライブカードを1枚控え室に置いてもよい。そうしなかった場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [
             {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
+            {
                 "title": "Q130（2025.07.22）",
                 "question": "『{{toujyou.png|登場}}相手は手札からライブカードを1枚控え室に置いてもよい。そうしなかった場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\nこの能力を使用したターンにライブを行いませんでした。、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」は次のターンも得ている状態ですか？",
                 "answer": "いいえ、ライブを行わない場合でもライブ勝敗判定フェイズの終了時に能力は消滅します。",
@@ -26859,6 +29568,133 @@
         "rare": "P+",
         "ability": "{{toujyou.png|登場}}相手は手札からライブカードを1枚控え室に置いてもよい。そうしなかった場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
             {
                 "title": "Q130（2025.07.22）",
                 "question": "『{{toujyou.png|登場}}相手は手札からライブカードを1枚控え室に置いてもよい。そうしなかった場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。』について。\nこの能力を使用したターンにライブを行いませんでした。、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」は次のターンも得ている状態ですか？",
@@ -27750,7 +30586,135 @@
         "blade": 1,
         "rare": "R",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札のライブカードを1枚公開する：相手は手札を1枚控え室に置いてもよい。そうしなかった場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!S-pb1-006-R",
@@ -27778,7 +30742,135 @@
         "blade": 1,
         "rare": "P+",
         "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札のライブカードを1枚公開する：相手は手札を1枚控え室に置いてもよい。そうしなかった場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!S-pb1-006-P＋",
@@ -32549,6 +35641,17 @@
         "ability": "{{live_start.png|ライブ開始時}}手札を2枚控え室に置いてもよい：ライブ終了時まで、自分のステージにいるメンバー1人は、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{live_success.png|ライブ成功時}}自分のステージにいるメンバーが持つハートの総数が、相手のステージにいるメンバーが持つハートの総数より多い場合、このカードのスコアを＋１する。",
         "faq": [
             {
+                "title": "Q172（2025.09.17）",
+                "question": "『{{live_success.png|ライブ成功時}}自分のステージにいるメンバーが持つハートの総数が、相手のステージにいるメンバーが持つハートの総数より多い場合、このカードのスコアを＋１する。』について、ハートの総数を数えるとき、能力によって得たハートも含みますか？",
+                "answer": "はい、含みます。ただし、エールによって得たブレードハートは含みません。",
+                "relation": [
+                    {
+                        "card_no": "PL!-bp3-026-L",
+                        "name": "Oh,Love&Peace!"
+                    }
+                ]
+            },
+            {
                 "title": "Q150（2025.08.04）",
                 "question": "『{{live_success.png|ライブ成功時}}自分のステージにいるメンバーが持つハートの総数が、相手のステージにいるメンバーが持つハートの総数より多い場合、このカードのスコアを＋１する。』について。\n自分のステージに、ハートの数が2,3,5のメンバーがいます。相手のステージには、ハートの数が3,6のメンバーがいます。このとき、ライブ成功時の効果は発動しますか？",
                 "answer": "はい、発動します。\n自分のステージのいるメンバーのハートの総数は10、相手のステージにいるメンバーのハートの総数は9となり、自分のほうが多いため発動します。",
@@ -32981,6 +36084,133 @@
         "ability": "{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}メンバー1人をウェイトにする：ライブ終了時まで、これによってウェイト状態になったメンバーは、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。（この能力はセンターエリアに登場している場合のみ起動できる。）",
         "faq": [
             {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
+            {
                 "title": "Q152（2025.08.04）",
                 "question": "『{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}メンバー1人をウェイトにする：ライブ終了時まで、これによってウェイト状態になったメンバーは、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。（この能力はセンターエリアに登場している場合のみ起動できる。）』について。\nこの能力で相手のメンバーをウェイトにして能力を使用できますか？",
                 "answer": "いいえ、できません。",
@@ -33068,6 +36298,133 @@
         "rare": "P",
         "ability": "{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}メンバー1人をウェイトにする：ライブ終了時まで、これによってウェイト状態になったメンバーは、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。（この能力はセンターエリアに登場している場合のみ起動できる。）",
         "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
             {
                 "title": "Q152（2025.08.04）",
                 "question": "『{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}メンバー1人をウェイトにする：ライブ終了時まで、これによってウェイト状態になったメンバーは、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。（この能力はセンターエリアに登場している場合のみ起動できる。）』について。\nこの能力で相手のメンバーをウェイトにして能力を使用できますか？",
@@ -33157,6 +36514,133 @@
         "ability": "{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}メンバー1人をウェイトにする：ライブ終了時まで、これによってウェイト状態になったメンバーは、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。（この能力はセンターエリアに登場している場合のみ起動できる。）",
         "faq": [
             {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
+            {
                 "title": "Q152（2025.08.04）",
                 "question": "『{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}メンバー1人をウェイトにする：ライブ終了時まで、これによってウェイト状態になったメンバーは、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。（この能力はセンターエリアに登場している場合のみ起動できる。）』について。\nこの能力で相手のメンバーをウェイトにして能力を使用できますか？",
                 "answer": "いいえ、できません。",
@@ -33244,6 +36728,133 @@
         "rare": "SEC",
         "ability": "{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}メンバー1人をウェイトにする：ライブ終了時まで、これによってウェイト状態になったメンバーは、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。（この能力はセンターエリアに登場している場合のみ起動できる。）",
         "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
             {
                 "title": "Q152（2025.08.04）",
                 "question": "『{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}メンバー1人をウェイトにする：ライブ終了時まで、これによってウェイト状態になったメンバーは、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。（この能力はセンターエリアに登場している場合のみ起動できる。）』について。\nこの能力で相手のメンバーをウェイトにして能力を使用できますか？",
@@ -36959,7 +40570,135 @@
         "blade": 1,
         "rare": "R",
         "ability": "{{toujyou.png|登場}}相手のステージにいる「ミア・テイラー」以外のメンバーを1人選ぶ。そのメンバーが持つハートと、このメンバーが持つハートの中に同じ色のハートがある場合、ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。それぞれのメンバーのコストが同じ場合、元々の{{icon_blade.png|ブレード}}の数が同じ場合についても同じことを行う。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!N-bp3-011-R",
@@ -36988,7 +40727,135 @@
         "blade": 1,
         "rare": "P",
         "ability": "{{toujyou.png|登場}}相手のステージにいる「ミア・テイラー」以外のメンバーを1人選ぶ。そのメンバーが持つハートと、このメンバーが持つハートの中に同じ色のハートがある場合、ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。それぞれのメンバーのコストが同じ場合、元々の{{icon_blade.png|ブレード}}の数が同じ場合についても同じことを行う。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q171（2025.09.17）",
+                "question": "『ライブ終了時まで』の能力を使用したターンライブをしなかった場合、どうなりますか。",
+                "answer": "ライブを行ったかどうかにかかわらず、ライブ終了時を期限とする能力はライブ勝敗判定フェイズの終了時に無くなります。",
+                "relation": [
+                    {
+                        "card_no": "PL!HS-bp2-008-P",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-008-R",
+                        "name": "徒町 小鈴"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-P",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-bp2-009-R",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-P",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-011-R",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-P＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-R＋",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-P＋",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-002-R",
+                        "name": "桜内梨子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-P＋",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-006-R",
+                        "name": "津島善子"
+                    },
+                    {
+                        "card_no": "PL!S-PR-016-PR",
+                        "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!S-PR-020-PR",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-PR-021-PR",
+                        "name": "黒澤ルビィ"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-P＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-R＋",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-003-SEC",
+                        "name": "嵐 千砂都"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-R＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-001-SEC",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-P＋",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-006-R",
+                        "name": "桜小路きな子"
+                    },
+                    {
+                        "card_no": "PL!SP-sd1-004-SD",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!N-bp3-011-P",
@@ -37486,6 +41353,28 @@
         "rare": "L",
         "ability": "{{live_success.png|ライブ成功時}}このターン、自分が余剰ハートに{{heart_04.png|heart04}}を1つ以上持っており、かつ自分のステージに『虹ヶ咲』のメンバーがいる場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
         "faq": [
+            {
+                "title": "Q174（2025.09.17）",
+                "question": "『{{live_success.png|ライブ成功時}}このターン、自分が余剰ハートに{{heart_04.png|heart04}}を1つ以上持っており、かつ自分のステージに『虹ヶ咲』のメンバーがいる場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。』について、ステージに緑ハートがなくエールによってALLハートを3枚獲得してライブ成功した時、ライブ成功時能力は使えますか？",
+                "answer": "いいえ。使えません。\nただし、エールによってALLハートを獲得したものとは別に緑ハートが1つでもあれば、余剰の緑ハートを生むことができライブ成功時能力の条件を満たします。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-bp3-027-L",
+                        "name": "La Bella Patria"
+                    }
+                ]
+            },
+            {
+                "title": "Q173（2025.09.17）",
+                "question": "『{{live_success.png|ライブ成功時}}このターン、自分が余剰ハートに{{heart_04.png|heart04}}を1つ以上持っており、かつ自分のステージに『虹ヶ咲』のメンバーがいる場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。』について、この能力を持つカードを2枚同時にライブをしました。この時、余剰ハートが{{heart_04.png|heart04}}1つの場合、それぞれの能力は使用できますか？",
+                "answer": "はい、可能です。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-bp3-027-L",
+                        "name": "La Bella Patria"
+                    }
+                ]
+            },
             {
                 "title": "Q142（2025.08.04）",
                 "question": "余剰ハートを持つとは、どのような状態ですか？",
@@ -38525,7 +42414,38 @@
         "blade": 3,
         "rare": "R",
         "ability": "{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}このメンバーをウェイトにし、手札を1枚控え室に置く：ライブカードかコスト10以上のメンバーカードのどちらか1つを選ぶ。選んだカードが公開されるまで、自分のデッキの一番上からカードを１枚ずつ公開する。そのカードを手札に加え、これにより公開されたほかのすべてのカードを控え室に置く。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q167（2025.09.17）",
+                "question": "『{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}このメンバーをウェイトにし、手札を1枚控え室に置く：ライブカードかコスト10以上のメンバーカードのどちらか1つを選ぶ。選んだカードが公開されるまで、自分のデッキの一番上からカードを１枚ずつ公開する。そのカードを手札に加え、これにより公開されたほかのすべてのカードを控え室に置く。』について。\nメインデッキにも控え室にもライブカードかコスト10以上のメンバーカードがない状態で、この能力を使った場合、どうなりますか？",
+                "answer": "効果や処理は実行可能な限り解決し、一部でも実行可能な場合はその一部を解決します。まったく解決できない場合は何も行いません。\n\nこの場合、メインデッキのカードをすべて公開してリフレッシュを行い、さらに新しいメインデッキのカードをすべて公開した時点で『ライブカードが公開されるまで、自分のデッキの一番上のカードを公開し続ける。』の解決を終了します。\n\n続いて『そのカードを手札に加え、これにより公開されたほかのすべてのカードを控え室に置く。』を解決します。手札に加えるカードはなく、公開したカードを控え室に置き、リフレッシュを行います。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-001-P＋",
+                        "name": "高坂穂乃果"
+                    },
+                    {
+                        "card_no": "PL!-pb1-001-R",
+                        "name": "高坂穂乃果"
+                    }
+                ]
+            },
+            {
+                "title": "Q166（2025.09.17）",
+                "question": "\"『{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}このメンバーをウェイトにし、手札を1枚控え室に置く：ライブカードかコスト10以上のメンバーカードのどちらか1つを選ぶ。選んだカードが公開されるまで、自分のデッキの一番上からカードを１枚ずつ公開する。そのカードを手札に加え、これにより公開されたほかのすべてのカードを控え室に置く。』について。\nこの能力の効果の解決中に、メインデッキのカードが無くなりました。「リフレッシュ」の処理はどうなりますか？\"",
+                "answer": "能力に効果によって公開しているカードを含めずに「リフレッシュ」をして控え室のカードを新たなメインデッキにします。その後、効果の解決を再開します。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-001-P＋",
+                        "name": "高坂穂乃果"
+                    },
+                    {
+                        "card_no": "PL!-pb1-001-R",
+                        "name": "高坂穂乃果"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!-pb1-001-R",
@@ -38558,7 +42478,38 @@
         "blade": 3,
         "rare": "P+",
         "ability": "{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}このメンバーをウェイトにし、手札を1枚控え室に置く：ライブカードかコスト10以上のメンバーカードのどちらか1つを選ぶ。選んだカードが公開されるまで、自分のデッキの一番上からカードを１枚ずつ公開する。そのカードを手札に加え、これにより公開されたほかのすべてのカードを控え室に置く。",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q167（2025.09.17）",
+                "question": "『{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}このメンバーをウェイトにし、手札を1枚控え室に置く：ライブカードかコスト10以上のメンバーカードのどちらか1つを選ぶ。選んだカードが公開されるまで、自分のデッキの一番上からカードを１枚ずつ公開する。そのカードを手札に加え、これにより公開されたほかのすべてのカードを控え室に置く。』について。\nメインデッキにも控え室にもライブカードかコスト10以上のメンバーカードがない状態で、この能力を使った場合、どうなりますか？",
+                "answer": "効果や処理は実行可能な限り解決し、一部でも実行可能な場合はその一部を解決します。まったく解決できない場合は何も行いません。\n\nこの場合、メインデッキのカードをすべて公開してリフレッシュを行い、さらに新しいメインデッキのカードをすべて公開した時点で『ライブカードが公開されるまで、自分のデッキの一番上のカードを公開し続ける。』の解決を終了します。\n\n続いて『そのカードを手札に加え、これにより公開されたほかのすべてのカードを控え室に置く。』を解決します。手札に加えるカードはなく、公開したカードを控え室に置き、リフレッシュを行います。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-001-P＋",
+                        "name": "高坂穂乃果"
+                    },
+                    {
+                        "card_no": "PL!-pb1-001-R",
+                        "name": "高坂穂乃果"
+                    }
+                ]
+            },
+            {
+                "title": "Q166（2025.09.17）",
+                "question": "\"『{{kidou.png|起動}}{{center.png|センター}}{{turn1.png|ターン1回}}このメンバーをウェイトにし、手札を1枚控え室に置く：ライブカードかコスト10以上のメンバーカードのどちらか1つを選ぶ。選んだカードが公開されるまで、自分のデッキの一番上からカードを１枚ずつ公開する。そのカードを手札に加え、これにより公開されたほかのすべてのカードを控え室に置く。』について。\nこの能力の効果の解決中に、メインデッキのカードが無くなりました。「リフレッシュ」の処理はどうなりますか？\"",
+                "answer": "能力に効果によって公開しているカードを含めずに「リフレッシュ」をして控え室のカードを新たなメインデッキにします。その後、効果の解決を再開します。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-001-P＋",
+                        "name": "高坂穂乃果"
+                    },
+                    {
+                        "card_no": "PL!-pb1-001-R",
+                        "name": "高坂穂乃果"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!-pb1-001-P＋",
@@ -39569,7 +43520,53 @@
         },
         "rare": "R",
         "ability": "{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からコスト2以下のメンバーカードを1枚、メンバーのいないエリアにウェイト状態で登場させる。（この効果で登場したメンバーのいるエリアには、このターンにメンバーは登場できない。）",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q170（2025.09.17）",
+                "question": "『{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からコスト2以下のメンバーカードを1枚、メンバーのいないエリアにウェイト状態で登場させる。（この効果で登場したメンバーのいるエリアには、このターンにメンバーは登場できない。）』について、この能力でお互いに{{toujyou.png|登場}}能力を持つメンバーカードを登場させました。どちらから能力を使用できますか？",
+                "answer": "通常フェイズを行っているプレイヤーから順番に{{toujyou.png|登場}}能力を使用します。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-018-P＋",
+                        "name": "矢澤にこ"
+                    },
+                    {
+                        "card_no": "PL!-pb1-018-R",
+                        "name": "矢澤にこ"
+                    }
+                ]
+            },
+            {
+                "title": "Q169（2025.09.17）",
+                "question": "『{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からコスト2以下のメンバーカードを1枚、メンバーのいないエリアにウェイト状態で登場させる。（この効果で登場したメンバーのいるエリアには、このターンにメンバーは登場できない。）』について、この能力を先行で使用しました。このターン、相手はこのカードの能力で登場させたメンバーカードをバトンタッチに使用することはできますか？",
+                "answer": "いいえ。できません。\nこの効果で登場したメンバーのいるエリアには、このターンにメンバーが登場できないため、バトンタッチも使用できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-018-P＋",
+                        "name": "矢澤にこ"
+                    },
+                    {
+                        "card_no": "PL!-pb1-018-R",
+                        "name": "矢澤にこ"
+                    }
+                ]
+            },
+            {
+                "title": "Q168（2025.09.17）",
+                "question": "『{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からコスト2以下のメンバーカードを1枚、メンバーのいないエリアにウェイト状態で登場させる。（この効果で登場したメンバーのいるエリアには、このターンにメンバーは登場できない。）』について、自分または相手の控え室にコスト2以下のメンバーカードがいない場合、どうなりますか？",
+                "answer": "控え室にコスト2以下のメンバーカードがいないプレイヤーはメンバーカードを登場させずに効果の処理を終了します。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-018-P＋",
+                        "name": "矢澤にこ"
+                    },
+                    {
+                        "card_no": "PL!-pb1-018-R",
+                        "name": "矢澤にこ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!-pb1-018-R",
@@ -39596,7 +43593,53 @@
         },
         "rare": "P+",
         "ability": "{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からコスト2以下のメンバーカードを1枚、メンバーのいないエリアにウェイト状態で登場させる。（この効果で登場したメンバーのいるエリアには、このターンにメンバーは登場できない。）",
-        "faq": [],
+        "faq": [
+            {
+                "title": "Q170（2025.09.17）",
+                "question": "『{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からコスト2以下のメンバーカードを1枚、メンバーのいないエリアにウェイト状態で登場させる。（この効果で登場したメンバーのいるエリアには、このターンにメンバーは登場できない。）』について、この能力でお互いに{{toujyou.png|登場}}能力を持つメンバーカードを登場させました。どちらから能力を使用できますか？",
+                "answer": "通常フェイズを行っているプレイヤーから順番に{{toujyou.png|登場}}能力を使用します。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-018-P＋",
+                        "name": "矢澤にこ"
+                    },
+                    {
+                        "card_no": "PL!-pb1-018-R",
+                        "name": "矢澤にこ"
+                    }
+                ]
+            },
+            {
+                "title": "Q169（2025.09.17）",
+                "question": "『{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からコスト2以下のメンバーカードを1枚、メンバーのいないエリアにウェイト状態で登場させる。（この効果で登場したメンバーのいるエリアには、このターンにメンバーは登場できない。）』について、この能力を先行で使用しました。このターン、相手はこのカードの能力で登場させたメンバーカードをバトンタッチに使用することはできますか？",
+                "answer": "いいえ。できません。\nこの効果で登場したメンバーのいるエリアには、このターンにメンバーが登場できないため、バトンタッチも使用できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-018-P＋",
+                        "name": "矢澤にこ"
+                    },
+                    {
+                        "card_no": "PL!-pb1-018-R",
+                        "name": "矢澤にこ"
+                    }
+                ]
+            },
+            {
+                "title": "Q168（2025.09.17）",
+                "question": "『{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からコスト2以下のメンバーカードを1枚、メンバーのいないエリアにウェイト状態で登場させる。（この効果で登場したメンバーのいるエリアには、このターンにメンバーは登場できない。）』について、自分または相手の控え室にコスト2以下のメンバーカードがいない場合、どうなりますか？",
+                "answer": "控え室にコスト2以下のメンバーカードがいないプレイヤーはメンバーカードを登場させずに効果の処理を終了します。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-018-P＋",
+                        "name": "矢澤にこ"
+                    },
+                    {
+                        "card_no": "PL!-pb1-018-R",
+                        "name": "矢澤にこ"
+                    }
+                ]
+            }
+        ],
         "rare_list": [
             {
                 "card_no": "PL!-pb1-018-P＋",
