@@ -7214,6 +7214,53 @@
         },
         "_img": "img/cards_cn/PL!-pb1-051-SRE.png"
     },
+    "PL!-pb1-052-SECE": {
+        "version_id": 959,
+        "card_name_org": "エネルギー",
+        "card_name_alias": "",
+        "card_id": 682,
+        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!-pb1-052-SECE.png",
+        "card_prefix": "",
+        "status": 0,
+        "card_type": 15,
+        "level": null,
+        "is_common_card": 0,
+        "can_join_main_deck": 0,
+        "can_join_engery_deck": 1,
+        "card_name_cn": "能量",
+        "detail": {
+            "version_id": 959,
+            "card_id": 682,
+            "card_name_org": "エネルギー",
+            "card_name_cn": "能量",
+            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!-pb1-052-SECE.png",
+            "card_type": 15,
+            "ability": "",
+            "flavor": "",
+            "card_number": "PL!-pb1-052-SECE",
+            "rarity": "SECE",
+            "illustrator": "",
+            "cost": null,
+            "trigger_count": null,
+            "trigger": "",
+            "participation_unit": null,
+            "animation": null,
+            "level": null,
+            "copyright": "",
+            "display_attacks": "",
+            "pack_lists": [
+                {
+                    "id": 1006,
+                    "pack_name": "「Premium Booster LoveLive!」",
+                    "card_prefix": "Loveca",
+                    "released_at": "2025-09-19 00:00:00"
+                }
+            ],
+            "faq_lists": [],
+            "top_deck_collection_lists": []
+        },
+        "_img": "img/cards_cn/PL!-pb1-052-SECE.png"
+    },
     "PL!-pb1-052-SRE": {
         "version_id": 880,
         "card_name_org": "エネルギー",
