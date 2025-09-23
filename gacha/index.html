@@ -441,12 +441,12 @@ function genParcelPremiumBooster(colle) {
       boxHigh.push(...sample(getCards("SRE"), sreNum));
       const lNum = 5 + (Math.random() < 0.1 ? 1 : 0);
       boxHigh.push(...sample(getCards("L"), lNum));
-      const remain = 20 - boxHigh.length;
+      const remain = 18 - boxHigh.length;
       boxHigh.push(...sample([...getCards("N"), ...getCards("R")], remain));
 
       const box = [];
-      const rPool = Array(Math.ceil(20 / getCards("R").length)).fill(getCards("R")).flat();
-      const nPool = Array(Math.ceil(20 / getCards("N").length)).fill(getCards("N")).flat();
+      const rPool = Array(Math.ceil(18 / getCards("R").length)).fill(getCards("R")).flat();
+      const nPool = Array(Math.ceil(18 / getCards("N").length)).fill(getCards("N")).flat();
       shuffle(rPool);
       shuffle(nPool);
 
