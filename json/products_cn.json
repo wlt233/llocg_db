@@ -21,7 +21,7 @@
         "pack_prefix": "BP03",
         "card_prefix": "Loveca",
         "released_at": "2025-08-09",
-        "details": "<p> </p>",
+        "details": "<p class=\"ql-align-center\"> <strong style=\"color: rgb(255, 0, 0);\">商品信息</strong></p><p class=\"ql-align-center\"> </p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">商品名称：</strong>【盛夏、初至】 补充包 vol.3</p><p class=\"ql-align-center\"><strong> </strong></p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">商品编码：</strong>BP03</p><p class=\"ql-align-center\"> </p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">发售日期：</strong>2025-08-09 </p><p class=\"ql-align-center\"> </p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">卡片种类数：</strong></p><p class=\"ql-align-center\">R+    11种</p><p class=\"ql-align-center\">R     20种</p><p class=\"ql-align-center\">L     23种</p><p class=\"ql-align-center\">N     30种</p><p class=\"ql-align-center\">LLE    6种</p><p class=\"ql-align-center\">SECE   10种</p><p class=\"ql-align-center\">PE+    10种</p><p class=\"ql-align-center\">PE     9种</p><p class=\"ql-align-center\">SEC    10种</p><p class=\"ql-align-center\">P+     10种</p><p class=\"ql-align-center\">P      30种</p><p><br></p>",
         "_pack_img": "img/products_cn/new_f14466a7fa25a22b611db4347f582b0a.png",
         "_box_img": "img/products_cn/new_e30e065e5b9030d84affab42e91e7c3d.png"
     },
@@ -34,7 +34,7 @@
         "pack_prefix": "SD03",
         "card_prefix": "Loveca",
         "released_at": "2025-08-09",
-        "details": "<p> </p>",
+        "details": "<p><strong style=\"color: rgb(255, 0, 0);\">商品信息</strong></p><p> </p><p><strong style=\"color: rgb(255, 0, 0);\">商品名称：</strong>【LoveLive！】 起始卡组</p><p> </p><p><strong> </strong></p><p><strong style=\"color: rgb(255, 0, 0);\">商品编码：</strong>SD03</p><p> </p><p> </p><p><strong style=\"color: rgb(255, 0, 0);\">发售日期：</strong>2025-08-09</p>",
         "_pack_img": "img/products_cn/new_e0671681c8c985330b879776c0b49094.png",
         "_box_img": "img/products_cn/new_a32f54340143794d13398bc4c769c91c.png"
     },
@@ -60,7 +60,7 @@
         "pack_prefix": "PB02",
         "card_prefix": "Loveca",
         "released_at": "2025-06-21",
-        "details": "<p>  </p>",
+        "details": "<p class=\"ql-align-center\">  <strong style=\"color: rgb(255, 0, 0);\">商品信息</strong></p><p class=\"ql-align-center\"> </p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">商品名称：</strong>【LoveLive! Sunshine!!】高级补充包</p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\"> </strong></p><p class=\"ql-align-center\"><strong> </strong></p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">商品编码：</strong>PB02</p><p class=\"ql-align-center\"> </p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">发售日期：</strong>2025-06-21</p><p class=\"ql-align-center\"> </p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">卡片种类数：</strong></p><p class=\"ql-align-center\">R     9种</p><p class=\"ql-align-center\">L     6种</p><p class=\"ql-align-center\">N     9种</p><p class=\"ql-align-center\">L+    2种</p><p class=\"ql-align-center\">LLE    9种</p><p class=\"ql-align-center\">SECE   2种</p><p class=\"ql-align-center\">PE+    9种</p><p class=\"ql-align-center\">PE     9种</p><p class=\"ql-align-center\">SRE    29种</p><p class=\"ql-align-center\">P+     9种</p><p><br></p>",
         "_pack_img": "img/products_cn/new_95fd37a1b08fc20c93f02440ff62c8e0.png",
         "_box_img": "img/products_cn/new_06abdfb657aba763cb8ea3df1a9a1c0c.png"
     },
