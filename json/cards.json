@@ -1288,6 +1288,256 @@
         ],
         "_img": "img/cards/PR/PL!-bp3-012-PR.png"
     },
+    "PL!-PR-001-PR": {
+        "card_no": "PL!-PR-001-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-001-PR.png",
+        "name": "高坂穂乃果",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 2
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{jidou.png|自動}}このメンバーがステージから控え室に置かれたとき、メンバー1人をアクティブにしてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-001-PR",
+                "name": "高坂穂乃果"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-001-PR.png"
+    },
+    "PL!-PR-002-PR": {
+        "card_no": "PL!-PR-002-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-002-PR.png",
+        "name": "絢瀬絵里",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 2
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{jidou.png|自動}}このメンバーがステージから控え室に置かれたとき、メンバー1人をアクティブにしてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-002-PR",
+                "name": "絢瀬絵里"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-002-PR.png"
+    },
+    "PL!-PR-003-PR": {
+        "card_no": "PL!-PR-003-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-003-PR.png",
+        "name": "南ことり",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 3,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を2枚控え室に置く：自分の控え室から必要ハートに{{heart_03.png|heart03}}を3以上含むライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-003-PR",
+                "name": "南ことり"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-003-PR.png"
+    },
+    "PL!-PR-004-PR": {
+        "card_no": "PL!-PR-004-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-004-PR.png",
+        "name": "園田海未",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 3,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を2枚控え室に置く：自分の控え室から必要ハートに{{heart_01.png|heart01}}を3以上含むライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-004-PR",
+                "name": "園田海未"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-004-PR.png"
+    },
+    "PL!-PR-005-PR": {
+        "card_no": "PL!-PR-005-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-005-PR.png",
+        "name": "星空 凛",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}以下から1つを選ぶ。\n・カードを1枚引き、手札を1枚控え室に置く。\n・相手のステージにいるすべてのコスト2以下のメンバーをウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-005-PR",
+                "name": "星空 凛"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-005-PR.png"
+    },
+    "PL!-PR-006-PR": {
+        "card_no": "PL!-PR-006-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-006-PR.png",
+        "name": "西木野真姫",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}以下から1つを選ぶ。\n・カードを1枚引き、手札を1枚控え室に置く。\n・相手のステージにいるすべてのコスト2以下のメンバーをウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-006-PR",
+                "name": "西木野真姫"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-006-PR.png"
+    },
+    "PL!-PR-007-PR": {
+        "card_no": "PL!-PR-007-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-007-PR.png",
+        "name": "東條 希",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade": 2,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}/{{live_start.png|ライブ開始時}}このメンバーをウェイトにしてもよい：相手のステージにいるコスト4以下のメンバー1人をウェイトにする。（ウェイト状態のメンバーが持つ{{icon_blade.png|ブレード}}は、エールで公開する枚数を増やさない。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-007-PR",
+                "name": "東條 希"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-007-PR.png"
+    },
+    "PL!-PR-008-PR": {
+        "card_no": "PL!-PR-008-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-008-PR.png",
+        "name": "小泉花陽",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}以下から1つを選ぶ。\n・カードを1枚引き、手札を1枚控え室に置く。\n・相手のステージにいるすべてのコスト2以下のメンバーをウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-008-PR",
+                "name": "小泉花陽"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-008-PR.png"
+    },
+    "PL!-PR-009-PR": {
+        "card_no": "PL!-PR-009-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-009-PR.png",
+        "name": "矢澤にこ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}/{{live_start.png|ライブ開始時}}このメンバーをウェイトにしてもよい：相手のステージにいるコスト4以下のメンバー1人をウェイトにする。（ウェイト状態のメンバーが持つ{{icon_blade.png|ブレード}}は、エールで公開する枚数を増やさない。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-009-PR",
+                "name": "矢澤にこ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-009-PR.png"
+    },
+    "PL!-PR-010-PR＋": {
+        "card_no": "PL!-PR-010-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-010-PR2.png",
+        "name": "高坂穂乃果",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-010-PR＋",
+                "name": "高坂穂乃果"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-010-PR2.png"
+    },
     "LL-E-004-PR": {
         "card_no": "LL-E-004-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-004-PR.png",
@@ -1666,10 +1916,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -1740,6 +1986,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -1899,10 +2149,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -1973,6 +2219,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -2052,10 +2302,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -2126,6 +2372,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -4920,10 +5170,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -4994,6 +5240,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -5102,10 +5352,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -5176,6 +5422,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -8611,10 +8861,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -8685,6 +8931,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -8827,10 +9077,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -8901,6 +9147,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -9043,10 +9293,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -9117,6 +9363,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -9259,10 +9509,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -9333,6 +9579,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -15398,10 +15648,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -15472,6 +15718,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -17646,10 +17896,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -17720,6 +17966,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -17819,10 +18069,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -17893,6 +18139,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -23504,10 +23754,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -23578,6 +23824,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -23696,10 +23946,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -23770,6 +24016,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -23888,10 +24138,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -23962,6 +24208,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -24080,10 +24330,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -24154,6 +24400,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -28417,10 +28667,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -28491,6 +28737,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -28573,10 +28823,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -28647,6 +28893,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -28734,10 +28984,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -28808,6 +29054,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -28895,10 +29145,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -28969,6 +29215,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -30002,10 +30252,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -30076,6 +30322,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -30175,10 +30425,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -30249,6 +30495,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -31242,10 +31492,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -31316,6 +31562,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -31398,10 +31648,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -31472,6 +31718,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -36846,10 +37096,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -36920,6 +37166,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -37061,10 +37311,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -37135,6 +37381,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -37276,10 +37526,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -37350,6 +37596,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -37491,10 +37741,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -37565,6 +37811,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             },
@@ -39541,10 +39791,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-P",
                         "name": "優木せつ菜"
                     },
@@ -39554,6 +39800,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -39599,10 +39849,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-R",
                         "name": "優木せつ菜"
                     },
@@ -39612,6 +39858,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -39676,10 +39926,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-P",
                         "name": "優木せつ菜"
                     },
@@ -39689,6 +39935,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -39734,10 +39984,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-R",
                         "name": "優木せつ菜"
                     },
@@ -39747,6 +39993,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -39811,10 +40061,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-P",
                         "name": "優木せつ菜"
                     },
@@ -39824,6 +40070,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -39869,10 +40119,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-R",
                         "name": "優木せつ菜"
                     },
@@ -39882,6 +40128,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -39946,10 +40196,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-P",
                         "name": "優木せつ菜"
                     },
@@ -39959,6 +40205,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -40004,10 +40254,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-R",
                         "name": "優木せつ菜"
                     },
@@ -40017,6 +40263,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -40790,10 +41040,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-P",
                         "name": "優木せつ菜"
                     },
@@ -40803,6 +41049,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -40825,10 +41075,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-R",
                         "name": "優木せつ菜"
                     },
@@ -40838,6 +41084,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -40891,10 +41141,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-P",
                         "name": "優木せつ菜"
                     },
@@ -40904,6 +41150,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -40926,10 +41176,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-R",
                         "name": "優木せつ菜"
                     },
@@ -40939,6 +41185,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -41591,10 +41841,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -41665,6 +41911,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -41748,10 +41998,6 @@
                         "name": "高海千歌"
                     },
                     {
-                        "card_no": "PL!S-bp3-001-SEC",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-pb1-002-P＋",
                         "name": "桜内梨子"
                     },
@@ -41822,6 +42068,10 @@
                     {
                         "card_no": "PL!SP-sd1-004-SD",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-001-SEC",
+                        "name": "高海千歌"
                     }
                 ]
             }
@@ -41932,10 +42182,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-P",
                         "name": "優木せつ菜"
                     },
@@ -41945,6 +42191,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
@@ -41967,10 +42217,6 @@
                         "name": "上原歩夢"
                     },
                     {
-                        "card_no": "PL!N-bp3-001-SEC",
-                        "name": "上原歩夢"
-                    },
-                    {
                         "card_no": "PL!N-bp3-007-R",
                         "name": "優木せつ菜"
                     },
@@ -41980,6 +42226,10 @@
                     },
                     {
                         "card_no": "PL!N-bp3-013-N",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-001-SEC",
                         "name": "上原歩夢"
                     }
                 ]
