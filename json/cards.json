@@ -42909,6 +42909,25 @@
         "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に{{icon_b_all.png|ALLブレード}}を持つカードが1枚以上ある場合、このカードのスコアを＋１する。",
         "faq": [
             {
+                "title": "Q192（2025.11.17）",
+                "question": "ライブ成功時効果によって公開されたブレードハートの色が変更されており、かつALLハートをエールによって得た場合、PL!N-bp03-030-Lのライブ成功時効果の条件を満たしますか？",
+                "answer": "いいえ。満たしません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-bp3-030-L",
+                        "name": "Love U my friends"
+                    },
+                    {
+                        "card_no": "PL!N-bp4-025-L",
+                        "name": "VIVID WORLD"
+                    },
+                    {
+                        "card_no": "PL!SP-bp4-023-L",
+                        "name": "Dazzling Game"
+                    }
+                ]
+            },
+            {
                 "title": "Q36（2025.08.04）",
                 "question": "{{live_success.png|ライブ成功時}}とはいつのことですか？",
                 "answer": "両方のプレイヤーのパフォーマンスフェイズを行った後、ライブ勝敗判定フェイズで、ライブに勝利したプレイヤーを決定する前のタイミングです。",
@@ -47240,5 +47259,5265 @@
             }
         ],
         "_img": "img/cards/PBLL/PL!-pb1-061-SRE.png"
+    },
+    "PL!-bp4-001-R": {
+        "card_no": "PL!-bp4-001-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-001-R.png",
+        "name": "高坂穂乃果",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるメンバーのコストの合計が相手より低い場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-001-R",
+                "name": "高坂穂乃果"
+            },
+            {
+                "card_no": "PL!-bp4-001-P",
+                "name": "高坂穂乃果"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-001-R.png"
+    },
+    "PL!-bp4-001-P": {
+        "card_no": "PL!-bp4-001-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-001-P.png",
+        "name": "高坂穂乃果",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "rare": "P",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるメンバーのコストの合計が相手より低い場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-001-P",
+                "name": "高坂穂乃果"
+            },
+            {
+                "card_no": "PL!-bp4-001-R",
+                "name": "高坂穂乃果"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-001-P.png"
+    },
+    "PL!-bp4-002-R＋": {
+        "card_no": "PL!-bp4-002-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-002-R2.png",
+        "name": "絢瀬絵里",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "R+",
+        "ability": "{{jyouji.png|常時}}自分のライブ中のライブカードに、{{live_start.png|ライブ開始時}}能力も{{live_success.png|ライブ成功時}}能力も持たないカードがあるかぎり、{{heart_06.png|heart06}}{{heart_06.png|heart06}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を2枚控え室に置く：自分の控え室から『μ's』のライブカードを1枚手札に加える。この能力は、自分の成功ライブカード置き場にあるカードのスコアの合計が６以上の場合のみ起動できる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-002-R＋",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-P",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-P＋",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-SEC",
+                "name": "絢瀬絵里"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-002-R2.png"
+    },
+    "PL!-bp4-002-P": {
+        "card_no": "PL!-bp4-002-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-002-P.png",
+        "name": "絢瀬絵里",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "P",
+        "ability": "{{jyouji.png|常時}}自分のライブ中のライブカードに、{{live_start.png|ライブ開始時}}能力も{{live_success.png|ライブ成功時}}能力も持たないカードがあるかぎり、{{heart_06.png|heart06}}{{heart_06.png|heart06}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を2枚控え室に置く：自分の控え室から『μ's』のライブカードを1枚手札に加える。この能力は、自分の成功ライブカード置き場にあるカードのスコアの合計が６以上の場合のみ起動できる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-002-P",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-R＋",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-P＋",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-SEC",
+                "name": "絢瀬絵里"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-002-P.png"
+    },
+    "PL!-bp4-002-P＋": {
+        "card_no": "PL!-bp4-002-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-002-P2.png",
+        "name": "絢瀬絵里",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "P+",
+        "ability": "{{jyouji.png|常時}}自分のライブ中のライブカードに、{{live_start.png|ライブ開始時}}能力も{{live_success.png|ライブ成功時}}能力も持たないカードがあるかぎり、{{heart_06.png|heart06}}{{heart_06.png|heart06}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を2枚控え室に置く：自分の控え室から『μ's』のライブカードを1枚手札に加える。この能力は、自分の成功ライブカード置き場にあるカードのスコアの合計が６以上の場合のみ起動できる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-002-P＋",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-R＋",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-P",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-SEC",
+                "name": "絢瀬絵里"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-002-P2.png"
+    },
+    "PL!-bp4-002-SEC": {
+        "card_no": "PL!-bp4-002-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-002-SEC.png",
+        "name": "絢瀬絵里",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "SEC",
+        "ability": "{{jyouji.png|常時}}自分のライブ中のライブカードに、{{live_start.png|ライブ開始時}}能力も{{live_success.png|ライブ成功時}}能力も持たないカードがあるかぎり、{{heart_06.png|heart06}}{{heart_06.png|heart06}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を2枚控え室に置く：自分の控え室から『μ's』のライブカードを1枚手札に加える。この能力は、自分の成功ライブカード置き場にあるカードのスコアの合計が７以上の場合のみ起動できる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-002-SEC",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-R＋",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-P",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-bp4-002-P＋",
+                "name": "絢瀬絵里"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-002-SEC.png"
+    },
+    "PL!-bp4-003-R": {
+        "card_no": "PL!-bp4-003-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-003-R.png",
+        "name": "南 ことり",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-003-R",
+                "name": "南 ことり"
+            },
+            {
+                "card_no": "PL!-bp4-003-P",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-003-R.png"
+    },
+    "PL!-bp4-003-P": {
+        "card_no": "PL!-bp4-003-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-003-P.png",
+        "name": "南 ことり",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 1,
+        "rare": "P",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-003-P",
+                "name": "南 ことり"
+            },
+            {
+                "card_no": "PL!-bp4-003-R",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-003-P.png"
+    },
+    "PL!-bp4-004-R": {
+        "card_no": "PL!-bp4-004-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-004-R.png",
+        "name": "園田海未",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にあるカードのスコアの合計が６以上の場合、エネルギーを2枚アクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-004-R",
+                "name": "園田海未"
+            },
+            {
+                "card_no": "PL!-bp4-004-P",
+                "name": "園田海未"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-004-R.png"
+    },
+    "PL!-bp4-004-P": {
+        "card_no": "PL!-bp4-004-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-004-P.png",
+        "name": "園田海未",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にあるカードのスコアの合計が６以上の場合、エネルギーを2枚アクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-004-P",
+                "name": "園田海未"
+            },
+            {
+                "card_no": "PL!-bp4-004-R",
+                "name": "園田海未"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-004-P.png"
+    },
+    "PL!-bp4-005-R＋": {
+        "card_no": "PL!-bp4-005-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-005-R2.png",
+        "name": "星空 凛",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 4,
+        "rare": "R+",
+        "ability": "{{toujyou.png|登場}}自分の控え室からコスト2以下のメンバーカードを1枚手札に加える。\n{{jyouji.png|常時}}{{center.png|センター}}ライブの合計スコアを＋１する。\n{{live_start.png|ライブ開始時}}自分のステージに{{icon_blade.png|ブレード}}を5つ以上持つ『μ's』のメンバーがいない場合、このメンバーはセンターエリア以外にポジションチェンジする。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-005-R＋",
+                "name": "星空 凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-P",
+                "name": "星空 凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-P＋",
+                "name": "星空凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-SEC",
+                "name": "星空凛"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-005-R2.png"
+    },
+    "PL!-bp4-005-P": {
+        "card_no": "PL!-bp4-005-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-005-P.png",
+        "name": "星空 凛",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 4,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}自分の控え室からコスト2以下のメンバーカードを1枚手札に加える。\n{{jyouji.png|常時}}{{center.png|センター}}ライブの合計スコアを＋１する。\n{{live_start.png|ライブ開始時}}自分のステージに{{icon_blade.png|ブレード}}を5つ以上持つ『μ's』のメンバーがいない場合、このメンバーはセンターエリア以外にポジションチェンジする。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-005-P",
+                "name": "星空 凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-R＋",
+                "name": "星空 凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-P＋",
+                "name": "星空凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-SEC",
+                "name": "星空凛"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-005-P.png"
+    },
+    "PL!-bp4-005-P＋": {
+        "card_no": "PL!-bp4-005-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-005-P2.png",
+        "name": "星空凛",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 4,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}自分の控え室からコスト2以下のメンバーカードを1枚手札に加える。\n{{jyouji.png|常時}}{{center.png|センター}}ライブの合計スコアを＋１する。\n{{live_start.png|ライブ開始時}}自分のステージに{{icon_blade.png|ブレード}}を5つ以上持つ『μ's』のメンバーがいない場合、このメンバーはセンターエリア以外にポジションチェンジする。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-005-P＋",
+                "name": "星空凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-R＋",
+                "name": "星空 凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-P",
+                "name": "星空 凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-SEC",
+                "name": "星空凛"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-005-P2.png"
+    },
+    "PL!-bp4-005-SEC": {
+        "card_no": "PL!-bp4-005-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-005-SEC.png",
+        "name": "星空凛",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 4,
+        "rare": "SEC",
+        "ability": "{{toujyou.png|登場}}自分の控え室からコスト2以下のメンバーカードを1枚手札に加える。\n{{jyouji.png|常時}}{{center.png|センター}}ライブの合計スコアを＋１する。\n{{live_start.png|ライブ開始時}}自分のステージに{{icon_blade.png|ブレード}}を5つ以上持つ『μ's』のメンバーがいない場合、このメンバーはセンターエリア以外にポジションチェンジする。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-005-SEC",
+                "name": "星空凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-R＋",
+                "name": "星空 凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-P",
+                "name": "星空 凛"
+            },
+            {
+                "card_no": "PL!-bp4-005-P＋",
+                "name": "星空凛"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-005-SEC.png"
+    },
+    "PL!-bp4-006-R": {
+        "card_no": "PL!-bp4-006-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-006-R.png",
+        "name": "西木野真姫",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にあるカードのスコアの合計が３以上の場合、自分のデッキの上からカードを5枚見る。その中から『μ's』のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-006-R",
+                "name": "西木野真姫"
+            },
+            {
+                "card_no": "PL!-bp4-006-P",
+                "name": "西木野真姫"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-006-R.png"
+    },
+    "PL!-bp4-006-P": {
+        "card_no": "PL!-bp4-006-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-006-P.png",
+        "name": "西木野真姫",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 2,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にあるカードのスコアの合計が３以上の場合、自分のデッキの上からカードを5枚見る。その中から『μ's』のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-006-P",
+                "name": "西木野真姫"
+            },
+            {
+                "card_no": "PL!-bp4-006-R",
+                "name": "西木野真姫"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-006-P.png"
+    },
+    "PL!-bp4-007-R": {
+        "card_no": "PL!-bp4-007-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-007-R.png",
+        "name": "東條 希",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にカードが1枚以上あり、かつスコアの合計が１以下の場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-007-R",
+                "name": "東條 希"
+            },
+            {
+                "card_no": "PL!-bp4-007-P",
+                "name": "東條 希"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-007-R.png"
+    },
+    "PL!-bp4-007-P": {
+        "card_no": "PL!-bp4-007-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-007-P.png",
+        "name": "東條 希",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 3,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にカードが1枚以上あり、かつスコアの合計が１以下の場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-007-P",
+                "name": "東條 希"
+            },
+            {
+                "card_no": "PL!-bp4-007-R",
+                "name": "東條 希"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-007-P.png"
+    },
+    "PL!-bp4-008-R": {
+        "card_no": "PL!-bp4-008-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-008-R.png",
+        "name": "小泉花陽",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{jyouji.png|常時}}自分の成功ライブカード置き場にあるカードのスコアの合計が６以上であるかぎり、ステージにいるこのメンバーのコストを＋３する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-008-R",
+                "name": "小泉花陽"
+            },
+            {
+                "card_no": "PL!-bp4-008-P",
+                "name": "小泉花陽"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-008-R.png"
+    },
+    "PL!-bp4-008-P": {
+        "card_no": "PL!-bp4-008-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-008-P.png",
+        "name": "小泉花陽",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade": 3,
+        "rare": "P",
+        "ability": "{{jyouji.png|常時}}自分の成功ライブカード置き場にあるカードのスコアの合計が６以上であるかぎり、ステージにいるこのメンバーのコストを＋３する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-008-P",
+                "name": "小泉花陽"
+            },
+            {
+                "card_no": "PL!-bp4-008-R",
+                "name": "小泉花陽"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-008-P.png"
+    },
+    "PL!-bp4-009-R": {
+        "card_no": "PL!-bp4-009-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-009-R.png",
+        "name": "矢澤にこ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 7,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}相手は、自身のステージにいるアクティブ状態のメンバー1人をウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-009-R",
+                "name": "矢澤にこ"
+            },
+            {
+                "card_no": "PL!-bp4-009-P",
+                "name": "矢澤にこ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-009-R.png"
+    },
+    "PL!-bp4-009-P": {
+        "card_no": "PL!-bp4-009-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-009-P.png",
+        "name": "矢澤にこ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 7,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}相手は、自身のステージにいるアクティブ状態のメンバー1人をウェイトにする。",
+        "faq": [
+            {
+                "title": "Q189（2025.11.17）",
+                "question": "ウェイトするメンバーを決めるのは自分と相手のどちらですか？",
+                "answer": "対戦相手となります。",
+                "relation": [
+                    {
+                        "card_no": "PL!-bp4-009-P",
+                        "name": "矢澤にこ"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-009-P",
+                "name": "矢澤にこ"
+            },
+            {
+                "card_no": "PL!-bp4-009-R",
+                "name": "矢澤にこ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-009-P.png"
+    },
+    "PL!-bp4-010-N": {
+        "card_no": "PL!-bp4-010-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-010-N.png",
+        "name": "高坂穂乃果",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 5,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-010-N",
+                "name": "高坂穂乃果"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-010-N.png"
+    },
+    "PL!-bp4-011-N": {
+        "card_no": "PL!-bp4-011-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-011-N.png",
+        "name": "絢瀬絵里",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}このメンバーをウェイトにしてもよい：ライブ終了時まで、自分のセンターエリアにいる『μ's』のメンバーは、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-011-N",
+                "name": "絢瀬絵里"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-011-N.png"
+    },
+    "PL!-bp4-012-N": {
+        "card_no": "PL!-bp4-012-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-012-N.png",
+        "name": "南 ことり",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 7,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 2
+        },
+        "blade": 2,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-012-N",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-012-N.png"
+    },
+    "PL!-bp4-013-N": {
+        "card_no": "PL!-bp4-013-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-013-N.png",
+        "name": "園田海未",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、自分のステージにいるこのメンバー以外のメンバー1人は、{{heart_01.png|heart01}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-013-N",
+                "name": "園田海未"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-013-N.png"
+    },
+    "PL!-bp4-014-N": {
+        "card_no": "PL!-bp4-014-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-014-N.png",
+        "name": "星空 凛",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}自分のライブ中のライブカードに、{{live_start.png|ライブ開始時}}能力も{{live_success.png|ライブ成功時}}能力も持たないカードがある場合、ライブ終了時まで、自分のステージにいるこのメンバー以外のメンバー1人は、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-014-N",
+                "name": "星空 凛"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-014-N.png"
+    },
+    "PL!-bp4-015-N": {
+        "card_no": "PL!-bp4-015-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-015-N.png",
+        "name": "西木野真姫",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 7,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade": 2,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-015-N",
+                "name": "西木野真姫"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-015-N.png"
+    },
+    "PL!-bp4-016-N": {
+        "card_no": "PL!-bp4-016-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-016-N.png",
+        "name": "東條 希",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にあるカードのスコアの合計が３以上の場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-016-N",
+                "name": "東條 希"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-016-N.png"
+    },
+    "PL!-bp4-017-N": {
+        "card_no": "PL!-bp4-017-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-017-N.png",
+        "name": "小泉花陽",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}このメンバーをウェイトにしてもよい：ライブ終了時まで、自分のセンターエリアにいる『μ's』のメンバーは、{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-017-N",
+                "name": "小泉花陽"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-017-N.png"
+    },
+    "PL!-bp4-018-N": {
+        "card_no": "PL!-bp4-018-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-018-N.png",
+        "name": "矢澤にこ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{jyouji.png|常時}}自分の成功ライブカード置き場にあるカードのスコアの合計が相手より高いかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-018-N",
+                "name": "矢澤にこ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-018-N.png"
+    },
+    "PL!-bp4-019-L": {
+        "card_no": "PL!-bp4-019-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-019-L.png",
+        "name": "Angelic Angel",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "score": 4,
+        "need_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 2,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{jyouji.png|常時}}このカードが自分の成功ライブカード置き場にあり、かつ自分のステージに『μ's』のメンバーがいるかぎり、自分の成功ライブカード置き場にあるこのカードのスコアを＋５する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-019-L",
+                "name": "Angelic Angel"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-019-L.png"
+    },
+    "PL!-bp4-020-L": {
+        "card_no": "PL!-bp4-020-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-020-L.png",
+        "name": "Love wing bell",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "score": 3,
+        "need_heart": {
+            "heart01": 3,
+            "heart03": 3,
+            "heart0": 2
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるメンバーが『μ's』のみの場合、自分のステージにいるメンバー1人をポジションチェンジさせてもよい。\n{{jyouji.png|常時}}このカードが自分の成功ライブカード置き場にあるかぎり、自分のセンターエリアにいる『μ's』のメンバーは{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-020-L",
+                "name": "Love wing bell"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-020-L.png"
+    },
+    "PL!-bp4-021-L": {
+        "card_no": "PL!-bp4-021-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-021-L.png",
+        "name": "?←HEARTBEAT",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "score": 6,
+        "need_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 2,
+            "heart0": 8
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場にあるカードのスコアの合計が６以上の場合、このカードを成功させるための必要ハートを{{heart_00.png|heart0}}減らす。スコアの合計が９以上の場合、さらにこのカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-021-L",
+                "name": "?←HEARTBEAT"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-021-L.png"
+    },
+    "PL!-bp4-022-L": {
+        "card_no": "PL!-bp4-022-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-022-L.png",
+        "name": "No brand girls",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "score": 7,
+        "need_heart": {
+            "heart01": 3,
+            "heart03": 3,
+            "heart06": 3,
+            "heart0": 9
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のセンターエリアに{{icon_blade.png|ブレード}}を9つ以上持つ『μ's』のメンバーがいる場合、このカードのスコアを＋２する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-022-L",
+                "name": "No brand girls"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-022-L.png"
+    },
+    "PL!-bp4-023-L": {
+        "card_no": "PL!-bp4-023-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-023-L.png",
+        "name": "もぎゅっと\"love\"で接近中！",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "score": 3,
+        "need_heart": {
+            "heart01": 2,
+            "heart03": 1,
+            "heart06": 1,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_success.png|ライブ成功時}}自分が余剰ハートに{{heart_01.png|heart01}}を1つ以上持つ場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-023-L",
+                "name": "もぎゅっと\"love\"で接近中！"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-023-L.png"
+    },
+    "PL!-bp4-024-L": {
+        "card_no": "PL!-bp4-024-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-024-L.png",
+        "name": "小夜啼鳥恋詩",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "score": 2,
+        "need_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart0": 1
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる『μ's』のメンバー1人は、{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-024-L",
+                "name": "小夜啼鳥恋詩"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-024-L.png"
+    },
+    "PL!-bp4-025-L": {
+        "card_no": "PL!-bp4-025-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-025-L.png",
+        "name": "微熱からMystery",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "score": 5,
+        "need_heart": {
+            "heart01": 3,
+            "heart06": 3,
+            "heart0": 6
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-025-L",
+                "name": "微熱からMystery"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-025-L.png"
+    },
+    "PL!-bp4-026-L": {
+        "card_no": "PL!-bp4-026-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-026-L.png",
+        "name": "ダイヤモンドプリンセスの憂鬱",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "score": 1,
+        "need_heart": {
+            "heart03": 1,
+            "heart06": 1,
+            "heart0": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-026-L",
+                "name": "ダイヤモンドプリンセスの憂鬱"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-026-L.png"
+    },
+    "PL!-bp4-027-SECE": {
+        "card_no": "PL!-bp4-027-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-027-SECE.png",
+        "name": "絢瀬絵里",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-027-SECE",
+                "name": "絢瀬絵里"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-027-SECE.png"
+    },
+    "PL!-bp4-028-SECE": {
+        "card_no": "PL!-bp4-028-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-028-SECE.png",
+        "name": "星空 凛",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-028-SECE",
+                "name": "星空 凛"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-028-SECE.png"
+    },
+    "PL!-bp4-029-PE": {
+        "card_no": "PL!-bp4-029-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-029-PE.png",
+        "name": "HOSHIZORA RIN",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-029-PE",
+                "name": "HOSHIZORA RIN"
+            },
+            {
+                "card_no": "PL!-bp4-029-PE＋",
+                "name": "HOSHIZORA RIN"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-029-PE.png"
+    },
+    "PL!-bp4-029-PE＋": {
+        "card_no": "PL!-bp4-029-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-029-PE2.png",
+        "name": "HOSHIZORA RIN",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-029-PE＋",
+                "name": "HOSHIZORA RIN"
+            },
+            {
+                "card_no": "PL!-bp4-029-PE",
+                "name": "HOSHIZORA RIN"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-029-PE2.png"
+    },
+    "PL!-bp4-030-PE": {
+        "card_no": "PL!-bp4-030-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-030-PE.png",
+        "name": "NISHIKINO MAKI",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-030-PE",
+                "name": "NISHIKINO MAKI"
+            },
+            {
+                "card_no": "PL!-bp4-030-PE＋",
+                "name": "NISHIKINO MAKI"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-030-PE.png"
+    },
+    "PL!-bp4-030-PE＋": {
+        "card_no": "PL!-bp4-030-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-030-PE2.png",
+        "name": "NISHIKINO MAKI",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-030-PE＋",
+                "name": "NISHIKINO MAKI"
+            },
+            {
+                "card_no": "PL!-bp4-030-PE",
+                "name": "NISHIKINO MAKI"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-030-PE2.png"
+    },
+    "PL!-bp4-031-PE": {
+        "card_no": "PL!-bp4-031-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-031-PE.png",
+        "name": "YAZAWA NICO",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-031-PE",
+                "name": "YAZAWA NICO"
+            },
+            {
+                "card_no": "PL!-bp4-031-PE＋",
+                "name": "YAZAWA NICO"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-031-PE.png"
+    },
+    "PL!-bp4-031-PE＋": {
+        "card_no": "PL!-bp4-031-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-031-PE2.png",
+        "name": "YAZAWA NICO",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-031-PE＋",
+                "name": "YAZAWA NICO"
+            },
+            {
+                "card_no": "PL!-bp4-031-PE",
+                "name": "YAZAWA NICO"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-031-PE2.png"
+    },
+    "PL!-bp4-100-LLE": {
+        "card_no": "PL!-bp4-100-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-100-LLE.png",
+        "name": "μ's",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-100-LLE",
+                "name": "μ's"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-100-LLE.png"
+    },
+    "PL!-bp4-200-LLE": {
+        "card_no": "PL!-bp4-200-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!-bp4-200-LLE.png",
+        "name": "μ's",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp4-200-LLE",
+                "name": "μ's"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!-bp4-200-LLE.png"
+    },
+    "PL!N-bp4-001-R": {
+        "card_no": "PL!N-bp4-001-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-001-R.png",
+        "name": "上原歩夢",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 2,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{live_success.png|ライブ成功時}}自分のエネルギーが相手より少ない場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-001-R",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-bp4-001-P",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-001-R.png"
+    },
+    "PL!N-bp4-001-P": {
+        "card_no": "PL!N-bp4-001-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-001-P.png",
+        "name": "上原歩夢",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 2,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade": 1,
+        "rare": "P",
+        "ability": "{{live_success.png|ライブ成功時}}自分のエネルギーが相手より少ない場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-001-P",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-bp4-001-R",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-001-P.png"
+    },
+    "PL!N-bp4-002-R": {
+        "card_no": "PL!N-bp4-002-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-002-R.png",
+        "name": "中須かすみ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{live_start.png|ライブ開始時}}自分か相手を選ぶ。自分は、そのプレイヤーのデッキの一番上のカードを見る。自分はそのカードを控え室に置いてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-002-R",
+                "name": "中須かすみ"
+            },
+            {
+                "card_no": "PL!N-bp4-002-P",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-002-R.png"
+    },
+    "PL!N-bp4-002-P": {
+        "card_no": "PL!N-bp4-002-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-002-P.png",
+        "name": "中須かすみ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "rare": "P",
+        "ability": "{{live_start.png|ライブ開始時}}自分か相手を選ぶ。自分は、そのプレイヤーのデッキの一番上のカードを見る。自分はそのカードを控え室に置いてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-002-P",
+                "name": "中須かすみ"
+            },
+            {
+                "card_no": "PL!N-bp4-002-R",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-002-P.png"
+    },
+    "PL!N-bp4-003-R": {
+        "card_no": "PL!N-bp4-003-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-003-R.png",
+        "name": "桜坂しずく",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "rare": "R",
+        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-003-R",
+                "name": "桜坂しずく"
+            },
+            {
+                "card_no": "PL!N-bp4-003-P",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-003-R.png"
+    },
+    "PL!N-bp4-003-P": {
+        "card_no": "PL!N-bp4-003-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-003-P.png",
+        "name": "桜坂しずく",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "rare": "P",
+        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-003-P",
+                "name": "桜坂しずく"
+            },
+            {
+                "card_no": "PL!N-bp4-003-R",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-003-P.png"
+    },
+    "PL!N-bp4-004-R＋": {
+        "card_no": "PL!N-bp4-004-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-004-R2.png",
+        "name": "朝香果林",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 15,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 3,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 5,
+        "rare": "R+",
+        "ability": "{{live_start.png|ライブ開始時}}カードを1枚引く。相手のステージにいるコスト9以下のメンバーを1人までウェイトにする。\n{{live_start.png|ライブ開始時}}相手のステージにいるウェイト状態のメンバーの数まで、自分の控え室にある『虹ヶ咲』のメンバーカードを選ぶ。それらを好きな順番でデッキの上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-004-R＋",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-P",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-P＋",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-SEC",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-004-R2.png"
+    },
+    "PL!N-bp4-004-P": {
+        "card_no": "PL!N-bp4-004-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-004-P.png",
+        "name": "朝香果林",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 15,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 3,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 5,
+        "rare": "P",
+        "ability": "{{live_start.png|ライブ開始時}}カードを1枚引く。相手のステージにいるコスト9以下のメンバーを1人までウェイトにする。\n{{live_start.png|ライブ開始時}}相手のステージにいるウェイト状態のメンバーの数まで、自分の控え室にある『虹ヶ咲』のメンバーカードを選ぶ。それらを好きな順番でデッキの上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-004-P",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-R＋",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-P＋",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-SEC",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-004-P.png"
+    },
+    "PL!N-bp4-004-P＋": {
+        "card_no": "PL!N-bp4-004-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-004-P2.png",
+        "name": "朝香果林",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 15,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 3,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 5,
+        "rare": "P+",
+        "ability": "{{live_start.png|ライブ開始時}}カードを1枚引く。相手のステージにいるコスト9以下のメンバーを1人までウェイトにする。\n{{live_start.png|ライブ開始時}}相手のステージにいるウェイト状態のメンバーの数まで、自分の控え室にある『虹ヶ咲』のメンバーカードを選ぶ。それらを好きな順番でデッキの上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-004-P＋",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-R＋",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-P",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-SEC",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-004-P2.png"
+    },
+    "PL!N-bp4-004-SEC": {
+        "card_no": "PL!N-bp4-004-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-004-SEC.png",
+        "name": "朝香果林",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 15,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 3,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 5,
+        "rare": "SEC",
+        "ability": "{{live_start.png|ライブ開始時}}カードを1枚引く。相手のステージにいるコスト9以下のメンバーを1人までウェイトにする。\n{{live_start.png|ライブ開始時}}相手のステージにいるウェイト状態のメンバーの数まで、自分の控え室にある『虹ヶ咲』のメンバーカードを選ぶ。それらを好きな順番でデッキの上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-004-SEC",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-R＋",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-P",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-bp4-004-P＋",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-004-SEC.png"
+    },
+    "PL!N-bp4-005-R": {
+        "card_no": "PL!N-bp4-005-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-005-R.png",
+        "name": "宮下 愛",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：相手のステージにいるコスト4以下のメンバーを2人までウェイトにする。（ウェイト状態のメンバーが持つ{{icon_blade.png|ブレード}}は、エールで公開する枚数を増やさない。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-005-R",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-bp4-005-P",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-005-R.png"
+    },
+    "PL!N-bp4-005-P": {
+        "card_no": "PL!N-bp4-005-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-005-P.png",
+        "name": "宮下 愛",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade": 2,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：相手のステージにいるコスト4以下のメンバーを2人までウェイトにする。（ウェイト状態のメンバーが持つ{{icon_blade.png|ブレード}}は、エールで公開する枚数を増やさない。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-005-P",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-bp4-005-R",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-005-P.png"
+    },
+    "PL!N-bp4-006-R": {
+        "card_no": "PL!N-bp4-006-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-006-R.png",
+        "name": "近江彼方",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：自分の手札からコスト4以下の『虹ヶ咲』のメンバーカードを1枚ステージに登場させる。これにより登場したメンバーがブレードハートを持つ場合、このメンバーをウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-006-R",
+                "name": "近江彼方"
+            },
+            {
+                "card_no": "PL!N-bp4-006-P",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-006-R.png"
+    },
+    "PL!N-bp4-006-P": {
+        "card_no": "PL!N-bp4-006-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-006-P.png",
+        "name": "近江彼方",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 3,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：自分の手札からコスト4以下の『虹ヶ咲』のメンバーカードを1枚ステージに登場させる。これにより登場したメンバーがブレードハートを持つ場合、このメンバーをウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-006-P",
+                "name": "近江彼方"
+            },
+            {
+                "card_no": "PL!N-bp4-006-R",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-006-P.png"
+    },
+    "PL!N-bp4-007-R＋": {
+        "card_no": "PL!N-bp4-007-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-007-R2.png",
+        "name": "優木せつ菜",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "R+",
+        "ability": "{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からライブカードを1枚手札に加える。\n{{jyouji.png|常時}}自分と相手のエネルギーの合計が15枚以上あるかぎり、{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{live_success.png|ライブ成功時}}自分と相手はそれぞれ、自身のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-007-R＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-P",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-P＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-SEC",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-007-R2.png"
+    },
+    "PL!N-bp4-007-P": {
+        "card_no": "PL!N-bp4-007-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-007-P.png",
+        "name": "優木せつ菜",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からライブカードを1枚手札に加える。\n{{jyouji.png|常時}}自分と相手のエネルギーの合計が15枚以上あるかぎり、{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{live_success.png|ライブ成功時}}自分と相手はそれぞれ、自身のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-007-P",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-R＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-P＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-SEC",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-007-P.png"
+    },
+    "PL!N-bp4-007-P＋": {
+        "card_no": "PL!N-bp4-007-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-007-P2.png",
+        "name": "優木せつ菜",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からライブカードを1枚手札に加える。\n{{jyouji.png|常時}}自分と相手のエネルギーの合計が15枚以上あるかぎり、{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{live_success.png|ライブ成功時}}自分と相手はそれぞれ、自身のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-007-P＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-R＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-P",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-SEC",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-007-P2.png"
+    },
+    "PL!N-bp4-007-SEC": {
+        "card_no": "PL!N-bp4-007-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-007-SEC.png",
+        "name": "優木せつ菜",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "SEC",
+        "ability": "{{toujyou.png|登場}}自分と相手はそれぞれ、自身の控え室からライブカードを1枚手札に加える。\n{{jyouji.png|常時}}自分と相手のエネルギーの合計が15枚以上あるかぎり、{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{live_success.png|ライブ成功時}}自分と相手はそれぞれ、自身のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-007-SEC",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-R＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-P",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp4-007-P＋",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-007-SEC.png"
+    },
+    "PL!N-bp4-008-R": {
+        "card_no": "PL!N-bp4-008-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-008-R.png",
+        "name": "エマ・ヴェルデ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 5,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart04": 1
+        },
+        "rare": "R",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を1枚控え室に置く：エネルギー1枚か『虹ヶ咲』のメンバー1人をアクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-008-R",
+                "name": "エマ・ヴェルデ"
+            },
+            {
+                "card_no": "PL!N-bp4-008-P",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-008-R.png"
+    },
+    "PL!N-bp4-008-P": {
+        "card_no": "PL!N-bp4-008-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-008-P.png",
+        "name": "エマ・ヴェルデ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 5,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart04": 1
+        },
+        "rare": "P",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を1枚控え室に置く：エネルギー1枚か『虹ヶ咲』のメンバー1人をアクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-008-P",
+                "name": "エマ・ヴェルデ"
+            },
+            {
+                "card_no": "PL!N-bp4-008-R",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-008-P.png"
+    },
+    "PL!N-bp4-009-R": {
+        "card_no": "PL!N-bp4-009-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-009-R.png",
+        "name": "天王寺璃奈",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 13,
+        "base_heart": {
+            "heart03": 1,
+            "heart05": 2,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるメンバーのコストの合計が相手より低い場合、カードを2枚引き、自分の手札を1枚デッキの一番上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-009-R",
+                "name": "天王寺璃奈"
+            },
+            {
+                "card_no": "PL!N-bp4-009-P",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-009-R.png"
+    },
+    "PL!N-bp4-009-P": {
+        "card_no": "PL!N-bp4-009-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-009-P.png",
+        "name": "天王寺璃奈",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 13,
+        "base_heart": {
+            "heart03": 1,
+            "heart05": 2,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 3,
+        "rare": "P",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるメンバーのコストの合計が相手より低い場合、カードを2枚引き、自分の手札を1枚デッキの一番上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-009-P",
+                "name": "天王寺璃奈"
+            },
+            {
+                "card_no": "PL!N-bp4-009-R",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-009-P.png"
+    },
+    "PL!N-bp4-010-R＋": {
+        "card_no": "PL!N-bp4-010-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-010-R2.png",
+        "name": "三船栞子",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 5,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade": 2,
+        "rare": "R+",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にある『虹ヶ咲』のライブカードを1枚控え室に置いてもよい。そうした場合、自分の控え室にある『虹ヶ咲』のライブカードを1枚成功ライブカード置き場に置く。\n{{live_start.png|ライブ開始時}}自分のライブ中の『虹ヶ咲』のライブカードを1枚選ぶ。それと同じカード名のカードが自分の成功ライブカード置き場にある場合、ライブ終了時まで、{{heart_04.png|heart04}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-010-R＋",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-P",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-P＋",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-SEC",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-010-R2.png"
+    },
+    "PL!N-bp4-010-P": {
+        "card_no": "PL!N-bp4-010-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-010-P.png",
+        "name": "三船栞子",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 5,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade": 2,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にある『虹ヶ咲』のライブカードを1枚控え室に置いてもよい。そうした場合、自分の控え室にある『虹ヶ咲』のライブカードを1枚成功ライブカード置き場に置く。\n{{live_start.png|ライブ開始時}}自分のライブ中の『虹ヶ咲』のライブカードを1枚選ぶ。それと同じカード名のカードが自分の成功ライブカード置き場にある場合、ライブ終了時まで、{{heart_04.png|heart04}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-010-P",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-R＋",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-P＋",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-SEC",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-010-P.png"
+    },
+    "PL!N-bp4-010-P＋": {
+        "card_no": "PL!N-bp4-010-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-010-P2.png",
+        "name": "三船栞子",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 5,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade": 2,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にある『虹ヶ咲』のライブカードを1枚控え室に置いてもよい。そうした場合、自分の控え室にある『虹ヶ咲』のライブカードを1枚成功ライブカード置き場に置く。\n{{live_start.png|ライブ開始時}}自分のライブ中の『虹ヶ咲』のライブカードを1枚選ぶ。それと同じカード名のカードが自分の成功ライブカード置き場にある場合、ライブ終了時まで、{{heart_04.png|heart04}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-010-P＋",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-R＋",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-P",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-SEC",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-010-P2.png"
+    },
+    "PL!N-bp4-010-SEC": {
+        "card_no": "PL!N-bp4-010-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-010-SEC.png",
+        "name": "三船栞子",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 5,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade": 2,
+        "rare": "SEC",
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にある『虹ヶ咲』のライブカードを1枚控え室に置いてもよい。そうした場合、自分の控え室にある『虹ヶ咲』のライブカードを1枚成功ライブカード置き場に置く。\n{{live_start.png|ライブ開始時}}自分のライブ中の『虹ヶ咲』のライブカードを1枚選ぶ。それと同じカード名のカードが自分の成功ライブカード置き場にある場合、ライブ終了時まで、{{heart_04.png|heart04}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-010-SEC",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-R＋",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-P",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-bp4-010-P＋",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-010-SEC.png"
+    },
+    "PL!N-bp4-011-R＋": {
+        "card_no": "PL!N-bp4-011-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-011-R2.png",
+        "name": "ミア・テイラー",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "R+",
+        "ability": "{{live_start.png|ライブ開始時}}手札のライブカードを1枚控え室に置いてもよい：好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。\n{{live_success.png|ライブ成功時}}自分のデッキの上からカードを5枚控え室に置く。その後、自分の控え室にカード名の異なる『虹ヶ咲』のライブカードが3枚以上ある場合、自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-011-R＋",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-P",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-P＋",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-SEC",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-011-R2.png"
+    },
+    "PL!N-bp4-011-P": {
+        "card_no": "PL!N-bp4-011-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-011-P.png",
+        "name": "ミア・テイラー",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "P",
+        "ability": "{{live_start.png|ライブ開始時}}手札のライブカードを1枚控え室に置いてもよい：好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。\n{{live_success.png|ライブ成功時}}自分のデッキの上からカードを5枚控え室に置く。その後、自分の控え室にカード名の異なる『虹ヶ咲』のライブカードが3枚以上ある場合、自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。",
+        "faq": [
+            {
+                "title": "Q190（2025.11.17）",
+                "question": "好きなハートの色を選ぶとき、ALLハートを選ぶことはできますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-bp4-011-P",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-011-P",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-R＋",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-P＋",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-SEC",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-011-P.png"
+    },
+    "PL!N-bp4-011-P＋": {
+        "card_no": "PL!N-bp4-011-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-011-P2.png",
+        "name": "ミア・テイラー",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "P+",
+        "ability": "{{live_start.png|ライブ開始時}}手札のライブカードを1枚控え室に置いてもよい：好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。\n{{live_success.png|ライブ成功時}}自分のデッキの上からカードを5枚控え室に置く。その後、自分の控え室にカード名の異なる『虹ヶ咲』のライブカードが3枚以上ある場合、自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-011-P＋",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-R＋",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-P",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-SEC",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-011-P2.png"
+    },
+    "PL!N-bp4-011-SEC": {
+        "card_no": "PL!N-bp4-011-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-011-SEC.png",
+        "name": "ミア・テイラー",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "SEC",
+        "ability": "{{live_start.png|ライブ開始時}}手札のライブカードを1枚控え室に置いてもよい：好きなハートの色を1つ指定する。ライブ終了時まで、そのハートを1つ得る。\n{{live_success.png|ライブ成功時}}自分のデッキの上からカードを5枚控え室に置く。その後、自分の控え室にカード名の異なる『虹ヶ咲』のライブカードが3枚以上ある場合、自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-011-SEC",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-R＋",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-P",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp4-011-P＋",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-011-SEC.png"
+    },
+    "PL!N-bp4-012-R": {
+        "card_no": "PL!N-bp4-012-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-012-R.png",
+        "name": "鐘 嵐珠",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart04": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{jyouji.png|常時}}相手の成功ライブカード置き場にあるカードのスコアの合計が６以上であるかぎり、ライブの合計スコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-012-R",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-bp4-012-P",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-012-R.png"
+    },
+    "PL!N-bp4-012-P": {
+        "card_no": "PL!N-bp4-012-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-012-P.png",
+        "name": "鐘 嵐珠",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart04": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "P",
+        "ability": "{{jyouji.png|常時}}相手の成功ライブカード置き場にあるカードのスコアの合計が６以上であるかぎり、ライブの合計スコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-012-P",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-bp4-012-R",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-012-P.png"
+    },
+    "PL!N-bp4-013-N": {
+        "card_no": "PL!N-bp4-013-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-013-N.png",
+        "name": "上原歩夢",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-013-N",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-013-N.png"
+    },
+    "PL!N-bp4-014-N": {
+        "card_no": "PL!N-bp4-014-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-014-N.png",
+        "name": "中須かすみ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-014-N",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-014-N.png"
+    },
+    "PL!N-bp4-015-N": {
+        "card_no": "PL!N-bp4-015-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-015-N.png",
+        "name": "桜坂しずく",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 5,
+        "base_heart": {
+            "heart02": 1,
+            "heart04": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-015-N",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-015-N.png"
+    },
+    "PL!N-bp4-016-N": {
+        "card_no": "PL!N-bp4-016-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-016-N.png",
+        "name": "朝香果林",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}このメンバーをウェイトにしてもよい：自分のデッキの上からカードを2枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。（ウェイト状態のメンバーが持つ{{icon_blade.png|ブレード}}は、エールで公開する枚数を増やさない。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-016-N",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-016-N.png"
+    },
+    "PL!N-bp4-017-N": {
+        "card_no": "PL!N-bp4-017-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-017-N.png",
+        "name": "宮下 愛",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 2,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-017-N",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-017-N.png"
+    },
+    "PL!N-bp4-018-N": {
+        "card_no": "PL!N-bp4-018-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-018-N.png",
+        "name": "近江彼方",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のメインフェイズの間、このメンバーがアクティブ状態からウェイト状態になったとき、カードを1枚引き、手札を1枚控え室に置く。",
+        "faq": [
+            {
+                "title": "Q188（2025.11.17）",
+                "question": "「[PL!-pb1-018-R]矢澤にこ」の登場時効果でこのカードを登場させた場合、自動能力の条件を満たし、効果を解決することができますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!-pb1-018-R]矢澤にこ」の登場時効果でこのカードを登場させた場合、自動能力の条件を満たし、効果を解決することができますか？</p>\n            <p class=\"faq-Text answer\">いいえ。できません。</p>\n                        <div class=\"faq-Relation\">\n              <p class=\"relation-Heading\">関連カード</p>\n              <p class=\"relation-Text\">\n                            [PL!N-bp4-018-N",
+                        "name": "近江彼方"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-018-N",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-018-N.png"
+    },
+    "PL!N-bp4-019-N": {
+        "card_no": "PL!N-bp4-019-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-019-N.png",
+        "name": "優木せつ菜",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 3,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-019-N",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-019-N.png"
+    },
+    "PL!N-bp4-020-N": {
+        "card_no": "PL!N-bp4-020-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-020-N.png",
+        "name": "エマ・ヴェルデ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 2,
+        "base_heart": {
+            "heart04": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-020-N",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-020-N.png"
+    },
+    "PL!N-bp4-021-N": {
+        "card_no": "PL!N-bp4-021-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-021-N.png",
+        "name": "天王寺璃奈",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 2,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}自分の控え室にあるカード1枚をデッキの一番上に置いてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-021-N",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-021-N.png"
+    },
+    "PL!N-bp4-022-N": {
+        "card_no": "PL!N-bp4-022-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-022-N.png",
+        "name": "三船栞子",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart04": 2,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 6,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-022-N",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-022-N.png"
+    },
+    "PL!N-bp4-023-N": {
+        "card_no": "PL!N-bp4-023-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-023-N.png",
+        "name": "ミア・テイラー",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 5,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}『虹ヶ咲」のメンバー1人をウェイトにしてもよい：カードを1枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-023-N",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-023-N.png"
+    },
+    "PL!N-bp4-024-N": {
+        "card_no": "PL!N-bp4-024-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-024-N.png",
+        "name": "鐘 嵐珠",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 7,
+        "base_heart": {
+            "heart01": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-024-N",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-024-N.png"
+    },
+    "PL!N-bp4-025-L": {
+        "card_no": "PL!N-bp4-025-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-025-L.png",
+        "name": "VIVID WORLD",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 6,
+        "need_heart": {
+            "heart05": 8,
+            "heart06": 2,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、エールによって公開される自分のカードが持つ[桃ブレード]、[赤ブレード]、[黄ブレード]、[緑ブレード]、[紫ブレード]、{{icon_b_all.png|ALLブレード}}は、すべて[青ブレード]になる。\n{{live_success.png|ライブ成功時}}エールにより公開された自分の『虹ヶ咲』のメンバーカードが持つハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}がある場合、このカードのスコアを＋１する。",
+        "faq": [
+            {
+                "title": "Q192（2025.11.17）",
+                "question": "ライブ成功時効果によって公開されたブレードハートの色が変更されており、かつALLハートをエールによって得た場合、PL!N-bp03-030-Lのライブ成功時効果の条件を満たしますか？",
+                "answer": "いいえ。満たしません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-bp3-030-L",
+                        "name": "Love U my friends"
+                    },
+                    {
+                        "card_no": "PL!N-bp4-025-L",
+                        "name": "VIVID WORLD"
+                    },
+                    {
+                        "card_no": "PL!SP-bp4-023-L",
+                        "name": "Dazzling Game"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-025-L",
+                "name": "VIVID WORLD"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-025-L.png"
+    },
+    "PL!N-bp4-026-L": {
+        "card_no": "PL!N-bp4-026-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-026-L.png",
+        "name": "DIVE!",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 5,
+        "need_heart": {
+            "heart02": 4,
+            "heart05": 3,
+            "heart0": 5
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{jidou.png|自動}}自分のメインフェイズにこのカードが控え室から手札に加えられたとき、自分の手札からカード名が「DIVE!」のライブカード1枚を表向きでライブカード置き場に置いてもよい。そうした場合、次のライブカードセットフェイズで自分がライブカード置き場に置けるカード枚数の上限が1枚減る。\n{{jidou.png|自動}}このカードが表向きでライブカード置き場に置かれたとき、ライブ終了時まで、自分のステージにいる『虹ヶ咲』のメンバー1人は、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-026-L",
+                "name": "DIVE!"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-026-L.png"
+    },
+    "PL!N-bp4-027-L": {
+        "card_no": "PL!N-bp4-027-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-027-L.png",
+        "name": "EMOTION",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 2,
+        "need_heart": {
+            "heart04": 2,
+            "heart05": 1,
+            "heart0": 2
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場にあるカード名が「EMOTION」のカード1枚につき、このカードのスコアを＋２し、成功させるための必要ハートを{{heart_00.png|heart0}}{{heart_00.png|heart0}}{{heart_00.png|heart0}}増やす。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-027-L",
+                "name": "EMOTION"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-027-L.png"
+    },
+    "PL!N-bp4-028-L": {
+        "card_no": "PL!N-bp4-028-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-028-L.png",
+        "name": "stars we chase",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 2,
+        "need_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart0": 1
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分の控え室にカード名の異なる『虹ヶ咲』のライブカードが4枚以上ある場合、このカードのスコアを＋１する。6枚以上ある場合、代わりにスコアを＋２する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-028-L",
+                "name": "stars we chase"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-028-L.png"
+    },
+    "PL!N-bp4-029-L": {
+        "card_no": "PL!N-bp4-029-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-029-L.png",
+        "name": "Rise Up High!",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 1,
+        "need_heart": {
+            "heart05": 2,
+            "heart0": 1
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}このゲームの1ターン目のライブフェイズの場合、このカードのスコアを＋１し、ライブ終了時まで、自分のステージにいる『虹ヶ咲』のメンバー1人は、{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-029-L",
+                "name": "Rise Up High!"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-029-L.png"
+    },
+    "PL!N-bp4-030-L": {
+        "card_no": "PL!N-bp4-030-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-030-L.png",
+        "name": "Daydream Mermaid",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 3,
+        "need_heart": {
+            "heart05": 1,
+            "heart06": 3,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_success.png|ライブ成功時}}以下から1つを選ぶ。自分の成功ライブカード置き場に『虹ヶ咲』のカードがある場合、代わりに1つ以上を選ぶ。\n・自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。\n・自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [
+            {
+                "title": "Q191（2025.11.17）",
+                "question": "ライブ成功時効果が発動した際、同じ効果を２回選ぶことができますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-bp4-030-L",
+                        "name": "Daydream Mermaid"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-030-L",
+                "name": "Daydream Mermaid"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-030-L.png"
+    },
+    "PL!N-bp4-031-L": {
+        "card_no": "PL!N-bp4-031-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-031-L.png",
+        "name": "NEO SKY, NEO MAP!",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 8,
+        "need_heart": {
+            "heart01": 1,
+            "heart02": 1,
+            "heart03": 1,
+            "heart04": 1,
+            "heart05": 1,
+            "heart06": 1,
+            "heart0": 12
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージのエリアすべてに『虹ヶ咲』のメンバーがいて、かつそれらのコストの合計が20以上の場合、カードを3枚引き、自分の手札を3枚好きな順番でデッキの上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-031-L",
+                "name": "NEO SKY, NEO MAP!"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-031-L.png"
+    },
+    "PL!N-bp4-032-L": {
+        "card_no": "PL!N-bp4-032-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-032-L.png",
+        "name": "Blue!",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "score": 3,
+        "need_heart": {
+            "heart01": 1,
+            "heart02": 1,
+            "heart05": 1,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-032-L",
+                "name": "Blue!"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-032-L.png"
+    },
+    "PL!N-bp4-033-SECE": {
+        "card_no": "PL!N-bp4-033-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-033-SECE.png",
+        "name": "朝香果林",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-033-SECE",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-033-SECE.png"
+    },
+    "PL!N-bp4-034-SECE": {
+        "card_no": "PL!N-bp4-034-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-034-SECE.png",
+        "name": "優木せつ菜",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-034-SECE",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-034-SECE.png"
+    },
+    "PL!N-bp4-035-SECE": {
+        "card_no": "PL!N-bp4-035-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-035-SECE.png",
+        "name": "三船栞子",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-035-SECE",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-035-SECE.png"
+    },
+    "PL!N-bp4-036-SECE": {
+        "card_no": "PL!N-bp4-036-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-036-SECE.png",
+        "name": "ミア・テイラー",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-036-SECE",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-036-SECE.png"
+    },
+    "PL!N-bp4-037-SECE": {
+        "card_no": "PL!N-bp4-037-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-037-SECE.png",
+        "name": "高咲 侑",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-037-SECE",
+                "name": "高咲 侑"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-037-SECE.png"
+    },
+    "PL!N-bp4-038-PE": {
+        "card_no": "PL!N-bp4-038-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-038-PE.png",
+        "name": "OSAKA SHIZUIKU",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-038-PE",
+                "name": "OSAKA SHIZUIKU"
+            },
+            {
+                "card_no": "PL!N-bp4-038-PE＋",
+                "name": "OSAKA SHIZUIKU"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-038-PE.png"
+    },
+    "PL!N-bp4-038-PE＋": {
+        "card_no": "PL!N-bp4-038-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-038-PE2.png",
+        "name": "OSAKA SHIZUIKU",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-038-PE＋",
+                "name": "OSAKA SHIZUIKU"
+            },
+            {
+                "card_no": "PL!N-bp4-038-PE",
+                "name": "OSAKA SHIZUIKU"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-038-PE2.png"
+    },
+    "PL!N-bp4-039-PE": {
+        "card_no": "PL!N-bp4-039-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-039-PE.png",
+        "name": "ASAKA KARIN",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-039-PE",
+                "name": "ASAKA KARIN"
+            },
+            {
+                "card_no": "PL!N-bp4-039-PE＋",
+                "name": "ASAKA KARIN"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-039-PE.png"
+    },
+    "PL!N-bp4-039-PE＋": {
+        "card_no": "PL!N-bp4-039-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-039-PE2.png",
+        "name": "ASAKA KARIN",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-039-PE＋",
+                "name": "ASAKA KARIN"
+            },
+            {
+                "card_no": "PL!N-bp4-039-PE",
+                "name": "ASAKA KARIN"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-039-PE2.png"
+    },
+    "PL!N-bp4-040-PE": {
+        "card_no": "PL!N-bp4-040-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-040-PE.png",
+        "name": "MIYASHITA AI",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-040-PE",
+                "name": "MIYASHITA AI"
+            },
+            {
+                "card_no": "PL!N-bp4-040-PE＋",
+                "name": "MIYASHITA AI"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-040-PE.png"
+    },
+    "PL!N-bp4-040-PE＋": {
+        "card_no": "PL!N-bp4-040-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-040-PE2.png",
+        "name": "MIYASHITA AI",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-040-PE＋",
+                "name": "MIYASHITA AI"
+            },
+            {
+                "card_no": "PL!N-bp4-040-PE",
+                "name": "MIYASHITA AI"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-040-PE2.png"
+    },
+    "PL!N-bp4-041-PE": {
+        "card_no": "PL!N-bp4-041-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-041-PE.png",
+        "name": "YUKI SETSUNA",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-041-PE",
+                "name": "YUKI SETSUNA"
+            },
+            {
+                "card_no": "PL!N-bp4-041-PE＋",
+                "name": "YUKI SETSUNA"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-041-PE.png"
+    },
+    "PL!N-bp4-041-PE＋": {
+        "card_no": "PL!N-bp4-041-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-041-PE2.png",
+        "name": "YUKI SETSUNA",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-041-PE＋",
+                "name": "YUKI SETSUNA"
+            },
+            {
+                "card_no": "PL!N-bp4-041-PE",
+                "name": "YUKI SETSUNA"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-041-PE2.png"
+    },
+    "PL!N-bp4-100-LLE": {
+        "card_no": "PL!N-bp4-100-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-100-LLE.png",
+        "name": "虹ヶ咲学園スクールアイドル同好会",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-100-LLE",
+                "name": "虹ヶ咲学園スクールアイドル同好会"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-100-LLE.png"
+    },
+    "PL!N-bp4-200-LLE": {
+        "card_no": "PL!N-bp4-200-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!N-bp4-200-LLE.png",
+        "name": "虹ヶ咲学園スクールアイドル同好会",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-200-LLE",
+                "name": "虹ヶ咲学園スクールアイドル同好会"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!N-bp4-200-LLE.png"
+    },
+    "PL!SP-bp4-001-R": {
+        "card_no": "PL!SP-bp4-001-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-001-R.png",
+        "name": "澁谷かのん",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}自分のステージにいるメンバーが『Liella!』のみで、かつ自分のエネルギーが7枚以上ある場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-001-R",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-bp4-001-P",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-001-R.png"
+    },
+    "PL!SP-bp4-001-P": {
+        "card_no": "PL!SP-bp4-001-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-001-P.png",
+        "name": "澁谷かのん",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 2,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}自分のステージにいるメンバーが『Liella!』のみで、かつ自分のエネルギーが7枚以上ある場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-001-P",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-bp4-001-R",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-001-P.png"
+    },
+    "PL!SP-bp4-002-R": {
+        "card_no": "PL!SP-bp4-002-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-002-R.png",
+        "name": "唐 可可",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}このメンバーをウェイトにしてもよい：自分のデッキの上からカードを4枚見る。その中から必要ハートの合計が8以上の『Liella!』のライブカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-002-R",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-bp4-002-P",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-002-R.png"
+    },
+    "PL!SP-bp4-002-P": {
+        "card_no": "PL!SP-bp4-002-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-002-P.png",
+        "name": "唐 可可",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}このメンバーをウェイトにしてもよい：自分のデッキの上からカードを4枚見る。その中から必要ハートの合計が8以上の『Liella!』のライブカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-002-P",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-bp4-002-R",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-002-P.png"
+    },
+    "PL!SP-bp4-003-R": {
+        "card_no": "PL!SP-bp4-003-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-003-R.png",
+        "name": "嵐 千砂都",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}【左サイド】【右サイド】カードを2枚引き、手札を2枚控え室に置く。（この能力は左サイドエリアか右サイドエリアに登場した場合のみ発動する。）\n{{jyouji.png|常時}}{{center.png|センター}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-003-R",
+                "name": "嵐 千砂都"
+            },
+            {
+                "card_no": "PL!SP-bp4-003-P",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-003-R.png"
+    },
+    "PL!SP-bp4-003-P": {
+        "card_no": "PL!SP-bp4-003-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-003-P.png",
+        "name": "嵐 千砂都",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}【左サイド】【右サイド】カードを2枚引き、手札を2枚控え室に置く。（この能力は左サイドエリアか右サイドエリアに登場した場合のみ発動する。）\n{{jyouji.png|常時}}{{center.png|センター}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-003-P",
+                "name": "嵐 千砂都"
+            },
+            {
+                "card_no": "PL!SP-bp4-003-R",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-003-P.png"
+    },
+    "PL!SP-bp4-004-R＋": {
+        "card_no": "PL!SP-bp4-004-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-004-R2.png",
+        "name": "平安名すみれ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 22,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart06": 2
+        },
+        "blade": 6,
+        "rare": "R+",
+        "ability": "{{jyouji.png|常時}}このカードのプレイに際し、2人のメンバーとバトンタッチしてもよい。\n{{toujyou.png|登場}}{{center.png|センター}}『Liella!』のメンバー2人からバトンタッチして登場している場合、カードを2枚引き、自分の控え室にあるコスト4以下の『Liella!』のメンバーカード1枚を自分のステージのメンバーのいないエリアに登場させる。",
+        "faq": [
+            {
+                "title": "Q194（2025.11.17）",
+                "question": "{{jyouji.png|常時}}このカードのプレイに際し、2人のメンバーとバトンタッチしてもよい。\n---------------------\n2人のメンバーとバトンタッチする際、2人の中にこのターン中に登場したメンバーを含んでいてもバトンタッチできますか？",
+                "answer": "いいえ、2人とも前のターンから登場している必要があります。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-bp4-004-R＋",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            },
+            {
+                "title": "Q193（2025.11.17）",
+                "question": "2人のメンバーとバトンタッチした際、このメンバーが登場できるエリアはどこになりますか？",
+                "answer": "バトンタッチした2人のメンバーがいたエリアのうち、いずれかのエリアに登場します。登場するエリアはプレイヤーが任意に選べます。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-bp4-004-R＋",
+                        "name": "平安名すみれ"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-004-R＋",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-P",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-P＋",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-SEC",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-004-R2.png"
+    },
+    "PL!SP-bp4-004-P": {
+        "card_no": "PL!SP-bp4-004-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-004-P.png",
+        "name": "平安名すみれ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 22,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart06": 2
+        },
+        "blade": 6,
+        "rare": "P",
+        "ability": "{{jyouji.png|常時}}このカードのプレイに際し、2人のメンバーとバトンタッチしてもよい。\n{{toujyou.png|登場}}{{center.png|センター}}『Liella!』のメンバー2人からバトンタッチして登場している場合、カードを2枚引き、自分の控え室にあるコスト4以下の『Liella!』のメンバーカード1枚を自分のステージのメンバーのいないエリアに登場させる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-004-P",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-R＋",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-P＋",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-SEC",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-004-P.png"
+    },
+    "PL!SP-bp4-004-P＋": {
+        "card_no": "PL!SP-bp4-004-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-004-P2.png",
+        "name": "平安名すみれ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 22,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart06": 2
+        },
+        "blade": 6,
+        "rare": "P+",
+        "ability": "{{jyouji.png|常時}}このカードのプレイに際し、2人のメンバーとバトンタッチしてもよい。\n{{toujyou.png|登場}}{{center.png|センター}}『Liella!』のメンバー2人からバトンタッチして登場している場合、カードを2枚引き、自分の控え室にあるコスト4以下の『Liella!』のメンバーカード1枚を自分のステージのメンバーのいないエリアに登場させる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-004-P＋",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-R＋",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-P",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-SEC",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-004-P2.png"
+    },
+    "PL!SP-bp4-004-SEC": {
+        "card_no": "PL!SP-bp4-004-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-004-SEC.png",
+        "name": "平安名すみれ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 22,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart06": 2
+        },
+        "blade": 6,
+        "rare": "SEC",
+        "ability": "{{jyouji.png|常時}}このカードのプレイに際し、2人のメンバーとバトンタッチしてもよい。\n{{toujyou.png|登場}}{{center.png|センター}}『Liella!』のメンバー2人からバトンタッチして登場している場合、カードを2枚引き、自分の控え室にあるコスト4以下の『Liella!』のメンバーカード1枚を自分のステージのメンバーのいないエリアに登場させる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-004-SEC",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-R＋",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-P",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp4-004-P＋",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-004-SEC.png"
+    },
+    "PL!SP-bp4-005-R＋": {
+        "card_no": "PL!SP-bp4-005-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-005-R2.png",
+        "name": "葉月 恋",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 2,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "R+",
+        "ability": "{{toujyou.png|登場}}『Liella!』のメンバーからバトンタッチして登場しており、かつ自分のエネルギーが7枚以上ある場合、自分のエネルギーデッキから、エネルギーカードを2枚ウェイト状態で置く。\n{{jyouji.png|常時}}自分のエネルギーが10枚以上あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-005-R＋",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-P",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-P＋",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-SEC",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-005-R2.png"
+    },
+    "PL!SP-bp4-005-P": {
+        "card_no": "PL!SP-bp4-005-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-005-P.png",
+        "name": "葉月 恋",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 2,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}『Liella!』のメンバーからバトンタッチして登場しており、かつ自分のエネルギーが7枚以上ある場合、自分のエネルギーデッキから、エネルギーカードを2枚ウェイト状態で置く。\n{{jyouji.png|常時}}自分のエネルギーが10枚以上あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-005-P",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-R＋",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-P＋",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-SEC",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-005-P.png"
+    },
+    "PL!SP-bp4-005-P＋": {
+        "card_no": "PL!SP-bp4-005-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-005-P2.png",
+        "name": "葉月 恋",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 2,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}『Liella!』のメンバーからバトンタッチして登場しており、かつ自分のエネルギーが7枚以上ある場合、自分のエネルギーデッキから、エネルギーカードを2枚ウェイト状態で置く。\n{{jyouji.png|常時}}自分のエネルギーが10枚以上あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-005-P＋",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-R＋",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-P",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-SEC",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-005-P2.png"
+    },
+    "PL!SP-bp4-005-SEC": {
+        "card_no": "PL!SP-bp4-005-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-005-SEC.png",
+        "name": "葉月 恋",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 2,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "SEC",
+        "ability": "{{toujyou.png|登場}}『Liella!』のメンバーからバトンタッチして登場しており、かつ自分のエネルギーが7枚以上ある場合、自分のエネルギーデッキから、エネルギーカードを2枚ウェイト状態で置く。\n{{jyouji.png|常時}}自分のエネルギーが10枚以上あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-005-SEC",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-R＋",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-P",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp4-005-P＋",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-005-SEC.png"
+    },
+    "PL!SP-bp4-006-R": {
+        "card_no": "PL!SP-bp4-006-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-006-R.png",
+        "name": "桜小路きな子",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 6,
+        "rare": "R",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に、名前が異なる『Liella!』のメンバーカードが3枚以上ある場合、エールにより公開された自分のカードの中から『Liella!』のライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-006-R",
+                "name": "桜小路きな子"
+            },
+            {
+                "card_no": "PL!SP-bp4-006-P",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-006-R.png"
+    },
+    "PL!SP-bp4-006-P": {
+        "card_no": "PL!SP-bp4-006-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-006-P.png",
+        "name": "桜小路きな子",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 6,
+        "rare": "P",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に、名前が異なる『Liella!』のメンバーカードが3枚以上ある場合、エールにより公開された自分のカードの中から『Liella!』のライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-006-P",
+                "name": "桜小路きな子"
+            },
+            {
+                "card_no": "PL!SP-bp4-006-R",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-006-P.png"
+    },
+    "PL!SP-bp4-007-R": {
+        "card_no": "PL!SP-bp4-007-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-007-R.png",
+        "name": "米女メイ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}このメンバーがエリアを移動したとき、自分の控え室から、スコア3以下の『Liella!』のライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-007-R",
+                "name": "米女メイ"
+            },
+            {
+                "card_no": "PL!SP-bp4-007-P",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-007-R.png"
+    },
+    "PL!SP-bp4-007-P": {
+        "card_no": "PL!SP-bp4-007-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-007-P.png",
+        "name": "米女メイ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "P",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}このメンバーがエリアを移動したとき、自分の控え室から、スコア3以下の『Liella!』のライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-007-P",
+                "name": "米女メイ"
+            },
+            {
+                "card_no": "PL!SP-bp4-007-R",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-007-P.png"
+    },
+    "PL!SP-bp4-008-R＋": {
+        "card_no": "PL!SP-bp4-008-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-008-R2.png",
+        "name": "若菜四季",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "R+",
+        "ability": "{{toujyou.png|登場}}【左サイド】カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}【右サイド】エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-008-R＋",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-P",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-P＋",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-SEC",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-008-R2.png"
+    },
+    "PL!SP-bp4-008-P": {
+        "card_no": "PL!SP-bp4-008-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-008-P.png",
+        "name": "若菜四季",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "P",
+        "ability": "{{toujyou.png|登場}}【左サイド】カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}【右サイド】エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-008-P",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-R＋",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-P＋",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-SEC",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-008-P.png"
+    },
+    "PL!SP-bp4-008-P＋": {
+        "card_no": "PL!SP-bp4-008-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-008-P2.png",
+        "name": "若菜四季",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}【左サイド】カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}【右サイド】エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-008-P＋",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-R＋",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-P",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-SEC",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-008-P2.png"
+    },
+    "PL!SP-bp4-008-SEC": {
+        "card_no": "PL!SP-bp4-008-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-008-SEC.png",
+        "name": "若菜四季",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "SEC",
+        "ability": "{{toujyou.png|登場}}【左サイド】カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}【右サイド】エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-008-SEC",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-R＋",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-P",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-bp4-008-P＋",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-008-SEC.png"
+    },
+    "PL!SP-bp4-009-R": {
+        "card_no": "PL!SP-bp4-009-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-009-R.png",
+        "name": "鬼塚夏美",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{jyouji.png|常時}}自分のステージにいるメンバーのコストの合計が相手より低いかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-009-R",
+                "name": "鬼塚夏美"
+            },
+            {
+                "card_no": "PL!SP-bp4-009-P",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-009-R.png"
+    },
+    "PL!SP-bp4-009-P": {
+        "card_no": "PL!SP-bp4-009-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-009-P.png",
+        "name": "鬼塚夏美",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "P",
+        "ability": "{{jyouji.png|常時}}自分のステージにいるメンバーのコストの合計が相手より低いかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-009-P",
+                "name": "鬼塚夏美"
+            },
+            {
+                "card_no": "PL!SP-bp4-009-R",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-009-P.png"
+    },
+    "PL!SP-bp4-010-R": {
+        "card_no": "PL!SP-bp4-010-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-010-R.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}このメンバーをウェイトにする：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-010-R",
+                "name": "ウィーン・マルガレーテ"
+            },
+            {
+                "card_no": "PL!SP-bp4-010-P",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-010-R.png"
+    },
+    "PL!SP-bp4-010-P": {
+        "card_no": "PL!SP-bp4-010-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-010-P.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade": 3,
+        "rare": "P",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}このメンバーをウェイトにする：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-010-P",
+                "name": "ウィーン・マルガレーテ"
+            },
+            {
+                "card_no": "PL!SP-bp4-010-R",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-010-P.png"
+    },
+    "PL!SP-bp4-011-R＋": {
+        "card_no": "PL!SP-bp4-011-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-011-R2.png",
+        "name": "鬼塚冬毬",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "rare": "R+",
+        "ability": "{{jidou.png|自動}}このメンバーが登場か、エリアを移動したとき、相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数が3つ以下のメンバー1人をウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-011-R＋",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-P",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-P＋",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-SEC",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-011-R2.png"
+    },
+    "PL!SP-bp4-011-P": {
+        "card_no": "PL!SP-bp4-011-P",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-011-P.png",
+        "name": "鬼塚冬毬",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "rare": "P",
+        "ability": "{{jidou.png|自動}}このメンバーが登場か、エリアを移動したとき、相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数が3つ以下のメンバー1人をウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-011-P",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-R＋",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-P＋",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-SEC",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-011-P.png"
+    },
+    "PL!SP-bp4-011-P＋": {
+        "card_no": "PL!SP-bp4-011-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-011-P2.png",
+        "name": "鬼塚冬毬",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "rare": "P+",
+        "ability": "{{jidou.png|自動}}このメンバーが登場か、エリアを移動したとき、相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数が3つ以下のメンバー1人をウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-011-P＋",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-R＋",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-P",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-SEC",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-011-P2.png"
+    },
+    "PL!SP-bp4-011-SEC": {
+        "card_no": "PL!SP-bp4-011-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-011-SEC.png",
+        "name": "鬼塚冬毬",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "rare": "SEC",
+        "ability": "{{jidou.png|自動}}このメンバーが登場か、エリアを移動したとき、相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数が3つ以下のメンバー1人をウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-011-SEC",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-R＋",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-P",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-bp4-011-P＋",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-011-SEC.png"
+    },
+    "PL!SP-bp4-012-N": {
+        "card_no": "PL!SP-bp4-012-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-012-N.png",
+        "name": "澁谷かのん",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{heart_02.png|heart02}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-012-N",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-012-N.png"
+    },
+    "PL!SP-bp4-013-N": {
+        "card_no": "PL!SP-bp4-013-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-013-N.png",
+        "name": "唐 可可",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-013-N",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-013-N.png"
+    },
+    "PL!SP-bp4-014-N": {
+        "card_no": "PL!SP-bp4-014-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-014-N.png",
+        "name": "嵐 千砂都",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2
+        },
+        "blade": 3,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-014-N",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-014-N.png"
+    },
+    "PL!SP-bp4-015-N": {
+        "card_no": "PL!SP-bp4-015-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-015-N.png",
+        "name": "平安名すみれ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-015-N",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-015-N.png"
+    },
+    "PL!SP-bp4-016-N": {
+        "card_no": "PL!SP-bp4-016-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-016-N.png",
+        "name": "葉月 恋",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "rare": "N",
+        "ability": "{{jidou.png|自動}}カードの効果によって自分のエネルギー置き場にエネルギーカードが置かれるたび、ライブ終了時まで、{{heart_06.png|heart06}}を得る。(相手のカードの効果でも発動する。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-016-N",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-016-N.png"
+    },
+    "PL!SP-bp4-017-N": {
+        "card_no": "PL!SP-bp4-017-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-017-N.png",
+        "name": "桜小路きな子",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade": 3,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}【左サイド】このターン、このメンバーがエリアを移動している場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。（この能力は左サイドエリアにいる場合のみ発動する。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-017-N",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-017-N.png"
+    },
+    "PL!SP-bp4-018-N": {
+        "card_no": "PL!SP-bp4-018-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-018-N.png",
+        "name": "米女メイ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室から『Liella!』のカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-018-N",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-018-N.png"
+    },
+    "PL!SP-bp4-019-N": {
+        "card_no": "PL!SP-bp4-019-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-019-N.png",
+        "name": "若菜四季",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-019-N",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-019-N.png"
+    },
+    "PL!SP-bp4-020-N": {
+        "card_no": "PL!SP-bp4-020-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-020-N.png",
+        "name": "鬼塚夏美",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade": 3,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}【右サイド】このターン、このメンバーがエリアを移動している場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。（この能力は右サイドエリアにいる場合のみ発動する。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-020-N",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-020-N.png"
+    },
+    "PL!SP-bp4-021-N": {
+        "card_no": "PL!SP-bp4-021-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-021-N.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "N",
+        "ability": "{{jyouji.png|常時}}自分のエネルギーが相手より多いかぎり、{{heart_06.png|heart06}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-021-N",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-021-N.png"
+    },
+    "PL!SP-bp4-022-N": {
+        "card_no": "PL!SP-bp4-022-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-022-N.png",
+        "name": "鬼塚冬毬",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 10,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}を2つまで支払ってもよい：ライブ終了時まで、支払った{{icon_energy.png|E}}につき、{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-022-N",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-022-N.png"
+    },
+    "PL!SP-bp4-023-L": {
+        "card_no": "PL!SP-bp4-023-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-023-L.png",
+        "name": "Dazzling Game",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 8,
+        "need_heart": {
+            "heart06": 11,
+            "heart0": 8
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる、「澁谷かのん」「ウィーン・マルガレーテ」「鬼塚冬毬」のうちのメンバー1人と、これにより選んだメンバー以外の『Liella!』のメンバー1人は、{{icon_blade.png|ブレード}}を得る。\n{{live_start.png|ライブ開始時}}ライブ終了時まで、エールによって公開される自分のカードが持つ[桃ブレード]、[赤ブレード]、[黄ブレード]、[緑ブレード]、[青ブレード]、{{icon_b_all.png|ALLブレード}}は、すべて[紫ブレード]になる。",
+        "faq": [
+            {
+                "title": "Q192（2025.11.17）",
+                "question": "ライブ成功時効果によって公開されたブレードハートの色が変更されており、かつALLハートをエールによって得た場合、PL!N-bp03-030-Lのライブ成功時効果の条件を満たしますか？",
+                "answer": "いいえ。満たしません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-bp3-030-L",
+                        "name": "Love U my friends"
+                    },
+                    {
+                        "card_no": "PL!N-bp4-025-L",
+                        "name": "VIVID WORLD"
+                    },
+                    {
+                        "card_no": "PL!SP-bp4-023-L",
+                        "name": "Dazzling Game"
+                    }
+                ]
+            },
+            {
+                "title": "Q187（2025.11.17）",
+                "question": "「これにより選んだメンバー以外の『Liella!』のメンバー１人は、{{icon_blade.png|ブレード}}を得る。」について、選んだメンバー以外のメンバーを選ぶ必要がありますか？",
+                "answer": "はい。あります。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-bp4-023-L",
+                        "name": "Dazzling Game"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-023-L",
+                "name": "Dazzling Game"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-023-L.png"
+    },
+    "PL!SP-bp4-024-L": {
+        "card_no": "PL!SP-bp4-024-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-024-L.png",
+        "name": "ノンフィクション!!",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 6,
+        "need_heart": {
+            "heart02": 3,
+            "heart03": 5,
+            "heart0": 7
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のセンターエリアにいる『Liella!』のメンバーのコストが、相手のセンターエリアにいるメンバーより高い場合、このカードのスコアを＋１する。\n{{live_start.png|ライブ開始時}}自分のステージの左サイドエリアにいる『Liella!』のメンバーが{{heart_02.png|heart02}}を3つ以上持つ場合、そのメンバーは、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-024-L",
+                "name": "ノンフィクション!!"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-024-L.png"
+    },
+    "PL!SP-bp4-025-L": {
+        "card_no": "PL!SP-bp4-025-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-025-L.png",
+        "name": "Special Color",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 2,
+        "need_heart": {
+            "heart0": 7
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージのセンターエリアにいる『Liella!』のメンバーが元々持つ{{icon_blade.png|ブレード}}の数は3つになる。\n{{live_success.png|ライブ成功時}}自分のステージのセンターエリアにいる『Liella!』のメンバーが、このターン中に移動している場合、このカードのスコアを＋１する。",
+        "faq": [
+            {
+                "title": "Q195（2025.11.17）",
+                "question": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージのセンターエリアにいる『Liella!』のメンバーが元々持つ{{icon_blade.png|ブレード}}の数は3つになる。\n---------------------\nいずれかの効果でブレードを1つ得ているメンバーに対して、この能力を使いました。最終的なブレードの数はいくつになりますか？\"\nいずれかの効果でブレードを1つ得ているメンバーに対して、この能力を使いました。最終的なブレードの数はいくつになりますか？",
+                "answer": "4つになります。元々持つブレードの数を変更した後、ブレードを得る効果が適用されるため、結果4つのブレードを持つことになります。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-bp4-025-L",
+                        "name": "Special Color"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-025-L",
+                "name": "Special Color"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-025-L.png"
+    },
+    "PL!SP-bp4-026-L": {
+        "card_no": "PL!SP-bp4-026-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-026-L.png",
+        "name": "Wish Song",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 3,
+            "heart0": 6
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に名前が異なる『Liella!』のメンバーカードが5枚以上ある場合、このカードのスコアを＋１する。\n{{live_success.png|ライブ成功時}}自分のエネルギーが11枚以上ある場合、カードを2枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-026-L",
+                "name": "Wish Song"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-026-L.png"
+    },
+    "PL!SP-bp4-027-L": {
+        "card_no": "PL!SP-bp4-027-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-027-L.png",
+        "name": "Chance Day, Chance Way!",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 1,
+        "need_heart": {
+            "heart02": 1,
+            "heart0": 2
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_success.png|ライブ成功時}}自分のステージにいるメンバーが『Liella!』のみの場合、自分のステージにいるメンバーをフォーメーションチェンジしてもよい。(メンバーをそれぞれ好きなエリアに移動させる。この効果で1つのエリアに2人以上のメンバーを移動させることはできない。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-027-L",
+                "name": "Chance Day, Chance Way!"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-027-L.png"
+    },
+    "PL!SP-bp4-028-L": {
+        "card_no": "PL!SP-bp4-028-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-028-L.png",
+        "name": "DAISUKI FULL POWER",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 5,
+        "need_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart0": 7
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}アクティブ状態の自分のエネルギーがある場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-028-L",
+                "name": "DAISUKI FULL POWER"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-028-L.png"
+    },
+    "PL!SP-bp4-029-L": {
+        "card_no": "PL!SP-bp4-029-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-029-L.png",
+        "name": "追いかける夢の先で",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart03": 3,
+            "heart06": 3,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-029-L",
+                "name": "追いかける夢の先で"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-029-L.png"
+    },
+    "PL!SP-bp4-030-L": {
+        "card_no": "PL!SP-bp4-030-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-030-L.png",
+        "name": "Second Sparkle",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 2,
+        "need_heart": {
+            "heart03": 2,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-030-L",
+                "name": "Second Sparkle"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-030-L.png"
+    },
+    "PL!SP-bp4-031-SECE": {
+        "card_no": "PL!SP-bp4-031-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-031-SECE.png",
+        "name": "平安名すみれ",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-031-SECE",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-031-SECE.png"
+    },
+    "PL!SP-bp4-032-SECE": {
+        "card_no": "PL!SP-bp4-032-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-032-SECE.png",
+        "name": "葉月 恋",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-032-SECE",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-032-SECE.png"
+    },
+    "PL!SP-bp4-033-SECE": {
+        "card_no": "PL!SP-bp4-033-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-033-SECE.png",
+        "name": "若菜四季",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-033-SECE",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-033-SECE.png"
+    },
+    "PL!SP-bp4-034-SECE": {
+        "card_no": "PL!SP-bp4-034-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-034-SECE.png",
+        "name": "鬼塚冬毬",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-034-SECE",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-034-SECE.png"
+    },
+    "PL!SP-bp4-035-PE": {
+        "card_no": "PL!SP-bp4-035-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-035-PE.png",
+        "name": "HEANNA SUMIRE",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-035-PE",
+                "name": "HEANNA SUMIRE"
+            },
+            {
+                "card_no": "PL!SP-bp4-035-PE＋",
+                "name": "HEANNA SUMIRE"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-035-PE.png"
+    },
+    "PL!SP-bp4-035-PE＋": {
+        "card_no": "PL!SP-bp4-035-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-035-PE2.png",
+        "name": "HEANNA SUMIRE",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-035-PE＋",
+                "name": "HEANNA SUMIRE"
+            },
+            {
+                "card_no": "PL!SP-bp4-035-PE",
+                "name": "HEANNA SUMIRE"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-035-PE2.png"
+    },
+    "PL!SP-bp4-036-PE": {
+        "card_no": "PL!SP-bp4-036-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-036-PE.png",
+        "name": "ONITUKA TOMARI",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-036-PE",
+                "name": "ONITUKA TOMARI"
+            },
+            {
+                "card_no": "PL!SP-bp4-036-PE＋",
+                "name": "ONITUKA TOMARI"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-036-PE.png"
+    },
+    "PL!SP-bp4-036-PE＋": {
+        "card_no": "PL!SP-bp4-036-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-036-PE2.png",
+        "name": "ONITUKA TOMARI",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-036-PE＋",
+                "name": "ONITUKA TOMARI"
+            },
+            {
+                "card_no": "PL!SP-bp4-036-PE",
+                "name": "ONITUKA TOMARI"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-036-PE2.png"
+    },
+    "PL!SP-bp4-100-LLE": {
+        "card_no": "PL!SP-bp4-100-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-100-LLE.png",
+        "name": "Liella!",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-100-LLE",
+                "name": "Liella!"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-100-LLE.png"
+    },
+    "PL!SP-bp4-200-LLE": {
+        "card_no": "PL!SP-bp4-200-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/PL!SP-bp4-200-LLE.png",
+        "name": "Liella!",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-200-LLE",
+                "name": "Liella!"
+            }
+        ],
+        "_img": "img/cards/BP04/PL!SP-bp4-200-LLE.png"
+    },
+    "LL-bp4-001-R＋": {
+        "card_no": "LL-bp4-001-R＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP04/LL-bp4-001-R2.png",
+        "name": "絢瀬絵里&朝香果林&葉月 恋",
+        "product": "ブースターパックSAPPHIREMOON",
+        "type": "メンバー",
+        "series": "ラブライブ！\nラブライブ！虹ヶ咲学園スクールアイドル同好会\nラブライブ！スーパースター!!",
+        "cost": 20,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2,
+            "heart06": 2
+        },
+        "blade": 6,
+        "rare": "R+",
+        "ability": "{{toujyou.png|登場}}/{{live_start.png|ライブ開始時}}自分のデッキの上からカードを5枚見る。その中から「絢瀬絵里」か「朝香果林」か「葉月恋」のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。その後、相手のステージにいる、これにより公開したカードのコスト以下で、かつ元々持つ{{icon_blade.png|ブレード}}の数が3つ以下のメンバーをすべてウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-bp4-001-R＋",
+                "name": "絢瀬絵里&朝香果林&葉月 恋"
+            }
+        ],
+        "_img": "img/cards/BP04/LL-bp4-001-R2.png"
     }
 }
