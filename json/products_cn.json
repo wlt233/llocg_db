@@ -1,4 +1,17 @@
 {
+    "1037": {
+        "id": 1037,
+        "pack_name": "【SAPPHIRE MOON】补充包",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_ce9b7f71a470878a7ee95e64b6f9c814.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_bf917cc656dbb2af293d11bc309b001c.png",
+        "pack_categorize_name": "补充包",
+        "pack_prefix": "BP04",
+        "card_prefix": " Loveca",
+        "released_at": "2025-11-22",
+        "details": "<p> </p>",
+        "_pack_img": "img/products_cn/new_ce9b7f71a470878a7ee95e64b6f9c814.png",
+        "_box_img": "img/products_cn/new_bf917cc656dbb2af293d11bc309b001c.png"
+    },
     "1006": {
         "id": 1006,
         "pack_name": "「Premium Booster LoveLive!」",
@@ -8,7 +21,7 @@
         "pack_prefix": "PB03",
         "card_prefix": "Loveca",
         "released_at": "2025-09-19",
-        "details": "<p> </p>",
+        "details": "<p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">商品信息</strong></p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">商品名称：</strong>「Premium Booster LoveLive!」高级补充包</p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">商品编码：</strong>PB03</p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">发售日期：</strong>2025-09-19</p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">卡片种类数：</strong></p><p class=\"ql-align-center\">R 18种</p><p class=\"ql-align-center\">L 6种</p><p class=\"ql-align-center\">N 9种</p><p class=\"ql-align-center\">L+ 1种</p><p class=\"ql-align-center\">LLE 6种</p><p class=\"ql-align-center\">SECE 1种</p><p class=\"ql-align-center\">PE 9种</p><p class=\"ql-align-center\">PE+ 9种</p><p class=\"ql-align-center\">SRE 19种</p><p class=\"ql-align-center\">P+ 18种</p>",
         "_pack_img": "img/products_cn/new_1f86078d46a8054906018a1b51705d25.png",
         "_box_img": "img/products_cn/new_30d1ec4c7b41c81e06283f44c0d60b71.png"
     },
@@ -86,7 +99,7 @@
         "pack_prefix": " BP02",
         "card_prefix": " Loveca",
         "released_at": "2025-05-31",
-        "details": "<p> </p>",
+        "details": "<p class=\"ql-align-center\"> <strong style=\"color: rgb(255, 0, 0);\">商品信息</strong></p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">商品名称：</strong>补充包 NEXT STEP</p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">商品编码：</strong>BP02</p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">发售日期：</strong>2025-05-13</p><p class=\"ql-align-center\"><strong style=\"color: rgb(255, 0, 0);\">卡片种类数：</strong></p><p class=\"ql-align-center\">R 19</p><p class=\"ql-align-center\">R+ 11</p><p class=\"ql-align-center\">L 21</p><p class=\"ql-align-center\">N 29</p><p class=\"ql-align-center\">LLE  6</p><p class=\"ql-align-center\">SECE  10</p><p class=\"ql-align-center\">PE+  12</p><p class=\"ql-align-center\">PE  12</p><p class=\"ql-align-center\">SEC  10</p><p class=\"ql-align-center\">P+  10</p><p class=\"ql-align-center\">P  29</p><p><br></p>",
         "_pack_img": "img/products_cn/new_70d37d556a797c3a54b28f8846f8c92d.png",
         "_box_img": "img/products_cn/new_7799790ff14bc95eebdebcd6489561e9.png"
     },
