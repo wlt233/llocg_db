@@ -239,6 +239,7 @@
             "PL!N-bp1-037-PE＋",
             "PL!N-bp1-038-PE",
             "PL!N-bp1-038-PE＋",
+            "PL!N-bp1-999-SEC＋",
             "PL!SP-bp1-000-LLE",
             "PL!SP-bp1-001-R",
             "PL!SP-bp1-001-P",
@@ -297,6 +298,7 @@
             "PL!SP-bp1-034-PE＋",
             "PL!SP-bp1-035-PE",
             "PL!SP-bp1-035-PE＋",
+            "PL!SP-bp1-999-SEC＋",
             "PL!HS-bp1-000-LLE",
             "PL!HS-bp1-001-R",
             "PL!HS-bp1-001-P",
@@ -348,7 +350,8 @@
             "PL!HS-bp1-030-PE",
             "PL!HS-bp1-030-PE＋",
             "PL!HS-bp1-031-PE",
-            "PL!HS-bp1-031-PE＋"
+            "PL!HS-bp1-031-PE＋",
+            "PL!HS-bp1-999-SEC＋"
         ],
         "_img": "img/products/L_TCG_-BP_vol1_box_image_250220.png"
     },
@@ -610,6 +613,7 @@
             "PL!S-bp2-033-PE＋",
             "PL!S-bp2-100-LLE",
             "PL!S-bp2-200-LLE",
+            "PL!S-bp2-999-SEC＋",
             "PL!SP-bp2-001-R＋",
             "PL!SP-bp2-001-P",
             "PL!SP-bp2-001-P＋",
@@ -670,6 +674,7 @@
             "PL!SP-bp2-035-PE＋",
             "PL!SP-bp2-100-LLE",
             "PL!SP-bp2-200-LLE",
+            "PL!SP-bp2-999-SEC＋",
             "PL!HS-bp2-001-R",
             "PL!HS-bp2-001-P",
             "PL!HS-bp2-002-R＋",
@@ -724,6 +729,7 @@
             "PL!HS-bp2-033-PE＋",
             "PL!HS-bp2-100-LLE",
             "PL!HS-bp2-200-LLE",
+            "PL!HS-bp2-999-SEC＋",
             "LL-bp2-001-R＋"
         ],
         "_img": "img/products/L_TCG_BP_02_BOX_image.png"

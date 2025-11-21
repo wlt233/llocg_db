@@ -8531,6 +8531,24 @@
         ],
         "_img": "img/cards/BP01/PL!N-bp1-038-PE2.png"
     },
+    "PL!N-bp1-999-SEC＋": {
+        "card_no": "PL!N-bp1-999-SEC＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP01/SEC2-PL!N-bp1-999-SEC2.png",
+        "name": "上原歩夢",
+        "product": "ブースターパックvol.1",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "SEC+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp1-999-SEC＋",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/BP01/SEC2-PL!N-bp1-999-SEC2.png"
+    },
     "PL!SP-bp1-000-LLE": {
         "card_no": "PL!SP-bp1-000-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP01/PL!SP-bp1-000-LLE.png",
@@ -11749,6 +11767,24 @@
         ],
         "_img": "img/cards/BP01/PL!SP-bp1-035-PE2.png"
     },
+    "PL!SP-bp1-999-SEC＋": {
+        "card_no": "PL!SP-bp1-999-SEC＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP01/SEC2-PL!SP-bp1-999-SEC2.png",
+        "name": "澁谷かのん",
+        "product": "ブースターパックvol.1",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "rare": "SEC+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp1-999-SEC＋",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/BP01/SEC2-PL!SP-bp1-999-SEC2.png"
+    },
     "PL!HS-bp1-000-LLE": {
         "card_no": "PL!HS-bp1-000-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP01/PL!HS-bp1-000-LLE.png",
@@ -14175,6 +14211,24 @@
             }
         ],
         "_img": "img/cards/BP01/PL!HS-bp1-031-PE2.png"
+    },
+    "PL!HS-bp1-999-SEC＋": {
+        "card_no": "PL!HS-bp1-999-SEC＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP01/SEC2-PL!HS-bp1-999-SEC2.png",
+        "name": "日野下花帆",
+        "product": "ブースターパックvol.1",
+        "type": "エネルギー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "スリーズブーケ",
+        "rare": "SEC+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-bp1-999-SEC＋",
+                "name": "日野下花帆"
+            }
+        ],
+        "_img": "img/cards/BP01/SEC2-PL!HS-bp1-999-SEC2.png"
     },
     "LL-E-003-SD": {
         "card_no": "LL-E-003-SD",
@@ -23683,6 +23737,24 @@
         ],
         "_img": "img/cards/BP02/PL!S-bp2-200-LLE.png"
     },
+    "PL!S-bp2-999-SEC＋": {
+        "card_no": "PL!S-bp2-999-SEC＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/SEC2-PL!S-bp2-999-SEC2.png",
+        "name": "松浦果南",
+        "product": "ブースターパックNEXTSTEP",
+        "type": "エネルギー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "AZALEA",
+        "rare": "SEC+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-bp2-999-SEC＋",
+                "name": "松浦果南"
+            }
+        ],
+        "_img": "img/cards/BP02/SEC2-PL!S-bp2-999-SEC2.png"
+    },
     "PL!SP-bp2-001-R＋": {
         "card_no": "PL!SP-bp2-001-R＋",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/PL!SP-bp2-001-R2.png",
@@ -27905,6 +27977,24 @@
         ],
         "_img": "img/cards/BP02/PL!SP-bp2-200-LLE.png"
     },
+    "PL!SP-bp2-999-SEC＋": {
+        "card_no": "PL!SP-bp2-999-SEC＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/SEC2-PL!SP-bp2-999-SEC2.png",
+        "name": "葉月 恋",
+        "product": "ブースターパックNEXTSTEP",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "rare": "SEC+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp2-999-SEC＋",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/BP02/SEC2-PL!SP-bp2-999-SEC2.png"
+    },
     "PL!HS-bp2-001-R": {
         "card_no": "PL!HS-bp2-001-R",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/PL!HS-bp2-001-R.png",
@@ -30015,6 +30105,24 @@
             }
         ],
         "_img": "img/cards/BP02/PL!HS-bp2-200-LLE.png"
+    },
+    "PL!HS-bp2-999-SEC＋": {
+        "card_no": "PL!HS-bp2-999-SEC＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP02/SEC2-PL!HS-bp2-999-SEC2.png",
+        "name": "乙宗 梢",
+        "product": "ブースターパックNEXTSTEP",
+        "type": "エネルギー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "スリーズブーケ",
+        "rare": "SEC+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-bp2-999-SEC＋",
+                "name": "乙宗 梢"
+            }
+        ],
+        "_img": "img/cards/BP02/SEC2-PL!HS-bp2-999-SEC2.png"
     },
     "LL-bp2-001-R＋": {
         "card_no": "LL-bp2-001-R＋",
@@ -41494,15 +41602,15 @@
                         "name": "天王寺璃奈"
                     },
                     {
-                        "card_no": "PL!N-bp3-009-P",
-                        "name": "天王寺璃奈"
-                    },
-                    {
                         "card_no": "PL!N-bp3-009-P＋",
                         "name": "天王寺璃奈"
                     },
                     {
                         "card_no": "PL!N-bp3-009-SEC",
+                        "name": "天王寺璃奈"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-009-P",
                         "name": "天王寺璃奈"
                     }
                 ]
@@ -41556,15 +41664,15 @@
                         "name": "天王寺璃奈"
                     },
                     {
-                        "card_no": "PL!N-bp3-009-P",
-                        "name": "天王寺璃奈"
-                    },
-                    {
                         "card_no": "PL!N-bp3-009-P＋",
                         "name": "天王寺璃奈"
                     },
                     {
                         "card_no": "PL!N-bp3-009-SEC",
+                        "name": "天王寺璃奈"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-009-P",
                         "name": "天王寺璃奈"
                     }
                 ]
@@ -41618,15 +41726,15 @@
                         "name": "天王寺璃奈"
                     },
                     {
-                        "card_no": "PL!N-bp3-009-P",
-                        "name": "天王寺璃奈"
-                    },
-                    {
                         "card_no": "PL!N-bp3-009-P＋",
                         "name": "天王寺璃奈"
                     },
                     {
                         "card_no": "PL!N-bp3-009-SEC",
+                        "name": "天王寺璃奈"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-009-P",
                         "name": "天王寺璃奈"
                     }
                 ]
@@ -41680,15 +41788,15 @@
                         "name": "天王寺璃奈"
                     },
                     {
-                        "card_no": "PL!N-bp3-009-P",
-                        "name": "天王寺璃奈"
-                    },
-                    {
                         "card_no": "PL!N-bp3-009-P＋",
                         "name": "天王寺璃奈"
                     },
                     {
                         "card_no": "PL!N-bp3-009-SEC",
+                        "name": "天王寺璃奈"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-009-P",
                         "name": "天王寺璃奈"
                     }
                 ]
