@@ -1538,6 +1538,24 @@
         ],
         "_img": "img/cards/PR/PL!-PR-010-PR2.png"
     },
+    "PL!-PR-011-PR＋": {
+        "card_no": "PL!-PR-011-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-011-PR2.png",
+        "name": "高坂穂乃果",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-011-PR＋",
+                "name": "高坂穂乃果"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-011-PR2.png"
+    },
     "LL-E-004-PR": {
         "card_no": "LL-E-004-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-004-PR.png",
@@ -3137,6 +3155,24 @@
         ],
         "_img": "img/cards/PR/PL!S-PR-035-PR.png"
     },
+    "PL!S-PR-036-PR＋": {
+        "card_no": "PL!S-PR-036-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-036-PR2.png",
+        "name": "高海千歌",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-036-PR＋",
+                "name": "高海千歌"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-036-PR2.png"
+    },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PYHN-PR-001-PR.png",
@@ -4072,6 +4108,24 @@
         ],
         "_img": "img/cards/PR/PL!N-PR-015-PR2.png"
     },
+    "PL!N-PR-017-PR＋": {
+        "card_no": "PL!N-PR-017-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-017-PR2.png",
+        "name": "上原歩夢",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-017-PR＋",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-017-PR2.png"
+    },
     "PL!SP-bp1-013-PR": {
         "card_no": "PL!SP-bp1-013-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-bp1-013-PR.png",
@@ -4423,6 +4477,24 @@
             }
         ],
         "_img": "img/cards/PR/PL!SP-PR-014-PR2.png"
+    },
+    "PL!SP-PR-015-PR＋": {
+        "card_no": "PL!SP-PR-015-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-015-PR2.png",
+        "name": "澁谷かのん",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-015-PR＋",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-015-PR2.png"
     },
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
@@ -5508,6 +5580,24 @@
         ],
         "_img": "img/cards/PR/PL!HS-024-PR2.png"
     },
+    "PL!HS-PR-025-PR＋": {
+        "card_no": "PL!HS-PR-025-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-025-PR2.png",
+        "name": "日野下花帆",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "スリーズブーケ",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-025-PR＋",
+                "name": "日野下花帆"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-025-PR2.png"
+    },
     "LL-PR-002-PR": {
         "card_no": "LL-PR-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-002-PR.png",
@@ -5578,6 +5668,22 @@
             }
         ],
         "_img": "img/cards/PR/LL-PR-004-PR.png"
+    },
+    "LL-PR-006-PR": {
+        "card_no": "LL-PR-006-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-006-PR.png",
+        "name": "西木野真姫＆渡辺 曜＆朝香果林＆セラス 柳田 リリエンフェルト＆米女メイ",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-PR-006-PR",
+                "name": "西木野真姫＆渡辺 曜＆朝香果林＆セラス 柳田 リリエンフェルト＆米女メイ"
+            }
+        ],
+        "_img": "img/cards/PR/LL-PR-006-PR.png"
     },
     "PL!N-PR-016-PR": {
         "card_no": "PL!N-PR-016-PR",
