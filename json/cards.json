@@ -5685,6 +5685,22 @@
         ],
         "_img": "img/cards/PR/LL-PR-006-PR.png"
     },
+    "LL-PR-007-PR": {
+        "card_no": "LL-PR-007-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-007-PR.png",
+        "name": "高坂穂乃果＆高海千歌",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-PR-007-PR",
+                "name": "高坂穂乃果＆高海千歌"
+            }
+        ],
+        "_img": "img/cards/PR/LL-PR-007-PR.png"
+    },
     "PL!N-PR-016-PR": {
         "card_no": "PL!N-PR-016-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-016-PR.png",
