@@ -1,4 +1,17 @@
 {
+    "1044": {
+        "id": 1044,
+        "pack_name": "【虹咲学园学园偶像同好会】高级补充包",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_253a3bb749621c1056f6fd6284f4a65c.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_579ea3616dc22d84982f517ca4af764a.png",
+        "pack_categorize_name": "高级补充包",
+        "pack_prefix": "  ",
+        "card_prefix": "  ",
+        "released_at": "2025-12-19",
+        "details": "<p> </p>",
+        "_pack_img": "img/products_cn/new_253a3bb749621c1056f6fd6284f4a65c.png",
+        "_box_img": "img/products_cn/new_579ea3616dc22d84982f517ca4af764a.png"
+    },
     "1037": {
         "id": 1037,
         "pack_name": "【SAPPHIRE MOON】补充包",
