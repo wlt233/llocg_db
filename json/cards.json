@@ -50608,6 +50608,10 @@
             {
                 "card_no": "PL!N-bp4-032-L",
                 "name": "Blue!"
+            },
+            {
+                "card_no": "PL!N-bp4-032-L＋",
+                "name": "Blue!"
             }
         ],
         "_img": "img/cards/BP04/PL!N-bp4-032-L.png"
@@ -52749,5 +52753,3859 @@
             }
         ],
         "_img": "img/cards/BP04/LL-bp4-001-R2.png"
+    },
+    "PL!N-bp4-032-L＋": {
+        "card_no": "PL!N-bp4-032-L＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-bp4-032-L2.png",
+        "name": "Blue!",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "score": 3,
+        "need_heart": {
+            "heart01": 1,
+            "heart02": 1,
+            "heart05": 1,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp4-032-L＋",
+                "name": "Blue!"
+            },
+            {
+                "card_no": "PL!N-bp4-032-L",
+                "name": "Blue!"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-bp4-032-L2.png"
+    },
+    "PL!N-pb1-001-R": {
+        "card_no": "PL!N-pb1-001-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-001-R.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 2,
+            "heart02": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のステージにこのメンバー以外のコスト11のメンバーがいる場合、自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。\n{{jyouji.png|常時}}自分のライブ中のライブカードが2枚以上あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-001-R",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-pb1-001-P＋",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-001-R.png"
+    },
+    "PL!N-pb1-001-P＋": {
+        "card_no": "PL!N-pb1-001-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-001-P2.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 2,
+            "heart02": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 3,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のステージにこのメンバー以外のコスト11のメンバーがいる場合、自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。\n{{jyouji.png|常時}}自分のライブ中のライブカードが2枚以上あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-001-P＋",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-pb1-001-R",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-001-P2.png"
+    },
+    "PL!N-pb1-002-R": {
+        "card_no": "PL!N-pb1-002-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-002-R.png",
+        "name": "中須かすみ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 13,
+        "base_heart": {
+            "heart03": 2,
+            "heart04": 2,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}自分のエネルギー置き場にあるエネルギー2枚をこのメンバーの下に置いてもよい。\n{{jyouji.png|常時}}このメンバーの下にエネルギーカードが2枚以上置かれているかぎり、ライブの合計スコアを＋１する。\n(メンバーがステージから離れたとき、下に置かれているエネルギーカードはエネルギーデッキに戻す。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-002-R",
+                "name": "中須かすみ"
+            },
+            {
+                "card_no": "PL!N-pb1-002-P＋",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-002-R.png"
+    },
+    "PL!N-pb1-002-P＋": {
+        "card_no": "PL!N-pb1-002-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-002-P2.png",
+        "name": "中須かすみ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 13,
+        "base_heart": {
+            "heart03": 2,
+            "heart04": 2,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 2,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}自分のエネルギー置き場にあるエネルギー2枚をこのメンバーの下に置いてもよい。\n{{jyouji.png|常時}}このメンバーの下にエネルギーカードが2枚以上置かれているかぎり、ライブの合計スコアを＋１する。\n(メンバーがステージから離れたとき、下に置かれているエネルギーカードはエネルギーデッキに戻す。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-002-P＋",
+                "name": "中須かすみ"
+            },
+            {
+                "card_no": "PL!N-pb1-002-R",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-002-P2.png"
+    },
+    "PL!N-pb1-003-R": {
+        "card_no": "PL!N-pb1-003-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-003-R.png",
+        "name": "桜坂しずく",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{kidou.png|起動}}{{icon_energy.png|E}}{{icon_energy.png|E}}このカードを手札から控え室に置く：カードを1枚引き、ライブ終了時まで、自分のステージにいる『虹ヶ咲』のメンバー1人は{{icon_blade.png|ブレード}}を得る。この能力は、このカードが手札にある場合のみ起動できる。",
+        "faq": [
+            {
+                "title": "Q196（2025.12.17）",
+                "question": "自分のステージにいるメンバーが0人の場合でも、このカードの起動能力を使用することはできますか？",
+                "answer": "はい。できます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-003-P＋",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-003-R",
+                        "name": "桜坂しずく"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-003-R",
+                "name": "桜坂しずく"
+            },
+            {
+                "card_no": "PL!N-pb1-003-P＋",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-003-R.png"
+    },
+    "PL!N-pb1-003-P＋": {
+        "card_no": "PL!N-pb1-003-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-003-P2.png",
+        "name": "桜坂しずく",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "P+",
+        "ability": "{{kidou.png|起動}}{{icon_energy.png|E}}{{icon_energy.png|E}}このカードを手札から控え室に置く：カードを1枚引き、ライブ終了時まで、自分のステージにいる『虹ヶ咲』のメンバー1人は{{icon_blade.png|ブレード}}を得る。この能力は、このカードが手札にある場合のみ起動できる。",
+        "faq": [
+            {
+                "title": "Q196（2025.12.17）",
+                "question": "自分のステージにいるメンバーが0人の場合でも、このカードの起動能力を使用することはできますか？",
+                "answer": "はい。できます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-003-P＋",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-003-R",
+                        "name": "桜坂しずく"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-003-P＋",
+                "name": "桜坂しずく"
+            },
+            {
+                "card_no": "PL!N-pb1-003-R",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-003-P2.png"
+    },
+    "PL!N-pb1-004-R": {
+        "card_no": "PL!N-pb1-004-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-004-R.png",
+        "name": "朝香果林",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 11,
+        "base_heart": {
+            "heart04": 2,
+            "heart05": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{jyouji.png|常時}}このターンにこのメンバーが移動していないかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{live_start.png|ライブ開始時}}自分のデッキの一番上のカードを公開する。公開したカードがコスト9以下のメンバーカードの場合、公開したカードを手札に加え、このメンバーはポジションチェンジする。それ以外の場合、公開したカードを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-004-R",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-pb1-004-P＋",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-004-R.png"
+    },
+    "PL!N-pb1-004-P＋": {
+        "card_no": "PL!N-pb1-004-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-004-P2.png",
+        "name": "朝香果林",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 11,
+        "base_heart": {
+            "heart04": 2,
+            "heart05": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 2,
+        "rare": "P+",
+        "ability": "{{jyouji.png|常時}}このターンにこのメンバーが移動していないかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{live_start.png|ライブ開始時}}自分のデッキの一番上のカードを公開する。公開したカードがコスト9以下のメンバーカードの場合、公開したカードを手札に加え、このメンバーはポジションチェンジする。それ以外の場合、公開したカードを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-004-P＋",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-pb1-004-R",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-004-P2.png"
+    },
+    "PL!N-pb1-005-R": {
+        "card_no": "PL!N-pb1-005-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-005-R.png",
+        "name": "宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 2,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のステージにコスト10のメンバーが登場したとき、カードを1枚引く。",
+        "faq": [
+            {
+                "title": "Q197（2025.12.17）",
+                "question": "このカードとバトンタッチしてコスト10のメンバーが登場した場合、このカードの自動能力をは発動できますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-005-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-005-R",
+                        "name": "宮下 愛"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-005-R",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-pb1-005-P＋",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-005-R.png"
+    },
+    "PL!N-pb1-005-P＋": {
+        "card_no": "PL!N-pb1-005-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-005-P2.png",
+        "name": "宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 2,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "P+",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のステージにコスト10のメンバーが登場したとき、カードを1枚引く。",
+        "faq": [
+            {
+                "title": "Q197（2025.12.17）",
+                "question": "このカードとバトンタッチしてコスト10のメンバーが登場した場合、このカードの自動能力をは発動できますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-005-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-005-R",
+                        "name": "宮下 愛"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-005-P＋",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-pb1-005-R",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-005-P2.png"
+    },
+    "PL!N-pb1-006-R": {
+        "card_no": "PL!N-pb1-006-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-006-R.png",
+        "name": "近江彼方",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{kidou.png|起動}}このメンバーをウェイトにする：エネルギーを1枚アクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-006-R",
+                "name": "近江彼方"
+            },
+            {
+                "card_no": "PL!N-pb1-006-P＋",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-006-R.png"
+    },
+    "PL!N-pb1-006-P＋": {
+        "card_no": "PL!N-pb1-006-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-006-P2.png",
+        "name": "近江彼方",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "P+",
+        "ability": "{{kidou.png|起動}}このメンバーをウェイトにする：エネルギーを1枚アクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-006-P＋",
+                "name": "近江彼方"
+            },
+            {
+                "card_no": "PL!N-pb1-006-R",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-006-P2.png"
+    },
+    "PL!N-pb1-007-R": {
+        "card_no": "PL!N-pb1-007-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-007-R.png",
+        "name": "優木せつ菜",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart02": 2,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 7,
+        "rare": "R",
+        "ability": "{{jyouji.png|常時}}自分のライブ中のライブカードの必要ハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}がそれぞれ1以上含まれるかぎり、{{icon_all.png|ハート}}を得る。",
+        "faq": [
+            {
+                "title": "Q205（2025.12.17）",
+                "question": "自分のライブ中のライブカードが2枚あり、片方のライブカードの必要ハートには{{heart_01.png|heart01}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}が、他方には{{heart_04.png|heart04}}{{heart_05.png|heart05}}{{heart_06.png|heart06}}が含まれています。\nこのとき、このカードは{{icon_all.png|ハート}}を得ますか？",
+                "answer": "はい、得ます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-007-P＋",
+                        "name": "優木せつ菜"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-007-R",
+                        "name": "優木せつ菜"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-007-R",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-pb1-007-P＋",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-007-R.png"
+    },
+    "PL!N-pb1-007-P＋": {
+        "card_no": "PL!N-pb1-007-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-007-P2.png",
+        "name": "優木せつ菜",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart02": 2,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 7,
+        "rare": "P+",
+        "ability": "{{jyouji.png|常時}}自分のライブ中のライブカードの必要ハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}がそれぞれ1以上含まれるかぎり、{{icon_all.png|ハート}}を得る。",
+        "faq": [
+            {
+                "title": "Q205（2025.12.17）",
+                "question": "自分のライブ中のライブカードが2枚あり、片方のライブカードの必要ハートには{{heart_01.png|heart01}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}が、他方には{{heart_04.png|heart04}}{{heart_05.png|heart05}}{{heart_06.png|heart06}}が含まれています。\nこのとき、このカードは{{icon_all.png|ハート}}を得ますか？",
+                "answer": "はい、得ます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-007-P＋",
+                        "name": "優木せつ菜"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-007-R",
+                        "name": "優木せつ菜"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-007-P＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-pb1-007-R",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-007-P2.png"
+    },
+    "PL!N-pb1-008-R": {
+        "card_no": "PL!N-pb1-008-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-008-R.png",
+        "name": "エマ・ヴェルデ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 17,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart04": 4,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 6,
+        "rare": "R",
+        "ability": "{{jyouji.png|常時}}自分のステージにウェイト状態の『虹ヶ咲』のメンバーがいるかぎり、手札にあるこのメンバーカードのコストは2減る。\n{{toujyou.png|登場}}自分のステージにいるメンバー1人か、エネルギーを2枚アクティブにする。",
+        "faq": [
+            {
+                "title": "Q206（2025.12.17）",
+                "question": "自分のステージにウェイト状態のメンバーが1人だけおり、このメンバーを登場させるためにそのウェイト状態のメンバーをバトンタッチで控え室に置こうとしています。\nこのとき、このメンバーカードのコストはいくつになりますか？",
+                "answer": "15コストとしてプレイできます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-008-P＋",
+                        "name": "エマ・ヴェルデ"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-008-R",
+                        "name": "エマ・ヴェルデ"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-008-R",
+                "name": "エマ・ヴェルデ"
+            },
+            {
+                "card_no": "PL!N-pb1-008-P＋",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-008-R.png"
+    },
+    "PL!N-pb1-008-P＋": {
+        "card_no": "PL!N-pb1-008-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-008-P2.png",
+        "name": "エマ・ヴェルデ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 17,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart04": 4,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 6,
+        "rare": "P+",
+        "ability": "{{jyouji.png|常時}}自分のステージにウェイト状態の『虹ヶ咲』のメンバーがいるかぎり、手札にあるこのメンバーカードのコストは2減る。\n{{toujyou.png|登場}}自分のステージにいるメンバー1人か、エネルギーを2枚アクティブにする。",
+        "faq": [
+            {
+                "title": "Q206（2025.12.17）",
+                "question": "自分のステージにウェイト状態のメンバーが1人だけおり、このメンバーを登場させるためにそのウェイト状態のメンバーをバトンタッチで控え室に置こうとしています。\nこのとき、このメンバーカードのコストはいくつになりますか？",
+                "answer": "15コストとしてプレイできます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-008-P＋",
+                        "name": "エマ・ヴェルデ"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-008-R",
+                        "name": "エマ・ヴェルデ"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-008-P＋",
+                "name": "エマ・ヴェルデ"
+            },
+            {
+                "card_no": "PL!N-pb1-008-R",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-008-P2.png"
+    },
+    "PL!N-pb1-009-R": {
+        "card_no": "PL!N-pb1-009-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-009-R.png",
+        "name": "天王寺璃奈",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 15,
+        "base_heart": {
+            "heart03": 2,
+            "heart05": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{live_start.png|ライブ開始時}}このターン、ブレードハートを持たないメンバーカードが自分のライブカード置き場から控え室に置かれている場合、カードを1枚引き、ライブ終了時まで、{{heart_03.png|heart03}}{{heart_05.png|heart05}}{{heart_06.png|heart06}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-009-R",
+                "name": "天王寺璃奈"
+            },
+            {
+                "card_no": "PL!N-pb1-009-P＋",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-009-R.png"
+    },
+    "PL!N-pb1-009-P＋": {
+        "card_no": "PL!N-pb1-009-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-009-P2.png",
+        "name": "天王寺璃奈",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 15,
+        "base_heart": {
+            "heart03": 2,
+            "heart05": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "P+",
+        "ability": "{{live_start.png|ライブ開始時}}このターン、ブレードハートを持たないメンバーカードが自分のライブカード置き場から控え室に置かれている場合、カードを1枚引き、ライブ終了時まで、{{heart_03.png|heart03}}{{heart_05.png|heart05}}{{heart_06.png|heart06}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-009-P＋",
+                "name": "天王寺璃奈"
+            },
+            {
+                "card_no": "PL!N-pb1-009-R",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-009-P2.png"
+    },
+    "PL!N-pb1-010-R": {
+        "card_no": "PL!N-pb1-010-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-010-R.png",
+        "name": "三船栞子",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 10,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 2,
+            "heart05": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}以下から1つを選ぶ。\n・エネルギーを1枚アクティブにする。\n・自分の控え室にある『虹ヶ咲』のライブカードを2枚まで好きな順番でデッキの上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-010-R",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-pb1-010-P＋",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-010-R.png"
+    },
+    "PL!N-pb1-010-P＋": {
+        "card_no": "PL!N-pb1-010-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-010-P2.png",
+        "name": "三船栞子",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 10,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 2,
+            "heart05": 1
+        },
+        "blade": 3,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}以下から1つを選ぶ。\n・エネルギーを1枚アクティブにする。\n・自分の控え室にある『虹ヶ咲』のライブカードを2枚まで好きな順番でデッキの上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-010-P＋",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-pb1-010-R",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-010-P2.png"
+    },
+    "PL!N-pb1-011-R": {
+        "card_no": "PL!N-pb1-011-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-011-R.png",
+        "name": "ミア・テイラー",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 5,
+        "rare": "R",
+        "ability": "{{jyouji.png|常時}}このメンバーの下にあるエネルギーカード1枚につき、{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}自分のエネルギー置き場にあるエネルギー1枚をこのメンバーの下に置く：自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。\n(メンバーがステージから離れたとき、下に置かれているエネルギーカードはエネルギーデッキに戻す。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-011-R",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-pb1-011-P＋",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-011-R.png"
+    },
+    "PL!N-pb1-011-P＋": {
+        "card_no": "PL!N-pb1-011-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-011-P2.png",
+        "name": "ミア・テイラー",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 5,
+        "rare": "P+",
+        "ability": "{{jyouji.png|常時}}このメンバーの下にあるエネルギーカード1枚につき、{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}自分のエネルギー置き場にあるエネルギー1枚をこのメンバーの下に置く：自分の控え室から『虹ヶ咲』のライブカードを1枚手札に加える。\n(メンバーがステージから離れたとき、下に置かれているエネルギーカードはエネルギーデッキに戻す。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-011-P＋",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-pb1-011-R",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-011-P2.png"
+    },
+    "PL!N-pb1-012-R": {
+        "card_no": "PL!N-pb1-012-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-012-R.png",
+        "name": "鐘 嵐珠",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 3,
+            "heart02": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のステージにこのメンバー以外のコスト11のメンバーが登場したとき、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。\n{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中から、『虹ヶ咲』のメンバーカードを1枚手札に加える。",
+        "faq": [
+            {
+                "title": "Q198（2025.12.17）",
+                "question": "このカードとバトンタッチしてコスト11のメンバーが登場した場合、このカードの自動能力は発動できますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-012-P＋",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-012-R",
+                        "name": "鐘 嵐珠"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-012-R",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-pb1-012-P＋",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-012-R.png"
+    },
+    "PL!N-pb1-012-P＋": {
+        "card_no": "PL!N-pb1-012-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-012-P2.png",
+        "name": "鐘 嵐珠",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 3,
+            "heart02": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "P+",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のステージにこのメンバー以外のコスト11のメンバーが登場したとき、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。\n{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中から、『虹ヶ咲』のメンバーカードを1枚手札に加える。",
+        "faq": [
+            {
+                "title": "Q198（2025.12.17）",
+                "question": "このカードとバトンタッチしてコスト11のメンバーが登場した場合、このカードの自動能力は発動できますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-012-P＋",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-012-R",
+                        "name": "鐘 嵐珠"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-012-P＋",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-pb1-012-R",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-012-P2.png"
+    },
+    "PL!N-pb1-013-R": {
+        "card_no": "PL!N-pb1-013-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-013-R.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 7,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：手札からコスト4以下の「上原歩夢」のメンバーカードを1枚ステージに登場させる。",
+        "faq": [
+            {
+                "title": "Q200（2025.12.17）",
+                "question": "このカードの能力で「PL!N-sd1-013-SD上原歩夢」を登場させたとき、そのカードの登場能力は使用できますか？",
+                "answer": "はい。できます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-013-P＋",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-013-R",
+                        "name": "上原歩夢"
+                    }
+                ]
+            },
+            {
+                "title": "Q199（2025.12.17）",
+                "question": "このカードの能力で登場させたメンバーを、そのターンのうちにバトンタッチすることはできますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-013-P＋",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-013-R",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-P＋",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-R",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-R",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-P＋",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-R",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-013-R",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-pb1-013-P＋",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-013-R.png"
+    },
+    "PL!N-pb1-013-P＋": {
+        "card_no": "PL!N-pb1-013-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-013-P2.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 7,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade": 2,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：手札からコスト4以下の「上原歩夢」のメンバーカードを1枚ステージに登場させる。",
+        "faq": [
+            {
+                "title": "Q200（2025.12.17）",
+                "question": "このカードの能力で「PL!N-sd1-013-SD上原歩夢」を登場させたとき、そのカードの登場能力は使用できますか？",
+                "answer": "はい。できます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-013-P＋",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-013-R",
+                        "name": "上原歩夢"
+                    }
+                ]
+            },
+            {
+                "title": "Q199（2025.12.17）",
+                "question": "このカードの能力で登場させたメンバーを、そのターンのうちにバトンタッチすることはできますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-013-P＋",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-013-R",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-P＋",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-R",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-R",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-P＋",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-R",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-013-P＋",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-pb1-013-R",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-013-P2.png"
+    },
+    "PL!N-pb1-014-R": {
+        "card_no": "PL!N-pb1-014-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-014-R.png",
+        "name": "中須かすみ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 11,
+        "base_heart": {
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}「中須かすみ」からバトンタッチして登場した場合、カードを2枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-014-R",
+                "name": "中須かすみ"
+            },
+            {
+                "card_no": "PL!N-pb1-014-P＋",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-014-R.png"
+    },
+    "PL!N-pb1-014-P＋": {
+        "card_no": "PL!N-pb1-014-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-014-P2.png",
+        "name": "中須かすみ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 11,
+        "base_heart": {
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 4,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}「中須かすみ」からバトンタッチして登場した場合、カードを2枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-014-P＋",
+                "name": "中須かすみ"
+            },
+            {
+                "card_no": "PL!N-pb1-014-R",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-014-P2.png"
+    },
+    "PL!N-pb1-015-R": {
+        "card_no": "PL!N-pb1-015-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-015-R.png",
+        "name": "桜坂しずく",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 2,
+            "heart03": 1,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：手札からコスト4以下の「桜坂しずく」のメンバーカードを1枚ステージに登場させる。",
+        "faq": [
+            {
+                "title": "Q199（2025.12.17）",
+                "question": "このカードの能力で登場させたメンバーを、そのターンのうちにバトンタッチすることはできますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-013-P＋",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-013-R",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-P＋",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-R",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-R",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-P＋",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-R",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-015-R",
+                "name": "桜坂しずく"
+            },
+            {
+                "card_no": "PL!N-pb1-015-P＋",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-015-R.png"
+    },
+    "PL!N-pb1-015-P＋": {
+        "card_no": "PL!N-pb1-015-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-015-P2.png",
+        "name": "桜坂しずく",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 2,
+            "heart03": 1,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 2,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：手札からコスト4以下の「桜坂しずく」のメンバーカードを1枚ステージに登場させる。",
+        "faq": [
+            {
+                "title": "Q199（2025.12.17）",
+                "question": "このカードの能力で登場させたメンバーを、そのターンのうちにバトンタッチすることはできますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-013-P＋",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-013-R",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-P＋",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-R",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-R",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-P＋",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-R",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-015-P＋",
+                "name": "桜坂しずく"
+            },
+            {
+                "card_no": "PL!N-pb1-015-R",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-015-P2.png"
+    },
+    "PL!N-pb1-016-R": {
+        "card_no": "PL!N-pb1-016-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-016-R.png",
+        "name": "朝香果林",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 2,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを2枚見る。その中から「朝香果林」のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-016-R",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-pb1-016-P＋",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-016-R.png"
+    },
+    "PL!N-pb1-016-P＋": {
+        "card_no": "PL!N-pb1-016-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-016-P2.png",
+        "name": "朝香果林",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 2,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを2枚見る。その中から「朝香果林」のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-016-P＋",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-pb1-016-R",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-016-P2.png"
+    },
+    "PL!N-pb1-017-R": {
+        "card_no": "PL!N-pb1-017-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-017-R.png",
+        "name": "宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：手札からコスト4以下の「宮下愛」のメンバーカードを1枚ステージに登場させる。",
+        "faq": [
+            {
+                "title": "Q201（2025.12.17）",
+                "question": "このカードの能力で「PL!N-bp4-005-R、PL!N-bp4-005-P宮下愛」を登場させたとき、そのカードの登場能力は使用できますか？",
+                "answer": "はい。できます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-017-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-R",
+                        "name": "宮下 愛"
+                    }
+                ]
+            },
+            {
+                "title": "Q199（2025.12.17）",
+                "question": "このカードの能力で登場させたメンバーを、そのターンのうちにバトンタッチすることはできますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-013-P＋",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-013-R",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-P＋",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-R",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-R",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-P＋",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-R",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-017-R",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-pb1-017-P＋",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-017-R.png"
+    },
+    "PL!N-pb1-017-P＋": {
+        "card_no": "PL!N-pb1-017-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-017-P2.png",
+        "name": "宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade": 2,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：手札からコスト4以下の「宮下愛」のメンバーカードを1枚ステージに登場させる。",
+        "faq": [
+            {
+                "title": "Q201（2025.12.17）",
+                "question": "このカードの能力で「PL!N-bp4-005-R、PL!N-bp4-005-P宮下愛」を登場させたとき、そのカードの登場能力は使用できますか？",
+                "answer": "はい。できます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-017-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-R",
+                        "name": "宮下 愛"
+                    }
+                ]
+            },
+            {
+                "title": "Q199（2025.12.17）",
+                "question": "このカードの能力で登場させたメンバーを、そのターンのうちにバトンタッチすることはできますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-013-P＋",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-013-R",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-P＋",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-R",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-R",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-P＋",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-R",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-017-P＋",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-pb1-017-R",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-017-P2.png"
+    },
+    "PL!N-pb1-018-R": {
+        "card_no": "PL!N-pb1-018-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-018-R.png",
+        "name": "近江彼方",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを2枚見る。その中から「近江彼方」のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-018-R",
+                "name": "近江彼方"
+            },
+            {
+                "card_no": "PL!N-pb1-018-P＋",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-018-R.png"
+    },
+    "PL!N-pb1-018-P＋": {
+        "card_no": "PL!N-pb1-018-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-018-P2.png",
+        "name": "近江彼方",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを2枚見る。その中から「近江彼方」のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-018-P＋",
+                "name": "近江彼方"
+            },
+            {
+                "card_no": "PL!N-pb1-018-R",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-018-P2.png"
+    },
+    "PL!N-pb1-019-R": {
+        "card_no": "PL!N-pb1-019-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-019-R.png",
+        "name": "優木せつ菜",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 2,
+            "heart04": 1
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}「優木せつ菜」からバトンタッチして登場した場合、カードを2枚引き、手札を2枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-019-R",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-pb1-019-P＋",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-019-R.png"
+    },
+    "PL!N-pb1-019-P＋": {
+        "card_no": "PL!N-pb1-019-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-019-P2.png",
+        "name": "優木せつ菜",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 2,
+            "heart04": 1
+        },
+        "blade": 4,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}「優木せつ菜」からバトンタッチして登場した場合、カードを2枚引き、手札を2枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-019-P＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-pb1-019-R",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-019-P2.png"
+    },
+    "PL!N-pb1-020-R": {
+        "card_no": "PL!N-pb1-020-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-020-R.png",
+        "name": "エマ・ヴェルデ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 1,
+            "heart04": 2
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}「エマ・ヴェルデ」からバトンタッチして登場した場合、カードを2枚引き、手札を2枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-020-R",
+                "name": "エマ・ヴェルデ"
+            },
+            {
+                "card_no": "PL!N-pb1-020-P＋",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-020-R.png"
+    },
+    "PL!N-pb1-020-P＋": {
+        "card_no": "PL!N-pb1-020-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-020-P2.png",
+        "name": "エマ・ヴェルデ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 1,
+            "heart04": 2
+        },
+        "blade": 4,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}「エマ・ヴェルデ」からバトンタッチして登場した場合、カードを2枚引き、手札を2枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-020-P＋",
+                "name": "エマ・ヴェルデ"
+            },
+            {
+                "card_no": "PL!N-pb1-020-R",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-020-P2.png"
+    },
+    "PL!N-pb1-021-R": {
+        "card_no": "PL!N-pb1-021-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-021-R.png",
+        "name": "天王寺璃奈",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを2枚見る。その中から「天王寺璃奈」のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-021-R",
+                "name": "天王寺璃奈"
+            },
+            {
+                "card_no": "PL!N-pb1-021-P＋",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-021-R.png"
+    },
+    "PL!N-pb1-021-P＋": {
+        "card_no": "PL!N-pb1-021-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-021-P2.png",
+        "name": "天王寺璃奈",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを2枚見る。その中から「天王寺璃奈」のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-021-P＋",
+                "name": "天王寺璃奈"
+            },
+            {
+                "card_no": "PL!N-pb1-021-R",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-021-P2.png"
+    },
+    "PL!N-pb1-022-R": {
+        "card_no": "PL!N-pb1-022-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-022-R.png",
+        "name": "三船栞子",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 2,
+            "heart04": 2
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}「三船栞子」からバトンタッチして登場した場合、カードを2枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-022-R",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-pb1-022-P＋",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-022-R.png"
+    },
+    "PL!N-pb1-022-P＋": {
+        "card_no": "PL!N-pb1-022-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-022-P2.png",
+        "name": "三船栞子",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 2,
+            "heart04": 2
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 4,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}「三船栞子」からバトンタッチして登場した場合、カードを2枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-022-P＋",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-pb1-022-R",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-022-P2.png"
+    },
+    "PL!N-pb1-023-R": {
+        "card_no": "PL!N-pb1-023-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-023-R.png",
+        "name": "ミア・テイラー",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart04": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：手札からコスト4以下の「ミア・テイラー」のメンバーカードを1枚ステージに登場させる。",
+        "faq": [
+            {
+                "title": "Q202（2025.12.17）",
+                "question": "このカードの能力で「PL!N-PR-013-PRミア・テイラー」を登場させたとき、そのカードの登場能力は使用できますか？",
+                "answer": "はい。できます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-023-P＋",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-R",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            },
+            {
+                "title": "Q199（2025.12.17）",
+                "question": "このカードの能力で登場させたメンバーを、そのターンのうちにバトンタッチすることはできますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-013-P＋",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-013-R",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-P＋",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-R",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-R",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-P＋",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-R",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-023-R",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-pb1-023-P＋",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-023-R.png"
+    },
+    "PL!N-pb1-023-P＋": {
+        "card_no": "PL!N-pb1-023-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-023-P2.png",
+        "name": "ミア・テイラー",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart04": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 2,
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：手札からコスト4以下の「ミア・テイラー」のメンバーカードを1枚ステージに登場させる。",
+        "faq": [
+            {
+                "title": "Q202（2025.12.17）",
+                "question": "このカードの能力で「PL!N-PR-013-PRミア・テイラー」を登場させたとき、そのカードの登場能力は使用できますか？",
+                "answer": "はい。できます。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-023-P＋",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-R",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            },
+            {
+                "title": "Q199（2025.12.17）",
+                "question": "このカードの能力で登場させたメンバーを、そのターンのうちにバトンタッチすることはできますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-013-P＋",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-013-R",
+                        "name": "上原歩夢"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-P＋",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-015-R",
+                        "name": "桜坂しずく"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-P＋",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-017-R",
+                        "name": "宮下 愛"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-P＋",
+                        "name": "ミア・テイラー"
+                    },
+                    {
+                        "card_no": "PL!N-pb1-023-R",
+                        "name": "ミア・テイラー"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-023-P＋",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-pb1-023-R",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-023-P2.png"
+    },
+    "PL!N-pb1-024-R": {
+        "card_no": "PL!N-pb1-024-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-024-R.png",
+        "name": "鐘 嵐珠",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを2枚見る。その中から「鐘嵐珠」のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-024-R",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-pb1-024-P＋",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-024-R.png"
+    },
+    "PL!N-pb1-024-P＋": {
+        "card_no": "PL!N-pb1-024-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-024-P2.png",
+        "name": "鐘 嵐珠",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "rare": "P+",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを2枚見る。その中から「鐘嵐珠」のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-024-P＋",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-pb1-024-R",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-024-P2.png"
+    },
+    "PL!N-pb1-025-N": {
+        "card_no": "PL!N-pb1-025-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-025-N.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-025-N",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-025-N.png"
+    },
+    "PL!N-pb1-026-N": {
+        "card_no": "PL!N-pb1-026-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-026-N.png",
+        "name": "中須かすみ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1,
+            "heart04": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-026-N",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-026-N.png"
+    },
+    "PL!N-pb1-027-N": {
+        "card_no": "PL!N-pb1-027-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-027-N.png",
+        "name": "桜坂しずく",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-027-N",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-027-N.png"
+    },
+    "PL!N-pb1-028-N": {
+        "card_no": "PL!N-pb1-028-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-028-N.png",
+        "name": "朝香果林",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを2枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-028-N",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-028-N.png"
+    },
+    "PL!N-pb1-029-N": {
+        "card_no": "PL!N-pb1-029-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-029-N.png",
+        "name": "宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 5,
+        "base_heart": {
+            "heart02": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-029-N",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-029-N.png"
+    },
+    "PL!N-pb1-030-N": {
+        "card_no": "PL!N-pb1-030-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-030-N.png",
+        "name": "近江彼方",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 7,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 1,
+            "heart04": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-030-N",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-030-N.png"
+    },
+    "PL!N-pb1-031-N": {
+        "card_no": "PL!N-pb1-031-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-031-N.png",
+        "name": "優木せつ菜",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-031-N",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-031-N.png"
+    },
+    "PL!N-pb1-032-N": {
+        "card_no": "PL!N-pb1-032-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-032-N.png",
+        "name": "エマ・ヴェルデ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1,
+            "heart04": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-032-N",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-032-N.png"
+    },
+    "PL!N-pb1-033-N": {
+        "card_no": "PL!N-pb1-033-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-033-N.png",
+        "name": "天王寺璃奈",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-033-N",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-033-N.png"
+    },
+    "PL!N-pb1-034-N": {
+        "card_no": "PL!N-pb1-034-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-034-N.png",
+        "name": "三船栞子",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 2,
+        "base_heart": {
+            "heart04": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}{{heart_03.png|heart03}}か{{heart_04.png|heart04}}か{{heart_05.png|heart05}}のうち1つを選ぶ。ライブ終了時まで、このメンバーが元々持つハートは選んだハートになる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-034-N",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-034-N.png"
+    },
+    "PL!N-pb1-035-N": {
+        "card_no": "PL!N-pb1-035-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-035-N.png",
+        "name": "ミア・テイラー",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを2枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-035-N",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-035-N.png"
+    },
+    "PL!N-pb1-036-N": {
+        "card_no": "PL!N-pb1-036-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-036-N.png",
+        "name": "鐘 嵐珠",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 2,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}{{heart_01.png|heart01}}か{{heart_02.png|heart02}}か{{heart_06.png|heart06}}のうち1つを選ぶ。ライブ終了時まで、このメンバーが元々持つハートは選んだハートになる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-036-N",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-036-N.png"
+    },
+    "PL!N-pb1-037-L": {
+        "card_no": "PL!N-pb1-037-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-037-L.png",
+        "name": "Cara Tesoro",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 5,
+        "need_heart": {
+            "heart04": 6,
+            "heart0": 6
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}このターン、自分の『虹ヶ咲』のカードの効果によってウェイト状態の自分のエネルギーをアクティブにしていた場合、このカードのスコアを＋１する。さらに、自分の『虹ヶ咲』のカードの効果によって自分のステージにいるウェイト状態のメンバーもアクティブにしていた場合、代わりにスコアを＋２する。",
+        "faq": [
+            {
+                "title": "Q203（2025.12.17）",
+                "question": "『虹ヶ咲』のカードの効果で自分のステージにいるウェイト状態のメンバーだけをアクティブにしていた場合、スコアは＋2されますか？",
+                "answer": "いいえ。できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-037-L",
+                        "name": "Cara Tesoro"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-037-L",
+                "name": "Cara Tesoro"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-037-L.png"
+    },
+    "PL!N-pb1-038-L": {
+        "card_no": "PL!N-pb1-038-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-038-L.png",
+        "name": "PHOENIX",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 3,
+        "need_heart": {
+            "heart01": 3,
+            "heart02": 1,
+            "heart06": 1,
+            "heart0": 2
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場かライブ中のライブカードの中に、必要ハートに含まれる{{heart_01.png|heart01}}が4の『虹ヶ咲』のライブカードがある場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-038-L",
+                "name": "PHOENIX"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-038-L.png"
+    },
+    "PL!N-pb1-039-L": {
+        "card_no": "PL!N-pb1-039-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-039-L.png",
+        "name": "Stellar Stream",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 5,
+        "need_heart": {
+            "heart01": 4,
+            "heart06": 4,
+            "heart0": 6
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場かライブ中のライブカードの中に、必要ハートに含まれる{{heart_01.png|heart01}}が3の『虹ヶ咲』のライブカードがある場合、ライブ終了時まで、自分のステージにいる{{heart_06.png|heart06}}を持つ『虹ヶ咲』のメンバー1人は{{heart_06.png|heart06}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-039-L",
+                "name": "Stellar Stream"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-039-L.png"
+    },
+    "PL!N-pb1-040-L": {
+        "card_no": "PL!N-pb1-040-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-040-L.png",
+        "name": "どこにいても君は君",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 1,
+        "need_heart": {
+            "heart03": 1,
+            "heart05": 1,
+            "heart0": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-040-L",
+                "name": "どこにいても君は君"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-040-L.png"
+    },
+    "PL!N-pb1-041-L": {
+        "card_no": "PL!N-pb1-041-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-041-L.png",
+        "name": "PASTEL",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "score": 4,
+        "need_heart": {
+            "heart03": 1,
+            "heart04": 1,
+            "heart05": 1,
+            "heart06": 1,
+            "heart0": 5
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-041-L",
+                "name": "PASTEL"
+            },
+            {
+                "card_no": "PL!N-pb1-041-L＋",
+                "name": "PASTEL"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-041-L.png"
+    },
+    "PL!N-pb1-041-L＋": {
+        "card_no": "PL!N-pb1-041-L＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-041-L2.png",
+        "name": "PASTEL",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "score": 4,
+        "need_heart": {
+            "heart03": 1,
+            "heart04": 1,
+            "heart05": 1,
+            "heart06": 1,
+            "heart0": 5
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-041-L＋",
+                "name": "PASTEL"
+            },
+            {
+                "card_no": "PL!N-pb1-041-L",
+                "name": "PASTEL"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-041-L2.png"
+    },
+    "PL!N-pb1-042-L": {
+        "card_no": "PL!N-pb1-042-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-042-L.png",
+        "name": "Eternalize Love!!",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "score": 4,
+        "need_heart": {
+            "heart0": 12
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージに同じ名前の『虹ヶ咲』のメンバーが2人以上いる場合、このカードを成功させるための必要ハートを{{heart_00.png|heart0}}{{heart_00.png|heart0}}{{heart_00.png|heart0}}減らす。",
+        "faq": [
+            {
+                "title": "Q204（2025.12.17）",
+                "question": "自分のステージにいるメンバーが、「PL!N-pb1-016-R朝香果林」と「LL-bp4-001-R+絢瀬絵里&朝香果林&葉月恋」や「PL!N-pb1-021-R天王寺璃奈」と「LL-bp3-001-R+園田海未&津島善子&天王寺璃奈」のような状況でも、このカードのライブ開始時の効果の条件を満たしますか？",
+                "answer": "はい。満たします。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-pb1-042-L",
+                        "name": "Eternalize Love!!"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-042-L",
+                "name": "Eternalize Love!!"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-042-L.png"
+    },
+    "PL!N-pb1-043-PE": {
+        "card_no": "PL!N-pb1-043-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-043-PE.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-043-PE",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-pb1-043-PE＋",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-043-PE.png"
+    },
+    "PL!N-pb1-043-PE＋": {
+        "card_no": "PL!N-pb1-043-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-043-PE2.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-043-PE＋",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-pb1-043-PE",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-043-PE2.png"
+    },
+    "PL!N-pb1-044-PE": {
+        "card_no": "PL!N-pb1-044-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-044-PE.png",
+        "name": "中須かすみ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-044-PE",
+                "name": "中須かすみ"
+            },
+            {
+                "card_no": "PL!N-pb1-044-PE＋",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-044-PE.png"
+    },
+    "PL!N-pb1-044-PE＋": {
+        "card_no": "PL!N-pb1-044-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-044-PE2.png",
+        "name": "中須かすみ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-044-PE＋",
+                "name": "中須かすみ"
+            },
+            {
+                "card_no": "PL!N-pb1-044-PE",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-044-PE2.png"
+    },
+    "PL!N-pb1-045-PE": {
+        "card_no": "PL!N-pb1-045-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-045-PE.png",
+        "name": "桜坂しずく",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-045-PE",
+                "name": "桜坂しずく"
+            },
+            {
+                "card_no": "PL!N-pb1-045-PE＋",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-045-PE.png"
+    },
+    "PL!N-pb1-045-PE＋": {
+        "card_no": "PL!N-pb1-045-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-045-PE2.png",
+        "name": "桜坂しずく",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-045-PE＋",
+                "name": "桜坂しずく"
+            },
+            {
+                "card_no": "PL!N-pb1-045-PE",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-045-PE2.png"
+    },
+    "PL!N-pb1-046-PE": {
+        "card_no": "PL!N-pb1-046-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-046-PE.png",
+        "name": "朝香果林",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-046-PE",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-pb1-046-PE＋",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-046-PE.png"
+    },
+    "PL!N-pb1-046-PE＋": {
+        "card_no": "PL!N-pb1-046-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-046-PE2.png",
+        "name": "朝香果林",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-046-PE＋",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-pb1-046-PE",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-046-PE2.png"
+    },
+    "PL!N-pb1-047-PE": {
+        "card_no": "PL!N-pb1-047-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-047-PE.png",
+        "name": "宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-047-PE",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-pb1-047-PE＋",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-047-PE.png"
+    },
+    "PL!N-pb1-047-PE＋": {
+        "card_no": "PL!N-pb1-047-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-047-PE2.png",
+        "name": "宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-047-PE＋",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-pb1-047-PE",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-047-PE2.png"
+    },
+    "PL!N-pb1-048-PE": {
+        "card_no": "PL!N-pb1-048-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-048-PE.png",
+        "name": "近江彼方",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-048-PE",
+                "name": "近江彼方"
+            },
+            {
+                "card_no": "PL!N-pb1-048-PE＋",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-048-PE.png"
+    },
+    "PL!N-pb1-048-PE＋": {
+        "card_no": "PL!N-pb1-048-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-048-PE2.png",
+        "name": "近江彼方",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-048-PE＋",
+                "name": "近江彼方"
+            },
+            {
+                "card_no": "PL!N-pb1-048-PE",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-048-PE2.png"
+    },
+    "PL!N-pb1-049-PE": {
+        "card_no": "PL!N-pb1-049-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-049-PE.png",
+        "name": "優木せつ菜",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-049-PE",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-pb1-049-PE＋",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-049-PE.png"
+    },
+    "PL!N-pb1-049-PE＋": {
+        "card_no": "PL!N-pb1-049-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-049-PE2.png",
+        "name": "優木せつ菜",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-049-PE＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-pb1-049-PE",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-049-PE2.png"
+    },
+    "PL!N-pb1-050-PE": {
+        "card_no": "PL!N-pb1-050-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-050-PE.png",
+        "name": "エマ・ヴェルデ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-050-PE",
+                "name": "エマ・ヴェルデ"
+            },
+            {
+                "card_no": "PL!N-pb1-050-PE＋",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-050-PE.png"
+    },
+    "PL!N-pb1-050-PE＋": {
+        "card_no": "PL!N-pb1-050-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-050-PE2.png",
+        "name": "エマ・ヴェルデ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-050-PE＋",
+                "name": "エマ・ヴェルデ"
+            },
+            {
+                "card_no": "PL!N-pb1-050-PE",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-050-PE2.png"
+    },
+    "PL!N-pb1-051-PE": {
+        "card_no": "PL!N-pb1-051-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-051-PE.png",
+        "name": "天王寺璃奈",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-051-PE",
+                "name": "天王寺璃奈"
+            },
+            {
+                "card_no": "PL!N-pb1-051-PE＋",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-051-PE.png"
+    },
+    "PL!N-pb1-051-PE＋": {
+        "card_no": "PL!N-pb1-051-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-051-PE2.png",
+        "name": "天王寺璃奈",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-051-PE＋",
+                "name": "天王寺璃奈"
+            },
+            {
+                "card_no": "PL!N-pb1-051-PE",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-051-PE2.png"
+    },
+    "PL!N-pb1-052-PE": {
+        "card_no": "PL!N-pb1-052-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-052-PE.png",
+        "name": "三船栞子",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-052-PE",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-pb1-052-PE＋",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-052-PE.png"
+    },
+    "PL!N-pb1-052-PE＋": {
+        "card_no": "PL!N-pb1-052-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-052-PE2.png",
+        "name": "三船栞子",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-052-PE＋",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-pb1-052-PE",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-052-PE2.png"
+    },
+    "PL!N-pb1-053-PE": {
+        "card_no": "PL!N-pb1-053-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-053-PE.png",
+        "name": "ミア・テイラー",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-053-PE",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-pb1-053-PE＋",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-053-PE.png"
+    },
+    "PL!N-pb1-053-PE＋": {
+        "card_no": "PL!N-pb1-053-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-053-PE2.png",
+        "name": "ミア・テイラー",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-053-PE＋",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-pb1-053-PE",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-053-PE2.png"
+    },
+    "PL!N-pb1-054-PE": {
+        "card_no": "PL!N-pb1-054-PE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-054-PE.png",
+        "name": "鐘 嵐珠",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "PE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-054-PE",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-pb1-054-PE＋",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-054-PE.png"
+    },
+    "PL!N-pb1-054-PE＋": {
+        "card_no": "PL!N-pb1-054-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-054-PE2.png",
+        "name": "鐘 嵐珠",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-054-PE＋",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-pb1-054-PE",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-054-PE2.png"
+    },
+    "PL!N-pb1-055-PE＋": {
+        "card_no": "PL!N-pb1-055-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-055-PE2.png",
+        "name": "高咲 侑",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-055-PE＋",
+                "name": "高咲 侑"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-055-PE2.png"
+    },
+    "PL!N-pb1-056-SRE": {
+        "card_no": "PL!N-pb1-056-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-056-SRE.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-056-SRE",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-056-SRE.png"
+    },
+    "PL!N-pb1-057-SRE": {
+        "card_no": "PL!N-pb1-057-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-057-SRE.png",
+        "name": "中須かすみ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-057-SRE",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-057-SRE.png"
+    },
+    "PL!N-pb1-058-SRE": {
+        "card_no": "PL!N-pb1-058-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-058-SRE.png",
+        "name": "桜坂しずく",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-058-SRE",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-058-SRE.png"
+    },
+    "PL!N-pb1-059-SRE": {
+        "card_no": "PL!N-pb1-059-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-059-SRE.png",
+        "name": "朝香果林",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-059-SRE",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-059-SRE.png"
+    },
+    "PL!N-pb1-060-SRE": {
+        "card_no": "PL!N-pb1-060-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-060-SRE.png",
+        "name": "宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-060-SRE",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-060-SRE.png"
+    },
+    "PL!N-pb1-061-SRE": {
+        "card_no": "PL!N-pb1-061-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-061-SRE.png",
+        "name": "近江彼方",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-061-SRE",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-061-SRE.png"
+    },
+    "PL!N-pb1-062-SRE": {
+        "card_no": "PL!N-pb1-062-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-062-SRE.png",
+        "name": "優木せつ菜",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-062-SRE",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-062-SRE.png"
+    },
+    "PL!N-pb1-063-SRE": {
+        "card_no": "PL!N-pb1-063-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-063-SRE.png",
+        "name": "エマ・ヴェルデ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-063-SRE",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-063-SRE.png"
+    },
+    "PL!N-pb1-064-SRE": {
+        "card_no": "PL!N-pb1-064-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-064-SRE.png",
+        "name": "天王寺璃奈",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-064-SRE",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-064-SRE.png"
+    },
+    "PL!N-pb1-065-SRE": {
+        "card_no": "PL!N-pb1-065-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-065-SRE.png",
+        "name": "三船栞子",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-065-SRE",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-065-SRE.png"
+    },
+    "PL!N-pb1-066-SRE": {
+        "card_no": "PL!N-pb1-066-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-066-SRE.png",
+        "name": "ミア・テイラー",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-066-SRE",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-066-SRE.png"
+    },
+    "PL!N-pb1-067-SRE": {
+        "card_no": "PL!N-pb1-067-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-067-SRE.png",
+        "name": "鐘 嵐珠",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-067-SRE",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-067-SRE.png"
+    },
+    "PL!N-pb1-068-SRE": {
+        "card_no": "PL!N-pb1-068-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-068-SRE.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-068-SRE",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-068-SRE.png"
+    },
+    "PL!N-pb1-069-SRE": {
+        "card_no": "PL!N-pb1-069-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-069-SRE.png",
+        "name": "中須かすみ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-069-SRE",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-069-SRE.png"
+    },
+    "PL!N-pb1-070-SRE": {
+        "card_no": "PL!N-pb1-070-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-070-SRE.png",
+        "name": "桜坂しずく",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-070-SRE",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-070-SRE.png"
+    },
+    "PL!N-pb1-071-SRE": {
+        "card_no": "PL!N-pb1-071-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-071-SRE.png",
+        "name": "朝香果林",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-071-SRE",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-071-SRE.png"
+    },
+    "PL!N-pb1-072-SRE": {
+        "card_no": "PL!N-pb1-072-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-072-SRE.png",
+        "name": "宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-072-SRE",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-072-SRE.png"
+    },
+    "PL!N-pb1-073-SRE": {
+        "card_no": "PL!N-pb1-073-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-073-SRE.png",
+        "name": "近江彼方",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-073-SRE",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-073-SRE.png"
+    },
+    "PL!N-pb1-074-SRE": {
+        "card_no": "PL!N-pb1-074-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-074-SRE.png",
+        "name": "優木せつ菜",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-074-SRE",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-074-SRE.png"
+    },
+    "PL!N-pb1-075-SRE": {
+        "card_no": "PL!N-pb1-075-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-075-SRE.png",
+        "name": "エマ・ヴェルデ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-075-SRE",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-075-SRE.png"
+    },
+    "PL!N-pb1-076-SRE": {
+        "card_no": "PL!N-pb1-076-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-076-SRE.png",
+        "name": "天王寺璃奈",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-076-SRE",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-076-SRE.png"
+    },
+    "PL!N-pb1-077-SRE": {
+        "card_no": "PL!N-pb1-077-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-077-SRE.png",
+        "name": "三船栞子",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-077-SRE",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-077-SRE.png"
+    },
+    "PL!N-pb1-078-SRE": {
+        "card_no": "PL!N-pb1-078-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-078-SRE.png",
+        "name": "ミア・テイラー",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-078-SRE",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-078-SRE.png"
+    },
+    "PL!N-pb1-079-SRE": {
+        "card_no": "PL!N-pb1-079-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-079-SRE.png",
+        "name": "鐘 嵐珠",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-079-SRE",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-079-SRE.png"
+    },
+    "PL!N-pb1-080-SRE": {
+        "card_no": "PL!N-pb1-080-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-080-SRE.png",
+        "name": "虹ヶ咲学園スクールアイドル同好会",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-080-SRE",
+                "name": "虹ヶ咲学園スクールアイドル同好会"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-080-SRE.png"
+    },
+    "PL!N-pb1-081-SRE": {
+        "card_no": "PL!N-pb1-081-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-081-SRE.png",
+        "name": "虹ヶ咲学園スクールアイドル同好会",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-081-SRE",
+                "name": "虹ヶ咲学園スクールアイドル同好会"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-081-SRE.png"
+    },
+    "PL!N-pb1-082-SRE": {
+        "card_no": "PL!N-pb1-082-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-082-SRE.png",
+        "name": "高咲 侑",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-082-SRE",
+                "name": "高咲 侑"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-082-SRE.png"
+    },
+    "PL!N-pb1-083-SRE": {
+        "card_no": "PL!N-pb1-083-SRE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-083-SRE.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "SRE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-083-SRE",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-pb1-083-SECE",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-083-SRE.png"
+    },
+    "PL!N-pb1-083-SECE": {
+        "card_no": "PL!N-pb1-083-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-083-SECE.png",
+        "name": "上原歩夢",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-083-SECE",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-pb1-083-SRE",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-083-SECE.png"
+    },
+    "PL!N-pb1-100-LLE": {
+        "card_no": "PL!N-pb1-100-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-100-LLE.png",
+        "name": "虹ヶ咲学園スクールアイドル同好会",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-100-LLE",
+                "name": "虹ヶ咲学園スクールアイドル同好会"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-100-LLE.png"
+    },
+    "PL!N-pb1-200-LLE": {
+        "card_no": "PL!N-pb1-200-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-200-LLE.png",
+        "name": "桜坂しずく＆ミア・テイラー＆上原歩夢＆天王寺璃奈＆中須かすみ＆宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-200-LLE",
+                "name": "桜坂しずく＆ミア・テイラー＆上原歩夢＆天王寺璃奈＆中須かすみ＆宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-200-LLE.png"
+    },
+    "PL!N-pb1-300-LLE": {
+        "card_no": "PL!N-pb1-300-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-300-LLE.png",
+        "name": "朝香果林＆鐘 嵐珠＆エマ・ヴェルデ＆近江彼方＆三船栞子＆優木せつ菜",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-300-LLE",
+                "name": "朝香果林＆鐘 嵐珠＆エマ・ヴェルデ＆近江彼方＆三船栞子＆優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-300-LLE.png"
+    },
+    "PL!N-pb1-400-LLE": {
+        "card_no": "PL!N-pb1-400-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-400-LLE.png",
+        "name": "中須かすみ＆優木せつ菜＆宮下 愛",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-400-LLE",
+                "name": "中須かすみ＆優木せつ菜＆宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-400-LLE.png"
+    },
+    "PL!N-pb1-500-LLE": {
+        "card_no": "PL!N-pb1-500-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-500-LLE.png",
+        "name": "近江彼方＆天王寺璃奈＆エマ・ヴェルデ",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-500-LLE",
+                "name": "近江彼方＆天王寺璃奈＆エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-500-LLE.png"
+    },
+    "PL!N-pb1-600-LLE": {
+        "card_no": "PL!N-pb1-600-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-600-LLE.png",
+        "name": "上原歩夢＆朝香果林＆桜坂しずく",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-600-LLE",
+                "name": "上原歩夢＆朝香果林＆桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-600-LLE.png"
+    },
+    "PL!N-pb1-700-LLE": {
+        "card_no": "PL!N-pb1-700-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-700-LLE.png",
+        "name": "高咲 侑",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-700-LLE",
+                "name": "高咲 侑"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-700-LLE.png"
+    },
+    "PL!N-pb1-800-LLE": {
+        "card_no": "PL!N-pb1-800-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-800-LLE.png",
+        "name": "三船栞子＆鐘 嵐珠＆ミア・テイラー",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-800-LLE",
+                "name": "三船栞子＆鐘 嵐珠＆ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-800-LLE.png"
     }
 }
