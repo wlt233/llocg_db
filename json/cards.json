@@ -3190,6 +3190,91 @@
         ],
         "_img": "img/cards/PR/PYHN-PR-001-PR.png"
     },
+    "PL!N-bp1-014-PRproteinbar": {
+        "card_no": "PL!N-bp1-014-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-014-PR.png",
+        "name": "中須かすみ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 2
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp1-014-PRproteinbar",
+                "name": "中須かすみ"
+            },
+            {
+                "card_no": "PL!N-bp1-014-N",
+                "name": "中須かすみ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-014-PR.png"
+    },
+    "PL!N-bp1-015-PRproteinbar": {
+        "card_no": "PL!N-bp1-015-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-015-PR.png",
+        "name": "桜坂しずく",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 2
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp1-015-PRproteinbar",
+                "name": "桜坂しずく"
+            },
+            {
+                "card_no": "PL!N-bp1-015-N",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-015-PR.png"
+    },
+    "PL!N-bp1-018-PRproteinbar": {
+        "card_no": "PL!N-bp1-018-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-018-PR.png",
+        "name": "近江彼方",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 1,
+            "heart05": 1,
+            "heart06": 2
+        },
+        "blade": 3,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp1-018-PRproteinbar",
+                "name": "近江彼方"
+            },
+            {
+                "card_no": "PL!N-bp1-018-N",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-018-PR.png"
+    },
     "PL!N-bp1-019-PR": {
         "card_no": "PL!N-bp1-019-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-bp1-019-PR.png",
@@ -3214,9 +3299,103 @@
             {
                 "card_no": "PL!N-bp1-019-N",
                 "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp1-019-PRproteinbar",
+                "name": "優木せつ菜"
             }
         ],
         "_img": "img/cards/PR/PL!N-bp1-019-PR.png"
+    },
+    "PL!N-bp1-019-PRproteinbar": {
+        "card_no": "PL!N-bp1-019-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-019-PR.png",
+        "name": "優木せつ菜",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 2
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp1-019-PRproteinbar",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp1-019-N",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp1-019-PR",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-019-PR.png"
+    },
+    "PL!N-bp1-020-PRproteinbar": {
+        "card_no": "PL!N-bp1-020-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-020-PR.png",
+        "name": "エマ・ヴェルデ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart04": 2,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp1-020-PRproteinbar",
+                "name": "エマ・ヴェルデ"
+            },
+            {
+                "card_no": "PL!N-bp1-020-N",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-020-PR.png"
+    },
+    "PL!N-bp1-023-PRproteinbar": {
+        "card_no": "PL!N-bp1-023-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-023-PR.png",
+        "name": "ミア・テイラー",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart03": 2,
+            "heart04": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp1-023-PRproteinbar",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp1-023-N",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-023-PR.png"
     },
     "PL!N-PR-001-PR": {
         "card_no": "PL!N-PR-001-PR",
@@ -4125,6 +4304,195 @@
             }
         ],
         "_img": "img/cards/PR/PL!N-PR-017-PR2.png"
+    },
+    "PL!N-PR-018-PR": {
+        "card_no": "PL!N-PR-018-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-018-PR.png",
+        "name": "A.L.A.N",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-018-PR",
+                "name": "A.L.A.N"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-018-PR.png"
+    },
+    "PL!N-sd1-005-PRproteinbar": {
+        "card_no": "PL!N-sd1-005-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-017-PR.png",
+        "name": "宮下 愛",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 3,
+            "heart04": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札を2枚控え室に置く：自分の控え室から『虹ヶ咲』のメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-sd1-005-PRproteinbar",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-sd1-005-SD",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-017-PR.png"
+    },
+    "PL!N-sd1-012-PRproteinbar": {
+        "card_no": "PL!N-sd1-012-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-024-PR.png",
+        "name": "鐘 嵐珠",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 2,
+            "heart02": 1,
+            "heart03": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-sd1-012-PRproteinbar",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-sd1-012-SD",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-024-PR.png"
+    },
+    "PL!N-sd1-013-PRproteinbar": {
+        "card_no": "PL!N-sd1-013-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-013-PR.png",
+        "name": "上原歩夢",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 2
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-sd1-013-PRproteinbar",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-sd1-013-SD",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-013-PR.png"
+    },
+    "PL!N-sd1-016-PRproteinbar": {
+        "card_no": "PL!N-sd1-016-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-016-PR.png",
+        "name": "朝香果林",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1,
+            "heart05": 2
+        },
+        "blade": 3,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-sd1-016-PRproteinbar",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-sd1-016-SD",
+                "name": "朝香果林"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-016-PR.png"
+    },
+    "PL!N-sd1-021-PRproteinbar": {
+        "card_no": "PL!N-sd1-021-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-021-PR.png",
+        "name": "天王寺璃奈",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 2
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-sd1-021-PRproteinbar",
+                "name": "天王寺璃奈"
+            },
+            {
+                "card_no": "PL!N-sd1-021-SD",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-021-PR.png"
+    },
+    "PL!N-sd1-022-PRproteinbar": {
+        "card_no": "PL!N-sd1-022-PRproteinbar",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-022-PR.png",
+        "name": "三船栞子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 4,
+        "base_heart": {
+            "heart04": 2
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}カードを1枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-sd1-022-PRproteinbar",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-sd1-022-SD",
+                "name": "三船栞子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-022-PR.png"
     },
     "PL!SP-bp1-013-PR": {
         "card_no": "PL!SP-bp1-013-PR",
@@ -7708,6 +8076,10 @@
             {
                 "card_no": "PL!N-bp1-014-N",
                 "name": "中須かすみ"
+            },
+            {
+                "card_no": "PL!N-bp1-014-PRproteinbar",
+                "name": "中須かすみ"
             }
         ],
         "_img": "img/cards/BP01/PL!N-bp1-014-N.png"
@@ -7731,6 +8103,10 @@
         "rare_list": [
             {
                 "card_no": "PL!N-bp1-015-N",
+                "name": "桜坂しずく"
+            },
+            {
+                "card_no": "PL!N-bp1-015-PRproteinbar",
                 "name": "桜坂しずく"
             }
         ],
@@ -7811,6 +8187,10 @@
             {
                 "card_no": "PL!N-bp1-018-N",
                 "name": "近江彼方"
+            },
+            {
+                "card_no": "PL!N-bp1-018-PRproteinbar",
+                "name": "近江彼方"
             }
         ],
         "_img": "img/cards/BP01/PL!N-bp1-018-N.png"
@@ -7839,6 +8219,10 @@
             {
                 "card_no": "PL!N-bp1-019-PR",
                 "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp1-019-PRproteinbar",
+                "name": "優木せつ菜"
             }
         ],
         "_img": "img/cards/BP01/PL!N-bp1-019-N.png"
@@ -7863,6 +8247,10 @@
         "rare_list": [
             {
                 "card_no": "PL!N-bp1-020-N",
+                "name": "エマ・ヴェルデ"
+            },
+            {
+                "card_no": "PL!N-bp1-020-PRproteinbar",
                 "name": "エマ・ヴェルデ"
             }
         ],
@@ -7942,6 +8330,10 @@
         "rare_list": [
             {
                 "card_no": "PL!N-bp1-023-N",
+                "name": "ミア・テイラー"
+            },
+            {
+                "card_no": "PL!N-bp1-023-PRproteinbar",
                 "name": "ミア・テイラー"
             }
         ],
@@ -14499,6 +14891,10 @@
             {
                 "card_no": "PL!N-sd1-005-SD",
                 "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-sd1-005-PRproteinbar",
+                "name": "宮下 愛"
             }
         ],
         "_img": "img/cards/NSD01/PL!N-sd1-005-SD.png"
@@ -14970,6 +15366,10 @@
             {
                 "card_no": "PL!N-sd1-012-SD",
                 "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-sd1-012-PRproteinbar",
+                "name": "鐘 嵐珠"
             }
         ],
         "_img": "img/cards/NSD01/PL!N-sd1-012-SD.png"
@@ -14993,6 +15393,10 @@
         "rare_list": [
             {
                 "card_no": "PL!N-sd1-013-SD",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-sd1-013-PRproteinbar",
                 "name": "上原歩夢"
             }
         ],
@@ -15070,6 +15474,10 @@
         "rare_list": [
             {
                 "card_no": "PL!N-sd1-016-SD",
+                "name": "朝香果林"
+            },
+            {
+                "card_no": "PL!N-sd1-016-PRproteinbar",
                 "name": "朝香果林"
             }
         ],
@@ -15201,6 +15609,10 @@
             {
                 "card_no": "PL!N-sd1-021-SD",
                 "name": "天王寺璃奈"
+            },
+            {
+                "card_no": "PL!N-sd1-021-PRproteinbar",
+                "name": "天王寺璃奈"
             }
         ],
         "_img": "img/cards/NSD01/PL!N-sd1-021-SD.png"
@@ -15224,6 +15636,10 @@
         "rare_list": [
             {
                 "card_no": "PL!N-sd1-022-SD",
+                "name": "三船栞子"
+            },
+            {
+                "card_no": "PL!N-sd1-022-PRproteinbar",
                 "name": "三船栞子"
             }
         ],
