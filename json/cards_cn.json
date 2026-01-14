@@ -837,12 +837,12 @@
         },
         "_img": "img/cards_cn/PL!-PR-012-PR.png"
     },
-    "PL!-PR-016-PR+": {
+    "PL!-PR-013-PR+": {
         "version_id": 1284,
         "card_name_org": "エネルギー",
         "card_name_alias": "",
         "card_id": 939,
-        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!-PR-016-PRplus.png",
+        "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21-PR-013-PRplus.png",
         "card_prefix": "",
         "status": 0,
         "card_type": 15,
@@ -856,11 +856,11 @@
             "card_id": 939,
             "card_name_org": "エネルギー",
             "card_name_cn": "能量",
-            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL!-PR-016-PRplus.png",
+            "image": "https://oss-bushiroad-llocg.oss-cn-beijing.aliyuncs.com/card_versions/PL%21-PR-013-PRplus.png",
             "card_type": 15,
             "ability": "",
             "flavor": "",
-            "card_number": "PL!-PR-016-PR+",
+            "card_number": "PL!-PR-013-PR+",
             "rarity": "PR+",
             "illustrator": "",
             "cost": null,
@@ -875,7 +875,7 @@
             "faq_lists": [],
             "top_deck_collection_lists": []
         },
-        "_img": "img/cards_cn/PL!-PR-016-PRplus.png"
+        "_img": "img/cards_cn/PL%21-PR-013-PRplus.png"
     },
     "PL!-bp1-000-LLE": {
         "version_id": 114,
