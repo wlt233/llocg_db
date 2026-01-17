@@ -20159,37 +20159,6 @@
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1-025-L.png"
     },
-    "PL!SP-pb1-026-L＋": {
-        "card_no": "PL!SP-pb1-026-L＋",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1-026-L2.png",
-        "name": "Jump Into the New World",
-        "product": "プレミアムブースターラブライブ！スーパースター!!",
-        "type": "ライブ",
-        "series": "ラブライブ！スーパースター!!",
-        "score": 4,
-        "need_heart": {
-            "heart02": 3,
-            "heart06": 3,
-            "heart0": 4
-        },
-        "blade_heart": {
-            "b_heart06": 1
-        },
-        "special_heart": {},
-        "rare": "L+",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-pb1-026-L＋",
-                "name": "Jump Into the New World"
-            },
-            {
-                "card_no": "PL!SP-pb1-026-L",
-                "name": "Jump Into the New World"
-            }
-        ],
-        "_img": "img/cards/PBSP/PL!SP-pb1-026-L2.png"
-    },
     "PL!SP-pb1-026-L": {
         "card_no": "PL!SP-pb1-026-L",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1-026-L.png",
@@ -20220,6 +20189,37 @@
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1-026-L.png"
+    },
+    "PL!SP-pb1-026-L＋": {
+        "card_no": "PL!SP-pb1-026-L＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP/PL!SP-pb1-026-L2.png",
+        "name": "Jump Into the New World",
+        "product": "プレミアムブースターラブライブ！スーパースター!!",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart02": 3,
+            "heart06": 3,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "special_heart": {},
+        "rare": "L+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-026-L＋",
+                "name": "Jump Into the New World"
+            },
+            {
+                "card_no": "PL!SP-pb1-026-L",
+                "name": "Jump Into the New World"
+            }
+        ],
+        "_img": "img/cards/PBSP/PL!SP-pb1-026-L2.png"
     },
     "PL!SP-pb1-027-PE": {
         "card_no": "PL!SP-pb1-027-PE",
@@ -33917,212 +33917,6 @@
         ],
         "_img": "img/cards/PBLS/PL!S-pb1-021-L.png"
     },
-    "PL!S-pb1-022-L＋": {
-        "card_no": "PL!S-pb1-022-L＋",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBLS/PL!S-pb1-022-L2.png",
-        "name": "逃走迷走メビウスループ",
-        "product": "プレミアムブースターラブライブ！サンシャイン!!",
-        "type": "ライブ",
-        "series": "ラブライブ！サンシャイン!!",
-        "score": 2,
-        "need_heart": {
-            "heart04": 3,
-            "heart0": 3
-        },
-        "blade_heart": {
-            "b_all": 1
-        },
-        "rare": "L+",
-        "ability": "{{live_success.png|ライブ成功時}}このターン、ライブに勝利するプレイヤーを決定するとき、自分と相手のライブの合計スコアが同じ場合、ライブ終了時まで、自分と相手は成功ライブカード置き場にカードを置くことができない。",
-        "faq": [
-            {
-                "title": "Q36（2025.08.04）",
-                "question": "{{live_success.png|ライブ成功時}}とはいつのことですか？",
-                "answer": "両方のプレイヤーのパフォーマンスフェイズを行った後、ライブ勝敗判定フェイズで、ライブに勝利したプレイヤーを決定する前のタイミングです。",
-                "relation": [
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!SP-pb1-001-R",
-                        "name": "澁谷かのん"
-                    },
-                    {
-                        "card_no": "PL!SP-pb1-001-P＋",
-                        "name": "澁谷かのん"
-                    },
-                    {
-                        "card_no": "PL!SP-pb1-004-R",
-                        "name": "平安名すみれ"
-                    },
-                    {
-                        "card_no": "PL!SP-pb1-004-P＋",
-                        "name": "平安名すみれ"
-                    },
-                    {
-                        "card_no": "PL!S-bp2-008-R＋",
-                        "name": "小原鞠莉"
-                    },
-                    {
-                        "card_no": "PL!S-bp2-008-P",
-                        "name": "小原鞠莉"
-                    },
-                    {
-                        "card_no": "PL!S-bp2-008-P＋",
-                        "name": "小原鞠莉"
-                    },
-                    {
-                        "card_no": "PL!S-bp2-008-SEC",
-                        "name": "小原鞠莉"
-                    },
-                    {
-                        "card_no": "PL!S-bp2-024-L",
-                        "name": "君のこころは輝いてるかい？"
-                    },
-                    {
-                        "card_no": "PL!SP-bp2-009-R＋",
-                        "name": "鬼塚夏美"
-                    },
-                    {
-                        "card_no": "PL!SP-bp2-009-P",
-                        "name": "鬼塚夏美"
-                    },
-                    {
-                        "card_no": "PL!SP-bp2-009-P＋",
-                        "name": "鬼塚夏美"
-                    },
-                    {
-                        "card_no": "PL!SP-bp2-009-SEC",
-                        "name": "鬼塚夏美"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-003-R",
-                        "name": "松浦果南"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-003-P＋",
-                        "name": "松浦果南"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-007-R",
-                        "name": "国木田花丸"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-007-P＋",
-                        "name": "国木田花丸"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-019-L",
-                        "name": "元気全開DAY！DAY！DAY！"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-021-L",
-                        "name": "Strawberry Trapper"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-024-L",
-                        "name": "僕らの走ってきた道は・・・"
-                    },
-                    {
-                        "card_no": "PL!-sd1-019-SD",
-                        "name": "START:DASH!!"
-                    },
-                    {
-                        "card_no": "PL!-bp3-025-L",
-                        "name": "タカラモノズ"
-                    },
-                    {
-                        "card_no": "PL!-bp3-026-L",
-                        "name": "Oh,Love&Peace!"
-                    },
-                    {
-                        "card_no": "PL!S-bp3-019-L",
-                        "name": "MIRACLE WAVE"
-                    },
-                    {
-                        "card_no": "PL!N-bp3-027-L",
-                        "name": "La Bella Patria"
-                    },
-                    {
-                        "card_no": "PL!N-bp3-030-L",
-                        "name": "Love U my friends"
-                    },
-                    {
-                        "card_no": "PL!N-bp3-031-L",
-                        "name": "MONSTER GIRLS"
-                    },
-                    {
-                        "card_no": "PL!-pb1-030-L",
-                        "name": "Cutie Panther"
-                    },
-                    {
-                        "card_no": "PL!-pb1-031-L",
-                        "name": "輝夜の城で踊りたい"
-                    },
-                    {
-                        "card_no": "PL!-pb1-032-L",
-                        "name": "SENTIMENTAL StepS"
-                    },
-                    {
-                        "card_no": "PL!S-bp2-022-L",
-                        "name": "未熟DREAMER"
-                    },
-                    {
-                        "card_no": "PL!S-bp2-021-L",
-                        "name": "未体験HORIZON"
-                    },
-                    {
-                        "card_no": "PL!SP-bp2-025-L",
-                        "name": "Bubble Rise"
-                    },
-                    {
-                        "card_no": "PL!SP-bp2-024-L",
-                        "name": "ビタミンSUMMER！"
-                    }
-                ]
-            }
-        ],
-        "rare_list": [
-            {
-                "card_no": "PL!S-pb1-022-L＋",
-                "name": "逃走迷走メビウスループ"
-            },
-            {
-                "card_no": "PL!S-pb1-022-L",
-                "name": "逃走迷走メビウスループ"
-            }
-        ],
-        "_img": "img/cards/PBLS/PL!S-pb1-022-L2.png"
-    },
     "PL!S-pb1-022-L": {
         "card_no": "PL!S-pb1-022-L",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBLS/PL!S-pb1-022-L.png",
@@ -34329,36 +34123,211 @@
         ],
         "_img": "img/cards/PBLS/PL!S-pb1-022-L.png"
     },
-    "PL!S-pb1-023-L＋": {
-        "card_no": "PL!S-pb1-023-L＋",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBLS/PL!S-pb1-023-L2.png",
-        "name": "Next SPARKLING!!",
+    "PL!S-pb1-022-L＋": {
+        "card_no": "PL!S-pb1-022-L＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBLS/PL!S-pb1-022-L2.png",
+        "name": "逃走迷走メビウスループ",
         "product": "プレミアムブースターラブライブ！サンシャイン!!",
         "type": "ライブ",
         "series": "ラブライブ！サンシャイン!!",
-        "score": 9,
+        "score": 2,
         "need_heart": {
-            "heart02": 6,
-            "heart04": 6,
-            "heart05": 6,
+            "heart04": 3,
             "heart0": 3
         },
         "blade_heart": {
             "b_all": 1
         },
         "rare": "L+",
-        "faq": [],
-        "rare_list": [
+        "ability": "{{live_success.png|ライブ成功時}}このターン、ライブに勝利するプレイヤーを決定するとき、自分と相手のライブの合計スコアが同じ場合、ライブ終了時まで、自分と相手は成功ライブカード置き場にカードを置くことができない。",
+        "faq": [
             {
-                "card_no": "PL!S-pb1-023-L＋",
-                "name": "Next SPARKLING!!"
-            },
-            {
-                "card_no": "PL!S-pb1-023-L",
-                "name": "Next SPARKLING!!"
+                "title": "Q36（2025.08.04）",
+                "question": "{{live_success.png|ライブ成功時}}とはいつのことですか？",
+                "answer": "両方のプレイヤーのパフォーマンスフェイズを行った後、ライブ勝敗判定フェイズで、ライブに勝利したプレイヤーを決定する前のタイミングです。",
+                "relation": [
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-001-R",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-001-P＋",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-004-R",
+                        "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!SP-pb1-004-P＋",
+                        "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!S-bp2-008-R＋",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-bp2-008-P",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-bp2-008-P＋",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-bp2-008-SEC",
+                        "name": "小原鞠莉"
+                    },
+                    {
+                        "card_no": "PL!S-bp2-024-L",
+                        "name": "君のこころは輝いてるかい？"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-009-R＋",
+                        "name": "鬼塚夏美"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-009-P",
+                        "name": "鬼塚夏美"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-009-P＋",
+                        "name": "鬼塚夏美"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-009-SEC",
+                        "name": "鬼塚夏美"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-003-R",
+                        "name": "松浦果南"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-003-P＋",
+                        "name": "松浦果南"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-007-R",
+                        "name": "国木田花丸"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-007-P＋",
+                        "name": "国木田花丸"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-019-L",
+                        "name": "元気全開DAY！DAY！DAY！"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-021-L",
+                        "name": "Strawberry Trapper"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-024-L",
+                        "name": "僕らの走ってきた道は・・・"
+                    },
+                    {
+                        "card_no": "PL!-sd1-019-SD",
+                        "name": "START:DASH!!"
+                    },
+                    {
+                        "card_no": "PL!-bp3-025-L",
+                        "name": "タカラモノズ"
+                    },
+                    {
+                        "card_no": "PL!-bp3-026-L",
+                        "name": "Oh,Love&Peace!"
+                    },
+                    {
+                        "card_no": "PL!S-bp3-019-L",
+                        "name": "MIRACLE WAVE"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-027-L",
+                        "name": "La Bella Patria"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-030-L",
+                        "name": "Love U my friends"
+                    },
+                    {
+                        "card_no": "PL!N-bp3-031-L",
+                        "name": "MONSTER GIRLS"
+                    },
+                    {
+                        "card_no": "PL!-pb1-030-L",
+                        "name": "Cutie Panther"
+                    },
+                    {
+                        "card_no": "PL!-pb1-031-L",
+                        "name": "輝夜の城で踊りたい"
+                    },
+                    {
+                        "card_no": "PL!-pb1-032-L",
+                        "name": "SENTIMENTAL StepS"
+                    },
+                    {
+                        "card_no": "PL!S-bp2-022-L",
+                        "name": "未熟DREAMER"
+                    },
+                    {
+                        "card_no": "PL!S-bp2-021-L",
+                        "name": "未体験HORIZON"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-025-L",
+                        "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!SP-bp2-024-L",
+                        "name": "ビタミンSUMMER！"
+                    }
+                ]
             }
         ],
-        "_img": "img/cards/PBLS/PL!S-pb1-023-L2.png"
+        "rare_list": [
+            {
+                "card_no": "PL!S-pb1-022-L＋",
+                "name": "逃走迷走メビウスループ"
+            },
+            {
+                "card_no": "PL!S-pb1-022-L",
+                "name": "逃走迷走メビウスループ"
+            }
+        ],
+        "_img": "img/cards/PBLS/PL!S-pb1-022-L2.png"
     },
     "PL!S-pb1-023-L": {
         "card_no": "PL!S-pb1-023-L",
@@ -34390,6 +34359,37 @@
             }
         ],
         "_img": "img/cards/PBLS/PL!S-pb1-023-L.png"
+    },
+    "PL!S-pb1-023-L＋": {
+        "card_no": "PL!S-pb1-023-L＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBLS/PL!S-pb1-023-L2.png",
+        "name": "Next SPARKLING!!",
+        "product": "プレミアムブースターラブライブ！サンシャイン!!",
+        "type": "ライブ",
+        "series": "ラブライブ！サンシャイン!!",
+        "score": 9,
+        "need_heart": {
+            "heart02": 6,
+            "heart04": 6,
+            "heart05": 6,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-pb1-023-L＋",
+                "name": "Next SPARKLING!!"
+            },
+            {
+                "card_no": "PL!S-pb1-023-L",
+                "name": "Next SPARKLING!!"
+            }
+        ],
+        "_img": "img/cards/PBLS/PL!S-pb1-023-L2.png"
     },
     "PL!S-pb1-024-L": {
         "card_no": "PL!S-pb1-024-L",
@@ -55997,39 +55997,6 @@
         ],
         "_img": "img/cards/PBnj/PL!N-pb1-040-L.png"
     },
-    "PL!N-pb1-041-L＋": {
-        "card_no": "PL!N-pb1-041-L＋",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-041-L2.png",
-        "name": "PASTEL",
-        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
-        "type": "ライブ",
-        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
-        "unit": "QU4RTZ",
-        "score": 4,
-        "need_heart": {
-            "heart03": 1,
-            "heart04": 1,
-            "heart05": 1,
-            "heart06": 1,
-            "heart0": 5
-        },
-        "blade_heart": {
-            "b_all": 1
-        },
-        "rare": "L+",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!N-pb1-041-L＋",
-                "name": "PASTEL"
-            },
-            {
-                "card_no": "PL!N-pb1-041-L",
-                "name": "PASTEL"
-            }
-        ],
-        "_img": "img/cards/PBnj/PL!N-pb1-041-L2.png"
-    },
     "PL!N-pb1-041-L": {
         "card_no": "PL!N-pb1-041-L",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-041-L.png",
@@ -56062,6 +56029,39 @@
             }
         ],
         "_img": "img/cards/PBnj/PL!N-pb1-041-L.png"
+    },
+    "PL!N-pb1-041-L＋": {
+        "card_no": "PL!N-pb1-041-L＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBnj/PL!N-pb1-041-L2.png",
+        "name": "PASTEL",
+        "product": "プレミアムブースターラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "type": "ライブ",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "score": 4,
+        "need_heart": {
+            "heart03": 1,
+            "heart04": 1,
+            "heart05": 1,
+            "heart06": 1,
+            "heart0": 5
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-pb1-041-L＋",
+                "name": "PASTEL"
+            },
+            {
+                "card_no": "PL!N-pb1-041-L",
+                "name": "PASTEL"
+            }
+        ],
+        "_img": "img/cards/PBnj/PL!N-pb1-041-L2.png"
     },
     "PL!N-pb1-042-L": {
         "card_no": "PL!N-pb1-042-L",
