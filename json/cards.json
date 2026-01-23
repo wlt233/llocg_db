@@ -6250,6 +6250,35 @@
         ],
         "_img": "img/cards/PR/PL!HS-PR-027-PR.png"
     },
+    "PL!HS-PR-028-PR": {
+        "card_no": "PL!HS-PR-028-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-028-PR.png",
+        "name": "Echoes Beyond",
+        "product": "PRカード",
+        "type": "ライブ",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "score": 5,
+        "need_heart": {
+            "heart01": 2,
+            "heart04": 2,
+            "heart05": 2,
+            "heart06": 2,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "PR",
+        "ability": "{{live_success.png|ライブ成功時}}自分のステージに、元々持つハートの数より多い数のハートを持つメンバーがいる場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-028-PR",
+                "name": "Echoes Beyond"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-028-PR.png"
+    },
     "LL-PR-002-PR": {
         "card_no": "LL-PR-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-002-PR.png",
