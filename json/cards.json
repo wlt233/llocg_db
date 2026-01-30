@@ -6279,6 +6279,31 @@
         ],
         "_img": "img/cards/PR/PL!HS-PR-028-PR.png"
     },
+    "PL!HS-PR-029-PR": {
+        "card_no": "PL!HS-PR-029-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-029-PR.png",
+        "name": "大沢瑠璃乃",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "みらくらぱーく！",
+        "cost": 5,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 1
+        },
+        "blade": 2,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{heart_01.png|heart01}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-029-PR",
+                "name": "大沢瑠璃乃"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-029-PR.png"
+    },
     "LL-PR-002-PR": {
         "card_no": "LL-PR-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-002-PR.png",
