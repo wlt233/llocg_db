@@ -6112,6 +6112,32 @@
     },
     "PL!HS-PR-022-PR": {
         "card_no": "PL!HS-PR-022-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-022-PR.png",
+        "name": "セラス 柳田 リリエンフェルト",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "EdelNote",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-022-PR",
+                "name": "セラス 柳田 リリエンフェルト"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-022-PR.png"
+    },
+    "PL!HS-PR-023-PR": {
+        "card_no": "PL!HS-PR-023-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-023-PR.png",
         "name": "桂城 泉",
         "product": "PRカード",
@@ -6131,37 +6157,11 @@
         "faq": [],
         "rare_list": [
             {
-                "card_no": "PL!HS-PR-022-PR",
+                "card_no": "PL!HS-PR-023-PR",
                 "name": "桂城 泉"
             }
         ],
         "_img": "img/cards/PR/PL!HS-023-PR.png"
-    },
-    "PL!HS-PR-023-PR": {
-        "card_no": "PL!HS-PR-023-PR",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-022-PR.png",
-        "name": "セラス 柳田 リリエンフェルト",
-        "product": "PRカード",
-        "type": "メンバー",
-        "series": "蓮ノ空女学院スクールアイドルクラブ",
-        "unit": "EdelNote",
-        "cost": 4,
-        "base_heart": {
-            "heart06": 2
-        },
-        "blade_heart": {
-            "b_heart06": 1
-        },
-        "rare": "PR",
-        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!HS-PR-023-PR",
-                "name": "セラス 柳田 リリエンフェルト"
-            }
-        ],
-        "_img": "img/cards/PR/PL!HS-022-PR.png"
     },
     "PL!HS-PR-024-PR＋": {
         "card_no": "PL!HS-PR-024-PR＋",
