@@ -5096,6 +5096,30 @@
         ],
         "_img": "img/cards/PR/PL!SP-PR-017-PR.png"
     },
+    "PL!SP-PR-018-PR": {
+        "card_no": "PL!SP-PR-018-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-018-PR.png",
+        "name": "澁谷かのん",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に『Liella!』のカードが7枚以上ある場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-018-PR",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-018-PR.png"
+    },
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-002-PR.png",
