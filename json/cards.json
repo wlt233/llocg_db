@@ -5120,6 +5120,23 @@
         ],
         "_img": "img/cards/PR/PL!SP-PR-018-PR.png"
     },
+    "PL!SP-PR-019-PR": {
+        "card_no": "PL!SP-PR-019-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-019-PR.png",
+        "name": "Liella!",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-019-PR",
+                "name": "Liella!"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-019-PR.png"
+    },
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-002-PR.png",
@@ -6427,9 +6444,33 @@
             {
                 "card_no": "LL-PR-007-PR",
                 "name": "高坂穂乃果＆高海千歌"
+            },
+            {
+                "card_no": "LL-PR-007-PRLoveLive!Days",
+                "name": "LoveLive!Days4月号表紙"
             }
         ],
         "_img": "img/cards/PR/LL-PR-007-PR.png"
+    },
+    "LL-PR-007-PRLoveLive!Days": {
+        "card_no": "LL-PR-007-PRLoveLive!Days",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-007-PRLLD.png",
+        "name": "LoveLive!Days4月号表紙",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-PR-007-PRLoveLive!Days",
+                "name": "LoveLive!Days4月号表紙"
+            },
+            {
+                "card_no": "LL-PR-007-PR",
+                "name": "高坂穂乃果＆高海千歌"
+            }
+        ],
+        "_img": "img/cards/PR/LL-PR-007-PRLLD.png"
     },
     "PL!N-PR-016-PR": {
         "card_no": "PL!N-PR-016-PR",
