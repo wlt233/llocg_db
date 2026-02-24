@@ -6,7 +6,7 @@ import pprint
 import re
 
 import httpx
-
+from tenacity import retry, stop_after_attempt, wait_exponential
 
 headers = {
     "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
@@ -102,6 +102,10 @@ attr_name = {
     'レアリティ': 'rare',
 }
 
+@retry(
+    stop=stop_after_attempt(3),
+    wait=wait_exponential(multiplier=1, min=2, max=10)
+)
 async def fetch_card_info(client, semaphore, card_no: str):
     url = f"https://llofficial-cardgame.com/cardlist/detail/"
     data = {
