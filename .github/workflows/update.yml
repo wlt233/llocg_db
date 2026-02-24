@@ -24,8 +24,8 @@ jobs:
       with:
         python-version: '3.9'
 
-    - name: Install httpx
-      run: pip install httpx
+    - name: Install httpx & tenacity
+      run: pip install httpx tenacity
 
     - name: Update loveca
       run: python database.py
