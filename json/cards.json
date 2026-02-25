@@ -1609,6 +1609,87 @@
         ],
         "_img": "img/cards/PR/PL!-PR-013-PR2.png"
     },
+    "PL!-PR-014-PR": {
+        "card_no": "PL!-PR-014-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-014-PR.png",
+        "name": "園田海未",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 2,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}相手の手札を、自分は見ないで3枚選び公開する。これにより公開されたカードの中にライブカードがない場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-014-PR",
+                "name": "園田海未"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-014-PR.png"
+    },
+    "PL!-PR-015-PR": {
+        "card_no": "PL!-PR-015-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-015-PR.png",
+        "name": "西木野真姫",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 17,
+        "base_heart": {
+            "heart03": 3,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}このメンバーよりコストが低いメンバーからバトンタッチして登場した場合、自分の手札からコスト4以下のメンバーカードを1枚ステージに登場させてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-015-PR",
+                "name": "西木野真姫"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-015-PR.png"
+    },
+    "PL!-PR-017-PR": {
+        "card_no": "PL!-PR-017-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-017-PR.png",
+        "name": "矢澤にこ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室から『μ's』のライブカードを1枚手札に加える。自分の成功ライブカード置き場にあるカードのスコアの合計が９以上の場合、エネルギーを2枚アクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-017-PR",
+                "name": "矢澤にこ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-017-PR.png"
+    },
     "LL-E-004-PR": {
         "card_no": "LL-E-004-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-004-PR.png",
@@ -3293,6 +3374,60 @@
         ],
         "_img": "img/cards/PR/PL!S-PR-038-PR.png"
     },
+    "PL!S-PR-039-PR": {
+        "card_no": "PL!S-PR-039-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-039-PR.png",
+        "name": "渡辺 曜",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{jyouji.png|常時}}自分と相手の成功ライブカード置き場にカードが合計4枚以上あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-039-PR",
+                "name": "渡辺 曜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-039-PR.png"
+    },
+    "PL!S-PR-040-PR": {
+        "card_no": "PL!S-PR-040-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-040-PR.png",
+        "name": "国木田花丸",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "AZALEA",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1,
+            "heart04": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードの中に同じグループ名を持つメンバーカードが3枚以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}{{heart_04.png|heart04}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-040-PR",
+                "name": "国木田花丸"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-040-PR.png"
+    },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PYHN-PR-001-PR.png",
@@ -4534,6 +4669,60 @@
         ],
         "_img": "img/cards/PR/PL!N-PR-021-PR.png"
     },
+    "PL!N-PR-023-PR": {
+        "card_no": "PL!N-PR-023-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-023-PR.png",
+        "name": "上原歩夢",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1,
+            "heart04": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードの中に同じグループ名を持つメンバーカードが3枚以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}{{heart_04.png|heart04}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-023-PR",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-023-PR.png"
+    },
+    "PL!N-PR-024-PR": {
+        "card_no": "PL!N-PR-024-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-024-PR.png",
+        "name": "桜坂しずく",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{jyouji.png|常時}}自分と相手の成功ライブカード置き場にカードが合計4枚以上あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-024-PR",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-024-PR.png"
+    },
     "PL!N-sd1-005-PRproteinbar": {
         "card_no": "PL!N-sd1-005-PRproteinbar",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-017-PR.png",
@@ -5168,6 +5357,34 @@
             }
         ],
         "_img": "img/cards/PR/PL!SP-PR-019-PR.png"
+    },
+    "PL!SP-PR-020-PR": {
+        "card_no": "PL!SP-PR-020-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-020-PR.png",
+        "name": "桜小路きな子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 17,
+        "base_heart": {
+            "heart03": 3,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}このメンバーよりコストが低いメンバーからバトンタッチして登場した場合、自分の手札からコスト4以下のメンバーカードを1枚ステージに登場させてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-020-PR",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-020-PR.png"
     },
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
@@ -6523,6 +6740,22 @@
             }
         ],
         "_img": "img/cards/PR/LL-PR-007-PRLLD.png"
+    },
+    "PL!-PR-016-PR＋": {
+        "card_no": "PL!-PR-016-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!PR-016-PR2.png",
+        "name": "園田海未",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-016-PR＋",
+                "name": "園田海未"
+            }
+        ],
+        "_img": "img/cards/PR/PL!PR-016-PR2.png"
     },
     "PL!N-PR-016-PR": {
         "card_no": "PL!N-PR-016-PR",
@@ -61325,7 +61558,7 @@
         "base_heart": {},
         "blade": 4,
         "rare": "R+",
-        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードが持つブレードハートの中に[桃ブレード]、[赤ブレード]、[黄ブレード]、[緑ブレード]、[青ブレード]、[紫ブレード]、{{icon_b_all.png|ALLブレード}}のうち、3種類以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。6種類以上ある場合、さらにライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードが持つブレードハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}、{{icon_all.png|ハート}}のうち、3種類以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。6種類以上ある場合、さらにライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -61359,7 +61592,7 @@
         "base_heart": {},
         "blade": 4,
         "rare": "P",
-        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードが持つブレードハートの中に[桃ブレード]、[赤ブレード]、[黄ブレード]、[緑ブレード]、[青ブレード]、[紫ブレード]、{{icon_b_all.png|ALLブレード}}のうち、3種類以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。6種類以上ある場合、さらにライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードが持つブレードハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}、{{icon_all.png|ハート}}のうち、3種類以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。6種類以上ある場合、さらにライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -61393,7 +61626,7 @@
         "base_heart": {},
         "blade": 4,
         "rare": "SEC",
-        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードが持つブレードハートの中に[桃ブレード]、[赤ブレード]、[黄ブレード]、[緑ブレード]、[青ブレード]、[紫ブレード]、{{icon_b_all.png|ALLブレード}}のうち、3種類以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。6種類以上ある場合、さらにライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードが持つブレードハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}、{{icon_all.png|ハート}}のうち、3種類以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。6種類以上ある場合、さらにライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -61427,7 +61660,7 @@
         "base_heart": {},
         "blade": 4,
         "rare": "AR",
-        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードが持つブレードハートの中に[桃ブレード]、[赤ブレード]、[黄ブレード]、[緑ブレード]、[青ブレード]、[紫ブレード]、{{icon_b_all.png|ALLブレード}}のうち、3種類以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。6種類以上ある場合、さらにライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードが持つブレードハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}、{{icon_all.png|ハート}}のうち、3種類以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。6種類以上ある場合、さらにライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [],
         "rare_list": [
             {
