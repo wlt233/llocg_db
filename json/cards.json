@@ -37148,11 +37148,11 @@
                 "name": "南ことり"
             },
             {
-                "card_no": "PL!-bp3-012-PR",
+                "card_no": "PL!-bp3-012-RM",
                 "name": "南 ことり"
             },
             {
-                "card_no": "PL!-bp3-012-RM",
+                "card_no": "PL!-bp3-012-PR",
                 "name": "南 ことり"
             }
         ],
@@ -57696,11 +57696,11 @@
                 "name": "高坂穂乃果"
             },
             {
-                "card_no": "PL!-bp5-001-SEC",
+                "card_no": "PL!-bp5-001-AR",
                 "name": "高坂穂乃果"
             },
             {
-                "card_no": "PL!-bp5-001-AR",
+                "card_no": "PL!-bp5-001-SEC",
                 "name": "高坂穂乃果"
             }
         ],
@@ -57733,52 +57733,15 @@
                 "name": "高坂穂乃果"
             },
             {
-                "card_no": "PL!-bp5-001-SEC",
+                "card_no": "PL!-bp5-001-AR",
                 "name": "高坂穂乃果"
             },
             {
-                "card_no": "PL!-bp5-001-AR",
+                "card_no": "PL!-bp5-001-SEC",
                 "name": "高坂穂乃果"
             }
         ],
         "_img": "img/cards/BP05/PL!-bp5-001-P.png"
-    },
-    "PL!-bp5-001-SEC": {
-        "card_no": "PL!-bp5-001-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!-bp5-001-SEC.png",
-        "name": "高坂穂乃果",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！",
-        "unit": "Printemps",
-        "cost": 4,
-        "base_heart": {
-            "heart03": 1,
-            "heart05": 1
-        },
-        "blade": 2,
-        "rare": "SEC",
-        "ability": "{{live_success.png|ライブ成功時}}手札を1枚控え室に置いてもよい：自分のデッキの上から、自分のライブの合計スコアに2を足した数に等しい枚数見る。その中からカードを1枚手札に加える。残りを控え室に置く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!-bp5-001-SEC",
-                "name": "高坂穂乃果"
-            },
-            {
-                "card_no": "PL!-bp5-001-R＋",
-                "name": "高坂穂乃果"
-            },
-            {
-                "card_no": "PL!-bp5-001-P",
-                "name": "高坂穂乃果"
-            },
-            {
-                "card_no": "PL!-bp5-001-AR",
-                "name": "高坂穂乃果"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!-bp5-001-SEC.png"
     },
     "PL!-bp5-001-AR": {
         "card_no": "PL!-bp5-001-AR",
@@ -57816,6 +57779,43 @@
             }
         ],
         "_img": "img/cards/BP05/PL!-bp5-001-AR.png"
+    },
+    "PL!-bp5-001-SEC": {
+        "card_no": "PL!-bp5-001-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!-bp5-001-SEC.png",
+        "name": "高坂穂乃果",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1,
+            "heart05": 1
+        },
+        "blade": 2,
+        "rare": "SEC",
+        "ability": "{{live_success.png|ライブ成功時}}手札を1枚控え室に置いてもよい：自分のデッキの上から、自分のライブの合計スコアに2を足した数に等しい枚数見る。その中からカードを1枚手札に加える。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp5-001-SEC",
+                "name": "高坂穂乃果"
+            },
+            {
+                "card_no": "PL!-bp5-001-R＋",
+                "name": "高坂穂乃果"
+            },
+            {
+                "card_no": "PL!-bp5-001-P",
+                "name": "高坂穂乃果"
+            },
+            {
+                "card_no": "PL!-bp5-001-AR",
+                "name": "高坂穂乃果"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!-bp5-001-SEC.png"
     },
     "PL!-bp5-002-R": {
         "card_no": "PL!-bp5-002-R",
@@ -57952,11 +57952,11 @@
                 "name": "南 ことり"
             },
             {
-                "card_no": "PL!-bp5-003-SEC",
+                "card_no": "PL!-bp5-003-AR",
                 "name": "南 ことり"
             },
             {
-                "card_no": "PL!-bp5-003-AR",
+                "card_no": "PL!-bp5-003-SEC",
                 "name": "南 ことり"
             }
         ],
@@ -57992,55 +57992,15 @@
                 "name": "南 ことり"
             },
             {
-                "card_no": "PL!-bp5-003-SEC",
+                "card_no": "PL!-bp5-003-AR",
                 "name": "南 ことり"
             },
             {
-                "card_no": "PL!-bp5-003-AR",
+                "card_no": "PL!-bp5-003-SEC",
                 "name": "南 ことり"
             }
         ],
         "_img": "img/cards/BP05/PL!-bp5-003-P.png"
-    },
-    "PL!-bp5-003-SEC": {
-        "card_no": "PL!-bp5-003-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!-bp5-003-SEC.png",
-        "name": "南 ことり",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！",
-        "unit": "Printemps",
-        "cost": 11,
-        "base_heart": {
-            "heart03": 3,
-            "heart05": 1
-        },
-        "blade_heart": {
-            "b_heart03": 1
-        },
-        "blade": 4,
-        "rare": "SEC",
-        "ability": "{{jyouji.png|常時}}自分のステージに名前が異なるメンバーが3人以上いるかぎり、{{heart_03.png|heart03}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札を1枚控え室に置く：これにより控え室に置いたカードが『μ's』のカードの場合、自分のデッキの上からカードを4枚見る。その中からカードを2枚手札に加える。残りを控え室に置く。『μ's』のカード以外の場合、自分の控え室からライブカードを1枚手札に加える。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!-bp5-003-SEC",
-                "name": "南 ことり"
-            },
-            {
-                "card_no": "PL!-bp5-003-R＋",
-                "name": "南 ことり"
-            },
-            {
-                "card_no": "PL!-bp5-003-P",
-                "name": "南 ことり"
-            },
-            {
-                "card_no": "PL!-bp5-003-AR",
-                "name": "南 ことり"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!-bp5-003-SEC.png"
     },
     "PL!-bp5-003-AR": {
         "card_no": "PL!-bp5-003-AR",
@@ -58082,6 +58042,46 @@
         ],
         "_img": "img/cards/BP05/PL!-bp5-003-AR.png"
     },
+    "PL!-bp5-003-SEC": {
+        "card_no": "PL!-bp5-003-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!-bp5-003-SEC.png",
+        "name": "南 ことり",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 11,
+        "base_heart": {
+            "heart03": 3,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 4,
+        "rare": "SEC",
+        "ability": "{{jyouji.png|常時}}自分のステージに名前が異なるメンバーが3人以上いるかぎり、{{heart_03.png|heart03}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札を1枚控え室に置く：これにより控え室に置いたカードが『μ's』のカードの場合、自分のデッキの上からカードを4枚見る。その中からカードを2枚手札に加える。残りを控え室に置く。『μ's』のカード以外の場合、自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp5-003-SEC",
+                "name": "南 ことり"
+            },
+            {
+                "card_no": "PL!-bp5-003-R＋",
+                "name": "南 ことり"
+            },
+            {
+                "card_no": "PL!-bp5-003-P",
+                "name": "南 ことり"
+            },
+            {
+                "card_no": "PL!-bp5-003-AR",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!-bp5-003-SEC.png"
+    },
     "PL!-bp5-004-R＋": {
         "card_no": "PL!-bp5-004-R＋",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!-bp5-004-R2.png",
@@ -58113,11 +58113,11 @@
                 "name": "園田海未"
             },
             {
-                "card_no": "PL!-bp5-004-SEC",
+                "card_no": "PL!-bp5-004-AR",
                 "name": "園田海未"
             },
             {
-                "card_no": "PL!-bp5-004-AR",
+                "card_no": "PL!-bp5-004-SEC",
                 "name": "園田海未"
             }
         ],
@@ -58154,56 +58154,15 @@
                 "name": "園田海未"
             },
             {
-                "card_no": "PL!-bp5-004-SEC",
+                "card_no": "PL!-bp5-004-AR",
                 "name": "園田海未"
             },
             {
-                "card_no": "PL!-bp5-004-AR",
+                "card_no": "PL!-bp5-004-SEC",
                 "name": "園田海未"
             }
         ],
         "_img": "img/cards/BP05/PL!-bp5-004-P.png"
-    },
-    "PL!-bp5-004-SEC": {
-        "card_no": "PL!-bp5-004-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!-bp5-004-SEC.png",
-        "name": "園田海未",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！",
-        "unit": "lilywhite",
-        "cost": 13,
-        "base_heart": {
-            "heart01": 2,
-            "heart03": 2,
-            "heart06": 2
-        },
-        "blade_heart": {
-            "b_heart01": 1
-        },
-        "blade": 3,
-        "rare": "SEC",
-        "ability": "{{kidou.png|起動}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：相手のステージにいるコスト10以下のメンバー1人をウェイトにする。この能力を起動するためのコストは自分のステージにいるメンバーの中のグループ名1種類につき、{{icon_energy.png|E}}減る。\n{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードの中にブレードハートを持たないメンバーカードが3枚以上ある場合、ライブ終了時まで、{{icon_all.png|ハート}}を得る。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!-bp5-004-SEC",
-                "name": "園田海未"
-            },
-            {
-                "card_no": "PL!-bp5-004-R＋",
-                "name": "園田海未"
-            },
-            {
-                "card_no": "PL!-bp5-004-P",
-                "name": "園田海未"
-            },
-            {
-                "card_no": "PL!-bp5-004-AR",
-                "name": "園田海未"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!-bp5-004-SEC.png"
     },
     "PL!-bp5-004-AR": {
         "card_no": "PL!-bp5-004-AR",
@@ -58245,6 +58204,47 @@
             }
         ],
         "_img": "img/cards/BP05/PL!-bp5-004-AR.png"
+    },
+    "PL!-bp5-004-SEC": {
+        "card_no": "PL!-bp5-004-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!-bp5-004-SEC.png",
+        "name": "園田海未",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 3,
+        "rare": "SEC",
+        "ability": "{{kidou.png|起動}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}：相手のステージにいるコスト10以下のメンバー1人をウェイトにする。この能力を起動するためのコストは自分のステージにいるメンバーの中のグループ名1種類につき、{{icon_energy.png|E}}減る。\n{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードの中にブレードハートを持たないメンバーカードが3枚以上ある場合、ライブ終了時まで、{{icon_all.png|ハート}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp5-004-SEC",
+                "name": "園田海未"
+            },
+            {
+                "card_no": "PL!-bp5-004-R＋",
+                "name": "園田海未"
+            },
+            {
+                "card_no": "PL!-bp5-004-P",
+                "name": "園田海未"
+            },
+            {
+                "card_no": "PL!-bp5-004-AR",
+                "name": "園田海未"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!-bp5-004-SEC.png"
     },
     "PL!-bp5-005-R": {
         "card_no": "PL!-bp5-005-R",
@@ -59527,11 +59527,11 @@
                 "name": "高海千歌"
             },
             {
-                "card_no": "PL!S-bp5-001-SEC",
+                "card_no": "PL!S-bp5-001-AR",
                 "name": "高海千歌"
             },
             {
-                "card_no": "PL!S-bp5-001-AR",
+                "card_no": "PL!S-bp5-001-SEC",
                 "name": "高海千歌"
             }
         ],
@@ -59563,51 +59563,15 @@
                 "name": "高海千歌"
             },
             {
-                "card_no": "PL!S-bp5-001-SEC",
+                "card_no": "PL!S-bp5-001-AR",
                 "name": "高海千歌"
             },
             {
-                "card_no": "PL!S-bp5-001-AR",
+                "card_no": "PL!S-bp5-001-SEC",
                 "name": "高海千歌"
             }
         ],
         "_img": "img/cards/BP05/PL!S-bp5-001-P.png"
-    },
-    "PL!S-bp5-001-SEC": {
-        "card_no": "PL!S-bp5-001-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!S-bp5-001-SEC.png",
-        "name": "高海千歌",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！サンシャイン!!",
-        "unit": "CYaRon！",
-        "cost": 10,
-        "base_heart": {
-            "heart02": 4
-        },
-        "blade": 3,
-        "rare": "SEC",
-        "ability": "{{toujyou.png|登場}}能力を持たないメンバーからバトンタッチして登場した場合、カードを1枚引く。\n{{jyouji.png|常時}}能力を持たないメンバーカードを自分の手札から登場させるためのコストは1減る。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!S-bp5-001-SEC",
-                "name": "高海千歌"
-            },
-            {
-                "card_no": "PL!S-bp5-001-R＋",
-                "name": "高海千歌"
-            },
-            {
-                "card_no": "PL!S-bp5-001-P",
-                "name": "高海千歌"
-            },
-            {
-                "card_no": "PL!S-bp5-001-AR",
-                "name": "高海千歌"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!S-bp5-001-SEC.png"
     },
     "PL!S-bp5-001-AR": {
         "card_no": "PL!S-bp5-001-AR",
@@ -59645,6 +59609,42 @@
         ],
         "_img": "img/cards/BP05/PL!S-bp5-001-AR.png"
     },
+    "PL!S-bp5-001-SEC": {
+        "card_no": "PL!S-bp5-001-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!S-bp5-001-SEC.png",
+        "name": "高海千歌",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 10,
+        "base_heart": {
+            "heart02": 4
+        },
+        "blade": 3,
+        "rare": "SEC",
+        "ability": "{{toujyou.png|登場}}能力を持たないメンバーからバトンタッチして登場した場合、カードを1枚引く。\n{{jyouji.png|常時}}能力を持たないメンバーカードを自分の手札から登場させるためのコストは1減る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-bp5-001-SEC",
+                "name": "高海千歌"
+            },
+            {
+                "card_no": "PL!S-bp5-001-R＋",
+                "name": "高海千歌"
+            },
+            {
+                "card_no": "PL!S-bp5-001-P",
+                "name": "高海千歌"
+            },
+            {
+                "card_no": "PL!S-bp5-001-AR",
+                "name": "高海千歌"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!S-bp5-001-SEC.png"
+    },
     "PL!S-bp5-002-R＋": {
         "card_no": "PL!S-bp5-002-R＋",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!S-bp5-002-R2.png",
@@ -59673,11 +59673,11 @@
                 "name": "桜内梨子"
             },
             {
-                "card_no": "PL!S-bp5-002-SEC",
+                "card_no": "PL!S-bp5-002-AR",
                 "name": "桜内梨子"
             },
             {
-                "card_no": "PL!S-bp5-002-AR",
+                "card_no": "PL!S-bp5-002-SEC",
                 "name": "桜内梨子"
             }
         ],
@@ -59711,53 +59711,15 @@
                 "name": "桜内梨子"
             },
             {
-                "card_no": "PL!S-bp5-002-SEC",
+                "card_no": "PL!S-bp5-002-AR",
                 "name": "桜内梨子"
             },
             {
-                "card_no": "PL!S-bp5-002-AR",
+                "card_no": "PL!S-bp5-002-SEC",
                 "name": "桜内梨子"
             }
         ],
         "_img": "img/cards/BP05/PL!S-bp5-002-P.png"
-    },
-    "PL!S-bp5-002-SEC": {
-        "card_no": "PL!S-bp5-002-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!S-bp5-002-SEC.png",
-        "name": "桜内梨子",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！サンシャイン!!",
-        "unit": "GuiltyKiss",
-        "cost": 11,
-        "base_heart": {
-            "heart01": 2,
-            "heart04": 2,
-            "heart05": 2
-        },
-        "blade": 2,
-        "rare": "SEC",
-        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のステージの右サイドエリアと左サイドエリアにいるメンバーのコストが同じ場合、相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数が3つ以下のすべてのメンバーをウェイトにする。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!S-bp5-002-SEC",
-                "name": "桜内梨子"
-            },
-            {
-                "card_no": "PL!S-bp5-002-R＋",
-                "name": "桜内梨子"
-            },
-            {
-                "card_no": "PL!S-bp5-002-P",
-                "name": "桜内梨子"
-            },
-            {
-                "card_no": "PL!S-bp5-002-AR",
-                "name": "桜内梨子"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!S-bp5-002-SEC.png"
     },
     "PL!S-bp5-002-AR": {
         "card_no": "PL!S-bp5-002-AR",
@@ -59796,6 +59758,44 @@
             }
         ],
         "_img": "img/cards/BP05/PL!S-bp5-002-AR.png"
+    },
+    "PL!S-bp5-002-SEC": {
+        "card_no": "PL!S-bp5-002-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!S-bp5-002-SEC.png",
+        "name": "桜内梨子",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "GuiltyKiss",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 2,
+            "heart04": 2,
+            "heart05": 2
+        },
+        "blade": 2,
+        "rare": "SEC",
+        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のステージの右サイドエリアと左サイドエリアにいるメンバーのコストが同じ場合、相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数が3つ以下のすべてのメンバーをウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-bp5-002-SEC",
+                "name": "桜内梨子"
+            },
+            {
+                "card_no": "PL!S-bp5-002-R＋",
+                "name": "桜内梨子"
+            },
+            {
+                "card_no": "PL!S-bp5-002-P",
+                "name": "桜内梨子"
+            },
+            {
+                "card_no": "PL!S-bp5-002-AR",
+                "name": "桜内梨子"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!S-bp5-002-SEC.png"
     },
     "PL!S-bp5-003-R": {
         "card_no": "PL!S-bp5-003-R",
@@ -60040,11 +60040,11 @@
                 "name": "渡辺 曜"
             },
             {
-                "card_no": "PL!S-bp5-005-SEC",
+                "card_no": "PL!S-bp5-005-AR",
                 "name": "渡辺 曜"
             },
             {
-                "card_no": "PL!S-bp5-005-AR",
+                "card_no": "PL!S-bp5-005-SEC",
                 "name": "渡辺 曜"
             }
         ],
@@ -60077,52 +60077,15 @@
                 "name": "渡辺 曜"
             },
             {
-                "card_no": "PL!S-bp5-005-SEC",
+                "card_no": "PL!S-bp5-005-AR",
                 "name": "渡辺 曜"
             },
             {
-                "card_no": "PL!S-bp5-005-AR",
+                "card_no": "PL!S-bp5-005-SEC",
                 "name": "渡辺 曜"
             }
         ],
         "_img": "img/cards/BP05/PL!S-bp5-005-P.png"
-    },
-    "PL!S-bp5-005-SEC": {
-        "card_no": "PL!S-bp5-005-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!S-bp5-005-SEC.png",
-        "name": "渡辺 曜",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！サンシャイン!!",
-        "unit": "CYaRon！",
-        "cost": 4,
-        "base_heart": {
-            "heart03": 1,
-            "heart04": 1,
-            "heart05": 1
-        },
-        "rare": "SEC",
-        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：{{heart_03.png|heart03}}か{{heart_04.png|heart04}}か{{heart_05.png|heart05}}のうち、1つを選ぶ。ライブ終了時まで、自分のステージにいるこのターンに登場したメンバーのうち、『Aqours』以外のすべてのメンバーは選んだハートを1つ得る。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!S-bp5-005-SEC",
-                "name": "渡辺 曜"
-            },
-            {
-                "card_no": "PL!S-bp5-005-R＋",
-                "name": "渡辺 曜"
-            },
-            {
-                "card_no": "PL!S-bp5-005-P",
-                "name": "渡辺 曜"
-            },
-            {
-                "card_no": "PL!S-bp5-005-AR",
-                "name": "渡辺 曜"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!S-bp5-005-SEC.png"
     },
     "PL!S-bp5-005-AR": {
         "card_no": "PL!S-bp5-005-AR",
@@ -60160,6 +60123,43 @@
             }
         ],
         "_img": "img/cards/BP05/PL!S-bp5-005-AR.png"
+    },
+    "PL!S-bp5-005-SEC": {
+        "card_no": "PL!S-bp5-005-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!S-bp5-005-SEC.png",
+        "name": "渡辺 曜",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1,
+            "heart04": 1,
+            "heart05": 1
+        },
+        "rare": "SEC",
+        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：{{heart_03.png|heart03}}か{{heart_04.png|heart04}}か{{heart_05.png|heart05}}のうち、1つを選ぶ。ライブ終了時まで、自分のステージにいるこのターンに登場したメンバーのうち、『Aqours』以外のすべてのメンバーは選んだハートを1つ得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-bp5-005-SEC",
+                "name": "渡辺 曜"
+            },
+            {
+                "card_no": "PL!S-bp5-005-R＋",
+                "name": "渡辺 曜"
+            },
+            {
+                "card_no": "PL!S-bp5-005-P",
+                "name": "渡辺 曜"
+            },
+            {
+                "card_no": "PL!S-bp5-005-AR",
+                "name": "渡辺 曜"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!S-bp5-005-SEC.png"
     },
     "PL!S-bp5-006-R": {
         "card_no": "PL!S-bp5-006-R",
@@ -61363,11 +61363,11 @@
                 "name": "上原歩夢"
             },
             {
-                "card_no": "PL!N-bp5-001-SEC",
+                "card_no": "PL!N-bp5-001-AR",
                 "name": "上原歩夢"
             },
             {
-                "card_no": "PL!N-bp5-001-AR",
+                "card_no": "PL!N-bp5-001-SEC",
                 "name": "上原歩夢"
             }
         ],
@@ -61397,49 +61397,15 @@
                 "name": "上原歩夢"
             },
             {
-                "card_no": "PL!N-bp5-001-SEC",
+                "card_no": "PL!N-bp5-001-AR",
                 "name": "上原歩夢"
             },
             {
-                "card_no": "PL!N-bp5-001-AR",
+                "card_no": "PL!N-bp5-001-SEC",
                 "name": "上原歩夢"
             }
         ],
         "_img": "img/cards/BP05/PL!N-bp5-001-P.png"
-    },
-    "PL!N-bp5-001-SEC": {
-        "card_no": "PL!N-bp5-001-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!N-bp5-001-SEC.png",
-        "name": "上原歩夢",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
-        "unit": "A・ZU・NA",
-        "cost": 5,
-        "base_heart": {},
-        "blade": 4,
-        "rare": "SEC",
-        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードが持つブレードハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}、{{icon_all.png|ハート}}のうち、3種類以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。6種類以上ある場合、さらにライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!N-bp5-001-SEC",
-                "name": "上原歩夢"
-            },
-            {
-                "card_no": "PL!N-bp5-001-R＋",
-                "name": "上原歩夢"
-            },
-            {
-                "card_no": "PL!N-bp5-001-P",
-                "name": "上原歩夢"
-            },
-            {
-                "card_no": "PL!N-bp5-001-AR",
-                "name": "上原歩夢"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!N-bp5-001-SEC.png"
     },
     "PL!N-bp5-001-AR": {
         "card_no": "PL!N-bp5-001-AR",
@@ -61474,6 +61440,40 @@
             }
         ],
         "_img": "img/cards/BP05/PL!N-bp5-001-AR.png"
+    },
+    "PL!N-bp5-001-SEC": {
+        "card_no": "PL!N-bp5-001-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!N-bp5-001-SEC.png",
+        "name": "上原歩夢",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 5,
+        "base_heart": {},
+        "blade": 4,
+        "rare": "SEC",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードが持つブレードハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}、{{icon_all.png|ハート}}のうち、3種類以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}を得る。6種類以上ある場合、さらにライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp5-001-SEC",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-bp5-001-R＋",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-bp5-001-P",
+                "name": "上原歩夢"
+            },
+            {
+                "card_no": "PL!N-bp5-001-AR",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!N-bp5-001-SEC.png"
     },
     "PL!N-bp5-002-R": {
         "card_no": "PL!N-bp5-002-R",
@@ -61826,11 +61826,11 @@
                 "name": "宮下 愛"
             },
             {
-                "card_no": "PL!N-bp5-005-SEC",
+                "card_no": "PL!N-bp5-005-AR",
                 "name": "宮下 愛"
             },
             {
-                "card_no": "PL!N-bp5-005-AR",
+                "card_no": "PL!N-bp5-005-SEC",
                 "name": "宮下 愛"
             }
         ],
@@ -61863,52 +61863,15 @@
                 "name": "宮下 愛"
             },
             {
-                "card_no": "PL!N-bp5-005-SEC",
+                "card_no": "PL!N-bp5-005-AR",
                 "name": "宮下 愛"
             },
             {
-                "card_no": "PL!N-bp5-005-AR",
+                "card_no": "PL!N-bp5-005-SEC",
                 "name": "宮下 愛"
             }
         ],
         "_img": "img/cards/BP05/PL!N-bp5-005-P.png"
-    },
-    "PL!N-bp5-005-SEC": {
-        "card_no": "PL!N-bp5-005-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!N-bp5-005-SEC.png",
-        "name": "宮下 愛",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
-        "unit": "DiverDiva",
-        "cost": 9,
-        "base_heart": {
-            "heart02": 1,
-            "heart05": 1
-        },
-        "blade": 4,
-        "rare": "SEC",
-        "ability": "{{jidou.png|自動}}このメンバーがステージから控え室に置かれたとき、このメンバーがコスト10以上のブレードハートを持たない『虹ヶ咲』のメンバーとバトンタッチしていた場合、エネルギーを2枚アクティブにする。コスト15以上のブレードハートを持たない『虹ヶ咲』のメンバーの場合、さらにカードを1枚引く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!N-bp5-005-SEC",
-                "name": "宮下 愛"
-            },
-            {
-                "card_no": "PL!N-bp5-005-R＋",
-                "name": "宮下 愛"
-            },
-            {
-                "card_no": "PL!N-bp5-005-P",
-                "name": "宮下 愛"
-            },
-            {
-                "card_no": "PL!N-bp5-005-AR",
-                "name": "宮下 愛"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!N-bp5-005-SEC.png"
     },
     "PL!N-bp5-005-AR": {
         "card_no": "PL!N-bp5-005-AR",
@@ -61946,6 +61909,43 @@
             }
         ],
         "_img": "img/cards/BP05/PL!N-bp5-005-AR.png"
+    },
+    "PL!N-bp5-005-SEC": {
+        "card_no": "PL!N-bp5-005-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!N-bp5-005-SEC.png",
+        "name": "宮下 愛",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "DiverDiva",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart05": 1
+        },
+        "blade": 4,
+        "rare": "SEC",
+        "ability": "{{jidou.png|自動}}このメンバーがステージから控え室に置かれたとき、このメンバーがコスト10以上のブレードハートを持たない『虹ヶ咲』のメンバーとバトンタッチしていた場合、エネルギーを2枚アクティブにする。コスト15以上のブレードハートを持たない『虹ヶ咲』のメンバーの場合、さらにカードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp5-005-SEC",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-bp5-005-R＋",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-bp5-005-P",
+                "name": "宮下 愛"
+            },
+            {
+                "card_no": "PL!N-bp5-005-AR",
+                "name": "宮下 愛"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!N-bp5-005-SEC.png"
     },
     "PL!N-bp5-006-R": {
         "card_no": "PL!N-bp5-006-R",
@@ -62087,11 +62087,11 @@
                 "name": "優木せつ菜"
             },
             {
-                "card_no": "PL!N-bp5-007-SEC",
+                "card_no": "PL!N-bp5-007-AR",
                 "name": "優木せつ菜"
             },
             {
-                "card_no": "PL!N-bp5-007-AR",
+                "card_no": "PL!N-bp5-007-SEC",
                 "name": "優木せつ菜"
             }
         ],
@@ -62123,51 +62123,15 @@
                 "name": "優木せつ菜"
             },
             {
-                "card_no": "PL!N-bp5-007-SEC",
+                "card_no": "PL!N-bp5-007-AR",
                 "name": "優木せつ菜"
             },
             {
-                "card_no": "PL!N-bp5-007-AR",
+                "card_no": "PL!N-bp5-007-SEC",
                 "name": "優木せつ菜"
             }
         ],
         "_img": "img/cards/BP05/PL!N-bp5-007-P.png"
-    },
-    "PL!N-bp5-007-SEC": {
-        "card_no": "PL!N-bp5-007-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!N-bp5-007-SEC.png",
-        "name": "優木せつ菜",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
-        "unit": "A・ZU・NA",
-        "cost": 7,
-        "base_heart": {
-            "heart02": 2
-        },
-        "blade": 2,
-        "rare": "SEC",
-        "ability": "{{live_start.png|ライブ開始時}}自分と相手の成功ライブカード置き場にあるカードの枚数が同じ場合、ライブ終了時まで、{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{live_success.png|ライブ成功時}}自分が余剰ハートを1つ以上持っている場合、カードを2枚引き、手札を1枚控え室に置く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!N-bp5-007-SEC",
-                "name": "優木せつ菜"
-            },
-            {
-                "card_no": "PL!N-bp5-007-R＋",
-                "name": "優木せつ菜"
-            },
-            {
-                "card_no": "PL!N-bp5-007-P",
-                "name": "優木せつ菜"
-            },
-            {
-                "card_no": "PL!N-bp5-007-AR",
-                "name": "優木せつ菜"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!N-bp5-007-SEC.png"
     },
     "PL!N-bp5-007-AR": {
         "card_no": "PL!N-bp5-007-AR",
@@ -62204,6 +62168,42 @@
             }
         ],
         "_img": "img/cards/BP05/PL!N-bp5-007-AR.png"
+    },
+    "PL!N-bp5-007-SEC": {
+        "card_no": "PL!N-bp5-007-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!N-bp5-007-SEC.png",
+        "name": "優木せつ菜",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 2
+        },
+        "blade": 2,
+        "rare": "SEC",
+        "ability": "{{live_start.png|ライブ開始時}}自分と相手の成功ライブカード置き場にあるカードの枚数が同じ場合、ライブ終了時まで、{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{live_success.png|ライブ成功時}}自分が余剰ハートを1つ以上持っている場合、カードを2枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp5-007-SEC",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp5-007-R＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp5-007-P",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-bp5-007-AR",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!N-bp5-007-SEC.png"
     },
     "PL!N-bp5-008-R": {
         "card_no": "PL!N-bp5-008-R",
@@ -62665,11 +62665,11 @@
                 "name": "鐘 嵐珠"
             },
             {
-                "card_no": "PL!N-bp5-012-SEC",
+                "card_no": "PL!N-bp5-012-AR",
                 "name": "鐘 嵐珠"
             },
             {
-                "card_no": "PL!N-bp5-012-AR",
+                "card_no": "PL!N-bp5-012-SEC",
                 "name": "鐘 嵐珠"
             }
         ],
@@ -62706,56 +62706,15 @@
                 "name": "鐘 嵐珠"
             },
             {
-                "card_no": "PL!N-bp5-012-SEC",
+                "card_no": "PL!N-bp5-012-AR",
                 "name": "鐘 嵐珠"
             },
             {
-                "card_no": "PL!N-bp5-012-AR",
+                "card_no": "PL!N-bp5-012-SEC",
                 "name": "鐘 嵐珠"
             }
         ],
         "_img": "img/cards/BP05/PL!N-bp5-012-P.png"
-    },
-    "PL!N-bp5-012-SEC": {
-        "card_no": "PL!N-bp5-012-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!N-bp5-012-SEC.png",
-        "name": "鐘 嵐珠",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
-        "unit": "R3BIRTH",
-        "cost": 13,
-        "base_heart": {
-            "heart01": 2,
-            "heart02": 2,
-            "heart06": 1
-        },
-        "blade_heart": {
-            "b_heart01": 1
-        },
-        "blade": 4,
-        "rare": "SEC",
-        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}エネルギー置き場にあるエネルギー1枚をこのメンバーの下に置く：カードを1枚引き、ライブ終了時まで、{{heart_01.png|heart01}}を得る。\n{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、自分のエネルギーデッキから、このメンバーの下にあるエネルギーカードの枚数に1を足した枚数のエネルギーカードをウェイト状態で置く。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!N-bp5-012-SEC",
-                "name": "鐘 嵐珠"
-            },
-            {
-                "card_no": "PL!N-bp5-012-R＋",
-                "name": "鐘 嵐珠"
-            },
-            {
-                "card_no": "PL!N-bp5-012-P",
-                "name": "鐘 嵐珠"
-            },
-            {
-                "card_no": "PL!N-bp5-012-AR",
-                "name": "鐘 嵐珠"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!N-bp5-012-SEC.png"
     },
     "PL!N-bp5-012-AR": {
         "card_no": "PL!N-bp5-012-AR",
@@ -62797,6 +62756,47 @@
             }
         ],
         "_img": "img/cards/BP05/PL!N-bp5-012-AR.png"
+    },
+    "PL!N-bp5-012-SEC": {
+        "card_no": "PL!N-bp5-012-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!N-bp5-012-SEC.png",
+        "name": "鐘 嵐珠",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart02": 2,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 4,
+        "rare": "SEC",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}エネルギー置き場にあるエネルギー1枚をこのメンバーの下に置く：カードを1枚引き、ライブ終了時まで、{{heart_01.png|heart01}}を得る。\n{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、自分のエネルギーデッキから、このメンバーの下にあるエネルギーカードの枚数に1を足した枚数のエネルギーカードをウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-bp5-012-SEC",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-bp5-012-R＋",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-bp5-012-P",
+                "name": "鐘 嵐珠"
+            },
+            {
+                "card_no": "PL!N-bp5-012-AR",
+                "name": "鐘 嵐珠"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!N-bp5-012-SEC.png"
     },
     "PL!N-bp5-013-N": {
         "card_no": "PL!N-bp5-013-N",
@@ -63890,11 +63890,11 @@
                 "name": "澁谷かのん"
             },
             {
-                "card_no": "PL!SP-bp5-001-SEC",
+                "card_no": "PL!SP-bp5-001-AR",
                 "name": "澁谷かのん"
             },
             {
-                "card_no": "PL!SP-bp5-001-AR",
+                "card_no": "PL!SP-bp5-001-SEC",
                 "name": "澁谷かのん"
             }
         ],
@@ -63929,54 +63929,15 @@
                 "name": "澁谷かのん"
             },
             {
-                "card_no": "PL!SP-bp5-001-SEC",
+                "card_no": "PL!SP-bp5-001-AR",
                 "name": "澁谷かのん"
             },
             {
-                "card_no": "PL!SP-bp5-001-AR",
+                "card_no": "PL!SP-bp5-001-SEC",
                 "name": "澁谷かのん"
             }
         ],
         "_img": "img/cards/BP05/PL!SP-bp5-001-P.png"
-    },
-    "PL!SP-bp5-001-SEC": {
-        "card_no": "PL!SP-bp5-001-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-001-SEC.png",
-        "name": "澁谷かのん",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "CatChu!",
-        "cost": 10,
-        "base_heart": {
-            "heart01": 1,
-            "heart02": 2,
-            "heart03": 1,
-            "heart06": 1
-        },
-        "blade": 2,
-        "rare": "SEC",
-        "ability": "{{toujyou.png|登場}}/{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：以下から1つを選ぶ。\n・相手のステージにいるコスト4以下のメンバー1人をウェイトにする。\n・カードを1枚引く。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバーをウェイトにするか、手札を1枚控え室に置く：エネルギーを1枚アクティブにする。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-bp5-001-SEC",
-                "name": "澁谷かのん"
-            },
-            {
-                "card_no": "PL!SP-bp5-001-R＋",
-                "name": "澁谷かのん"
-            },
-            {
-                "card_no": "PL!SP-bp5-001-P",
-                "name": "澁谷かのん"
-            },
-            {
-                "card_no": "PL!SP-bp5-001-AR",
-                "name": "澁谷かのん"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!SP-bp5-001-SEC.png"
     },
     "PL!SP-bp5-001-AR": {
         "card_no": "PL!SP-bp5-001-AR",
@@ -64017,6 +63978,45 @@
         ],
         "_img": "img/cards/BP05/PL!SP-bp5-001-AR.png"
     },
+    "PL!SP-bp5-001-SEC": {
+        "card_no": "PL!SP-bp5-001-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-001-SEC.png",
+        "name": "澁谷かのん",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 10,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "SEC",
+        "ability": "{{toujyou.png|登場}}/{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：以下から1つを選ぶ。\n・相手のステージにいるコスト4以下のメンバー1人をウェイトにする。\n・カードを1枚引く。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバーをウェイトにするか、手札を1枚控え室に置く：エネルギーを1枚アクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp5-001-SEC",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-bp5-001-R＋",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-bp5-001-P",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-bp5-001-AR",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!SP-bp5-001-SEC.png"
+    },
     "PL!SP-bp5-002-R＋": {
         "card_no": "PL!SP-bp5-002-R＋",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-002-R2.png",
@@ -64048,11 +64048,11 @@
                 "name": "唐 可可"
             },
             {
-                "card_no": "PL!SP-bp5-002-SEC",
+                "card_no": "PL!SP-bp5-002-AR",
                 "name": "唐 可可"
             },
             {
-                "card_no": "PL!SP-bp5-002-AR",
+                "card_no": "PL!SP-bp5-002-SEC",
                 "name": "唐 可可"
             }
         ],
@@ -64089,56 +64089,15 @@
                 "name": "唐 可可"
             },
             {
-                "card_no": "PL!SP-bp5-002-SEC",
+                "card_no": "PL!SP-bp5-002-AR",
                 "name": "唐 可可"
             },
             {
-                "card_no": "PL!SP-bp5-002-AR",
+                "card_no": "PL!SP-bp5-002-SEC",
                 "name": "唐 可可"
             }
         ],
         "_img": "img/cards/BP05/PL!SP-bp5-002-P.png"
-    },
-    "PL!SP-bp5-002-SEC": {
-        "card_no": "PL!SP-bp5-002-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-002-SEC.png",
-        "name": "唐 可可",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "KALEIDOSCORE",
-        "cost": 13,
-        "base_heart": {
-            "heart03": 2,
-            "heart04": 2,
-            "heart06": 2
-        },
-        "blade_heart": {
-            "b_heart06": 1
-        },
-        "blade": 3,
-        "rare": "SEC",
-        "ability": "{{kidou.png|起動}}【左サイド】{{turn1.png|ターン1回}}このメンバーをウェイトにする：カードを3枚引き、手札を2枚控え室に置く。これにより控え室に置いたカードの中にブレードハートを持たないメンバーカードが1枚以上ある場合、このメンバーをアクティブにする。2枚ある場合、さらにライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-bp5-002-SEC",
-                "name": "唐 可可"
-            },
-            {
-                "card_no": "PL!SP-bp5-002-R＋",
-                "name": "唐 可可"
-            },
-            {
-                "card_no": "PL!SP-bp5-002-P",
-                "name": "唐 可可"
-            },
-            {
-                "card_no": "PL!SP-bp5-002-AR",
-                "name": "唐 可可"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!SP-bp5-002-SEC.png"
     },
     "PL!SP-bp5-002-AR": {
         "card_no": "PL!SP-bp5-002-AR",
@@ -64181,6 +64140,47 @@
         ],
         "_img": "img/cards/BP05/PL!SP-bp5-002-AR.png"
     },
+    "PL!SP-bp5-002-SEC": {
+        "card_no": "PL!SP-bp5-002-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-002-SEC.png",
+        "name": "唐 可可",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 13,
+        "base_heart": {
+            "heart03": 2,
+            "heart04": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 3,
+        "rare": "SEC",
+        "ability": "{{kidou.png|起動}}【左サイド】{{turn1.png|ターン1回}}このメンバーをウェイトにする：カードを3枚引き、手札を2枚控え室に置く。これにより控え室に置いたカードの中にブレードハートを持たないメンバーカードが1枚以上ある場合、このメンバーをアクティブにする。2枚ある場合、さらにライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp5-002-SEC",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-bp5-002-R＋",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-bp5-002-P",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-bp5-002-AR",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!SP-bp5-002-SEC.png"
+    },
     "PL!SP-bp5-003-R＋": {
         "card_no": "PL!SP-bp5-003-R＋",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-003-R2.png",
@@ -64212,11 +64212,11 @@
                 "name": "嵐 千砂都"
             },
             {
-                "card_no": "PL!SP-bp5-003-SEC",
+                "card_no": "PL!SP-bp5-003-AR",
                 "name": "嵐 千砂都"
             },
             {
-                "card_no": "PL!SP-bp5-003-AR",
+                "card_no": "PL!SP-bp5-003-SEC",
                 "name": "嵐 千砂都"
             }
         ],
@@ -64253,56 +64253,15 @@
                 "name": "嵐 千砂都"
             },
             {
-                "card_no": "PL!SP-bp5-003-SEC",
+                "card_no": "PL!SP-bp5-003-AR",
                 "name": "嵐 千砂都"
             },
             {
-                "card_no": "PL!SP-bp5-003-AR",
+                "card_no": "PL!SP-bp5-003-SEC",
                 "name": "嵐 千砂都"
             }
         ],
         "_img": "img/cards/BP05/PL!SP-bp5-003-P.png"
-    },
-    "PL!SP-bp5-003-SEC": {
-        "card_no": "PL!SP-bp5-003-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-003-SEC.png",
-        "name": "嵐 千砂都",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "5yncri5e!",
-        "cost": 17,
-        "base_heart": {
-            "heart02": 2,
-            "heart03": 2,
-            "heart06": 2
-        },
-        "blade_heart": {
-            "b_heart03": 1
-        },
-        "blade": 5,
-        "rare": "SEC",
-        "ability": "{{jyouji.png|常時}}コスト10の『Liella!』のメンバーカードを自分の手札から登場させるためのコストは2減る。\n{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のステージにいるすべての『Liella!』のメンバーと、自分のすべてのエネルギーをアクティブにする。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-bp5-003-SEC",
-                "name": "嵐 千砂都"
-            },
-            {
-                "card_no": "PL!SP-bp5-003-R＋",
-                "name": "嵐 千砂都"
-            },
-            {
-                "card_no": "PL!SP-bp5-003-P",
-                "name": "嵐 千砂都"
-            },
-            {
-                "card_no": "PL!SP-bp5-003-AR",
-                "name": "嵐 千砂都"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!SP-bp5-003-SEC.png"
     },
     "PL!SP-bp5-003-AR": {
         "card_no": "PL!SP-bp5-003-AR",
@@ -64345,6 +64304,47 @@
         ],
         "_img": "img/cards/BP05/PL!SP-bp5-003-AR.png"
     },
+    "PL!SP-bp5-003-SEC": {
+        "card_no": "PL!SP-bp5-003-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-003-SEC.png",
+        "name": "嵐 千砂都",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 17,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 5,
+        "rare": "SEC",
+        "ability": "{{jyouji.png|常時}}コスト10の『Liella!』のメンバーカードを自分の手札から登場させるためのコストは2減る。\n{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のステージにいるすべての『Liella!』のメンバーと、自分のすべてのエネルギーをアクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp5-003-SEC",
+                "name": "嵐 千砂都"
+            },
+            {
+                "card_no": "PL!SP-bp5-003-R＋",
+                "name": "嵐 千砂都"
+            },
+            {
+                "card_no": "PL!SP-bp5-003-P",
+                "name": "嵐 千砂都"
+            },
+            {
+                "card_no": "PL!SP-bp5-003-AR",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!SP-bp5-003-SEC.png"
+    },
     "PL!SP-bp5-004-R＋": {
         "card_no": "PL!SP-bp5-004-R＋",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-004-R2.png",
@@ -64371,11 +64371,11 @@
                 "name": "平安名すみれ"
             },
             {
-                "card_no": "PL!SP-bp5-004-SEC",
+                "card_no": "PL!SP-bp5-004-AR",
                 "name": "平安名すみれ"
             },
             {
-                "card_no": "PL!SP-bp5-004-AR",
+                "card_no": "PL!SP-bp5-004-SEC",
                 "name": "平安名すみれ"
             }
         ],
@@ -64407,51 +64407,15 @@
                 "name": "平安名すみれ"
             },
             {
-                "card_no": "PL!SP-bp5-004-SEC",
+                "card_no": "PL!SP-bp5-004-AR",
                 "name": "平安名すみれ"
             },
             {
-                "card_no": "PL!SP-bp5-004-AR",
+                "card_no": "PL!SP-bp5-004-SEC",
                 "name": "平安名すみれ"
             }
         ],
         "_img": "img/cards/BP05/PL!SP-bp5-004-P.png"
-    },
-    "PL!SP-bp5-004-SEC": {
-        "card_no": "PL!SP-bp5-004-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-004-SEC.png",
-        "name": "平安名すみれ",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "CatChu!",
-        "cost": 2,
-        "base_heart": {
-            "heart02": 1
-        },
-        "blade": 2,
-        "rare": "SEC",
-        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のカードの効果によって、このメンバーがエリアを移動するか自分のエネルギー置き場にエネルギーが置かれたとき、カードを1枚引き、ライブ終了時まで、{{heart_02.png|heart02}}を得る。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-bp5-004-SEC",
-                "name": "平安名すみれ"
-            },
-            {
-                "card_no": "PL!SP-bp5-004-R＋",
-                "name": "平安名すみれ"
-            },
-            {
-                "card_no": "PL!SP-bp5-004-P",
-                "name": "平安名すみれ"
-            },
-            {
-                "card_no": "PL!SP-bp5-004-AR",
-                "name": "平安名すみれ"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!SP-bp5-004-SEC.png"
     },
     "PL!SP-bp5-004-AR": {
         "card_no": "PL!SP-bp5-004-AR",
@@ -64489,6 +64453,42 @@
         ],
         "_img": "img/cards/BP05/PL!SP-bp5-004-AR.png"
     },
+    "PL!SP-bp5-004-SEC": {
+        "card_no": "PL!SP-bp5-004-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-004-SEC.png",
+        "name": "平安名すみれ",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade": 2,
+        "rare": "SEC",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のカードの効果によって、このメンバーがエリアを移動するか自分のエネルギー置き場にエネルギーが置かれたとき、カードを1枚引き、ライブ終了時まで、{{heart_02.png|heart02}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp5-004-SEC",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp5-004-R＋",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp5-004-P",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-bp5-004-AR",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!SP-bp5-004-SEC.png"
+    },
     "PL!SP-bp5-005-R＋": {
         "card_no": "PL!SP-bp5-005-R＋",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-005-R2.png",
@@ -64520,11 +64520,11 @@
                 "name": "葉月 恋"
             },
             {
-                "card_no": "PL!SP-bp5-005-SEC",
+                "card_no": "PL!SP-bp5-005-AR",
                 "name": "葉月 恋"
             },
             {
-                "card_no": "PL!SP-bp5-005-AR",
+                "card_no": "PL!SP-bp5-005-SEC",
                 "name": "葉月 恋"
             }
         ],
@@ -64561,56 +64561,15 @@
                 "name": "葉月 恋"
             },
             {
-                "card_no": "PL!SP-bp5-005-SEC",
+                "card_no": "PL!SP-bp5-005-AR",
                 "name": "葉月 恋"
             },
             {
-                "card_no": "PL!SP-bp5-005-AR",
+                "card_no": "PL!SP-bp5-005-SEC",
                 "name": "葉月 恋"
             }
         ],
         "_img": "img/cards/BP05/PL!SP-bp5-005-P.png"
-    },
-    "PL!SP-bp5-005-SEC": {
-        "card_no": "PL!SP-bp5-005-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-005-SEC.png",
-        "name": "葉月 恋",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "ラブライブ！スーパースター!!",
-        "unit": "KALEIDOSCORE",
-        "cost": 11,
-        "base_heart": {
-            "heart02": 1,
-            "heart03": 2,
-            "heart06": 2
-        },
-        "blade_heart": {
-            "b_heart06": 1
-        },
-        "blade": 1,
-        "rare": "SEC",
-        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}デッキの上からカードを3枚控え室に置く：ライブ終了時まで、これにより控え室に置いた『Liella!』のメンバーカード1枚につき、{{icon_blade.png|ブレード}}を得る。\n{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のメインフェイズの間、自分のカードが1枚以上いずれかの領域から控え室に置かれるたび、{{icon_energy.png|E}}支払ってもよい。そうした場合、それらのカードの中から1枚手札に加える。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!SP-bp5-005-SEC",
-                "name": "葉月 恋"
-            },
-            {
-                "card_no": "PL!SP-bp5-005-R＋",
-                "name": "葉月 恋"
-            },
-            {
-                "card_no": "PL!SP-bp5-005-P",
-                "name": "葉月 恋"
-            },
-            {
-                "card_no": "PL!SP-bp5-005-AR",
-                "name": "葉月 恋"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!SP-bp5-005-SEC.png"
     },
     "PL!SP-bp5-005-AR": {
         "card_no": "PL!SP-bp5-005-AR",
@@ -64652,6 +64611,47 @@
             }
         ],
         "_img": "img/cards/BP05/PL!SP-bp5-005-AR.png"
+    },
+    "PL!SP-bp5-005-SEC": {
+        "card_no": "PL!SP-bp5-005-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!SP-bp5-005-SEC.png",
+        "name": "葉月 恋",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "SEC",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}デッキの上からカードを3枚控え室に置く：ライブ終了時まで、これにより控え室に置いた『Liella!』のメンバーカード1枚につき、{{icon_blade.png|ブレード}}を得る。\n{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のメインフェイズの間、自分のカードが1枚以上いずれかの領域から控え室に置かれるたび、{{icon_energy.png|E}}支払ってもよい。そうした場合、それらのカードの中から1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp5-005-SEC",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp5-005-R＋",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp5-005-P",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-bp5-005-AR",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!SP-bp5-005-SEC.png"
     },
     "PL!SP-bp5-006-R": {
         "card_no": "PL!SP-bp5-006-R",
@@ -66236,11 +66236,11 @@
                 "name": "日野下花帆"
             },
             {
-                "card_no": "PL!HS-bp5-001-SEC",
+                "card_no": "PL!HS-bp5-001-AR",
                 "name": "日野下花帆"
             },
             {
-                "card_no": "PL!HS-bp5-001-AR",
+                "card_no": "PL!HS-bp5-001-SEC",
                 "name": "日野下花帆"
             }
         ],
@@ -66277,56 +66277,15 @@
                 "name": "日野下花帆"
             },
             {
-                "card_no": "PL!HS-bp5-001-SEC",
+                "card_no": "PL!HS-bp5-001-AR",
                 "name": "日野下花帆"
             },
             {
-                "card_no": "PL!HS-bp5-001-AR",
+                "card_no": "PL!HS-bp5-001-SEC",
                 "name": "日野下花帆"
             }
         ],
         "_img": "img/cards/BP05/PL!HS-bp5-001-P.png"
-    },
-    "PL!HS-bp5-001-SEC": {
-        "card_no": "PL!HS-bp5-001-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!HS-bp5-001-SEC.png",
-        "name": "日野下花帆",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "蓮ノ空女学院スクールアイドルクラブ",
-        "unit": "スリーズブーケ",
-        "cost": 11,
-        "base_heart": {
-            "heart01": 1,
-            "heart04": 2,
-            "heart05": 1
-        },
-        "blade_heart": {
-            "b_heart04": 1
-        },
-        "blade": 4,
-        "rare": "SEC",
-        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを4枚控え室に置く。それらの中にライブカードがある場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札のライブカードを1枚公開する：自分の控え室から、これにより公開したカードのカード名がすべて含まれるライブカードを1枚手札に加える。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!HS-bp5-001-SEC",
-                "name": "日野下花帆"
-            },
-            {
-                "card_no": "PL!HS-bp5-001-R＋",
-                "name": "日野下花帆"
-            },
-            {
-                "card_no": "PL!HS-bp5-001-P",
-                "name": "日野下花帆"
-            },
-            {
-                "card_no": "PL!HS-bp5-001-AR",
-                "name": "日野下花帆"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!HS-bp5-001-SEC.png"
     },
     "PL!HS-bp5-001-AR": {
         "card_no": "PL!HS-bp5-001-AR",
@@ -66369,6 +66328,47 @@
         ],
         "_img": "img/cards/BP05/PL!HS-bp5-001-AR.png"
     },
+    "PL!HS-bp5-001-SEC": {
+        "card_no": "PL!HS-bp5-001-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!HS-bp5-001-SEC.png",
+        "name": "日野下花帆",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "スリーズブーケ",
+        "cost": 11,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 2,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 4,
+        "rare": "SEC",
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを4枚控え室に置く。それらの中にライブカードがある場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}手札のライブカードを1枚公開する：自分の控え室から、これにより公開したカードのカード名がすべて含まれるライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-bp5-001-SEC",
+                "name": "日野下花帆"
+            },
+            {
+                "card_no": "PL!HS-bp5-001-R＋",
+                "name": "日野下花帆"
+            },
+            {
+                "card_no": "PL!HS-bp5-001-P",
+                "name": "日野下花帆"
+            },
+            {
+                "card_no": "PL!HS-bp5-001-AR",
+                "name": "日野下花帆"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!HS-bp5-001-SEC.png"
+    },
     "PL!HS-bp5-002-R＋": {
         "card_no": "PL!HS-bp5-002-R＋",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!HS-bp5-002-R2.png",
@@ -66401,11 +66401,11 @@
                 "name": "村野さやか"
             },
             {
-                "card_no": "PL!HS-bp5-002-SEC",
+                "card_no": "PL!HS-bp5-002-AR",
                 "name": "村野さやか"
             },
             {
-                "card_no": "PL!HS-bp5-002-AR",
+                "card_no": "PL!HS-bp5-002-SEC",
                 "name": "村野さやか"
             }
         ],
@@ -66443,57 +66443,15 @@
                 "name": "村野さやか"
             },
             {
-                "card_no": "PL!HS-bp5-002-SEC",
+                "card_no": "PL!HS-bp5-002-AR",
                 "name": "村野さやか"
             },
             {
-                "card_no": "PL!HS-bp5-002-AR",
+                "card_no": "PL!HS-bp5-002-SEC",
                 "name": "村野さやか"
             }
         ],
         "_img": "img/cards/BP05/PL!HS-bp5-002-P.png"
-    },
-    "PL!HS-bp5-002-SEC": {
-        "card_no": "PL!HS-bp5-002-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!HS-bp5-002-SEC.png",
-        "name": "村野さやか",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "蓮ノ空女学院スクールアイドルクラブ",
-        "unit": "DOLLCHESTRA",
-        "cost": 15,
-        "base_heart": {
-            "heart01": 1,
-            "heart04": 1,
-            "heart05": 3,
-            "heart06": 1
-        },
-        "blade_heart": {
-            "b_heart05": 1
-        },
-        "blade": 5,
-        "rare": "SEC",
-        "ability": "{{jyouji.png|常時}}自分のステージにコストがそれぞれ異なるメンバーが3人以上いるかぎり、{{heart_05.png|heart05}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からコスト2以下のメンバーカードを1枚、メンバーのいないエリアに登場させる。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!HS-bp5-002-SEC",
-                "name": "村野さやか"
-            },
-            {
-                "card_no": "PL!HS-bp5-002-R＋",
-                "name": "村野さやか"
-            },
-            {
-                "card_no": "PL!HS-bp5-002-P",
-                "name": "村野さやか"
-            },
-            {
-                "card_no": "PL!HS-bp5-002-AR",
-                "name": "村野さやか"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!HS-bp5-002-SEC.png"
     },
     "PL!HS-bp5-002-AR": {
         "card_no": "PL!HS-bp5-002-AR",
@@ -66537,6 +66495,48 @@
         ],
         "_img": "img/cards/BP05/PL!HS-bp5-002-AR.png"
     },
+    "PL!HS-bp5-002-SEC": {
+        "card_no": "PL!HS-bp5-002-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!HS-bp5-002-SEC.png",
+        "name": "村野さやか",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "DOLLCHESTRA",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 1,
+            "heart05": 3,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 5,
+        "rare": "SEC",
+        "ability": "{{jyouji.png|常時}}自分のステージにコストがそれぞれ異なるメンバーが3人以上いるかぎり、{{heart_05.png|heart05}}{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}{{icon_energy.png|E}}{{icon_energy.png|E}}：自分の控え室からコスト2以下のメンバーカードを1枚、メンバーのいないエリアに登場させる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-bp5-002-SEC",
+                "name": "村野さやか"
+            },
+            {
+                "card_no": "PL!HS-bp5-002-R＋",
+                "name": "村野さやか"
+            },
+            {
+                "card_no": "PL!HS-bp5-002-P",
+                "name": "村野さやか"
+            },
+            {
+                "card_no": "PL!HS-bp5-002-AR",
+                "name": "村野さやか"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!HS-bp5-002-SEC.png"
+    },
     "PL!HS-bp5-003-R＋": {
         "card_no": "PL!HS-bp5-003-R＋",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!HS-bp5-003-R2.png",
@@ -66566,11 +66566,11 @@
                 "name": "大沢瑠璃乃"
             },
             {
-                "card_no": "PL!HS-bp5-003-SEC",
+                "card_no": "PL!HS-bp5-003-AR",
                 "name": "大沢瑠璃乃"
             },
             {
-                "card_no": "PL!HS-bp5-003-AR",
+                "card_no": "PL!HS-bp5-003-SEC",
                 "name": "大沢瑠璃乃"
             }
         ],
@@ -66605,54 +66605,15 @@
                 "name": "大沢瑠璃乃"
             },
             {
-                "card_no": "PL!HS-bp5-003-SEC",
+                "card_no": "PL!HS-bp5-003-AR",
                 "name": "大沢瑠璃乃"
             },
             {
-                "card_no": "PL!HS-bp5-003-AR",
+                "card_no": "PL!HS-bp5-003-SEC",
                 "name": "大沢瑠璃乃"
             }
         ],
         "_img": "img/cards/BP05/PL!HS-bp5-003-P.png"
-    },
-    "PL!HS-bp5-003-SEC": {
-        "card_no": "PL!HS-bp5-003-SEC",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!HS-bp5-003-SEC.png",
-        "name": "大沢瑠璃乃",
-        "product": "ブースターパックAnniversary2026",
-        "type": "メンバー",
-        "series": "蓮ノ空女学院スクールアイドルクラブ",
-        "unit": "みらくらぱーく！",
-        "cost": 2,
-        "base_heart": {
-            "heart01": 1
-        },
-        "blade_heart": {
-            "b_heart01": 1
-        },
-        "blade": 1,
-        "rare": "SEC",
-        "ability": "{{jidou.png|自動}}このメンバーがステージから控え室に置かれたとき、メンバー1人をポジションチェンジさせてもよい。\n{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、これにより控え室に置いたカードと同じグループ名を持つメンバー1人は、{{heart_01.png|heart01}}を得る。",
-        "faq": [],
-        "rare_list": [
-            {
-                "card_no": "PL!HS-bp5-003-SEC",
-                "name": "大沢瑠璃乃"
-            },
-            {
-                "card_no": "PL!HS-bp5-003-R＋",
-                "name": "大沢瑠璃乃"
-            },
-            {
-                "card_no": "PL!HS-bp5-003-P",
-                "name": "大沢瑠璃乃"
-            },
-            {
-                "card_no": "PL!HS-bp5-003-AR",
-                "name": "大沢瑠璃乃"
-            }
-        ],
-        "_img": "img/cards/BP05/PL!HS-bp5-003-SEC.png"
     },
     "PL!HS-bp5-003-AR": {
         "card_no": "PL!HS-bp5-003-AR",
@@ -66692,6 +66653,45 @@
             }
         ],
         "_img": "img/cards/BP05/PL!HS-bp5-003-AR.png"
+    },
+    "PL!HS-bp5-003-SEC": {
+        "card_no": "PL!HS-bp5-003-SEC",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP05/PL!HS-bp5-003-SEC.png",
+        "name": "大沢瑠璃乃",
+        "product": "ブースターパックAnniversary2026",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "みらくらぱーく！",
+        "cost": 2,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 1,
+        "rare": "SEC",
+        "ability": "{{jidou.png|自動}}このメンバーがステージから控え室に置かれたとき、メンバー1人をポジションチェンジさせてもよい。\n{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、これにより控え室に置いたカードと同じグループ名を持つメンバー1人は、{{heart_01.png|heart01}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-bp5-003-SEC",
+                "name": "大沢瑠璃乃"
+            },
+            {
+                "card_no": "PL!HS-bp5-003-R＋",
+                "name": "大沢瑠璃乃"
+            },
+            {
+                "card_no": "PL!HS-bp5-003-P",
+                "name": "大沢瑠璃乃"
+            },
+            {
+                "card_no": "PL!HS-bp5-003-AR",
+                "name": "大沢瑠璃乃"
+            }
+        ],
+        "_img": "img/cards/BP05/PL!HS-bp5-003-SEC.png"
     },
     "PL!HS-bp5-004-R": {
         "card_no": "PL!HS-bp5-004-R",
@@ -68081,6 +68081,7 @@
         "name": "綺羅ツバサ",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "A-RISE",
         "cost": 11,
         "base_heart": {
             "heart03": 1,
@@ -68111,6 +68112,7 @@
         "name": "綺羅ツバサ",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "A-RISE",
         "cost": 11,
         "base_heart": {
             "heart03": 1,
@@ -68141,6 +68143,7 @@
         "name": "優木あんじゅ",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "A-RISE",
         "cost": 4,
         "base_heart": {
             "heart01": 1
@@ -68170,6 +68173,7 @@
         "name": "優木あんじゅ",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "A-RISE",
         "cost": 4,
         "base_heart": {
             "heart01": 1
@@ -68199,6 +68203,7 @@
         "name": "統堂英玲奈",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "A-RISE",
         "cost": 7,
         "base_heart": {
             "heart05": 2,
@@ -68226,6 +68231,7 @@
         "name": "統堂英玲奈",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "A-RISE",
         "cost": 7,
         "base_heart": {
             "heart05": 2,
@@ -68306,6 +68312,7 @@
         "name": "鹿角聖良",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "SaintSnow",
         "cost": 4,
         "base_heart": {
             "heart06": 1
@@ -68335,6 +68342,7 @@
         "name": "鹿角聖良",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "SaintSnow",
         "cost": 4,
         "base_heart": {
             "heart06": 1
@@ -68364,6 +68372,7 @@
         "name": "鹿角理亞",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "SaintSnow",
         "cost": 11,
         "base_heart": {
             "heart05": 2,
@@ -68394,6 +68403,7 @@
         "name": "鹿角理亞",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "SaintSnow",
         "cost": 11,
         "base_heart": {
             "heart05": 2,
@@ -68468,6 +68478,7 @@
         "name": "柊摩央",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "SunnyPassion",
         "cost": 8,
         "base_heart": {
             "heart01": 1,
@@ -68496,6 +68507,7 @@
         "name": "柊摩央",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "SunnyPassion",
         "cost": 8,
         "base_heart": {
             "heart01": 1,
@@ -68524,6 +68536,7 @@
         "name": "聖澤悠奈",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "SunnyPassion",
         "cost": 8,
         "base_heart": {
             "heart01": 1,
@@ -68552,6 +68565,7 @@
         "name": "聖澤悠奈",
         "product": "ブースターパックAnniversary2026",
         "type": "メンバー",
+        "unit": "SunnyPassion",
         "cost": 8,
         "base_heart": {
             "heart01": 1,
