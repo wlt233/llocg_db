@@ -95,10 +95,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -119,24 +115,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -159,16 +143,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -304,20 +304,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -355,10 +355,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -379,24 +375,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -419,16 +403,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -923,14 +923,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -985,6 +977,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -1609,6 +1609,79 @@
         ],
         "_img": "img/cards/PR/PL!-PR-013-PR2.png"
     },
+    "PL!-PR-014-PR": {
+        "card_no": "PL!-PR-014-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-014-PR.png",
+        "name": "園田海未",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 2,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}相手の手札を、自分は見ないで3枚選び公開する。これにより公開されたカードの中にライブカードがない場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-014-PR",
+                "name": "園田海未"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-014-PR.png"
+    },
+    "PL!-PR-015-PR": {
+        "card_no": "PL!-PR-015-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-015-PR.png",
+        "name": "西木野真姫",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 17,
+        "base_heart": {
+            "heart03": 3,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}このメンバーよりコストが低いメンバーからバトンタッチして登場した場合、自分の手札からコスト4以下のメンバーカードを1枚ステージに登場させてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-015-PR",
+                "name": "西木野真姫"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-015-PR.png"
+    },
+    "PL!-PR-016-PR＋": {
+        "card_no": "PL!-PR-016-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-016-PR2.png",
+        "name": "園田海未",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-016-PR＋",
+                "name": "園田海未"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-016-PR2.png"
+    },
     "PL!-PR-017-PR": {
         "card_no": "PL!-PR-017-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-017-PR.png",
@@ -1989,14 +2062,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -2091,6 +2156,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -2222,14 +2295,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -2324,6 +2389,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -2375,14 +2448,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -2477,6 +2542,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -2622,10 +2695,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -2646,24 +2715,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -2686,16 +2743,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -2777,20 +2850,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -2828,10 +2901,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -2852,24 +2921,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -2892,16 +2949,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -2967,10 +3040,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -2991,24 +3060,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -3031,16 +3088,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -3318,6 +3391,60 @@
             }
         ],
         "_img": "img/cards/PR/PL!S-PR-038-PR.png"
+    },
+    "PL!S-PR-039-PR": {
+        "card_no": "PL!S-PR-039-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-039-PR.png",
+        "name": "渡辺 曜",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{jyouji.png|常時}}自分と相手の成功ライブカード置き場にカードが合計4枚以上あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-039-PR",
+                "name": "渡辺 曜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-039-PR.png"
+    },
+    "PL!S-PR-040-PR": {
+        "card_no": "PL!S-PR-040-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-040-PR.png",
+        "name": "国木田花丸",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "AZALEA",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1,
+            "heart04": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードの中に同じグループ名を持つメンバーカードが3枚以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}{{heart_04.png|heart04}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-040-PR",
+                "name": "国木田花丸"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-040-PR.png"
     },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
@@ -3797,20 +3924,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -3848,10 +3975,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -3872,24 +3995,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -3912,16 +4023,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -4055,20 +4182,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -4106,10 +4233,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -4130,24 +4253,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -4170,16 +4281,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -4286,20 +4413,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -4337,10 +4464,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -4361,24 +4484,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -4401,16 +4512,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -4559,6 +4686,84 @@
             }
         ],
         "_img": "img/cards/PR/PL!N-PR-021-PR.png"
+    },
+    "PL!N-PR-022-PR": {
+        "card_no": "PL!N-PR-022-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/SAMPLEPL!N-PR-022-PR.png",
+        "name": "エマ・ヴェルデ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 2,
+        "base_heart": {
+            "heart04": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}直前のターンに相手がライブをし、それが成功していない場合、相手にエマパンチ打つ？と聞いてもよい。\n回答がお願いしますの場合、自分は相手にエマパンチする。ライブ終了時まで、相手のステージにいるすべてのメンバーは、{{icon_blade.png|ブレード}}を得る。\n回答がそれ以外の場合、何もしない。\n（相手を傷つけないよう、やさしく、愛をこめて魔法のパンチをすること。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-022-PR",
+                "name": "エマ・ヴェルデ"
+            }
+        ],
+        "_img": "img/cards/PR/SAMPLEPL!N-PR-022-PR.png"
+    },
+    "PL!N-PR-023-PR": {
+        "card_no": "PL!N-PR-023-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-023-PR.png",
+        "name": "上原歩夢",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1,
+            "heart04": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードの中に同じグループ名を持つメンバーカードが3枚以上ある場合、ライブ終了時まで、{{heart_01.png|heart01}}{{heart_04.png|heart04}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-023-PR",
+                "name": "上原歩夢"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-023-PR.png"
+    },
+    "PL!N-PR-024-PR": {
+        "card_no": "PL!N-PR-024-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-024-PR.png",
+        "name": "桜坂しずく",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{jyouji.png|常時}}自分と相手の成功ライブカード置き場にカードが合計4枚以上あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-024-PR",
+                "name": "桜坂しずく"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-024-PR.png"
     },
     "PL!N-sd1-005-PRproteinbar": {
         "card_no": "PL!N-sd1-005-PRproteinbar",
@@ -5195,6 +5400,34 @@
         ],
         "_img": "img/cards/PR/PL!SP-PR-019-PR.png"
     },
+    "PL!SP-PR-020-PR": {
+        "card_no": "PL!SP-PR-020-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-020-PR.png",
+        "name": "桜小路きな子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 17,
+        "base_heart": {
+            "heart03": 3,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}このメンバーよりコストが低いメンバーからバトンタッチして登場した場合、自分の手札からコスト4以下のメンバーカードを1枚ステージに登場させてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-020-PR",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-020-PR.png"
+    },
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-002-PR.png",
@@ -5663,10 +5896,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -5687,24 +5916,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -5727,16 +5944,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -5925,14 +6158,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -6027,6 +6252,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -6111,14 +6344,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -6213,6 +6438,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -6493,6 +6726,22 @@
             }
         ],
         "_img": "img/cards/PR/LL-PR-004-PR.png"
+    },
+    "LL-PR-005-PR": {
+        "card_no": "LL-PR-005-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-005-PR.png",
+        "name": "高坂穂乃果＆渡辺 曜＆上原歩夢＆澁谷かのん＆日野下花帆",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-PR-005-PR",
+                "name": "高坂穂乃果＆渡辺 曜＆上原歩夢＆澁谷かのん＆日野下花帆"
+            }
+        ],
+        "_img": "img/cards/PR/LL-PR-005-PR.png"
     },
     "LL-PR-006-PR": {
         "card_no": "LL-PR-006-PR",
@@ -6872,10 +7121,6 @@
                         "name": "中須かすみ"
                     },
                     {
-                        "card_no": "PL!HS-bp1-002-R",
-                        "name": "村野さやか"
-                    },
-                    {
                         "card_no": "PL!SP-sd1-002-SD",
                         "name": "唐 可可"
                     },
@@ -6886,6 +7131,10 @@
                     {
                         "card_no": "PL!SP-pb1-011-P＋",
                         "name": "鬼塚冬毬"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-002-R",
+                        "name": "村野さやか"
                     }
                 ]
             }
@@ -6994,10 +7243,6 @@
                         "name": "中須かすみ"
                     },
                     {
-                        "card_no": "PL!HS-bp1-002-R",
-                        "name": "村野さやか"
-                    },
-                    {
                         "card_no": "PL!SP-sd1-002-SD",
                         "name": "唐 可可"
                     },
@@ -7008,6 +7253,10 @@
                     {
                         "card_no": "PL!SP-pb1-011-P＋",
                         "name": "鬼塚冬毬"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-002-R",
+                        "name": "村野さやか"
                     }
                 ]
             }
@@ -7116,10 +7365,6 @@
                         "name": "中須かすみ"
                     },
                     {
-                        "card_no": "PL!HS-bp1-002-R",
-                        "name": "村野さやか"
-                    },
-                    {
                         "card_no": "PL!SP-sd1-002-SD",
                         "name": "唐 可可"
                     },
@@ -7130,6 +7375,10 @@
                     {
                         "card_no": "PL!SP-pb1-011-P＋",
                         "name": "鬼塚冬毬"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-002-R",
+                        "name": "村野さやか"
                     }
                 ]
             }
@@ -7238,10 +7487,6 @@
                         "name": "中須かすみ"
                     },
                     {
-                        "card_no": "PL!HS-bp1-002-R",
-                        "name": "村野さやか"
-                    },
-                    {
                         "card_no": "PL!SP-sd1-002-SD",
                         "name": "唐 可可"
                     },
@@ -7252,6 +7497,10 @@
                     {
                         "card_no": "PL!SP-pb1-011-P＋",
                         "name": "鬼塚冬毬"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-002-R",
+                        "name": "村野さやか"
                     }
                 ]
             }
@@ -9013,14 +9262,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -9075,6 +9316,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -9846,14 +10095,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -9948,6 +10189,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -10062,14 +10311,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -10164,6 +10405,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -10278,14 +10527,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -10380,6 +10621,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -10494,14 +10743,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -10596,6 +10837,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -11273,20 +11522,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -11324,10 +11573,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -11348,24 +11593,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -11388,16 +11621,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -11479,20 +11728,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -11530,10 +11779,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -11554,24 +11799,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -11594,16 +11827,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -12052,14 +12301,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -12114,6 +12355,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -12255,14 +12504,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -12317,6 +12558,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -12917,10 +13166,6 @@
                         "name": "中須かすみ"
                     },
                     {
-                        "card_no": "PL!HS-bp1-002-R",
-                        "name": "村野さやか"
-                    },
-                    {
                         "card_no": "PL!SP-sd1-002-SD",
                         "name": "唐 可可"
                     },
@@ -12931,6 +13176,10 @@
                     {
                         "card_no": "PL!SP-pb1-011-P＋",
                         "name": "鬼塚冬毬"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-002-R",
+                        "name": "村野さやか"
                     }
                 ]
             }
@@ -14439,14 +14688,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -14501,6 +14742,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -14664,14 +14913,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -14726,6 +14967,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -14867,14 +15116,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -14929,6 +15170,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -15445,10 +15694,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -15469,24 +15714,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -15509,16 +15742,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -15705,20 +15954,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -15756,10 +16005,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -15780,24 +16025,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -15820,16 +16053,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -16616,10 +16865,6 @@
                         "name": "中須かすみ"
                     },
                     {
-                        "card_no": "PL!HS-bp1-002-R",
-                        "name": "村野さやか"
-                    },
-                    {
                         "card_no": "PL!SP-sd1-002-SD",
                         "name": "唐 可可"
                     },
@@ -16630,6 +16875,10 @@
                     {
                         "card_no": "PL!SP-pb1-011-P＋",
                         "name": "鬼塚冬毬"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-002-R",
+                        "name": "村野さやか"
                     }
                 ]
             }
@@ -16706,14 +16955,6 @@
                     },
                     {
                         "card_no": "PL!HS-bp2-009-R",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
                         "name": "安養寺 姫芽"
                     },
                     {
@@ -16811,6 +17052,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -16913,20 +17162,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -16964,10 +17213,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -16988,24 +17233,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -17028,16 +17261,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -17987,14 +18236,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -18049,6 +18290,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -18241,14 +18490,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -18303,6 +18544,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -18571,14 +18820,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -18633,6 +18874,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -18777,14 +19026,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -18839,6 +19080,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -18965,14 +19214,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -19067,6 +19308,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -19138,14 +19387,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -19240,6 +19481,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -19561,10 +19810,6 @@
                         "name": "中須かすみ"
                     },
                     {
-                        "card_no": "PL!HS-bp1-002-R",
-                        "name": "村野さやか"
-                    },
-                    {
                         "card_no": "PL!SP-sd1-002-SD",
                         "name": "唐 可可"
                     },
@@ -19575,6 +19820,10 @@
                     {
                         "card_no": "PL!SP-pb1-011-P＋",
                         "name": "鬼塚冬毬"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-002-R",
+                        "name": "村野さやか"
                     }
                 ]
             }
@@ -19649,10 +19898,6 @@
                         "name": "中須かすみ"
                     },
                     {
-                        "card_no": "PL!HS-bp1-002-R",
-                        "name": "村野さやか"
-                    },
-                    {
                         "card_no": "PL!SP-sd1-002-SD",
                         "name": "唐 可可"
                     },
@@ -19663,6 +19908,10 @@
                     {
                         "card_no": "PL!SP-pb1-011-P＋",
                         "name": "鬼塚冬毬"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-002-R",
+                        "name": "村野さやか"
                     }
                 ]
             }
@@ -19888,20 +20137,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -19939,10 +20188,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -19963,24 +20208,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -20003,16 +20236,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -20130,10 +20379,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -20154,24 +20399,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -20194,16 +20427,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -22245,14 +22494,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -22307,6 +22548,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -22459,14 +22708,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -22521,6 +22762,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -22673,14 +22922,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -22735,6 +22976,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -22887,14 +23136,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -22949,6 +23190,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -23042,20 +23291,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -23093,10 +23342,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -23117,24 +23362,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -23157,16 +23390,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -23248,20 +23497,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -23299,10 +23548,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -23323,24 +23568,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -23363,16 +23596,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -23605,10 +23854,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -23629,24 +23874,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -23669,16 +23902,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -23925,14 +24174,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -23987,6 +24228,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -24132,14 +24381,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -24194,6 +24435,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -24385,14 +24634,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -24447,6 +24688,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -24841,14 +25090,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -24943,6 +25184,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -25033,14 +25282,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -25135,6 +25376,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -25225,14 +25474,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -25327,6 +25568,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -25417,14 +25666,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -25519,6 +25760,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -26356,14 +26605,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -26418,6 +26659,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -26596,14 +26845,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -26658,6 +26899,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -26836,14 +27085,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -26898,6 +27139,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -27076,14 +27325,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -27138,6 +27379,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -28401,14 +28650,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -28463,6 +28704,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -28609,14 +28858,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -28671,6 +28912,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -29776,14 +30025,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -29878,6 +30119,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -29932,14 +30181,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -30034,6 +30275,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -30093,14 +30342,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -30195,6 +30436,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -30254,14 +30503,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -30356,6 +30597,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -31379,14 +31628,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -31481,6 +31722,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -31552,14 +31801,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -31654,6 +31895,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -31812,14 +32061,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -31874,6 +32115,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -32021,14 +32270,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -32083,6 +32324,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -32168,20 +32417,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -32219,10 +32468,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -32243,24 +32488,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -32283,16 +32516,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -32374,20 +32623,20 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             },
@@ -32425,10 +32674,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -32449,24 +32694,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -32489,16 +32722,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -32619,14 +32868,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -32721,6 +32962,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -32775,14 +33024,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -32877,6 +33118,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -33015,14 +33264,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -33077,6 +33318,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -33219,14 +33468,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -33281,6 +33522,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -33801,14 +34050,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -33863,6 +34104,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -34064,14 +34313,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -34126,6 +34367,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -34266,14 +34515,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -34328,6 +34569,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -34472,14 +34721,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -34534,6 +34775,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -34740,14 +34989,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -34802,6 +35043,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -37656,14 +37905,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -37718,6 +37959,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -37893,14 +38142,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -37955,6 +38196,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -38231,14 +38480,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -38333,6 +38574,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -38446,14 +38695,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -38548,6 +38789,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -38661,14 +38910,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -38763,6 +39004,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -38876,14 +39125,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -38978,6 +39219,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             },
@@ -39780,10 +40029,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -39804,24 +40049,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -39844,16 +40077,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -39920,10 +40169,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -39944,24 +40189,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -39984,16 +40217,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -40447,14 +40696,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -40509,6 +40750,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -42976,14 +43225,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -43078,6 +43319,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -43133,14 +43382,6 @@
                         "name": "安養寺 姫芽"
                     },
                     {
-                        "card_no": "PL!HS-PR-019-PR",
-                        "name": "百生 吟子"
-                    },
-                    {
-                        "card_no": "PL!HS-PR-021-PR",
-                        "name": "安養寺 姫芽"
-                    },
-                    {
                         "card_no": "PL!N-bp3-011-P",
                         "name": "ミア・テイラー"
                     },
@@ -43235,6 +43476,14 @@
                     {
                         "card_no": "PL!S-bp3-001-SEC",
                         "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-019-PR",
+                        "name": "百生 吟子"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-021-PR",
+                        "name": "安養寺 姫芽"
                     }
                 ]
             }
@@ -43918,14 +44167,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -43982,6 +44223,14 @@
                         "name": "Bubble Rise"
                     },
                     {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
                         "card_no": "PL!SP-bp2-024-L",
                         "name": "ビタミンSUMMER！"
                     }
@@ -44010,7 +44259,9 @@
             "heart06": 1,
             "heart0": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "score": 1
+        },
         "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる『虹ヶ咲』のメンバー1人につき、自分のデッキの上からカードを1枚見る。その中から1枚までをデッキの上に置き、残りを控え室に置く。その後、自分のデッキの一番上のカードを1枚公開する。これによりライブカードを公開した場合、このカードのスコアを＋１する。",
         "faq": [],
@@ -44200,14 +44451,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -44262,6 +44505,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -44406,14 +44657,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -44468,6 +44711,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -46344,10 +46595,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -46368,24 +46615,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -46408,16 +46643,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -46583,10 +46834,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -46607,24 +46854,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -46647,16 +46882,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -46722,10 +46973,6 @@
                         "name": "ウィーン・マルガレーテ"
                     },
                     {
-                        "card_no": "PL!HS-PR-014-PR",
-                        "name": "日野下花帆"
-                    },
-                    {
                         "card_no": "PL!S-bp2-009-R",
                         "name": "黒澤ルビィ"
                     },
@@ -46746,24 +46993,12 @@
                         "name": "黒澤ダイヤ"
                     },
                     {
-                        "card_no": "PL!S-PR-025-PR",
-                        "name": "高海千歌"
-                    },
-                    {
                         "card_no": "PL!S-PR-026-PR",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-PR-027-PR",
-                        "name": "松浦果南"
-                    },
-                    {
                         "card_no": "PL!-sd1-002-SD",
                         "name": "絢瀬 絵里"
-                    },
-                    {
-                        "card_no": "PL!-sd1-005-SD",
-                        "name": "星空 凛"
                     },
                     {
                         "card_no": "PL!S-bp3-008-R",
@@ -46786,16 +47021,32 @@
                         "name": "東條 希"
                     },
                     {
-                        "card_no": "PL!N-PR-012-PR",
-                        "name": "三船栞子"
+                        "card_no": "PL!N-PR-014-PR",
+                        "name": "鐘 嵐珠"
+                    },
+                    {
+                        "card_no": "PL!HS-PR-014-PR",
+                        "name": "日野下花帆"
+                    },
+                    {
+                        "card_no": "PL!-sd1-005-SD",
+                        "name": "星空 凛"
+                    },
+                    {
+                        "card_no": "PL!S-PR-025-PR",
+                        "name": "高海千歌"
+                    },
+                    {
+                        "card_no": "PL!S-PR-027-PR",
+                        "name": "松浦果南"
                     },
                     {
                         "card_no": "PL!N-PR-009-PR",
                         "name": "優木せつ菜"
                     },
                     {
-                        "card_no": "PL!N-PR-014-PR",
-                        "name": "鐘 嵐珠"
+                        "card_no": "PL!N-PR-012-PR",
+                        "name": "三船栞子"
                     }
                 ]
             }
@@ -47062,14 +47313,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -47124,6 +47367,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -47264,14 +47515,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -47326,6 +47569,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -47468,14 +47719,6 @@
                         "name": "Strawberry Trapper"
                     },
                     {
-                        "card_no": "PL!S-pb1-022-L",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
-                        "card_no": "PL!S-pb1-022-L＋",
-                        "name": "逃走迷走メビウスループ"
-                    },
-                    {
                         "card_no": "PL!S-pb1-024-L",
                         "name": "僕らの走ってきた道は・・・"
                     },
@@ -47530,6 +47773,14 @@
                     {
                         "card_no": "PL!SP-bp2-025-L",
                         "name": "Bubble Rise"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L＋",
+                        "name": "逃走迷走メビウスループ"
+                    },
+                    {
+                        "card_no": "PL!S-pb1-022-L",
+                        "name": "逃走迷走メビウスループ"
                     },
                     {
                         "card_no": "PL!SP-bp2-024-L",
@@ -61287,7 +61538,9 @@
             "heart06": 1,
             "heart0": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "score": 1
+        },
         "rare": "SECL",
         "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる『虹ヶ咲』のメンバー1人につき、自分のデッキの上からカードを1枚見る。その中から1枚までをデッキの上に置き、残りを控え室に置く。その後、自分のデッキの一番上のカードを1枚公開する。これによりライブカードを公開した場合、このカードのスコアを＋１する。",
         "faq": [],
@@ -63809,7 +64062,9 @@
         "blade_heart": {
             "b_heart03": 1
         },
-        "special_heart": {},
+        "special_heart": {
+            "draw": 1
+        },
         "rare": "SECL",
         "ability": "{{live_success.png|ライブ成功時}}自分の手札の枚数が相手より多い場合、このカードのスコアを＋１する。",
         "faq": [],
