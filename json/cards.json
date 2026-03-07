@@ -1729,6 +1729,37 @@
         ],
         "_img": "img/cards/PR/LL-E-004-PR.png"
     },
+    "PL!S-bp2-015-PR": {
+        "card_no": "PL!S-bp2-015-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-bp2-015-PR.png",
+        "name": "津島善子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "GuiltyKiss",
+        "cost": 4,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-bp2-015-PR",
+                "name": "津島善子"
+            },
+            {
+                "card_no": "PL!S-bp2-015-N",
+                "name": "津島善子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-bp2-015-PR.png"
+    },
     "PL!S-PR-001-PR": {
         "card_no": "PL!S-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-001-PR.png",
@@ -3582,7 +3613,7 @@
     },
     "PL!N-bp1-019-PRproteinbar": {
         "card_no": "PL!N-bp1-019-PRproteinbar",
-        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-019-PR.png",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-bp1-019-PRprotein.png",
         "name": "優木せつ菜",
         "product": "PRカード",
         "type": "メンバー",
@@ -3610,7 +3641,7 @@
                 "name": "優木せつ菜"
             }
         ],
-        "_img": "img/cards/PR/PL!N-sd1-019-PR.png"
+        "_img": "img/cards/PR/PL!N-bp1-019-PRprotein.png"
     },
     "PL!N-bp1-020-PRproteinbar": {
         "card_no": "PL!N-bp1-020-PRproteinbar",
@@ -4881,6 +4912,37 @@
         ],
         "_img": "img/cards/PR/PL!N-sd1-016-PR.png"
     },
+    "PL!N-sd1-019-PR": {
+        "card_no": "PL!N-sd1-019-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-019-PR.png",
+        "name": "優木せつ菜",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-sd1-019-PR",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-sd1-019-SD",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-sd1-019-PR.png"
+    },
     "PL!N-sd1-021-PRproteinbar": {
         "card_no": "PL!N-sd1-021-PRproteinbar",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-021-PR.png",
@@ -4965,6 +5027,34 @@
             }
         ],
         "_img": "img/cards/PR/PL!SP-bp1-013-PR.png"
+    },
+    "PL!SP-bp1-018-PR": {
+        "card_no": "PL!SP-bp1-018-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-bp1-018-PR.png",
+        "name": "米女メイ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade": 3,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp1-018-PR",
+                "name": "米女メイ"
+            },
+            {
+                "card_no": "PL!SP-bp1-018-N",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-bp1-018-PR.png"
     },
     "PL!SP-PR-001-PR": {
         "card_no": "PL!SP-PR-001-PR",
@@ -5479,6 +5569,35 @@
             }
         ],
         "_img": "img/cards/PR/PL!HS-bp1-012-PR.png"
+    },
+    "PL!HS-bp1-016-PR": {
+        "card_no": "PL!HS-bp1-016-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-bp1-016-PR.png",
+        "name": "百生吟子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "スリーズブーケ",
+        "cost": 9,
+        "base_heart": {
+            "heart01": 1,
+            "heart04": 2,
+            "heart05": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-bp1-016-PR",
+                "name": "百生吟子"
+            },
+            {
+                "card_no": "PL!HS-bp1-016-N",
+                "name": "百生 吟子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-bp1-016-PR.png"
     },
     "PL!HS-bp2-011-PR": {
         "card_no": "PL!HS-bp2-011-PR",
@@ -6522,7 +6641,7 @@
         "product": "PRカード",
         "type": "エネルギー",
         "series": "蓮ノ空女学院スクールアイドルクラブ",
-        "rare": "PR",
+        "rare": "PR+",
         "faq": [],
         "rare_list": [
             {
@@ -12051,6 +12170,10 @@
             {
                 "card_no": "PL!SP-bp1-018-N",
                 "name": "米女メイ"
+            },
+            {
+                "card_no": "PL!SP-bp1-018-PR",
+                "name": "米女メイ"
             }
         ],
         "_img": "img/cards/BP01/PL!SP-bp1-018-N.png"
@@ -14455,6 +14578,10 @@
             {
                 "card_no": "PL!HS-bp1-016-N",
                 "name": "百生 吟子"
+            },
+            {
+                "card_no": "PL!HS-bp1-016-PR",
+                "name": "百生吟子"
             }
         ],
         "_img": "img/cards/BP01/PL!HS-bp1-016-N.png"
@@ -16303,6 +16430,10 @@
         "rare_list": [
             {
                 "card_no": "PL!N-sd1-019-SD",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-sd1-019-PR",
                 "name": "優木せつ菜"
             }
         ],
@@ -23796,6 +23927,10 @@
         "rare_list": [
             {
                 "card_no": "PL!S-bp2-015-N",
+                "name": "津島善子"
+            },
+            {
+                "card_no": "PL!S-bp2-015-PR",
                 "name": "津島善子"
             }
         ],
