@@ -1,4 +1,43 @@
 {
+    "1069": {
+        "id": 1069,
+        "pack_name": "【Anniversary 2026】 - 补充包",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_0113f5dea2afeead9d9ea7d7151b45e8.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_263beca2d4e5566e86c828cef4ccaac3.png",
+        "pack_categorize_name": "补充包",
+        "pack_prefix": "BP05",
+        "card_prefix": "Lovaca",
+        "released_at": "2026-02-28",
+        "details": "<p> </p>",
+        "_pack_img": "img/products_cn/new_0113f5dea2afeead9d9ea7d7151b45e8.png",
+        "_box_img": "img/products_cn/new_263beca2d4e5566e86c828cef4ccaac3.png"
+    },
+    "1070": {
+        "id": 1070,
+        "pack_name": "【莲之空女学院学园偶像俱乐部】- 预构筑卡组",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_9e6d0993a567bc4dd8a0d567f54bfdb1.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_44b482759e513e405e42e274726fe8bf.png",
+        "pack_categorize_name": "预构筑卡组",
+        "pack_prefix": "SD03",
+        "card_prefix": "Lovaca",
+        "released_at": "2026-02-28",
+        "details": "<p> </p>",
+        "_pack_img": "img/products_cn/new_9e6d0993a567bc4dd8a0d567f54bfdb1.png",
+        "_box_img": "img/products_cn/new_44b482759e513e405e42e274726fe8bf.png"
+    },
+    "1071": {
+        "id": 1071,
+        "pack_name": "【Love Live! Sunshine!!】 - 预构筑卡组",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_4484f289690796959fac0d97b47b2e26.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_539e9b7f997d5c6f367358ee97634e56.png",
+        "pack_categorize_name": "预构筑卡组",
+        "pack_prefix": "SD03",
+        "card_prefix": "Loveca",
+        "released_at": "2026-02-28",
+        "details": "<p> </p>",
+        "_pack_img": "img/products_cn/new_4484f289690796959fac0d97b47b2e26.png",
+        "_box_img": "img/products_cn/new_539e9b7f997d5c6f367358ee97634e56.png"
+    },
     "1044": {
         "id": 1044,
         "pack_name": "【虹咲学园学园偶像同好会】高级补充包",
