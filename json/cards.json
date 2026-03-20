@@ -24622,7 +24622,9 @@
             "heart02": 4,
             "heart0": 4
         },
-        "blade_heart": {},
+        "blade_heart": {
+            "b_all": 1
+        },
         "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分のライブカード置き場に「MY舞☆TONIGHT」以外の『Aqours』のライブカードがある場合、ライブ終了時まで、自分のステージのメンバーは{{icon_blade.png|ブレード}}を得る。",
         "faq": [
@@ -31154,7 +31156,9 @@
             "heart04": 4,
             "heart0": 1
         },
-        "blade_heart": {},
+        "blade_heart": {
+            "b_all": 1
+        },
         "rare": "L",
         "ability": "{{live_start.png|ライブ開始時}}自分の控え室に『スリーズブーケ』のライブカードが3枚以上ある場合、このカードのスコアを＋１する。",
         "faq": [],
@@ -69866,6 +69870,7 @@
         "name": "Private Wars",
         "product": "ブースターパックAnniversary2026",
         "type": "ライブ",
+        "unit": "A-RISE",
         "score": 5,
         "need_heart": {
             "heart01": 1,
@@ -70071,6 +70076,7 @@
         "name": "SELF CONTROL!!",
         "product": "ブースターパックAnniversary2026",
         "type": "ライブ",
+        "unit": "SaintSnow",
         "score": 3,
         "need_heart": {
             "heart05": 2,
@@ -70098,6 +70104,7 @@
         "product": "ブースターパックAnniversary2026",
         "type": "ライブ",
         "series": "ラブライブ！サンシャイン!!",
+        "unit": "Aqours/SaintSnow",
         "score": 7,
         "need_heart": {
             "heart02": 3,
@@ -70262,6 +70269,7 @@
         "name": "HOT PASSION!!",
         "product": "ブースターパックAnniversary2026",
         "type": "ライブ",
+        "unit": "SunnyPassion",
         "score": 4,
         "need_heart": {
             "heart01": 2,
