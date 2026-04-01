@@ -3477,6 +3477,35 @@
         ],
         "_img": "img/cards/PR/PL!S-PR-040-PR.png"
     },
+    "PL!S-PR-041-PR": {
+        "card_no": "PL!S-PR-041-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-041-PR.png",
+        "name": "黒澤ルビィ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 2,
+            "heart04": 2,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 5,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分か相手を選ぶ。自分は、そのプレイヤーの控え室にあるライブカードを1枚、そのプレイヤーのデッキの一番下に置く。そうした場合、自分はカードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-041-PR",
+                "name": "黒澤ルビィ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-041-PR.png"
+    },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PYHN-PR-001-PR.png",
@@ -4795,6 +4824,35 @@
             }
         ],
         "_img": "img/cards/PR/PL!N-PR-024-PR.png"
+    },
+    "PL!N-PR-025-PR": {
+        "card_no": "PL!N-PR-025-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-025-PR.png",
+        "name": "優木せつ菜",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 2,
+            "heart04": 1,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 7,
+        "rare": "PR",
+        "ability": "{{jidou.png|自動}}[ターン2回]自分のステージに、このメンバーか、ほかのメンバーがバトンタッチして登場したとき、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-025-PR",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-025-PR.png"
     },
     "PL!N-sd1-005-PRproteinbar": {
         "card_no": "PL!N-sd1-005-PRproteinbar",
