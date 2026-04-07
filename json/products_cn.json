@@ -18,7 +18,7 @@
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_9e6d0993a567bc4dd8a0d567f54bfdb1.png",
         "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_44b482759e513e405e42e274726fe8bf.png",
         "pack_categorize_name": "预构筑卡组",
-        "pack_prefix": "SD03",
+        "pack_prefix": "SD1",
         "card_prefix": "Lovaca",
         "released_at": "2026-02-28",
         "details": "<p> </p>",
@@ -31,7 +31,7 @@
         "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_4484f289690796959fac0d97b47b2e26.png",
         "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_539e9b7f997d5c6f367358ee97634e56.png",
         "pack_categorize_name": "预构筑卡组",
-        "pack_prefix": "SD03",
+        "pack_prefix": "SD01",
         "card_prefix": "Loveca",
         "released_at": "2026-02-28",
         "details": "<p> </p>",
@@ -216,7 +216,7 @@
         "pack_prefix": "SD01",
         "card_prefix": "Loveca",
         "released_at": "2025-02-06",
-        "details": "<br><br>发售日<br><br>2025年2月8日（周六）<br><br>",
+        "details": "<p>发售日</p><p><br></p><p>2025年2月8日（周六）</p>",
         "_pack_img": "img/products_cn/ll_sd02.png",
         "_box_img": "img/products_cn/ll_sd02.png"
     }
