@@ -42983,11 +42983,11 @@
                 "answer": "いいえ、できません。\n自分の『虹ヶ咲』のメンバーのみウェイトにすることができます。",
                 "relation": [
                     {
-                        "card_no": "PL!N-bp3-008-R＋",
+                        "card_no": "PL!N-bp3-008-SEC",
                         "name": "エマ・ヴェルデ"
                     },
                     {
-                        "card_no": "PL!N-bp3-008-P",
+                        "card_no": "PL!N-bp3-008-R＋",
                         "name": "エマ・ヴェルデ"
                     },
                     {
@@ -42995,7 +42995,7 @@
                         "name": "エマ・ヴェルデ"
                     },
                     {
-                        "card_no": "PL!N-bp3-008-SEC",
+                        "card_no": "PL!N-bp3-008-P",
                         "name": "エマ・ヴェルデ"
                     }
                 ]
@@ -43048,11 +43048,11 @@
                 "answer": "いいえ、できません。\n自分の『虹ヶ咲』のメンバーのみウェイトにすることができます。",
                 "relation": [
                     {
-                        "card_no": "PL!N-bp3-008-R＋",
+                        "card_no": "PL!N-bp3-008-SEC",
                         "name": "エマ・ヴェルデ"
                     },
                     {
-                        "card_no": "PL!N-bp3-008-P",
+                        "card_no": "PL!N-bp3-008-R＋",
                         "name": "エマ・ヴェルデ"
                     },
                     {
@@ -43060,7 +43060,7 @@
                         "name": "エマ・ヴェルデ"
                     },
                     {
-                        "card_no": "PL!N-bp3-008-SEC",
+                        "card_no": "PL!N-bp3-008-P",
                         "name": "エマ・ヴェルデ"
                     }
                 ]
@@ -43105,7 +43105,7 @@
         },
         "blade": 3,
         "rare": "P+",
-        "ability": "\"{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバー以外の『虹ヶ咲』のメンバー1人をウェイトにする：カードを1枚引く。\n{{live_start.png|ライブ開始時}}手札を2枚控え室に置いてもよい：自分のステージにいるこのメンバー以外のウェイト状態のメンバー1人をアクティブにする。そうした場合、ライブ終了時まで、これによりアクティブにしたメンバーと、このメンバーは、それぞれ{{heart_04.png|heart04}}を得る。\"",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバー以外の『虹ヶ咲』のメンバー1人をウェイトにする：カードを1枚引く。\n{{live_start.png|ライブ開始時}}手札を2枚控え室に置いてもよい：自分のステージにいるこのメンバー以外のウェイト状態のメンバー1人をアクティブにする。そうした場合、ライブ終了時まで、これによりアクティブにしたメンバーと、このメンバーは、それぞれ{{heart_04.png|heart04}}を得る。",
         "faq": [
             {
                 "title": "Q163（2025.08.04）",
@@ -43113,11 +43113,11 @@
                 "answer": "いいえ、できません。\n自分の『虹ヶ咲』のメンバーのみウェイトにすることができます。",
                 "relation": [
                     {
-                        "card_no": "PL!N-bp3-008-R＋",
+                        "card_no": "PL!N-bp3-008-SEC",
                         "name": "エマ・ヴェルデ"
                     },
                     {
-                        "card_no": "PL!N-bp3-008-P",
+                        "card_no": "PL!N-bp3-008-R＋",
                         "name": "エマ・ヴェルデ"
                     },
                     {
@@ -43125,7 +43125,7 @@
                         "name": "エマ・ヴェルデ"
                     },
                     {
-                        "card_no": "PL!N-bp3-008-SEC",
+                        "card_no": "PL!N-bp3-008-P",
                         "name": "エマ・ヴェルデ"
                     }
                 ]
@@ -43170,7 +43170,7 @@
         },
         "blade": 3,
         "rare": "SEC",
-        "ability": "\"{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバー以外の『虹ヶ咲』のメンバー1人をウェイトにする：カードを1枚引く。\n{{live_start.png|ライブ開始時}}手札を2枚控え室に置いてもよい：自分のステージにいるこのメンバー以外のウェイト状態のメンバー1人をアクティブにする。そうした場合、ライブ終了時まで、これによりアクティブにしたメンバーと、このメンバーは、それぞれ{{heart_04.png|heart04}}を得る。\"",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバー以外の『虹ヶ咲』のメンバー1人をウェイトにする：カードを1枚引く。\n{{live_start.png|ライブ開始時}}手札を2枚控え室に置いてもよい：自分のステージにいるこのメンバー以外のウェイト状態のメンバー1人をアクティブにする。そうした場合、ライブ終了時まで、これによりアクティブにしたメンバーと、このメンバーは、それぞれ{{heart_04.png|heart04}}を得る。",
         "faq": [
             {
                 "title": "Q163（2025.08.04）",
@@ -43178,11 +43178,11 @@
                 "answer": "いいえ、できません。\n自分の『虹ヶ咲』のメンバーのみウェイトにすることができます。",
                 "relation": [
                     {
-                        "card_no": "PL!N-bp3-008-R＋",
+                        "card_no": "PL!N-bp3-008-SEC",
                         "name": "エマ・ヴェルデ"
                     },
                     {
-                        "card_no": "PL!N-bp3-008-P",
+                        "card_no": "PL!N-bp3-008-R＋",
                         "name": "エマ・ヴェルデ"
                     },
                     {
@@ -43190,7 +43190,7 @@
                         "name": "エマ・ヴェルデ"
                     },
                     {
-                        "card_no": "PL!N-bp3-008-SEC",
+                        "card_no": "PL!N-bp3-008-P",
                         "name": "エマ・ヴェルデ"
                     }
                 ]
@@ -52588,7 +52588,7 @@
             "heart06": 1
         },
         "rare": "R",
-        "ability": "{{toujyou.png|登場}}【左サイド】【右サイド】カードを2枚引き、手札を2枚控え室に置く。（この能力は左サイドエリアか右サイドエリアに登場した場合のみ発動する。）\n{{jyouji.png|常時}}{{center.png|センター}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "ability": "{{toujyou.png|登場}}{{leftside.png|左サイド}}{{rightside.png|右サイド}}カードを2枚引き、手札を2枚控え室に置く。（この能力は左サイドエリアか右サイドエリアに登場した場合のみ発動する。）\n{{jyouji.png|常時}}{{center.png|センター}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -52617,7 +52617,7 @@
             "heart06": 1
         },
         "rare": "P",
-        "ability": "{{toujyou.png|登場}}【左サイド】【右サイド】カードを2枚引き、手札を2枚控え室に置く。（この能力は左サイドエリアか右サイドエリアに登場した場合のみ発動する。）\n{{jyouji.png|常時}}{{center.png|センター}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "ability": "{{toujyou.png|登場}}{{leftside.png|左サイド}}{{rightside.png|右サイド}}カードを2枚引き、手札を2枚控え室に置く。（この能力は左サイドエリアか右サイドエリアに登場した場合のみ発動する。）\n{{jyouji.png|常時}}{{center.png|センター}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -53120,7 +53120,7 @@
             "b_heart03": 1
         },
         "rare": "R+",
-        "ability": "{{toujyou.png|登場}}【左サイド】カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}【右サイド】エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "ability": "{{toujyou.png|登場}}{{leftside.png|左サイド}}カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}{{rightside.png|右サイド}}エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
         "faq": [],
         "rare_list": [
             {
@@ -53160,7 +53160,7 @@
             "b_heart03": 1
         },
         "rare": "P",
-        "ability": "{{toujyou.png|登場}}【左サイド】カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}【右サイド】エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "ability": "{{toujyou.png|登場}}{{leftside.png|左サイド}}カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}{{rightside.png|右サイド}}エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
         "faq": [],
         "rare_list": [
             {
@@ -53200,7 +53200,7 @@
             "b_heart03": 1
         },
         "rare": "P+",
-        "ability": "{{toujyou.png|登場}}【左サイド】カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}【右サイド】エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "ability": "{{toujyou.png|登場}}{{leftside.png|左サイド}}カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}{{rightside.png|右サイド}}エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
         "faq": [],
         "rare_list": [
             {
@@ -53240,7 +53240,7 @@
             "b_heart03": 1
         },
         "rare": "SEC",
-        "ability": "{{toujyou.png|登場}}【左サイド】カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}【右サイド】エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "ability": "{{toujyou.png|登場}}{{leftside.png|左サイド}}カードを2枚引き、手札を1枚控え室に置く。\n{{toujyou.png|登場}}{{rightside.png|右サイド}}エネルギーを2枚アクティブにする。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
         "faq": [],
         "rare_list": [
             {
@@ -53672,7 +53672,7 @@
         },
         "blade": 3,
         "rare": "N",
-        "ability": "{{live_start.png|ライブ開始時}}【左サイド】このターン、このメンバーがエリアを移動している場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。（この能力は左サイドエリアにいる場合のみ発動する。）",
+        "ability": "{{live_start.png|ライブ開始時}}{{leftside.png|左サイド}}このターン、このメンバーがエリアを移動している場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。（この能力は左サイドエリアにいる場合のみ発動する。）",
         "faq": [],
         "rare_list": [
             {
@@ -53750,7 +53750,7 @@
         },
         "blade": 3,
         "rare": "N",
-        "ability": "{{live_start.png|ライブ開始時}}【右サイド】このターン、このメンバーがエリアを移動している場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。（この能力は右サイドエリアにいる場合のみ発動する。）",
+        "ability": "{{live_start.png|ライブ開始時}}{{rightside.png|右サイド}}このターン、このメンバーがエリアを移動している場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。（この能力は右サイドエリアにいる場合のみ発動する。）",
         "faq": [],
         "rare_list": [
             {
@@ -65777,7 +65777,7 @@
         },
         "blade": 3,
         "rare": "R+",
-        "ability": "{{kidou.png|起動}}【左サイド】{{turn1.png|ターン1回}}このメンバーをウェイトにする：カードを3枚引き、手札を2枚控え室に置く。これにより控え室に置いたカードの中にブレードハートを持たないメンバーカードが1枚以上ある場合、このメンバーをアクティブにする。2枚ある場合、さらにライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "ability": "{{kidou.png|起動}}{{leftside.png|左サイド}}{{turn1.png|ターン1回}}このメンバーをウェイトにする：カードを3枚引き、手札を2枚控え室に置く。これにより控え室に置いたカードの中にブレードハートを持たないメンバーカードが1枚以上ある場合、このメンバーをアクティブにする。2枚ある場合、さらにライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -65818,7 +65818,7 @@
         },
         "blade": 3,
         "rare": "P",
-        "ability": "{{kidou.png|起動}}【左サイド】{{turn1.png|ターン1回}}このメンバーをウェイトにする：カードを3枚引き、手札を2枚控え室に置く。これにより控え室に置いたカードの中にブレードハートを持たないメンバーカードが1枚以上ある場合、このメンバーをアクティブにする。2枚ある場合、さらにライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "ability": "{{kidou.png|起動}}{{leftside.png|左サイド}}{{turn1.png|ターン1回}}このメンバーをウェイトにする：カードを3枚引き、手札を2枚控え室に置く。これにより控え室に置いたカードの中にブレードハートを持たないメンバーカードが1枚以上ある場合、このメンバーをアクティブにする。2枚ある場合、さらにライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -65859,7 +65859,7 @@
         },
         "blade": 3,
         "rare": "AR",
-        "ability": "{{kidou.png|起動}}【左サイド】{{turn1.png|ターン1回}}このメンバーをウェイトにする：カードを3枚引き、手札を2枚控え室に置く。これにより控え室に置いたカードの中にブレードハートを持たないメンバーカードが1枚以上ある場合、このメンバーをアクティブにする。2枚ある場合、さらにライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "ability": "{{kidou.png|起動}}{{leftside.png|左サイド}}{{turn1.png|ターン1回}}このメンバーをウェイトにする：カードを3枚引き、手札を2枚控え室に置く。これにより控え室に置いたカードの中にブレードハートを持たないメンバーカードが1枚以上ある場合、このメンバーをアクティブにする。2枚ある場合、さらにライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -65900,7 +65900,7 @@
         },
         "blade": 3,
         "rare": "SEC",
-        "ability": "{{kidou.png|起動}}【左サイド】{{turn1.png|ターン1回}}このメンバーをウェイトにする：カードを3枚引き、手札を2枚控え室に置く。これにより控え室に置いたカードの中にブレードハートを持たないメンバーカードが1枚以上ある場合、このメンバーをアクティブにする。2枚ある場合、さらにライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "ability": "{{kidou.png|起動}}{{leftside.png|左サイド}}{{turn1.png|ターン1回}}このメンバーをウェイトにする：カードを3枚引き、手札を2枚控え室に置く。これにより控え室に置いたカードの中にブレードハートを持たないメンバーカードが1枚以上ある場合、このメンバーをアクティブにする。2枚ある場合、さらにライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -67584,7 +67584,7 @@
         "base_heart": {},
         "blade": 4,
         "rare": "R",
-        "ability": "{{jyouji.png|常時}}【左サイド】{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{jyouji.png|常時}}{{center.png|センター}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}を得る。\n{{jyouji.png|常時}}【右サイド】{{heart_05.png|heart05}}{{heart_05.png|heart05}}{{heart_05.png|heart05}}を得る。",
+        "ability": "{{jyouji.png|常時}}{{leftside.png|左サイド}}{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{jyouji.png|常時}}{{center.png|センター}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}を得る。\n{{jyouji.png|常時}}{{rightside.png|右サイド}}{{heart_05.png|heart05}}{{heart_05.png|heart05}}{{heart_05.png|heart05}}を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -67614,7 +67614,7 @@
         "base_heart": {},
         "blade": 4,
         "rare": "P",
-        "ability": "{{jyouji.png|常時}}【左サイド】{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{jyouji.png|常時}}{{center.png|センター}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}を得る。\n{{jyouji.png|常時}}【右サイド】{{heart_05.png|heart05}}{{heart_05.png|heart05}}{{heart_05.png|heart05}}を得る。",
+        "ability": "{{jyouji.png|常時}}{{leftside.png|左サイド}}{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{jyouji.png|常時}}{{center.png|センター}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}を得る。\n{{jyouji.png|常時}}{{rightside.png|右サイド}}{{heart_05.png|heart05}}{{heart_05.png|heart05}}{{heart_05.png|heart05}}を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -67644,7 +67644,7 @@
         "base_heart": {},
         "blade": 4,
         "rare": "AR",
-        "ability": "{{jyouji.png|常時}}【左サイド】{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{jyouji.png|常時}}{{center.png|センター}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}を得る。\n{{jyouji.png|常時}}【右サイド】{{heart_05.png|heart05}}{{heart_05.png|heart05}}{{heart_05.png|heart05}}を得る。",
+        "ability": "{{jyouji.png|常時}}{{leftside.png|左サイド}}{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。\n{{jyouji.png|常時}}{{center.png|センター}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}を得る。\n{{jyouji.png|常時}}{{rightside.png|右サイド}}{{heart_05.png|heart05}}{{heart_05.png|heart05}}{{heart_05.png|heart05}}を得る。",
         "faq": [],
         "rare_list": [
             {
