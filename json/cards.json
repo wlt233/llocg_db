@@ -1296,6 +1296,37 @@
         ],
         "_img": "img/cards/PR/PL!-bp3-012-PR.png"
     },
+    "PL!-bp3-014-PR": {
+        "card_no": "PL!-bp3-014-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-bp3-014-PR.png",
+        "name": "星空 凛",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "lilywhite",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 2,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}このメンバーをウェイトにしてもよい：自分のデッキの上からカードを2枚見る。その中から好きな枚数を好きな順番でデッキの上に置き、残りを控え室に置く。（ウェイト状態のメンバーが持つ{{icon_blade.png|ブレード}}は、エールで公開する枚数を増やさない。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-bp3-014-PR",
+                "name": "星空 凛"
+            },
+            {
+                "card_no": "PL!-bp3-014-N",
+                "name": "星空 凛"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-bp3-014-PR.png"
+    },
     "PL!-PR-001-PR": {
         "card_no": "PL!-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-001-PR.png",
@@ -37790,6 +37821,10 @@
         "rare_list": [
             {
                 "card_no": "PL!-bp3-014-N",
+                "name": "星空 凛"
+            },
+            {
+                "card_no": "PL!-bp3-014-PR",
                 "name": "星空 凛"
             }
         ],
