@@ -4938,6 +4938,36 @@
         ],
         "_img": "img/cards/PR/PL!N-PR-025-PR.png"
     },
+    "PL!N-PR-026-PR": {
+        "card_no": "PL!N-PR-026-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-026-PR.png",
+        "name": "天王寺璃奈",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 15,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart01": 1
+        },
+        "blade": 5,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分の控え室からコスト9以下の『虹ヶ咲』のメンバーカード1枚をこのメンバーの下に置く。\n{{jyouji.png|常時}}このメンバーは、このメンバーの下に置かれているコスト9以下の『虹ヶ咲』のメンバーカードが持つ{{live_success.png|ライブ成功時}}能力をすべて得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-026-PR",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-026-PR.png"
+    },
     "PL!N-PR-027-PR": {
         "card_no": "PL!N-PR-027-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-027-PR.png",
