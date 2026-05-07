@@ -1,4 +1,17 @@
 {
+    "1088": {
+        "id": 1088,
+        "pack_name": "LoveLive! 莲之空女学院学园偶像俱乐部",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_355f39163c315994686b310a5859177b.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_eb58a4bab26550de301a4c54bff61b4d.png",
+        "pack_categorize_name": "高级补充包",
+        "pack_prefix": "PB05",
+        "card_prefix": "PB05",
+        "released_at": "2026-05-01",
+        "details": "<p> </p>",
+        "_pack_img": "img/products_cn/new_355f39163c315994686b310a5859177b.png",
+        "_box_img": "img/products_cn/new_eb58a4bab26550de301a4c54bff61b4d.png"
+    },
     "1069": {
         "id": 1069,
         "pack_name": "【Anniversary 2026】 - 补充包",
