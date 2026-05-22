@@ -617,6 +617,10 @@
             {
                 "card_no": "PL!-sd1-011-SD",
                 "name": "絢瀬 絵里"
+            },
+            {
+                "card_no": "PL!-sd1-011-PR",
+                "name": "絢瀬絵里"
             }
         ],
         "_img": "img/cards/PLSD01/PL!-sd1-011-SD.png"
@@ -1770,6 +1774,35 @@
             }
         ],
         "_img": "img/cards/PR/PL!-PR-018-PR.png"
+    },
+    "PL!-sd1-011-PR": {
+        "card_no": "PL!-sd1-011-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-sd1-011-PR.png",
+        "name": "絢瀬絵里",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 4,
+        "base_heart": {
+            "heart01": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを3枚見る。その中から1枚を手札に加え、残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-sd1-011-PR",
+                "name": "絢瀬絵里"
+            },
+            {
+                "card_no": "PL!-sd1-011-SD",
+                "name": "絢瀬 絵里"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-sd1-011-PR.png"
     },
     "PL!-sd1-016-PR": {
         "card_no": "PL!-sd1-016-PR",
@@ -7102,6 +7135,23 @@
         ],
         "_img": "img/cards/PR/PL!HS-PR-029-PR.png"
     },
+    "PL!HS-PR-030-PR": {
+        "card_no": "PL!HS-PR-030-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-030-PR.png",
+        "name": "蓮ノ空女学院スクールアイドルクラブ",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-030-PR",
+                "name": "蓮ノ空女学院スクールアイドルクラブ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-030-PR.png"
+    },
     "PL!HS-PR-031-PR": {
         "card_no": "PL!HS-PR-031-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-031-PR.png",
@@ -7158,6 +7208,23 @@
             }
         ],
         "_img": "img/cards/PR/PL!HS-PR-032-PR.png"
+    },
+    "PL!HS-PR-033-PR": {
+        "card_no": "PL!HS-PR-033-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-033-PR.png",
+        "name": "蓮ノ空女学院スクールアイドルクラブ",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-033-PR",
+                "name": "蓮ノ空女学院スクールアイドルクラブ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-033-PR.png"
     },
     "LL-PR-002-PR": {
         "card_no": "LL-PR-002-PR",
