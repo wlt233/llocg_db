@@ -5366,6 +5366,43 @@
         ],
         "_img": "img/cards/PR/PL!SP-bp1-018-PR.png"
     },
+    "PL!SP-pb1-001-PR": {
+        "card_no": "PL!SP-pb1-001-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-pb1-001-PR.png",
+        "name": "澁谷かのん",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 4,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払わないかぎり、自分の手札を2枚控え室に置く。\n{{live_success.png|ライブ成功時}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：ライブの合計スコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-001-PR",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-pb1-001-R",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-pb1-001-P＋",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-pb1-001-PR.png"
+    },
     "PL!SP-PR-001-PR": {
         "card_no": "PL!SP-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-001-PR.png",
@@ -18912,6 +18949,10 @@
             {
                 "card_no": "PL!SP-pb1-001-P＋",
                 "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-pb1-001-PR",
+                "name": "澁谷かのん"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1-001-R.png"
@@ -19165,6 +19206,10 @@
             },
             {
                 "card_no": "PL!SP-pb1-001-R",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-pb1-001-PR",
                 "name": "澁谷かのん"
             }
         ],
