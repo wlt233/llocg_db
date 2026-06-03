@@ -1,4 +1,30 @@
 {
+    "1097": {
+        "id": 1097,
+        "pack_name": "【Royal Holiday】- 补充包",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_a13e10f98a9aea0da245c9dba4a1ccac.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_e9c1b8b5541ce0b0778b83fb8d7e81f8.png",
+        "pack_categorize_name": "补充包",
+        "pack_prefix": " ",
+        "card_prefix": " ",
+        "released_at": "2026-05-30",
+        "details": "<p> </p>",
+        "_pack_img": "img/products_cn/new_a13e10f98a9aea0da245c9dba4a1ccac.png",
+        "_box_img": "img/products_cn/new_e9c1b8b5541ce0b0778b83fb8d7e81f8.png"
+    },
+    "1098": {
+        "id": 1098,
+        "pack_name": "【Love Live！Superstar!! cheer】- 起始卡组",
+        "pack_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_7fa25fe547bd97fdec951cf9dcc480a0.png",
+        "card_box_image": "https://bushiroad.oss-cn-beijing.aliyuncs.com/product/Loveca/new_551ad9e69aed909cd061f67bd92f3e67.png",
+        "pack_categorize_name": "预构筑卡组",
+        "pack_prefix": " ",
+        "card_prefix": " ",
+        "released_at": "2026-05-30",
+        "details": "<p> </p>",
+        "_pack_img": "img/products_cn/new_7fa25fe547bd97fdec951cf9dcc480a0.png",
+        "_box_img": "img/products_cn/new_551ad9e69aed909cd061f67bd92f3e67.png"
+    },
     "1088": {
         "id": 1088,
         "pack_name": "LoveLive! 莲之空女学院学园偶像俱乐部",
