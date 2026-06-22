@@ -1862,6 +1862,50 @@
         ],
         "_img": "img/cards/PR/PL!-PR-018-PR.png"
     },
+    "PL!-PR-019-PR": {
+        "card_no": "PL!-PR-019-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-019-PR.png",
+        "name": "南 ことり",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-019-PR",
+                "name": "南 ことり"
+            },
+            {
+                "card_no": "PL!-PR-019-PR＋",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-019-PR.png"
+    },
+    "PL!-PR-019-PR＋": {
+        "card_no": "PL!-PR-019-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-019-PR2.png",
+        "name": "南 ことり",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-019-PR＋",
+                "name": "南 ことり"
+            },
+            {
+                "card_no": "PL!-PR-019-PR",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-019-PR2.png"
+    },
     "PL!-sd1-011-PR": {
         "card_no": "PL!-sd1-011-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-sd1-011-PR.png",
@@ -3834,6 +3878,50 @@
         ],
         "_img": "img/cards/PR/PL!S-PR-042-PR.png"
     },
+    "PL!S-PR-043-PR": {
+        "card_no": "PL!S-PR-043-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-043-PR.png",
+        "name": "津島善子",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "GuiltyKiss",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-043-PR",
+                "name": "津島善子"
+            },
+            {
+                "card_no": "PL!S-PR-043-PR＋",
+                "name": "津島善子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-043-PR.png"
+    },
+    "PL!S-PR-043-PR＋": {
+        "card_no": "PL!S-PR-043-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-043-PR2.png",
+        "name": "津島善子",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "GuiltyKiss",
+        "rare": "PR＋",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-043-PR＋",
+                "name": "津島善子"
+            },
+            {
+                "card_no": "PL!S-PR-043-PR",
+                "name": "津島善子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-043-PR2.png"
+    },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PYHN-PR-001-PR.png",
@@ -5411,6 +5499,50 @@
         ],
         "_img": "img/cards/PR/PL!N-PR-029-PR2.png"
     },
+    "PL!N-PR-030-PR": {
+        "card_no": "PL!N-PR-030-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-030-PR.png",
+        "name": "優木せつ菜",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-030-PR",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-PR-030-PR＋",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-030-PR.png"
+    },
+    "PL!N-PR-030-PR＋": {
+        "card_no": "PL!N-PR-030-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-030-PR2.png",
+        "name": "優木せつ菜",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-030-PR＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-PR-030-PR",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-030-PR2.png"
+    },
     "PL!N-sd1-005-PRproteinbar": {
         "card_no": "PL!N-sd1-005-PRproteinbar",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-017-PR.png",
@@ -6371,6 +6503,50 @@
             }
         ],
         "_img": "img/cards/PR/PL!SP-PR-022-PR.png"
+    },
+    "PL!SP-PR-023-PR": {
+        "card_no": "PL!SP-PR-023-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-023-PR.png",
+        "name": "唐 可可",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-023-PR",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-PR-023-PR＋",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-023-PR.png"
+    },
+    "PL!SP-PR-023-PR＋": {
+        "card_no": "PL!SP-PR-023-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-023-PR2.png",
+        "name": "唐 可可",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-023-PR＋",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-PR-023-PR",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-023-PR2.png"
     },
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
@@ -7810,6 +7986,50 @@
             }
         ],
         "_img": "img/cards/PR/PL!HS-PR-033-PR.png"
+    },
+    "PL!HS-PR-034-PR": {
+        "card_no": "PL!HS-PR-034-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-034-PR.png",
+        "name": "徒町小鈴",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "DOLLCHESTRA",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-034-PR",
+                "name": "徒町小鈴"
+            },
+            {
+                "card_no": "PL!HS-PR-034-PR＋",
+                "name": "徒町小鈴"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-034-PR.png"
+    },
+    "PL!HS-PR-034-PR＋": {
+        "card_no": "PL!HS-PR-034-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-034-PR2.png",
+        "name": "徒町小鈴",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "DOLLCHESTRA",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-034-PR＋",
+                "name": "徒町小鈴"
+            },
+            {
+                "card_no": "PL!HS-PR-034-PR",
+                "name": "徒町小鈴"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-034-PR2.png"
     },
     "LL-PR-002-PR": {
         "card_no": "LL-PR-002-PR",
@@ -13574,6 +13794,10 @@
             {
                 "card_no": "PL!SP-bp1-023-L",
                 "name": "START!! True dreams"
+            },
+            {
+                "card_no": "PL!SP-bp1-023-SRL",
+                "name": "START!! True dreams"
             }
         ],
         "_img": "img/cards/BP01/PL!SP-bp1-023-L.png"
@@ -13777,6 +14001,10 @@
             {
                 "card_no": "PL!SP-bp1-024-L",
                 "name": "Tiny Stars"
+            },
+            {
+                "card_no": "PL!SP-bp1-024-SRL",
+                "name": "Tiny Stars"
             }
         ],
         "_img": "img/cards/BP01/PL!SP-bp1-024-L.png"
@@ -13806,7 +14034,15 @@
                 "name": "Starlight Prologue"
             },
             {
+                "card_no": "PL!SP-bp1-025-SECL",
+                "name": "Starlight Prologue"
+            },
+            {
                 "card_no": "PL!SP-bp1-025-L＋",
+                "name": "Starlight Prologue"
+            },
+            {
+                "card_no": "PL!SP-bp1-025-SRL",
                 "name": "Starlight Prologue"
             }
         ],
@@ -13901,6 +14137,14 @@
             {
                 "card_no": "PL!SP-bp1-026-L",
                 "name": "未来予報ハレルヤ！"
+            },
+            {
+                "card_no": "PL!SP-bp1-026-SECL",
+                "name": "未来予報ハレルヤ！"
+            },
+            {
+                "card_no": "PL!SP-bp1-026-SRL",
+                "name": "未来予報ハレルヤ！"
             }
         ],
         "_img": "img/cards/BP01/PL!SP-bp1-026-L.png"
@@ -13931,6 +14175,10 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-bp1-027-L",
+                "name": "Sing！Shine！Smile！"
+            },
+            {
+                "card_no": "PL!SP-bp1-027-SRL",
                 "name": "Sing！Shine！Smile！"
             }
         ],
@@ -18983,6 +19231,10 @@
             {
                 "card_no": "PL!SP-sd1-023-SD",
                 "name": "WE WILL!!"
+            },
+            {
+                "card_no": "PL!SP-sd1-023-SRL",
+                "name": "WE WILL!!"
             }
         ],
         "_img": "img/cards/SPSD01/PL!SP-sd1-023-SD.png"
@@ -19018,6 +19270,10 @@
             {
                 "card_no": "PL!SP-sd1-024-SD2",
                 "name": "シェキラ☆☆☆"
+            },
+            {
+                "card_no": "PL!SP-sd1-024-SRL",
+                "name": "シェキラ☆☆☆"
             }
         ],
         "_img": "img/cards/SPSD01/PL!SP-sd1-024-SD.png"
@@ -19044,6 +19300,10 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-sd1-025-SD",
+                "name": "未来は風のように"
+            },
+            {
+                "card_no": "PL!SP-sd1-025-SRL",
                 "name": "未来は風のように"
             }
         ],
@@ -19090,6 +19350,10 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-sd1-026-SD",
+                "name": "私のSymphony 〜澁谷かのんVer.〜"
+            },
+            {
+                "card_no": "PL!SP-sd1-026-SRL",
                 "name": "私のSymphony 〜澁谷かのんVer.〜"
             }
         ],
@@ -19318,6 +19582,14 @@
             },
             {
                 "card_no": "PL!SP-bp1-025-L",
+                "name": "Starlight Prologue"
+            },
+            {
+                "card_no": "PL!SP-bp1-025-SECL",
+                "name": "Starlight Prologue"
+            },
+            {
+                "card_no": "PL!SP-bp1-025-SRL",
                 "name": "Starlight Prologue"
             }
         ],
@@ -21825,6 +22097,10 @@
             {
                 "card_no": "PL!SP-pb1-023-L",
                 "name": "ディストーション"
+            },
+            {
+                "card_no": "PL!SP-pb1-023-SRL",
+                "name": "ディストーション"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1-023-L.png"
@@ -21852,6 +22128,10 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-pb1-024-L",
+                "name": "ニュートラル"
+            },
+            {
+                "card_no": "PL!SP-pb1-024-SRL",
                 "name": "ニュートラル"
             }
         ],
@@ -21904,6 +22184,10 @@
             {
                 "card_no": "PL!SP-pb1-025-L",
                 "name": "Jellyfish"
+            },
+            {
+                "card_no": "PL!SP-pb1-025-SRL",
+                "name": "Jellyfish"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1-025-L.png"
@@ -21935,6 +22219,10 @@
             {
                 "card_no": "PL!SP-pb1-026-L＋",
                 "name": "Jump Into the New World"
+            },
+            {
+                "card_no": "PL!SP-pb1-026-SRL",
+                "name": "Jump Into the New World"
             }
         ],
         "_img": "img/cards/PBSP/PL!SP-pb1-026-L.png"
@@ -21965,6 +22253,10 @@
             },
             {
                 "card_no": "PL!SP-pb1-026-L",
+                "name": "Jump Into the New World"
+            },
+            {
+                "card_no": "PL!SP-pb1-026-SRL",
                 "name": "Jump Into the New World"
             }
         ],
@@ -29897,6 +30189,10 @@
             {
                 "card_no": "PL!SP-bp2-023-L",
                 "name": "Go!! リスタート"
+            },
+            {
+                "card_no": "PL!SP-bp2-023-SRL",
+                "name": "Go!! リスタート"
             }
         ],
         "_img": "img/cards/BP02/PL!SP-bp2-023-L.png"
@@ -30130,6 +30426,10 @@
             {
                 "card_no": "PL!SP-bp2-024-SECL",
                 "name": "ビタミンSUMMER!"
+            },
+            {
+                "card_no": "PL!SP-bp2-024-SRL",
+                "name": "ビタミンSUMMER!"
             }
         ],
         "_img": "img/cards/BP02/PL!SP-bp2-024-L.png"
@@ -30334,6 +30634,10 @@
             {
                 "card_no": "PL!SP-bp2-025-L",
                 "name": "Bubble Rise"
+            },
+            {
+                "card_no": "PL!SP-bp2-025-SRL",
+                "name": "Bubble Rise"
             }
         ],
         "_img": "img/cards/BP02/PL!SP-bp2-025-L.png"
@@ -30358,6 +30662,10 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-bp2-026-L",
+                "name": "笑顔のPromise"
+            },
+            {
+                "card_no": "PL!SP-bp2-026-SRL",
                 "name": "笑顔のPromise"
             }
         ],
@@ -30388,6 +30696,10 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-bp2-027-L",
+                "name": "UNIVERSE!!"
+            },
+            {
+                "card_no": "PL!SP-bp2-027-SRL",
                 "name": "UNIVERSE!!"
             }
         ],
@@ -55004,6 +55316,10 @@
             {
                 "card_no": "PL!SP-bp4-023-L",
                 "name": "Dazzling Game"
+            },
+            {
+                "card_no": "PL!SP-bp4-023-SRL",
+                "name": "Dazzling Game"
             }
         ],
         "_img": "img/cards/BP04/PL!SP-bp4-023-L.png"
@@ -55031,6 +55347,14 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-bp4-024-L",
+                "name": "ノンフィクション!!"
+            },
+            {
+                "card_no": "PL!SP-bp4-024-SECL",
+                "name": "ノンフィクション!!"
+            },
+            {
+                "card_no": "PL!SP-bp4-024-SRL",
                 "name": "ノンフィクション!!"
             }
         ],
@@ -55069,6 +55393,10 @@
             {
                 "card_no": "PL!SP-bp4-025-L",
                 "name": "Special Color"
+            },
+            {
+                "card_no": "PL!SP-bp4-025-SRL",
+                "name": "Special Color"
             }
         ],
         "_img": "img/cards/BP04/PL!SP-bp4-025-L.png"
@@ -55097,6 +55425,10 @@
             {
                 "card_no": "PL!SP-bp4-026-L",
                 "name": "Wish Song"
+            },
+            {
+                "card_no": "PL!SP-bp4-026-SRL",
+                "name": "Wish Song"
             }
         ],
         "_img": "img/cards/BP04/PL!SP-bp4-026-L.png"
@@ -55122,6 +55454,10 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-bp4-027-L",
+                "name": "Chance Day, Chance Way!"
+            },
+            {
+                "card_no": "PL!SP-bp4-027-SRL",
                 "name": "Chance Day, Chance Way!"
             }
         ],
@@ -55151,6 +55487,10 @@
             {
                 "card_no": "PL!SP-bp4-028-L",
                 "name": "DAISUKI FULL POWER"
+            },
+            {
+                "card_no": "PL!SP-bp4-028-SRL",
+                "name": "DAISUKI FULL POWER"
             }
         ],
         "_img": "img/cards/BP04/PL!SP-bp4-028-L.png"
@@ -55178,6 +55518,10 @@
             {
                 "card_no": "PL!SP-bp4-029-L",
                 "name": "追いかける夢の先で"
+            },
+            {
+                "card_no": "PL!SP-bp4-029-SRL",
+                "name": "追いかける夢の先で"
             }
         ],
         "_img": "img/cards/BP04/PL!SP-bp4-029-L.png"
@@ -55202,6 +55546,10 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-bp4-030-L",
+                "name": "Second Sparkle"
+            },
+            {
+                "card_no": "PL!SP-bp4-030-SRL",
                 "name": "Second Sparkle"
             }
         ],
@@ -66700,6 +67048,10 @@
             {
                 "card_no": "PL!SP-bp2-024-L",
                 "name": "ビタミンSUMMER！"
+            },
+            {
+                "card_no": "PL!SP-bp2-024-SRL",
+                "name": "ビタミンSUMMER!"
             }
         ],
         "_img": "img/cards/BP05/PL!SP-bp2-SECL.png"
@@ -82420,6 +82772,10 @@
             {
                 "card_no": "PL!SP-sd1-024-SD2",
                 "name": "シェキラ☆☆☆"
+            },
+            {
+                "card_no": "PL!SP-sd1-024-SRL",
+                "name": "シェキラ☆☆☆"
             }
         ],
         "_img": "img/cards/SPSD02/PL!SP-sd1-024-P.png"
@@ -82453,6 +82809,10 @@
             },
             {
                 "card_no": "PL!SP-sd1-024-P",
+                "name": "シェキラ☆☆☆"
+            },
+            {
+                "card_no": "PL!SP-sd1-024-SRL",
                 "name": "シェキラ☆☆☆"
             }
         ],
@@ -83353,5 +83713,3704 @@
             }
         ],
         "_img": "img/cards/SPSD02/PL!SP-sd2-025-SD2.png"
+    },
+    "PL!SP-bp1-023-SRL": {
+        "card_no": "PL!SP-bp1-023-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp1-023-SRL.png",
+        "name": "START!! True dreams",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 1,
+        "need_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1,
+            "heart0": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp1-023-SRL",
+                "name": "START!! True dreams"
+            },
+            {
+                "card_no": "PL!SP-bp1-023-L",
+                "name": "START!! True dreams"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp1-023-SRL.png"
+    },
+    "PL!SP-bp1-024-SRL": {
+        "card_no": "PL!SP-bp1-024-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp1-024-SRL.png",
+        "name": "Tiny Stars",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 2,
+        "need_heart": {
+            "heart01": 1,
+            "heart05": 1,
+            "heart0": 6
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる「澁谷かのん」1人は{{heart_05.png|heart05}}{{icon_blade.png|ブレード}}を、「唐可可」1人は{{heart_01.png|heart01}}{{icon_blade.png|ブレード}}を得る。\n{{live_success.png|ライブ成功時}}自分のステージに「澁谷かのん」と「唐可可」がいる場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp1-024-SRL",
+                "name": "Tiny Stars"
+            },
+            {
+                "card_no": "PL!SP-bp1-024-L",
+                "name": "Tiny Stars"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp1-024-SRL.png"
+    },
+    "PL!SP-bp1-025-SECL": {
+        "card_no": "PL!SP-bp1-025-SECL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp1-025-SECL.png",
+        "name": "Starlight Prologue",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 2,
+        "need_heart": {
+            "heart03": 1,
+            "heart06": 1,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp1-025-SECL",
+                "name": "Starlight Prologue"
+            },
+            {
+                "card_no": "PL!SP-bp1-025-L",
+                "name": "Starlight Prologue"
+            },
+            {
+                "card_no": "PL!SP-bp1-025-L＋",
+                "name": "Starlight Prologue"
+            },
+            {
+                "card_no": "PL!SP-bp1-025-SRL",
+                "name": "Starlight Prologue"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp1-025-SECL.png"
+    },
+    "PL!SP-bp1-025-SRL": {
+        "card_no": "PL!SP-bp1-025-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp1-025-SRL.png",
+        "name": "Starlight Prologue",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 2,
+        "need_heart": {
+            "heart03": 1,
+            "heart06": 1,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp1-025-SRL",
+                "name": "Starlight Prologue"
+            },
+            {
+                "card_no": "PL!SP-bp1-025-L",
+                "name": "Starlight Prologue"
+            },
+            {
+                "card_no": "PL!SP-bp1-025-SECL",
+                "name": "Starlight Prologue"
+            },
+            {
+                "card_no": "PL!SP-bp1-025-L＋",
+                "name": "Starlight Prologue"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp1-025-SRL.png"
+    },
+    "PL!SP-bp1-026-SECL": {
+        "card_no": "PL!SP-bp1-026-SECL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp1-026-SECL.png",
+        "name": "未来予報ハレルヤ！",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 3,
+        "need_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2,
+            "heart0": 2
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを使用するためのコストは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp1-026-SECL",
+                "name": "未来予報ハレルヤ！"
+            },
+            {
+                "card_no": "PL!SP-bp1-026-L",
+                "name": "未来予報ハレルヤ！"
+            },
+            {
+                "card_no": "PL!SP-bp1-026-SRL",
+                "name": "未来予報ハレルヤ！"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp1-026-SECL.png"
+    },
+    "PL!SP-bp1-026-SRL": {
+        "card_no": "PL!SP-bp1-026-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp1-026-SRL.png",
+        "name": "未来予報ハレルヤ！",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 3,
+        "need_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2,
+            "heart0": 2
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを使用するためのコストは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp1-026-SRL",
+                "name": "未来予報ハレルヤ！"
+            },
+            {
+                "card_no": "PL!SP-bp1-026-L",
+                "name": "未来予報ハレルヤ！"
+            },
+            {
+                "card_no": "PL!SP-bp1-026-SECL",
+                "name": "未来予報ハレルヤ！"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp1-026-SRL.png"
+    },
+    "PL!SP-bp1-027-SRL": {
+        "card_no": "PL!SP-bp1-027-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp1-027-SRL.png",
+        "name": "Sing！Shine！Smile！",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 6,
+        "need_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart06": 3,
+            "heart0": 5
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが12枚以上ある場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp1-027-SRL",
+                "name": "Sing！Shine！Smile！"
+            },
+            {
+                "card_no": "PL!SP-bp1-027-L",
+                "name": "Sing！Shine！Smile！"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp1-027-SRL.png"
+    },
+    "PL!SP-bp2-023-SRL": {
+        "card_no": "PL!SP-bp2-023-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp2-023-SRL.png",
+        "name": "Go!! リスタート",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 1,
+        "need_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1,
+            "heart0": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場のカード枚数が相手より少ない場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp2-023-SRL",
+                "name": "Go!! リスタート"
+            },
+            {
+                "card_no": "PL!SP-bp2-023-L",
+                "name": "Go!! リスタート"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp2-023-SRL.png"
+    },
+    "PL!SP-bp2-024-SRL": {
+        "card_no": "PL!SP-bp2-024-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp2-024-SRL.png",
+        "name": "ビタミンSUMMER!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 5,
+        "need_heart": {
+            "heart02": 1,
+            "heart03": 4,
+            "heart06": 1,
+            "heart0": 6
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "ability": "{{live_success.png|ライブ成功時}}自分の手札の枚数が相手より多い場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp2-024-SRL",
+                "name": "ビタミンSUMMER!"
+            },
+            {
+                "card_no": "PL!SP-bp2-024-L",
+                "name": "ビタミンSUMMER！"
+            },
+            {
+                "card_no": "PL!SP-bp2-024-SECL",
+                "name": "ビタミンSUMMER!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp2-024-SRL.png"
+    },
+    "PL!SP-bp2-025-SRL": {
+        "card_no": "PL!SP-bp2-025-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp2-025-SRL.png",
+        "name": "Bubble Rise",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2,
+            "heart0": 4
+        },
+        "blade_heart": {},
+        "rare": "SRL",
+        "ability": "{{live_success.png|ライブ成功時}}自分のステージに「澁谷かのん」、「ウィーン・マルガレーテ」、「鬼塚冬毬」のうち、名前の異なるメンバーが2人以上いる場合、エールにより公開された自分のカードの中から、カードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp2-025-SRL",
+                "name": "Bubble Rise"
+            },
+            {
+                "card_no": "PL!SP-bp2-025-L",
+                "name": "Bubble Rise"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp2-025-SRL.png"
+    },
+    "PL!SP-bp2-026-SRL": {
+        "card_no": "PL!SP-bp2-026-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp2-026-SRL.png",
+        "name": "笑顔のPromise",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart03": 6,
+            "heart0": 3
+        },
+        "blade_heart": {},
+        "rare": "SRL",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp2-026-SRL",
+                "name": "笑顔のPromise"
+            },
+            {
+                "card_no": "PL!SP-bp2-026-L",
+                "name": "笑顔のPromise"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp2-026-SRL.png"
+    },
+    "PL!SP-bp2-027-SRL": {
+        "card_no": "PL!SP-bp2-027-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp2-027-SRL.png",
+        "name": "UNIVERSE!!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 7,
+        "need_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart06": 3,
+            "heart0": 7
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp2-027-SRL",
+                "name": "UNIVERSE!!"
+            },
+            {
+                "card_no": "PL!SP-bp2-027-L",
+                "name": "UNIVERSE!!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp2-027-SRL.png"
+    },
+    "PL!SP-bp4-023-SRL": {
+        "card_no": "PL!SP-bp4-023-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp4-023-SRL.png",
+        "name": "Dazzling Game",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 8,
+        "need_heart": {
+            "heart06": 11,
+            "heart0": 8
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる、「澁谷かのん」「ウィーン・マルガレーテ」「鬼塚冬毬」のうちのメンバー1人と、これにより選んだメンバー以外の『Liella!』のメンバー1人は、{{icon_blade.png|ブレード}}を得る。\n{{live_start.png|ライブ開始時}}ライブ終了時まで、エールによって公開される自分のカードが持つ[桃ブレード]、[赤ブレード]、[黄ブレード]、[緑ブレード]、[青ブレード]、{{icon_b_all.png|ALLブレード}}は、すべて[紫ブレード]になる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-023-SRL",
+                "name": "Dazzling Game"
+            },
+            {
+                "card_no": "PL!SP-bp4-023-L",
+                "name": "Dazzling Game"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp4-023-SRL.png"
+    },
+    "PL!SP-bp4-024-SECL": {
+        "card_no": "PL!SP-bp4-024-SECL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp4-024-SECL.png",
+        "name": "ノンフィクション!!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 6,
+        "need_heart": {
+            "heart02": 3,
+            "heart03": 5,
+            "heart0": 7
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のセンターエリアにいる『Liella!』のメンバーのコストが、相手のセンターエリアにいるメンバーより高い場合、このカードのスコアを＋１する。\n{{live_start.png|ライブ開始時}}自分のステージの左サイドエリアにいる『Liella!』のメンバーが{{heart_02.png|heart02}}を3つ以上持つ場合、そのメンバーは、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-024-SECL",
+                "name": "ノンフィクション!!"
+            },
+            {
+                "card_no": "PL!SP-bp4-024-L",
+                "name": "ノンフィクション!!"
+            },
+            {
+                "card_no": "PL!SP-bp4-024-SRL",
+                "name": "ノンフィクション!!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp4-024-SECL.png"
+    },
+    "PL!SP-bp4-024-SRL": {
+        "card_no": "PL!SP-bp4-024-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp4-024-SRL.png",
+        "name": "ノンフィクション!!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 6,
+        "need_heart": {
+            "heart02": 3,
+            "heart03": 5,
+            "heart0": 7
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}自分のセンターエリアにいる『Liella!』のメンバーのコストが、相手のセンターエリアにいるメンバーより高い場合、このカードのスコアを＋１する。\n{{live_start.png|ライブ開始時}}自分のステージの左サイドエリアにいる『Liella!』のメンバーが{{heart_02.png|heart02}}を3つ以上持つ場合、そのメンバーは、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-024-SRL",
+                "name": "ノンフィクション!!"
+            },
+            {
+                "card_no": "PL!SP-bp4-024-L",
+                "name": "ノンフィクション!!"
+            },
+            {
+                "card_no": "PL!SP-bp4-024-SECL",
+                "name": "ノンフィクション!!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp4-024-SRL.png"
+    },
+    "PL!SP-bp4-025-SRL": {
+        "card_no": "PL!SP-bp4-025-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp4-025-SRL.png",
+        "name": "Special Color",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 2,
+        "need_heart": {
+            "heart0": 7
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージのセンターエリアにいる『Liella!』のメンバーが元々持つ{{icon_blade.png|ブレード}}の数は3つになる。\n{{live_success.png|ライブ成功時}}自分のステージのセンターエリアにいる『Liella!』のメンバーが、このターン中に移動している場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-025-SRL",
+                "name": "Special Color"
+            },
+            {
+                "card_no": "PL!SP-bp4-025-L",
+                "name": "Special Color"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp4-025-SRL.png"
+    },
+    "PL!SP-bp4-026-SRL": {
+        "card_no": "PL!SP-bp4-026-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp4-026-SRL.png",
+        "name": "Wish Song",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 3,
+            "heart0": 6
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に名前が異なる『Liella!』のメンバーカードが5枚以上ある場合、このカードのスコアを＋１する。\n{{live_success.png|ライブ成功時}}自分のエネルギーが11枚以上ある場合、カードを2枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-026-SRL",
+                "name": "Wish Song"
+            },
+            {
+                "card_no": "PL!SP-bp4-026-L",
+                "name": "Wish Song"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp4-026-SRL.png"
+    },
+    "PL!SP-bp4-027-SRL": {
+        "card_no": "PL!SP-bp4-027-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp4-027-SRL.png",
+        "name": "Chance Day, Chance Way!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 1,
+        "need_heart": {
+            "heart02": 1,
+            "heart0": 2
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "ability": "{{live_success.png|ライブ成功時}}自分のステージにいるメンバーが『Liella!』のみの場合、自分のステージにいるメンバーをフォーメーションチェンジしてもよい。(メンバーをそれぞれ好きなエリアに移動させる。この効果で1つのエリアに2人以上のメンバーを移動させることはできない。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-027-SRL",
+                "name": "Chance Day, Chance Way!"
+            },
+            {
+                "card_no": "PL!SP-bp4-027-L",
+                "name": "Chance Day, Chance Way!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp4-027-SRL.png"
+    },
+    "PL!SP-bp4-028-SRL": {
+        "card_no": "PL!SP-bp4-028-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp4-028-SRL.png",
+        "name": "DAISUKI FULL POWER",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 5,
+        "need_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart0": 7
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}アクティブ状態の自分のエネルギーがある場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-028-SRL",
+                "name": "DAISUKI FULL POWER"
+            },
+            {
+                "card_no": "PL!SP-bp4-028-L",
+                "name": "DAISUKI FULL POWER"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp4-028-SRL.png"
+    },
+    "PL!SP-bp4-029-SRL": {
+        "card_no": "PL!SP-bp4-029-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp4-029-SRL.png",
+        "name": "追いかける夢の先で",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart03": 3,
+            "heart06": 3,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-029-SRL",
+                "name": "追いかける夢の先で"
+            },
+            {
+                "card_no": "PL!SP-bp4-029-L",
+                "name": "追いかける夢の先で"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp4-029-SRL.png"
+    },
+    "PL!SP-bp4-030-SRL": {
+        "card_no": "PL!SP-bp4-030-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-bp4-030-SRL.png",
+        "name": "Second Sparkle",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 2,
+        "need_heart": {
+            "heart03": 2,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-bp4-030-SRL",
+                "name": "Second Sparkle"
+            },
+            {
+                "card_no": "PL!SP-bp4-030-L",
+                "name": "Second Sparkle"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-bp4-030-SRL.png"
+    },
+    "PL!SP-pb1-023-SRL": {
+        "card_no": "PL!SP-pb1-023-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb1-023-SRL.png",
+        "name": "ディストーション",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "score": 3,
+        "need_heart": {
+            "heart02": 4,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージに名前の異なる『CatChu!』のメンバーが2人以上いる場合、エネルギーを6枚までアクティブにする。その後、自分のエネルギーがすべてアクティブ状態の場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-023-SRL",
+                "name": "ディストーション"
+            },
+            {
+                "card_no": "PL!SP-pb1-023-L",
+                "name": "ディストーション"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb1-023-SRL.png"
+    },
+    "PL!SP-pb1-024-SRL": {
+        "card_no": "PL!SP-pb1-024-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb1-024-SRL.png",
+        "name": "ニュートラル",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "score": 6,
+        "need_heart": {
+            "heart06": 8,
+            "heart0": 7
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージに名前の異なる『KALEIDOSCORE』のメンバーが2人以上いる場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-024-SRL",
+                "name": "ニュートラル"
+            },
+            {
+                "card_no": "PL!SP-pb1-024-L",
+                "name": "ニュートラル"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb1-024-SRL.png"
+    },
+    "PL!SP-pb1-025-SRL": {
+        "card_no": "PL!SP-pb1-025-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb1-025-SRL.png",
+        "name": "Jellyfish",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "score": 6,
+        "need_heart": {
+            "heart02": 4,
+            "heart06": 4,
+            "heart0": 6
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる、このターン中に登場、またはエリアを移動した『5yncri5e!』のメンバー1人につき、このカードを成功させるための必要ハートを{{heart_00.png|heart0}}減らす。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-025-SRL",
+                "name": "Jellyfish"
+            },
+            {
+                "card_no": "PL!SP-pb1-025-L",
+                "name": "Jellyfish"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb1-025-SRL.png"
+    },
+    "PL!SP-pb1-026-SRL": {
+        "card_no": "PL!SP-pb1-026-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb1-026-SRL.png",
+        "name": "Jump Into the New World",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart02": 3,
+            "heart06": 3,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb1-026-SRL",
+                "name": "Jump Into the New World"
+            },
+            {
+                "card_no": "PL!SP-pb1-026-L",
+                "name": "Jump Into the New World"
+            },
+            {
+                "card_no": "PL!SP-pb1-026-L＋",
+                "name": "Jump Into the New World"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb1-026-SRL.png"
+    },
+    "PL!SP-pb2-000-R": {
+        "card_no": "PL!SP-pb2-000-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-000-R.png",
+        "name": "嵐 千砂都＆鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 6,
+        "rare": "R",
+        "ability": "{{jyouji.png|常時}}このカードのプレイに際し、2人のメンバーとバトンタッチしてもよい。\n{{toujyou.png|登場}}バトンタッチして登場した場合、このバトンタッチによって控え室に置かれた『Liella!』のメンバーカード1枚につき、カードを1枚引く。ブレードハートを持たない『Liella!』のメンバーカード1枚につき、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [
+            {
+                "title": "Q265（2026.06.22）",
+                "question": "ブレードハートを持たない『Liella!』のメンバー2人とバトンタッチしてこのメンバーが登場しました。このとき、登場能力はどのように解決されますか？",
+                "answer": "カードを2枚引いたのち、ブレードを4つ得ます。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-000-R",
+                        "name": "嵐 千砂都＆鬼塚夏美"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-000-DUO",
+                        "name": "嵐 千砂都＆鬼塚夏美"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-000-R",
+                "name": "嵐 千砂都＆鬼塚夏美"
+            },
+            {
+                "card_no": "PL!SP-pb2-000-DUO",
+                "name": "嵐 千砂都＆鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-000-R.png"
+    },
+    "PL!SP-pb2-000-DUO": {
+        "card_no": "PL!SP-pb2-000-DUO",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-000-DUO.png",
+        "name": "嵐 千砂都＆鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 6,
+        "rare": "DUO",
+        "ability": "{{jyouji.png|常時}}このカードのプレイに際し、2人のメンバーとバトンタッチしてもよい。\n{{toujyou.png|登場}}バトンタッチして登場した場合、このバトンタッチによって控え室に置かれた『Liella!』のメンバーカード1枚につき、カードを1枚引く。ブレードハートを持たない『Liella!』のメンバーカード1枚につき、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [
+            {
+                "title": "Q265（2026.06.22）",
+                "question": "ブレードハートを持たない『Liella!』のメンバー2人とバトンタッチしてこのメンバーが登場しました。このとき、登場能力はどのように解決されますか？",
+                "answer": "カードを2枚引いたのち、ブレードを4つ得ます。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-000-R",
+                        "name": "嵐 千砂都＆鬼塚夏美"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-000-DUO",
+                        "name": "嵐 千砂都＆鬼塚夏美"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-000-DUO",
+                "name": "嵐 千砂都＆鬼塚夏美"
+            },
+            {
+                "card_no": "PL!SP-pb2-000-R",
+                "name": "嵐 千砂都＆鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-000-DUO.png"
+    },
+    "PL!SP-pb2-001-R": {
+        "card_no": "PL!SP-pb2-001-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-001-R.png",
+        "name": "澁谷かのん",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade": 5,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中からコスト4以下の『Liella!』のメンバーカードを1枚まで公開する。そのカードを自分のステージのメンバーのいないエリアに登場させるか、手札に加える。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-001-R",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-pb2-001-PP",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-001-R.png"
+    },
+    "PL!SP-pb2-001-PP": {
+        "card_no": "PL!SP-pb2-001-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-001-PP.png",
+        "name": "澁谷かのん",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade": 5,
+        "rare": "PP",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中からコスト4以下の『Liella!』のメンバーカードを1枚まで公開する。そのカードを自分のステージのメンバーのいないエリアに登場させるか、手札に加える。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-001-PP",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-pb2-001-R",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-001-PP.png"
+    },
+    "PL!SP-pb2-002-R": {
+        "card_no": "PL!SP-pb2-002-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-002-R.png",
+        "name": "唐 可可",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札の『Liella!』のカードを1枚控え室に置く：以下から1つを選ぶ。これにより控え室に置いたカードがブレードハートを持たないメンバーカードの場合、代わりに1つ以上を選ぶ。\n・自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。\n・ライブ終了時まで、自分のステージにいるこのメンバー以外の『Liella!』のメンバー1人は、{{heart_06.png|heart06}}{{heart_06.png|heart06}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-002-R",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-pb2-002-PP",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-002-R.png"
+    },
+    "PL!SP-pb2-002-PP": {
+        "card_no": "PL!SP-pb2-002-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-002-PP.png",
+        "name": "唐 可可",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "PP",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}手札の『Liella!』のカードを1枚控え室に置く：以下から1つを選ぶ。これにより控え室に置いたカードがブレードハートを持たないメンバーカードの場合、代わりに1つ以上を選ぶ。\n・自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。\n・ライブ終了時まで、自分のステージにいるこのメンバー以外の『Liella!』のメンバー1人は、{{heart_06.png|heart06}}{{heart_06.png|heart06}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-002-PP",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-pb2-002-R",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-002-PP.png"
+    },
+    "PL!SP-pb2-003-R": {
+        "card_no": "PL!SP-pb2-003-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-003-R.png",
+        "name": "嵐 千砂都",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 3,
+        "rare": "R",
+        "ability": "{{live_success.png|ライブ成功時}}このターン、自分の『Liella!』のカードの効果によってこのメンバーがエリアを移動していた場合、ライブの合計スコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-003-R",
+                "name": "嵐 千砂都"
+            },
+            {
+                "card_no": "PL!SP-pb2-003-PP",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-003-R.png"
+    },
+    "PL!SP-pb2-003-PP": {
+        "card_no": "PL!SP-pb2-003-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-003-PP.png",
+        "name": "嵐 千砂都",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 3,
+        "rare": "PP",
+        "ability": "{{live_success.png|ライブ成功時}}このターン、自分の『Liella!』のカードの効果によってこのメンバーがエリアを移動していた場合、ライブの合計スコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-003-PP",
+                "name": "嵐 千砂都"
+            },
+            {
+                "card_no": "PL!SP-pb2-003-R",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-003-PP.png"
+    },
+    "PL!SP-pb2-004-R": {
+        "card_no": "PL!SP-pb2-004-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-004-R.png",
+        "name": "平安名すみれ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{live_success.png|ライブ成功時}}自分のライブカード置き場の中に元々のスコアより高いスコアのライブカードがあるか、エールにより公開された自分のカードの中に{{icon_score.png|スコア}}を持つライブカードがある場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-004-R",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-pb2-004-PP",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-004-R.png"
+    },
+    "PL!SP-pb2-004-PP": {
+        "card_no": "PL!SP-pb2-004-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-004-PP.png",
+        "name": "平安名すみれ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "PP",
+        "ability": "{{live_success.png|ライブ成功時}}自分のライブカード置き場の中に元々のスコアより高いスコアのライブカードがあるか、エールにより公開された自分のカードの中に{{icon_score.png|スコア}}を持つライブカードがある場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-004-PP",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-pb2-004-R",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-004-PP.png"
+    },
+    "PL!SP-pb2-005-R": {
+        "card_no": "PL!SP-pb2-005-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-005-R.png",
+        "name": "葉月 恋",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 20,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 6,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}バトンタッチして登場した場合、このバトンタッチで控え室に置かれた『Liella!』のメンバーカードを1枚、このメンバーの下に置く。\n{{jyouji.png|常時}}このメンバーは、このメンバーの下に置かれている『Liella!』のメンバーカードが持つ{{kidou.png|起動}}能力をすべて得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-005-R",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-pb2-005-PP",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-005-R.png"
+    },
+    "PL!SP-pb2-005-PP": {
+        "card_no": "PL!SP-pb2-005-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-005-PP.png",
+        "name": "葉月 恋",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 20,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 6,
+        "rare": "PP",
+        "ability": "{{toujyou.png|登場}}バトンタッチして登場した場合、このバトンタッチで控え室に置かれた『Liella!』のメンバーカードを1枚、このメンバーの下に置く。\n{{jyouji.png|常時}}このメンバーは、このメンバーの下に置かれている『Liella!』のメンバーカードが持つ{{kidou.png|起動}}能力をすべて得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-005-PP",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-pb2-005-R",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-005-PP.png"
+    },
+    "PL!SP-pb2-006-R": {
+        "card_no": "PL!SP-pb2-006-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-006-R.png",
+        "name": "桜小路きな子",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "R",
+        "ability": "{{jyouji.png|常時}}このメンバーの下にある『Liella!』のメンバーカード1枚につき、このメンバーのコストを＋１する。\n{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のライブが成功するか、このメンバーがエリアを移動したとき、自分の控え室にある『Liella!』のメンバーカードを1枚、このメンバーの下に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-006-R",
+                "name": "桜小路きな子"
+            },
+            {
+                "card_no": "PL!SP-pb2-006-PP",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-006-R.png"
+    },
+    "PL!SP-pb2-006-PP": {
+        "card_no": "PL!SP-pb2-006-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-006-PP.png",
+        "name": "桜小路きな子",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "PP",
+        "ability": "{{jyouji.png|常時}}このメンバーの下にある『Liella!』のメンバーカード1枚につき、このメンバーのコストを＋１する。\n{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のライブが成功するか、このメンバーがエリアを移動したとき、自分の控え室にある『Liella!』のメンバーカードを1枚、このメンバーの下に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-006-PP",
+                "name": "桜小路きな子"
+            },
+            {
+                "card_no": "PL!SP-pb2-006-R",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-006-PP.png"
+    },
+    "PL!SP-pb2-007-R": {
+        "card_no": "PL!SP-pb2-007-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-007-R.png",
+        "name": "米女メイ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 5,
+        "rare": "R",
+        "ability": "{{live_success.png|ライブ成功時}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：自分の控え室から『Liella!』のライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-007-R",
+                "name": "米女メイ"
+            },
+            {
+                "card_no": "PL!SP-pb2-007-PP",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-007-R.png"
+    },
+    "PL!SP-pb2-007-PP": {
+        "card_no": "PL!SP-pb2-007-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-007-PP.png",
+        "name": "米女メイ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 5,
+        "rare": "PP",
+        "ability": "{{live_success.png|ライブ成功時}}{{icon_energy.png|E}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：自分の控え室から『Liella!』のライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-007-PP",
+                "name": "米女メイ"
+            },
+            {
+                "card_no": "PL!SP-pb2-007-R",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-007-PP.png"
+    },
+    "PL!SP-pb2-008-R": {
+        "card_no": "PL!SP-pb2-008-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-008-R.png",
+        "name": "若菜四季",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 17,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 3,
+            "heart06": 2
+        },
+        "blade": 7,
+        "rare": "R",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中にあるブレードハートを持たない『Liella!』のメンバーカード2枚につき、ライブの合計スコアを＋１する。この能力では合計スコアは２までしか増えない。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-008-R",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-pb2-008-PP",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-008-R.png"
+    },
+    "PL!SP-pb2-008-PP": {
+        "card_no": "PL!SP-pb2-008-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-008-PP.png",
+        "name": "若菜四季",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 17,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 3,
+            "heart06": 2
+        },
+        "blade": 7,
+        "rare": "PP",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中にあるブレードハートを持たない『Liella!』のメンバーカード2枚につき、ライブの合計スコアを＋１する。この能力では合計スコアは２までしか増えない。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-008-PP",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-pb2-008-R",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-008-PP.png"
+    },
+    "PL!SP-pb2-009-R": {
+        "card_no": "PL!SP-pb2-009-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-009-R.png",
+        "name": "鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}/{{live_start.png|ライブ開始時}}『Liella!』のメンバー1人をウェイトにしてもよい：相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数がこれによりウェイトにしたメンバーが元々持つ{{icon_blade.png|ブレード}}の数より2つ以上少ないメンバー1人をウェイトにする。（ウェイト状態のメンバーが持つ{{icon_blade.png|ブレード}}は、エールで公開する枚数を増やさない。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-009-R",
+                "name": "鬼塚夏美"
+            },
+            {
+                "card_no": "PL!SP-pb2-009-PP",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-009-R.png"
+    },
+    "PL!SP-pb2-009-PP": {
+        "card_no": "PL!SP-pb2-009-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-009-PP.png",
+        "name": "鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "PP",
+        "ability": "{{toujyou.png|登場}}/{{live_start.png|ライブ開始時}}『Liella!』のメンバー1人をウェイトにしてもよい：相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数がこれによりウェイトにしたメンバーが元々持つ{{icon_blade.png|ブレード}}の数より2つ以上少ないメンバー1人をウェイトにする。（ウェイト状態のメンバーが持つ{{icon_blade.png|ブレード}}は、エールで公開する枚数を増やさない。）",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-009-PP",
+                "name": "鬼塚夏美"
+            },
+            {
+                "card_no": "PL!SP-pb2-009-R",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-009-PP.png"
+    },
+    "PL!SP-pb2-010-R": {
+        "card_no": "PL!SP-pb2-010-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-010-R.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 5,
+        "rare": "R",
+        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置かないかぎり、自分のエネルギー1枚をエネルギーデッキに置く。\n{{live_success.png|ライブ成功時}}以下から1つを選ぶ。\n・カードを2枚引く。\n・自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [
+            {
+                "title": "Q262（2026.06.22）",
+                "question": "{{live_start.png|ライブ開始時}}の発動時に、手札が1枚もありませんでした。このとき、かならずエネルギーをエネルギーデッキに置く必要がありますか？",
+                "answer": "はい、手札を控え室に置くことができないため、かならずエネルギーをエネルギーデッキに置きます。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-010-R",
+                        "name": "ウィーン・マルガレーテ"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-010-PP",
+                        "name": "ウィーン・マルガレーテ"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-010-R",
+                "name": "ウィーン・マルガレーテ"
+            },
+            {
+                "card_no": "PL!SP-pb2-010-PP",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-010-R.png"
+    },
+    "PL!SP-pb2-010-PP": {
+        "card_no": "PL!SP-pb2-010-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-010-PP.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 5,
+        "rare": "PP",
+        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置かないかぎり、自分のエネルギー1枚をエネルギーデッキに置く。\n{{live_success.png|ライブ成功時}}以下から1つを選ぶ。\n・カードを2枚引く。\n・自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
+        "faq": [
+            {
+                "title": "Q262（2026.06.22）",
+                "question": "{{live_start.png|ライブ開始時}}の発動時に、手札が1枚もありませんでした。このとき、かならずエネルギーをエネルギーデッキに置く必要がありますか？",
+                "answer": "はい、手札を控え室に置くことができないため、かならずエネルギーをエネルギーデッキに置きます。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-010-R",
+                        "name": "ウィーン・マルガレーテ"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-010-PP",
+                        "name": "ウィーン・マルガレーテ"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-010-PP",
+                "name": "ウィーン・マルガレーテ"
+            },
+            {
+                "card_no": "PL!SP-pb2-010-R",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-010-PP.png"
+    },
+    "PL!SP-pb2-011-R": {
+        "card_no": "PL!SP-pb2-011-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-011-R.png",
+        "name": "鬼塚冬毬",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のステージのセンターエリアにいるメンバーがエリアを移動したとき、以下から1つを選ぶ。\n・ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n・相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数が2つ以下のメンバー1人をウェイトにする。\n・カードを1枚引く。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。",
+        "faq": [
+            {
+                "title": "Q263（2026.06.22）",
+                "question": "このメンバーの{{jidou.png|自動}}能力は、このメンバーがセンターエリアから他のエリアに移動したときも誘発しますか？",
+                "answer": "はい、します。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-011-R",
+                        "name": "鬼塚冬毬"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-011-PP",
+                        "name": "鬼塚冬毬"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-011-R",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-pb2-011-PP",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-011-R.png"
+    },
+    "PL!SP-pb2-011-PP": {
+        "card_no": "PL!SP-pb2-011-PP",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-011-PP.png",
+        "name": "鬼塚冬毬",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade": 4,
+        "rare": "PP",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のステージのセンターエリアにいるメンバーがエリアを移動したとき、以下から1つを選ぶ。\n・ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\n・相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数が2つ以下のメンバー1人をウェイトにする。\n・カードを1枚引く。\n{{live_start.png|ライブ開始時}}このメンバーをポジションチェンジしてもよい。",
+        "faq": [
+            {
+                "title": "Q263（2026.06.22）",
+                "question": "このメンバーの{{jidou.png|自動}}能力は、このメンバーがセンターエリアから他のエリアに移動したときも誘発しますか？",
+                "answer": "はい、します。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-011-R",
+                        "name": "鬼塚冬毬"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-011-PP",
+                        "name": "鬼塚冬毬"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-011-PP",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-pb2-011-R",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-011-PP.png"
+    },
+    "PL!SP-pb2-012-R": {
+        "card_no": "PL!SP-pb2-012-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-012-R.png",
+        "name": "澁谷かのん",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-012-R",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-pb2-012-P＋",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-012-R.png"
+    },
+    "PL!SP-pb2-012-P＋": {
+        "card_no": "PL!SP-pb2-012-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-012-P2.png",
+        "name": "澁谷かのん",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "P＋",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-012-P＋",
+                "name": "澁谷かのん"
+            },
+            {
+                "card_no": "PL!SP-pb2-012-R",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-012-P2.png"
+    },
+    "PL!SP-pb2-013-R": {
+        "card_no": "PL!SP-pb2-013-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-013-R.png",
+        "name": "唐 可可",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 10,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 3
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}手札の『KALEIDOSCORE』のカードを1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。これにより控え室に置いたカードがブレードハートを持たない場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-013-R",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-pb2-013-P＋",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-013-R.png"
+    },
+    "PL!SP-pb2-013-P＋": {
+        "card_no": "PL!SP-pb2-013-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-013-P2.png",
+        "name": "唐 可可",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 10,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 3
+        },
+        "blade": 2,
+        "rare": "P＋",
+        "ability": "{{toujyou.png|登場}}手札の『KALEIDOSCORE』のカードを1枚控え室に置いてもよい：自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。これにより控え室に置いたカードがブレードハートを持たない場合、カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-013-P＋",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-pb2-013-R",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-013-P2.png"
+    },
+    "PL!SP-pb2-014-R": {
+        "card_no": "PL!SP-pb2-014-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-014-R.png",
+        "name": "嵐 千砂都",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}自分のステージにいるメンバーが『5yncri5e!』のみの場合、自分のステージにいるメンバーをフォーメーションチェンジしてもよい。(メンバーをそれぞれ好きなエリアに移動させてもよい。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-014-R",
+                "name": "嵐 千砂都"
+            },
+            {
+                "card_no": "PL!SP-pb2-014-P＋",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-014-R.png"
+    },
+    "PL!SP-pb2-014-P＋": {
+        "card_no": "PL!SP-pb2-014-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-014-P2.png",
+        "name": "嵐 千砂都",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "P＋",
+        "ability": "{{toujyou.png|登場}}自分のステージにいるメンバーが『5yncri5e!』のみの場合、自分のステージにいるメンバーをフォーメーションチェンジしてもよい。(メンバーをそれぞれ好きなエリアに移動させてもよい。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-014-P＋",
+                "name": "嵐 千砂都"
+            },
+            {
+                "card_no": "PL!SP-pb2-014-R",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-014-P2.png"
+    },
+    "PL!SP-pb2-015-R": {
+        "card_no": "PL!SP-pb2-015-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-015-R.png",
+        "name": "平安名すみれ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分の控え室から『CatChu!』のカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-015-R",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-pb2-015-P＋",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-015-R.png"
+    },
+    "PL!SP-pb2-015-P＋": {
+        "card_no": "PL!SP-pb2-015-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-015-P2.png",
+        "name": "平安名すみれ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "P＋",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分の控え室から『CatChu!』のカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-015-P＋",
+                "name": "平安名すみれ"
+            },
+            {
+                "card_no": "PL!SP-pb2-015-R",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-015-P2.png"
+    },
+    "PL!SP-pb2-016-R": {
+        "card_no": "PL!SP-pb2-016-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-016-R.png",
+        "name": "葉月 恋",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-016-R",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-pb2-016-P＋",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-016-R.png"
+    },
+    "PL!SP-pb2-016-P＋": {
+        "card_no": "PL!SP-pb2-016-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-016-P2.png",
+        "name": "葉月 恋",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "P＋",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からライブカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-016-P＋",
+                "name": "葉月 恋"
+            },
+            {
+                "card_no": "PL!SP-pb2-016-R",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-016-P2.png"
+    },
+    "PL!SP-pb2-017-R": {
+        "card_no": "PL!SP-pb2-017-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-017-R.png",
+        "name": "桜小路きな子",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中から『Liella!』のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-017-R",
+                "name": "桜小路きな子"
+            },
+            {
+                "card_no": "PL!SP-pb2-017-P＋",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-017-R.png"
+    },
+    "PL!SP-pb2-017-P＋": {
+        "card_no": "PL!SP-pb2-017-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-017-P2.png",
+        "name": "桜小路きな子",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 1,
+        "rare": "P＋",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中から『Liella!』のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-017-P＋",
+                "name": "桜小路きな子"
+            },
+            {
+                "card_no": "PL!SP-pb2-017-R",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-017-P2.png"
+    },
+    "PL!SP-pb2-018-R": {
+        "card_no": "PL!SP-pb2-018-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-018-R.png",
+        "name": "米女メイ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "R",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるこのメンバーと名前の異なる『CatChu!』のメンバー1人につき、エネルギーを1枚アクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-018-R",
+                "name": "米女メイ"
+            },
+            {
+                "card_no": "PL!SP-pb2-018-P＋",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-018-R.png"
+    },
+    "PL!SP-pb2-018-P＋": {
+        "card_no": "PL!SP-pb2-018-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-018-P2.png",
+        "name": "米女メイ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "P＋",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるこのメンバーと名前の異なる『CatChu!』のメンバー1人につき、エネルギーを1枚アクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-018-P＋",
+                "name": "米女メイ"
+            },
+            {
+                "card_no": "PL!SP-pb2-018-R",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-018-P2.png"
+    },
+    "PL!SP-pb2-019-R": {
+        "card_no": "PL!SP-pb2-019-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-019-R.png",
+        "name": "若菜四季",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分の控え室から『5yncri5e!』のカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-019-R",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-pb2-019-P＋",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-019-R.png"
+    },
+    "PL!SP-pb2-019-P＋": {
+        "card_no": "PL!SP-pb2-019-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-019-P2.png",
+        "name": "若菜四季",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "P＋",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分の控え室から『5yncri5e!』のカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-019-P＋",
+                "name": "若菜四季"
+            },
+            {
+                "card_no": "PL!SP-pb2-019-R",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-019-P2.png"
+    },
+    "PL!SP-pb2-020-R": {
+        "card_no": "PL!SP-pb2-020-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-020-R.png",
+        "name": "鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 2,
+        "rare": "R",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、手札にある『Liella!』のライブカードを1枚控え室に置いてもよい。そうした場合、追加で2枚エールを行う。",
+        "faq": [
+            {
+                "title": "Q264（2026.06.22）",
+                "question": "ステージにいるメンバーがすべてウェイト状態で、エールで公開した枚数が0枚でした。このとき、このカードの効果で追加で2枚エールを行えますか？",
+                "answer": "いいえ、できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-020-R",
+                        "name": "鬼塚夏美"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-020-P＋",
+                        "name": "鬼塚夏美"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-020-R",
+                "name": "鬼塚夏美"
+            },
+            {
+                "card_no": "PL!SP-pb2-020-P＋",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-020-R.png"
+    },
+    "PL!SP-pb2-020-P＋": {
+        "card_no": "PL!SP-pb2-020-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-020-P2.png",
+        "name": "鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 2,
+        "rare": "P＋",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、手札にある『Liella!』のライブカードを1枚控え室に置いてもよい。そうした場合、追加で2枚エールを行う。",
+        "faq": [
+            {
+                "title": "Q264（2026.06.22）",
+                "question": "ステージにいるメンバーがすべてウェイト状態で、エールで公開した枚数が0枚でした。このとき、このカードの効果で追加で2枚エールを行えますか？",
+                "answer": "いいえ、できません。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-020-R",
+                        "name": "鬼塚夏美"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-020-P＋",
+                        "name": "鬼塚夏美"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-020-P＋",
+                "name": "鬼塚夏美"
+            },
+            {
+                "card_no": "PL!SP-pb2-020-R",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-020-P2.png"
+    },
+    "PL!SP-pb2-021-R": {
+        "card_no": "PL!SP-pb2-021-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-021-R.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "R",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分の控え室から『KALEIDOSCORE』のカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-021-R",
+                "name": "ウィーン・マルガレーテ"
+            },
+            {
+                "card_no": "PL!SP-pb2-021-P＋",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-021-R.png"
+    },
+    "PL!SP-pb2-021-P＋": {
+        "card_no": "PL!SP-pb2-021-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-021-P2.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 13,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "P＋",
+        "ability": "{{toujyou.png|登場}}手札を1枚控え室に置いてもよい：自分の控え室から『KALEIDOSCORE』のカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-021-P＋",
+                "name": "ウィーン・マルガレーテ"
+            },
+            {
+                "card_no": "PL!SP-pb2-021-R",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-021-P2.png"
+    },
+    "PL!SP-pb2-022-R": {
+        "card_no": "PL!SP-pb2-022-R",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-022-R.png",
+        "name": "鬼塚冬毬",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 5,
+        "rare": "R",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のステージにいる『5yncri5e!』のメンバーがセンターエリアに移動したとき、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-022-R",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-pb2-022-P＋",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-022-R.png"
+    },
+    "PL!SP-pb2-022-P＋": {
+        "card_no": "PL!SP-pb2-022-P＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-022-P2.png",
+        "name": "鬼塚冬毬",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 5,
+        "rare": "P＋",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のステージにいる『5yncri5e!』のメンバーがセンターエリアに移動したとき、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-022-P＋",
+                "name": "鬼塚冬毬"
+            },
+            {
+                "card_no": "PL!SP-pb2-022-R",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-022-P2.png"
+    },
+    "PL!SP-pb2-023-N": {
+        "card_no": "PL!SP-pb2-023-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-023-N.png",
+        "name": "澁谷かのん",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "rare": "N",
+        "ability": "{{jyouji.png|常時}}自分のエネルギーが6枚以上あるかぎり、{{heart_02.png|heart02}}を得る。8枚以上あるかぎり、さらに{{heart_02.png|heart02}}を得る。",
+        "faq": [
+            {
+                "title": "Q259（2026.06.22）",
+                "question": "ライブ成功判定の後に、能力の処理によって{{jyouji.png|常時}}の条件を満たさなくなり、その結果ハートの合計が必要ハート以下になりました。\nこの場合、ライブは失敗しますか？",
+                "answer": "いいえ。失敗しません。\n必要ハートの計算が行われるのはライブ成功判定タイミングのみです。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-023-N",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-026-N",
+                        "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-027-N",
+                        "name": "葉月 恋"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-032-N",
+                        "name": "ウィーン・マルガレーテ"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-023-N",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-023-N.png"
+    },
+    "PL!SP-pb2-024-N": {
+        "card_no": "PL!SP-pb2-024-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-024-N.png",
+        "name": "唐 可可",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}相手のステージにいるコスト2以下のメンバー1人をウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-024-N",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-024-N.png"
+    },
+    "PL!SP-pb2-025-N": {
+        "card_no": "PL!SP-pb2-025-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-025-N.png",
+        "name": "嵐 千砂都",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}このメンバーをポジションチェンジしてもよい。(このメンバーを今いるエリア以外のエリアに移動させる。そのエリアにメンバーがいる場合、そのメンバーはこのメンバーがいたエリアに移動させる。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-025-N",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-025-N.png"
+    },
+    "PL!SP-pb2-026-N": {
+        "card_no": "PL!SP-pb2-026-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-026-N.png",
+        "name": "平安名すみれ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 3,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "rare": "N",
+        "ability": "{{jyouji.png|常時}}自分のアクティブ状態のエネルギーがあるかぎり、{{heart_02.png|heart02}}{{heart_02.png|heart02}}を得る。",
+        "faq": [
+            {
+                "title": "Q259（2026.06.22）",
+                "question": "ライブ成功判定の後に、能力の処理によって{{jyouji.png|常時}}の条件を満たさなくなり、その結果ハートの合計が必要ハート以下になりました。\nこの場合、ライブは失敗しますか？",
+                "answer": "いいえ。失敗しません。\n必要ハートの計算が行われるのはライブ成功判定タイミングのみです。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-023-N",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-026-N",
+                        "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-027-N",
+                        "name": "葉月 恋"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-032-N",
+                        "name": "ウィーン・マルガレーテ"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-026-N",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-026-N.png"
+    },
+    "PL!SP-pb2-027-N": {
+        "card_no": "PL!SP-pb2-027-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-027-N.png",
+        "name": "葉月 恋",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 4,
+        "base_heart": {
+            "heart03": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "rare": "N",
+        "ability": "{{jyouji.png|常時}}自分のエネルギーが6枚以上あるかぎり、{{heart_03.png|heart03}}を得る。8枚以上あるかぎり、さらに{{heart_03.png|heart03}}を得る。",
+        "faq": [
+            {
+                "title": "Q259（2026.06.22）",
+                "question": "ライブ成功判定の後に、能力の処理によって{{jyouji.png|常時}}の条件を満たさなくなり、その結果ハートの合計が必要ハート以下になりました。\nこの場合、ライブは失敗しますか？",
+                "answer": "いいえ。失敗しません。\n必要ハートの計算が行われるのはライブ成功判定タイミングのみです。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-023-N",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-026-N",
+                        "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-027-N",
+                        "name": "葉月 恋"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-032-N",
+                        "name": "ウィーン・マルガレーテ"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-027-N",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-027-N.png"
+    },
+    "PL!SP-pb2-028-N": {
+        "card_no": "PL!SP-pb2-028-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-028-N.png",
+        "name": "桜小路きな子",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 5,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分のメインフェイズの間、このメンバーがエリアを移動したとき、エネルギーを2枚アクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-028-N",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-028-N.png"
+    },
+    "PL!SP-pb2-029-N": {
+        "card_no": "PL!SP-pb2-029-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-029-N.png",
+        "name": "米女メイ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}/{{live_start.png|ライブ開始時}}相手のステージにいるコスト2以下のメンバー1人をウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-029-N",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-029-N.png"
+    },
+    "PL!SP-pb2-030-N": {
+        "card_no": "PL!SP-pb2-030-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-030-N.png",
+        "name": "若菜四季",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}{{heart_02.png|heart02}}か{{heart_03.png|heart03}}か{{heart_06.png|heart06}}のうち1つを選ぶ。ライブ終了時まで、このメンバーが元々持つハートは選んだハートになる。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-030-N",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-030-N.png"
+    },
+    "PL!SP-pb2-031-N": {
+        "card_no": "PL!SP-pb2-031-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-031-N.png",
+        "name": "鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-031-N",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-031-N.png"
+    },
+    "PL!SP-pb2-032-N": {
+        "card_no": "PL!SP-pb2-032-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-032-N.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "rare": "N",
+        "ability": "{{jyouji.png|常時}}自分のエネルギーが6枚以上あるかぎり、{{heart_06.png|heart06}}を得る。8枚以上あるかぎり、さらに{{heart_06.png|heart06}}を得る。",
+        "faq": [
+            {
+                "title": "Q259（2026.06.22）",
+                "question": "ライブ成功判定の後に、能力の処理によって{{jyouji.png|常時}}の条件を満たさなくなり、その結果ハートの合計が必要ハート以下になりました。\nこの場合、ライブは失敗しますか？",
+                "answer": "いいえ。失敗しません。\n必要ハートの計算が行われるのはライブ成功判定タイミングのみです。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-023-N",
+                        "name": "澁谷かのん"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-026-N",
+                        "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-027-N",
+                        "name": "葉月 恋"
+                    },
+                    {
+                        "card_no": "PL!SP-pb2-032-N",
+                        "name": "ウィーン・マルガレーテ"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-032-N",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-032-N.png"
+    },
+    "PL!SP-pb2-033-N": {
+        "card_no": "PL!SP-pb2-033-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-033-N.png",
+        "name": "鬼塚冬毬",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 2,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-033-N",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-033-N.png"
+    },
+    "PL!SP-pb2-034-N": {
+        "card_no": "PL!SP-pb2-034-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-034-N.png",
+        "name": "澁谷かのん",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-034-N",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-034-N.png"
+    },
+    "PL!SP-pb2-035-N": {
+        "card_no": "PL!SP-pb2-035-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-035-N.png",
+        "name": "唐 可可",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 2
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{jyouji.png|常時}}{{leftside.png|左サイド}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-035-N",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-035-N.png"
+    },
+    "PL!SP-pb2-036-N": {
+        "card_no": "PL!SP-pb2-036-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-036-N.png",
+        "name": "嵐 千砂都",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 5,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}{{rightside.png|右サイド}}カードを2枚引き、手札を2枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-036-N",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-036-N.png"
+    },
+    "PL!SP-pb2-037-N": {
+        "card_no": "PL!SP-pb2-037-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-037-N.png",
+        "name": "平安名すみれ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 5,
+        "base_heart": {
+            "heart02": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{toujyou.png|登場}}{{leftside.png|左サイド}}カードを2枚引き、手札を2枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-037-N",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-037-N.png"
+    },
+    "PL!SP-pb2-038-N": {
+        "card_no": "PL!SP-pb2-038-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-038-N.png",
+        "name": "葉月 恋",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 7,
+        "base_heart": {
+            "heart06": 3
+        },
+        "blade": 2,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-038-N",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-038-N.png"
+    },
+    "PL!SP-pb2-039-N": {
+        "card_no": "PL!SP-pb2-039-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-039-N.png",
+        "name": "桜小路きな子",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-039-N",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-039-N.png"
+    },
+    "PL!SP-pb2-040-N": {
+        "card_no": "PL!SP-pb2-040-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-040-N.png",
+        "name": "米女メイ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "rare": "N",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}支払ってもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-040-N",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-040-N.png"
+    },
+    "PL!SP-pb2-041-N": {
+        "card_no": "PL!SP-pb2-041-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-041-N.png",
+        "name": "若菜四季",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 2,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "rare": "N",
+        "ability": "{{jyouji.png|常時}}{{rightside.png|右サイド}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-041-N",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-041-N.png"
+    },
+    "PL!SP-pb2-042-N": {
+        "card_no": "PL!SP-pb2-042-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-042-N.png",
+        "name": "鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 7,
+        "base_heart": {
+            "heart02": 3
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-042-N",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-042-N.png"
+    },
+    "PL!SP-pb2-043-N": {
+        "card_no": "PL!SP-pb2-043-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-043-N.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 2,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-043-N",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-043-N.png"
+    },
+    "PL!SP-pb2-044-N": {
+        "card_no": "PL!SP-pb2-044-N",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-044-N.png",
+        "name": "鬼塚冬毬",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 1,
+        "rare": "N",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-044-N",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-044-N.png"
+    },
+    "PL!SP-pb2-045-L": {
+        "card_no": "PL!SP-pb2-045-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-045-L.png",
+        "name": "絶対的LOVER",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart02": 3,
+            "heart03": 3,
+            "heart06": 4,
+            "heart0": 2
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるハートを4つ以上持つ『Liella!』のメンバー1人につき、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-045-L",
+                "name": "絶対的LOVER"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-045-L.png"
+    },
+    "PL!SP-pb2-047-L": {
+        "card_no": "PL!SP-pb2-047-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-047-L.png",
+        "name": "Welcome to 僕らのセカイ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 1,
+        "need_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：自分のステージにいるメンバーが『Liella!』のみの場合、相手のステージにいるコスト2以下のメンバー1人をウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-047-L",
+                "name": "Welcome to 僕らのセカイ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-047-L.png"
+    },
+    "PL!SP-pb2-048-L": {
+        "card_no": "PL!SP-pb2-048-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-048-L.png",
+        "name": "ディストーション",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "score": 6,
+        "need_heart": {
+            "heart02": 6,
+            "heart0": 9
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる名前の異なる『CatChu!』のメンバー1人につき、このカードの必要ハートを{{heart_00.png|heart0}}{{heart_00.png|heart0}}減らし、{{heart_02.png|heart02}}増やす。その後、このカードの必要ハートに含まれる{{heart_02.png|heart02}}が9以上の場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-048-L",
+                "name": "ディストーション"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-048-L.png"
+    },
+    "PL!SP-pb2-049-L": {
+        "card_no": "PL!SP-pb2-049-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-049-L.png",
+        "name": "ニュートラル",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "score": 5,
+        "need_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 6,
+            "heart0": 4
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "special_heart": {},
+        "rare": "L",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に『KALEIDOSCORE』のカードが5枚以上ある場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。\n{{live_success.png|ライブ成功時}}自分のエネルギーが11枚以上ある場合、このカードのスコアを＋１する。",
+        "faq": [
+            {
+                "title": "Q261（2026.06.22）",
+                "question": "{{live_success.png|ライブ成功時}}が2つありますが、先に「自分のエネルギーが11枚以上ある場合、このカードのスコアを+1する。」を発動させることはできますか？",
+                "answer": "はい。できます。\n誘発タイミングが同じ能力が複数ある場合、プレイヤーの任意の順番で能力を解決することができます。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-049-L",
+                        "name": "ニュートラル"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-049-L",
+                "name": "ニュートラル"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-049-L.png"
+    },
+    "PL!SP-pb2-050-L": {
+        "card_no": "PL!SP-pb2-050-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-050-L.png",
+        "name": "Jellyfish",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "score": 2,
+        "need_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1,
+            "heart0": 2
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージに『5yncri5e!』のメンバーが2人以上いる場合、自分のステージにいるメンバーをフォーメーションチェンジしてもよい。(メンバーをそれぞれ好きなエリアに移動させてもよい。)",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-050-L",
+                "name": "Jellyfish"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-050-L.png"
+    },
+    "PL!SP-pb2-E12-LLE": {
+        "card_no": "PL!SP-pb2-E12-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E12-LLE.png",
+        "name": "Liella!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E12-LLE",
+                "name": "Liella!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E12-LLE.png"
+    },
+    "PL!SP-pb2-E13-LLE": {
+        "card_no": "PL!SP-pb2-E13-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E13-LLE.png",
+        "name": "Liella!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E13-LLE",
+                "name": "Liella!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E13-LLE.png"
+    },
+    "PL!SP-pb2-E14-LLE": {
+        "card_no": "PL!SP-pb2-E14-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E14-LLE.png",
+        "name": "Liella!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E14-LLE",
+                "name": "Liella!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E14-LLE.png"
+    },
+    "PL!SP-pb2-E15-LLE": {
+        "card_no": "PL!SP-pb2-E15-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E15-LLE.png",
+        "name": "Liella!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E15-LLE",
+                "name": "Liella!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E15-LLE.png"
+    },
+    "PL!SP-pb2-E16-LLE": {
+        "card_no": "PL!SP-pb2-E16-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E16-LLE.png",
+        "name": "Liella!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E16-LLE",
+                "name": "Liella!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E16-LLE.png"
+    },
+    "PL!SP-pb2-E17-LLE": {
+        "card_no": "PL!SP-pb2-E17-LLE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E17-LLE.png",
+        "name": "Liella!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "series": "ラブライブ！スーパースター!!",
+        "rare": "LLE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E17-LLE",
+                "name": "Liella!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E17-LLE.png"
+    },
+    "PL!SP-sd1-023-SRL": {
+        "card_no": "PL!SP-sd1-023-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-sd1-023-SRL.png",
+        "name": "WE WILL!!",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 1,
+        "need_heart": {
+            "heart02": 1,
+            "heart06": 1,
+            "heart0": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-sd1-023-SRL",
+                "name": "WE WILL!!"
+            },
+            {
+                "card_no": "PL!SP-sd1-023-SD",
+                "name": "WE WILL!!"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-sd1-023-SRL.png"
+    },
+    "PL!SP-sd1-024-SRL": {
+        "card_no": "PL!SP-sd1-024-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-sd1-024-SRL.png",
+        "name": "シェキラ☆☆☆",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 2,
+        "need_heart": {
+            "heart02": 1,
+            "heart06": 1,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-sd1-024-SRL",
+                "name": "シェキラ☆☆☆"
+            },
+            {
+                "card_no": "PL!SP-sd1-024-SD",
+                "name": "シェキラ☆☆☆"
+            },
+            {
+                "card_no": "PL!SP-sd1-024-P",
+                "name": "シェキラ☆☆☆"
+            },
+            {
+                "card_no": "PL!SP-sd1-024-SD2",
+                "name": "シェキラ☆☆☆"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-sd1-024-SRL.png"
+    },
+    "PL!SP-sd1-025-SRL": {
+        "card_no": "PL!SP-sd1-025-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-sd1-025-SRL.png",
+        "name": "未来は風のように",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 3,
+        "need_heart": {
+            "heart02": 2,
+            "heart06": 2,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "SRL",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-sd1-025-SRL",
+                "name": "未来は風のように"
+            },
+            {
+                "card_no": "PL!SP-sd1-025-SD",
+                "name": "未来は風のように"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-sd1-025-SRL.png"
+    },
+    "PL!SP-sd1-026-SRL": {
+        "card_no": "PL!SP-sd1-026-SRL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-sd1-026-SRL.png",
+        "name": "私のSymphony 〜澁谷かのんVer.〜",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "series": "ラブライブ！スーパースター!!",
+        "score": 4,
+        "need_heart": {
+            "heart02": 4,
+            "heart06": 4,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "special_heart": {},
+        "rare": "SRL",
+        "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが9枚以上ある場合、このカードのスコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-sd1-026-SRL",
+                "name": "私のSymphony 〜澁谷かのんVer.〜"
+            },
+            {
+                "card_no": "PL!SP-sd1-026-SD",
+                "name": "私のSymphony 〜澁谷かのんVer.〜"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-sd1-026-SRL.png"
+    },
+    "PL!SP-pb2-046-L": {
+        "card_no": "PL!SP-pb2-046-L",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-046-L.png",
+        "name": "Butterfly Wing",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "ライブ",
+        "score": 2,
+        "need_heart": {
+            "heart06": 3,
+            "heart0": 3
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "rare": "L",
+        "ability": "{{jyouji.png|常時}}自分のステージにいるメンバーが持つ{{live_start.png|ライブ開始時}}能力は発動しない。\n{{live_success.png|ライブ成功時}}自分のステージに{{live_start.png|ライブ開始時}}能力を持つメンバーがいる場合、このカードのスコアを＋１する。",
+        "faq": [
+            {
+                "title": "Q260（2026.06.22）",
+                "question": "{{jyouji.png|常時}}によって{{live_start.png|ライブ開始時}}は発動しませんが、その場合、発動しなかった{{live_start.png|ライブ開始時}}は解決した扱いになりますか？",
+                "answer": "いいえ。なりません。",
+                "relation": [
+                    {
+                        "card_no": "PL!SP-pb2-046-L",
+                        "name": "Butterfly Wing"
+                    }
+                ]
+            }
+        ],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-046-L",
+                "name": "Butterfly Wing"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-046-L.png"
+    },
+    "PL!SP-pb2-E00-SECE": {
+        "card_no": "PL!SP-pb2-E00-SECE",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E00-SECE.png",
+        "name": "嵐 千砂都＆鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "SECE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E00-SECE",
+                "name": "嵐 千砂都＆鬼塚夏美"
+            },
+            {
+                "card_no": "PL!SP-pb2-E00-SECS",
+                "name": "嵐 千砂都＆鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E00-SECE.png"
+    },
+    "PL!SP-pb2-E00-SECS": {
+        "card_no": "PL!SP-pb2-E00-SECS",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E00-SECS.png",
+        "name": "嵐 千砂都＆鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "SECS",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E00-SECS",
+                "name": "嵐 千砂都＆鬼塚夏美"
+            },
+            {
+                "card_no": "PL!SP-pb2-E00-SECE",
+                "name": "嵐 千砂都＆鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E00-SECS.png"
+    },
+    "PL!SP-pb2-E01-PE＋": {
+        "card_no": "PL!SP-pb2-E01-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E01-PE2.png",
+        "name": "澁谷かのん",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E01-PE＋",
+                "name": "澁谷かのん"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E01-PE2.png"
+    },
+    "PL!SP-pb2-E02-PE＋": {
+        "card_no": "PL!SP-pb2-E02-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E02-PE2.png",
+        "name": "唐 可可",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E02-PE＋",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E02-PE2.png"
+    },
+    "PL!SP-pb2-E03-PE＋": {
+        "card_no": "PL!SP-pb2-E03-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E03-PE2.png",
+        "name": "嵐 千砂都",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E03-PE＋",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E03-PE2.png"
+    },
+    "PL!SP-pb2-E04-PE＋": {
+        "card_no": "PL!SP-pb2-E04-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E04-PE2.png",
+        "name": "平安名すみれ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E04-PE＋",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E04-PE2.png"
+    },
+    "PL!SP-pb2-E05-PE＋": {
+        "card_no": "PL!SP-pb2-E05-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E05-PE2.png",
+        "name": "葉月 恋",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E05-PE＋",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E05-PE2.png"
+    },
+    "PL!SP-pb2-E06-PE＋": {
+        "card_no": "PL!SP-pb2-E06-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E06-PE2.png",
+        "name": "桜小路きな子",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E06-PE＋",
+                "name": "桜小路きな子"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E06-PE2.png"
+    },
+    "PL!SP-pb2-E07-PE＋": {
+        "card_no": "PL!SP-pb2-E07-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E07-PE2.png",
+        "name": "米女メイ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E07-PE＋",
+                "name": "米女メイ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E07-PE2.png"
+    },
+    "PL!SP-pb2-E08-PE＋": {
+        "card_no": "PL!SP-pb2-E08-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E08-PE2.png",
+        "name": "若菜四季",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E08-PE＋",
+                "name": "若菜四季"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E08-PE2.png"
+    },
+    "PL!SP-pb2-E09-PE＋": {
+        "card_no": "PL!SP-pb2-E09-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E09-PE2.png",
+        "name": "鬼塚夏美",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E09-PE＋",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E09-PE2.png"
+    },
+    "PL!SP-pb2-E10-PE＋": {
+        "card_no": "PL!SP-pb2-E10-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E10-PE2.png",
+        "name": "ウィーン・マルガレーテ",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E10-PE＋",
+                "name": "ウィーン・マルガレーテ"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E10-PE2.png"
+    },
+    "PL!SP-pb2-E11-PE＋": {
+        "card_no": "PL!SP-pb2-E11-PE＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-pb2-E11-PE2.png",
+        "name": "鬼塚冬毬",
+        "product": "プレミアムブースターラブライブ！スーパースター!!DUO",
+        "type": "エネルギー",
+        "rare": "PE+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-pb2-E11-PE＋",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/PBSP02/PL!SP-pb2-E11-PE2.png"
     }
 }
