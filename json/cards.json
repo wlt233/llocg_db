@@ -6548,6 +6548,30 @@
         ],
         "_img": "img/cards/PR/PL!SP-PR-023-PR2.png"
     },
+    "PL!SP-PR-024-PR": {
+        "card_no": "PL!SP-PR-024-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-024-PR.png",
+        "name": "平安名すみれ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "CatChu!",
+        "cost": 4,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードの中に、{{icon_score.png|スコア}}を持つ『Liella!』のライブカードが1枚以上ある場合、ライブ終了時まで、{{heart_06.png|heart06}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-024-PR",
+                "name": "平安名すみれ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-024-PR.png"
+    },
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-E-002-PR.png",
@@ -8030,6 +8054,32 @@
             }
         ],
         "_img": "img/cards/PR/PL!HS-PR-034-PR2.png"
+    },
+    "PL!HS-PR-035-PR": {
+        "card_no": "PL!HS-PR-035-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-035-PR.png",
+        "name": "百生吟子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "スリーズブーケ",
+        "cost": 11,
+        "base_heart": {
+            "heart04": 2,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}相手の控え室にあるメンバーカードを3枚選び、相手のデッキの下に好きな順番で置いてもよい。そうした場合、相手のステージにいる元々持つ{{icon_blade.png|ブレード}}の数が3つ以下のメンバー1人をウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-035-PR",
+                "name": "百生吟子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-035-PR.png"
     },
     "LL-PR-002-PR": {
         "card_no": "LL-PR-002-PR",
