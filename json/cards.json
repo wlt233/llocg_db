@@ -8081,6 +8081,23 @@
         ],
         "_img": "img/cards/PR/PL!HS-PR-035-PR.png"
     },
+    "IKZL-PR-001-PR": {
+        "card_no": "IKZL-PR-001-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/IKZL-PR-001-PR.png",
+        "name": "いきづらい部！",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "イキヅライブ！LOVELIVE!BLUEBIRD",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "IKZL-PR-001-PR",
+                "name": "いきづらい部！"
+            }
+        ],
+        "_img": "img/cards/PR/IKZL-PR-001-PR.png"
+    },
     "LL-PR-002-PR": {
         "card_no": "LL-PR-002-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-002-PR.png",
