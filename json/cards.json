@@ -1906,6 +1906,60 @@
         ],
         "_img": "img/cards/PR/PL!-PR-019-PR2.png"
     },
+    "PL!-PR-020-PR": {
+        "card_no": "PL!-PR-020-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-020-PR.png",
+        "name": "高坂穂乃果",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のライブカード置き場にあるライブカードのスコアの合計が８以上の場合、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-020-PR",
+                "name": "高坂穂乃果"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-020-PR.png"
+    },
+    "PL!-PR-021-PR": {
+        "card_no": "PL!-PR-021-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-021-PR.png",
+        "name": "矢澤にこ",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 7,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{jyouji.png|常時}}自分のエネルギーがちょうど7枚あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-021-PR",
+                "name": "矢澤にこ"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-021-PR.png"
+    },
     "PL!-sd1-011-PR": {
         "card_no": "PL!-sd1-011-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-sd1-011-PR.png",
@@ -3922,6 +3976,60 @@
         ],
         "_img": "img/cards/PR/PL!S-PR-043-PR2.png"
     },
+    "PL!S-PR-044-PR": {
+        "card_no": "PL!S-PR-044-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-044-PR.png",
+        "name": "高海千歌",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 5,
+        "base_heart": {
+            "heart02": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分の控え室にあるカードの枚数が8枚未満の場合、その差に等しい枚数分自分のデッキの上からカードを控え室に置く。その後、これにより控え室に置いたカードの中から、ライブカード1枚をデッキの一番上に置いてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-044-PR",
+                "name": "高海千歌"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-044-PR.png"
+    },
+    "PL!S-PR-045-PR": {
+        "card_no": "PL!S-PR-045-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-045-PR.png",
+        "name": "津島善子",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "GuiltyKiss",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 1,
+            "heart04": 1,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}コスト7のメンバーからバトンタッチして登場した場合、カードを2枚引き、手札を1枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-045-PR",
+                "name": "津島善子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-045-PR.png"
+    },
     "PYHN-PR-001-PR": {
         "card_no": "PYHN-PR-001-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PYHN-PR-001-PR.png",
@@ -5543,6 +5651,31 @@
         ],
         "_img": "img/cards/PR/PL!N-PR-030-PR2.png"
     },
+    "PL!N-PR-032-PR": {
+        "card_no": "PL!N-PR-032-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-032-PR.png",
+        "name": "優木せつ菜",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "cost": 5,
+        "base_heart": {
+            "heart02": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分の控え室にあるカードの枚数が8枚未満の場合、自分のデッキの上からカードをその差に等しい枚数控え室に置く。その後、これにより控え室に置いたカードの中から、ライブカード1枚をデッキの一番上に置いてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-032-PR",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-032-PR.png"
+    },
     "PL!N-sd1-005-PRproteinbar": {
         "card_no": "PL!N-sd1-005-PRproteinbar",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-sd1-017-PR.png",
@@ -6571,6 +6704,60 @@
             }
         ],
         "_img": "img/cards/PR/PL!SP-PR-024-PR.png"
+    },
+    "PL!SP-PR-025-PR": {
+        "card_no": "PL!SP-PR-025-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-025-PR.png",
+        "name": "唐 可可",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 7,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{jyouji.png|常時}}自分のエネルギーがちょうど7枚あるかぎり、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-025-PR",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-025-PR.png"
+    },
+    "PL!SP-PR-026-PR": {
+        "card_no": "PL!SP-PR-026-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-026-PR.png",
+        "name": "鬼塚夏美",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 1,
+            "heart02": 1,
+            "heart06": 3
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 4,
+        "rare": "PR",
+        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のライブカード置き場にあるライブカードのスコアの合計が８以上の場合、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-026-PR",
+                "name": "鬼塚夏美"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-026-PR.png"
     },
     "LL-E-002-PR": {
         "card_no": "LL-E-002-PR",
@@ -8080,6 +8267,49 @@
             }
         ],
         "_img": "img/cards/PR/PL!HS-PR-035-PR.png"
+    },
+    "PL!HS-PR-036-PR": {
+        "card_no": "PL!HS-PR-036-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-036-PR.png",
+        "name": "大沢瑠璃乃",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "みらくらぱーく!",
+        "cost": 5,
+        "base_heart": {
+            "heart02": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "rare": "PR",
+        "ability": "{{toujyou.png|登場}}自分の控え室にあるカードの枚数が8枚未満の場合、自分のデッキの上からカードをその差に等しい枚数控え室に置く。その後、これにより控え室に置いたカードの中から、ライブカード1枚をデッキの一番上に置いてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-036-PR",
+                "name": "大沢瑠璃乃"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-036-PR.png"
+    },
+    "PL!HS-PR-037-PR＋": {
+        "card_no": "PL!HS-PR-037-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-037-PR2.png",
+        "name": "大沢瑠璃乃",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "みらくらぱーく!",
+        "rare": "PR+",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-037-PR＋",
+                "name": "大沢瑠璃乃"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-037-PR2.png"
     },
     "IKZL-PR-001-PR": {
         "card_no": "IKZL-PR-001-PR",
