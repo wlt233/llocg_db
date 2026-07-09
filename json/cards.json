@@ -14363,17 +14363,13 @@
             "b_all": 1
         },
         "rare": "L",
-        "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを使用するためのコストは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。\n\n(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを成功させるための必要ハートは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。",
         "faq": [
             {
                 "title": "Q127（2025.07.22）",
                 "question": "『{{jyouji.png|常時}}相手のライブカード置き場にあるすべてのライブカードは、成功させるための必要ハートが{{heart_00.png|heart0}}1つ分多くなる。』について。\n条件を満たすと必要ハートを変更するライブカードでライブを行った場合どうなりますか？",
                 "answer": "変更したハートに{{heart_00.png|heart0}}１つを加えたものが必要になります。",
                 "relation": [
-                    {
-                        "card_no": "PL!SP-bp1-026-L",
-                        "name": "未来予報ハレルヤ！"
-                    },
                     {
                         "card_no": "PL!SP-bp2-010-R＋",
                         "name": "ウィーン・マルガレーテ"
@@ -14393,6 +14389,10 @@
                     {
                         "card_no": "PL!HS-bp2-019-L",
                         "name": "Bloom the smile, Bloom the dream!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-026-L",
+                        "name": "未来予報ハレルヤ！"
                     }
                 ]
             },
@@ -29430,10 +29430,6 @@
                 "answer": "変更したハートに{{heart_00.png|heart0}}１つを加えたものが必要になります。",
                 "relation": [
                     {
-                        "card_no": "PL!SP-bp1-026-L",
-                        "name": "未来予報ハレルヤ！"
-                    },
-                    {
                         "card_no": "PL!SP-bp2-010-R＋",
                         "name": "ウィーン・マルガレーテ"
                     },
@@ -29452,6 +29448,10 @@
                     {
                         "card_no": "PL!HS-bp2-019-L",
                         "name": "Bloom the smile, Bloom the dream!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-026-L",
+                        "name": "未来予報ハレルヤ！"
                     }
                 ]
             },
@@ -29569,10 +29569,6 @@
                 "answer": "変更したハートに{{heart_00.png|heart0}}１つを加えたものが必要になります。",
                 "relation": [
                     {
-                        "card_no": "PL!SP-bp1-026-L",
-                        "name": "未来予報ハレルヤ！"
-                    },
-                    {
                         "card_no": "PL!SP-bp2-010-R＋",
                         "name": "ウィーン・マルガレーテ"
                     },
@@ -29591,6 +29587,10 @@
                     {
                         "card_no": "PL!HS-bp2-019-L",
                         "name": "Bloom the smile, Bloom the dream!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-026-L",
+                        "name": "未来予報ハレルヤ！"
                     }
                 ]
             },
@@ -29708,10 +29708,6 @@
                 "answer": "変更したハートに{{heart_00.png|heart0}}１つを加えたものが必要になります。",
                 "relation": [
                     {
-                        "card_no": "PL!SP-bp1-026-L",
-                        "name": "未来予報ハレルヤ！"
-                    },
-                    {
                         "card_no": "PL!SP-bp2-010-R＋",
                         "name": "ウィーン・マルガレーテ"
                     },
@@ -29730,6 +29726,10 @@
                     {
                         "card_no": "PL!HS-bp2-019-L",
                         "name": "Bloom the smile, Bloom the dream!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-026-L",
+                        "name": "未来予報ハレルヤ！"
                     }
                 ]
             },
@@ -29847,10 +29847,6 @@
                 "answer": "変更したハートに{{heart_00.png|heart0}}１つを加えたものが必要になります。",
                 "relation": [
                     {
-                        "card_no": "PL!SP-bp1-026-L",
-                        "name": "未来予報ハレルヤ！"
-                    },
-                    {
                         "card_no": "PL!SP-bp2-010-R＋",
                         "name": "ウィーン・マルガレーテ"
                     },
@@ -29869,6 +29865,10 @@
                     {
                         "card_no": "PL!HS-bp2-019-L",
                         "name": "Bloom the smile, Bloom the dream!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-026-L",
+                        "name": "未来予報ハレルヤ！"
                     }
                 ]
             },
@@ -32913,10 +32913,6 @@
                 "answer": "変更したハートに{{heart_00.png|heart0}}１つを加えたものが必要になります。",
                 "relation": [
                     {
-                        "card_no": "PL!SP-bp1-026-L",
-                        "name": "未来予報ハレルヤ！"
-                    },
-                    {
                         "card_no": "PL!SP-bp2-010-R＋",
                         "name": "ウィーン・マルガレーテ"
                     },
@@ -32935,6 +32931,10 @@
                     {
                         "card_no": "PL!HS-bp2-019-L",
                         "name": "Bloom the smile, Bloom the dream!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-026-L",
+                        "name": "未来予報ハレルヤ！"
                     }
                 ]
             }
@@ -84166,7 +84166,7 @@
             "b_all": 1
         },
         "rare": "L",
-        "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを使用するためのコストは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。",
+        "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを成功させるための必要ハートは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。",
         "faq": [],
         "rare_list": [
             {
@@ -84202,7 +84202,7 @@
             "b_all": 1
         },
         "rare": "SRL",
-        "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを使用するためのコストは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。",
+        "ability": "{{live_start.png|ライブ開始時}}自分の、ステージと控え室に名前の異なる『Liella!』のメンバーが5人以上いる場合、このカードを成功させるための必要ハートは{{heart_02.png|heart02}}{{heart_02.png|heart02}}{{heart_03.png|heart03}}{{heart_03.png|heart03}}{{heart_06.png|heart06}}{{heart_06.png|heart06}}になる。",
         "faq": [],
         "rare_list": [
             {
