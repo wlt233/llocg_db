@@ -5651,6 +5651,23 @@
         ],
         "_img": "img/cards/PR/PL!N-PR-030-PR2.png"
     },
+    "PL!N-PR-031-PR": {
+        "card_no": "PL!N-PR-031-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-031-PR.png",
+        "name": "虹ヶ咲学園スクールアイドル同好会",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "rare": "PR",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-031-PR",
+                "name": "虹ヶ咲学園スクールアイドル同好会"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-031-PR.png"
+    },
     "PL!N-PR-032-PR": {
         "card_no": "PL!N-PR-032-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-032-PR.png",
