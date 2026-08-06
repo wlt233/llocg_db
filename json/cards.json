@@ -1960,6 +1960,35 @@
         ],
         "_img": "img/cards/PR/PL!-PR-021-PR.png"
     },
+    "PL!-PR-022-PR": {
+        "card_no": "PL!-PR-022-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-022-PR.png",
+        "name": "西木野真姫",
+        "product": "PRカード",
+        "type": "メンバー",
+        "series": "ラブライブ！",
+        "unit": "BiBi",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2,
+            "heart06": 2
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 3,
+        "rare": "PR",
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバーをウェイトにする：自分のステージに「星空凛」か「小泉花陽」がいる場合、カードを2枚引き、手札を1枚控え室に置く。2人ともいる場合、さらにこのメンバーをアクティブにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-022-PR",
+                "name": "西木野真姫"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-022-PR.png"
+    },
     "PL!-sd1-011-PR": {
         "card_no": "PL!-sd1-011-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-sd1-011-PR.png",
