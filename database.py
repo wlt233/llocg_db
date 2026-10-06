@@ -1,239 +1,300 @@
+"""Download Japanese Love Live cards from the official card-list API."""
 
+import argparse
 import asyncio
+import html
 import json
 import os
-import pprint
 import re
+from pathlib import Path, PurePosixPath
+from urllib.parse import urljoin
 
 import httpx
-from tenacity import retry, stop_after_attempt, wait_exponential
+from tenacity import retry, stop_after_attempt, wait_random_exponential
 
-headers = {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)",
-    "referer": "https://llofficial-cardgame.com/"
-}
-
-async def async_download_image(client, semaphore, url: str, p: str):
-    if os.path.exists(p): return
-    if not os.path.exists(os.path.dirname(p)): os.makedirs(os.path.dirname(p))
-    try:
-        async with semaphore:
-            resp = await client.get(url, headers=headers)
-            if resp.status_code == 200:
-                with open(p, mode="wb") as f:
-                    f.write(resp.content)
-                print(f"{url} saved at {p}")
-                return
-            else:
-                raise Exception(f"Failed to download {url}, status code: {resp.status_code}")
-    except Exception as e:
-        print(f"Error downloading {url}: {e}")
-        return
+BASE = "https://llofficial-cardgame.com/"
+API = urljoin(BASE, "manage/card-list-user/")
+CARD_IMAGES = urljoin(BASE, "wordpress/wp-content/images/cardlist/")
+PRODUCT_IMAGES = urljoin(BASE, "wordpress/wp-content/images/thumb/")
+HEADERS = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)", "referer": BASE}
+COLORS = {"桃": "01", "赤": "02", "黄": "03", "緑": "04", "青": "05", "紫": "06", "無": "0"}
+CATEGORIES = {"pack": "パック商品", "deck": "デッキ商品", "pr": "PRカード", "other": "その他"}
 
 
-async def fetch_product(client):
-    url = f"https://llofficial-cardgame.com/cardlist/"
-    resp = await client.get(url, headers=headers)
-    text = resp.text
-    products_text = re.findall(r'<a class="productsList-Item.*?">.*?</a>', text, re.DOTALL)
-    products = []
-    for product_text in products_text:
-        product = {}
-        if img := re.search(r'<img src="(.*?)"', product_text, re.DOTALL):
-            if img[1].startswith("http"):
-                product["img"] = img[1]
-            else:
-                product["img"] = "https://llofficial-cardgame.com" + img[1]
-        if href := re.search(r'href="(.*?)"', product_text, re.DOTALL):
-            product["href"] = "https://llofficial-cardgame.com" + href[1]
-        if product_id := re.search(r'expansion=(.*?)"', product_text, re.DOTALL):
-            product["product_id"] = product_id[1]
-        if title := re.search(r'<p class="item-Title">(.*?)</p>', product_text, re.DOTALL):
-            product["title"] = title[1]
-        if category := re.search(r'<span class="category">(.*?)</span>', product_text, re.DOTALL):
-            product["category"] = category[1]
-        if release_date := re.search(r'<p class="info-Text">(.*?)</p>', product_text, re.DOTALL):
-            product["release_date"] = release_date[1]
-        else:
-            product["release_date"] = ""
-        products.append(product)
-    products.sort(key=lambda x: x["release_date"])
+@retry(stop=stop_after_attempt(20), wait=wait_random_exponential(multiplier=4, min=5, max=60), reraise=True)
+async def get_json(client, endpoint, params=None):
+    response = await client.get(urljoin(API, endpoint), params=params, headers=HEADERS)
+    response.raise_for_status()
+    return response.json()
+
+
+async def fetch_products(client):
+    data = await get_json(client, "products")
+    groups = data.get("products")
+    if not isinstance(groups, list) or not groups:
+        raise ValueError("Products API returned no product groups")
+    products = {}
+    for group in groups:
+        for item in group.get("items", []):
+            code = item.get("code")
+            if not code:
+                raise ValueError("Products API returned an item without a code")
+            products[code] = {
+                "img": urljoin(PRODUCT_IMAGES, item["img"]) if item.get("img") else "",
+                "href": urljoin(BASE, item.get("url", "")),
+                "product_id": code,
+                "title": item.get("name", ""),
+                "category": CATEGORIES.get(item.get("type"), item.get("type", "")),
+                "release_date": item.get("date", ""),
+            }
+    if not products:
+        raise ValueError("Products API returned no products")
     print(f"{len(products)} products fetched")
     return products
 
 
-async def fetch_card_no_list(client, product_id: str):
-    page = 0
-    card_list = []
-    while 1:
-        page += 1
-        url = (f"https://llofficial-cardgame.com/cardlist/cardsearch_ex"
-               f"?expansion={product_id}&view=text&page={page}&limit=100") # limit max: 100
-        resp = await client.get(url, headers=headers)
-        text = resp.text
-        if 'http-equiv="Refresh"' in text:
+async def fetch_product_cards(client, semaphore, code):
+    cards = []
+    page = 1
+    while True:
+        async with semaphore:
+            data = await get_json(client, "list", {"expansion": code, "page": page, "per_page": 100, "sort": "no"})
+        items, total = data.get("items"), data.get("total")
+        if not isinstance(items, list) or not isinstance(total, int):
+            raise ValueError(f"Invalid card list for {code}, page {page}")
+        if not items and len(cards) < total:
+            raise ValueError(f"Card list ended early for {code}, page {page}")
+        for item in items:
+            if not item.get("id") or not item.get("card_number"):
+                raise ValueError(f"Card without id or number in {code}")
+            cards.append(item)
+        if len(cards) >= total:
             break
-        card_list += re.findall(r'card="(.*?)"', text, re.DOTALL)
-    print(f"{product_id} {len(card_list)} cards fetched")
-    return (product_id, card_list)
+        page += 1
+    print(f"{code}: {len(cards)} cards fetched")
+    return code, cards
 
 
+def heart_counts(raw):
+    counts = {}
+    for index in range(7):
+        key = "heart0" if index == 0 else f"heart{index:02d}"
+        count = int(raw.get(key) or 0)
+        if count:
+            counts[key] = count
+    if not counts:
+        for color, count in re.findall(r"([桃赤黄緑青紫無])(\d+)", str(raw.get("heart") or "")):
+            key = "heart" + COLORS[color]
+            counts[key] = counts.get(key, 0) + int(count)
+    return counts
 
 
-def parse_html(html_text):
-    html_text = re.sub(r'<img[^>]*src="[^"]*/([^"/]+)"[^>]*alt="([^"]+)"[^>]*>',
-                       r'{{\1|\2}}', html_text)
-    html_text = re.sub(r'\s+', '', html_text).strip()
-    html_text = re.sub(r'<br\s*/?>', '\n', html_text)
-    return html_text
+def blade_hearts(value):
+    counts = {}
+    for color, count in re.findall(r"(ALL|桃|赤|黄|緑|青|紫|無)(\d+)", str(value or "")):
+        key = "b_all" if color == "ALL" else "b_heart" + ("07" if color == "無" else COLORS[color])
+        counts[key] = counts.get(key, 0) + int(count)
+    return counts
 
-attr_name = {
-    '収録商品': 'product',
-    'カードタイプ': 'type',
-    '作品名': 'series',
-    '参加ユニット': 'unit',
-    'コスト': 'cost',
-    'ブレード': 'blade',
-    'スコア': 'score',
-    '基本ハート': 'base_heart',
-    '必要ハート': 'need_heart',
-    '特殊ハート': 'special_heart',
-    'ブレードハート': 'blade_heart',
-    'レアリティ': 'rare',
-}
 
-@retry(
-    stop=stop_after_attempt(3),
-    wait=wait_exponential(multiplier=1, min=2, max=10)
-)
-async def fetch_card_info(client, semaphore, card_no: str):
-    url = f"https://llofficial-cardgame.com/cardlist/detail/"
-    data = {
-        "cardno": card_no
+def format_text(value, icons, markup=False):
+    value = str(value or "")
+    if markup:
+        def image_token(match):
+            tag = match.group()
+            src = re.search(r'\bsrc=["\']([^"\']+)', tag)
+            alt = re.search(r'\balt=["\']([^"\']*)', tag)
+            if not src:
+                return ""
+            return "{{" + PurePosixPath(src.group(1)).name + "|" + html.unescape(alt.group(1) if alt else "") + "}}"
+        value = re.sub(r"<img\b[^>]*>", image_token, value, flags=re.I)
+        value = re.sub(r"<br\s*/?>", "\n", value, flags=re.I)
+        value = re.sub(r"<[^>]+>", "", value)
+    else:
+        tokens = [token for token in icons if token.startswith(("【", "["))]
+        if tokens:
+            pattern = re.compile("|".join(re.escape(token) for token in sorted(tokens, key=len, reverse=True)))
+            value = pattern.sub(
+                lambda match: "{{" + icons[match.group()] + "|" + match.group().strip("【】[]") + "}}",
+                value,
+            )
+    return html.unescape(value).strip()
+
+
+def convert_card(data, series_map=None):
+    raw = data.get("card")
+    if not isinstance(raw, dict) or not raw.get("card_number") or not raw.get("picture"):
+        raise ValueError("Card detail API returned an incomplete card")
+    icons = data.get("textIcons") or {}
+    card = {
+        "card_no": raw["card_number"],
+        "img": urljoin(CARD_IMAGES, raw["picture"]),
+        "name": raw.get("card_name", ""),
+        "product": " / ".join(expansion.get("name", "") for expansion in data.get("expansions", []) if expansion.get("name")),
+        "type": raw.get("card_kind", ""),
+        "rare": raw.get("rare", ""),
     }
-    async with semaphore:
-        resp = await client.post(url, headers=headers, data=data)
-        text = resp.text
-    card_info = {}
-    card_info["card_no"] = card_no
-    
-    # img
-    if img := re.search(r'<div class="image"><img src="(.*?)"', text, re.DOTALL):
-        if img[1].startswith("http"):
-            card_info["img"] = img[1]
-        else:
-            card_info["img"] = "https://llofficial-cardgame.com" + img[1]
-    
-    # name
-    if name := re.search(r'<p class="info-Heading">(.*?)</p>', text, re.DOTALL):
-        card_info["name"] = name[1]
-    
-    # info detail
-    info_items = re.findall(r'<div class="dl-Item">.*?<dt><span>(.*?)</span></dt>.*?<dd>(.*?)</dd>', 
-                            text, re.DOTALL)
-    for info in info_items:
-        card_info[attr_name.get(info[0], info[0])] = parse_html(info[1])
-    for key in ["base_heart", "need_heart", "blade_heart", "special_heart"]:
-        if key in card_info:
-            # print(card_info[key])
-            card_info[key] = card_info[key].replace(r"{{icon_b_all.png|ALL1}}", r'<spanclass="iconb_all">1</span>')
-            hearts = re.findall(r'<span\s*class="[^"]*\bicon\s*([^"]+)\b[^"]*">([^<]*)</span>', 
-                                card_info[key], re.DOTALL)
-            hearts += re.findall(r'\{\{icon_(.*?)\.png()\|.*?\}\}', 
-                                 card_info[key], re.DOTALL)
-            card_info[key] = {key: (int(value) if value else 1) for key, value in hearts}
-    if "blade" in card_info: card_info["blade"] = int(card_info["blade"])
-    if "cost" in card_info: card_info["cost"] = int(card_info["cost"])
-    if "score" in card_info: card_info["score"] = int(card_info["score"])
-    
-    # ability
-    if ability := re.search(r'<p class="info-Text">(.*?)</p>', text, re.DOTALL):
-        card_info["ability"] = parse_html(ability[1])
-    
-    # faq
-    card_info["faq"] = []
-    faq_items = re.findall(r'<div class="faq-Item">(.*?)</div>', text, re.DOTALL)
-    for faq_text in faq_items:
-        faq = {}
-        if title := re.search(r'Modal_Heading">(.*?)</p>', faq_text, re.DOTALL):
-            faq["title"] = title[1]
-        if question := re.search(r'question">(.*?)</p>', faq_text, re.DOTALL):
-            faq["question"] = parse_html(question[1])
-        if answer := re.search(r'answer">(.*?)</p>', faq_text, re.DOTALL):
-            faq["answer"] = parse_html(answer[1])
-        faq["relation"] = []
-        for relation in re.findall(r'\[(.*?)：(.*?)\]', faq_text, re.DOTALL):
-            faq["relation"].append({
-                "card_no": relation[0].strip(),
-                "name": relation[1].strip()
-            })
-        card_info["faq"].append(faq)
-    
-    # rare list
-    card_info["rare_list"] = [{
-        "card_no": card_info["card_no"],
-        "name": card_info["name"]
-    }]
-    rare_items = re.findall(r"""relatedCard\('(.*?)', .*?alt="(.*?)"/>""", text, re.DOTALL)
-    for rare_item in rare_items:
-        card_info["rare_list"].append({
-            "card_no": rare_item[0].strip(),
-            "name": rare_item[1].strip()
+    if raw.get("work_title") not in (None, "", "-"):
+        card["series"] = "\n".join(
+            (series_map or {}).get(part.strip(), part.strip())
+            for part in raw["work_title"].split("/") if part.strip()
+        )
+    if raw.get("unit_name") not in (None, "", "-"):
+        card["unit"] = raw["unit_name"]
+
+    hearts = heart_counts(raw)
+    if card["type"] == "ライブ":
+        if str(raw.get("blade_heart") or "").isdigit():
+            card["score"] = int(raw["blade_heart"])
+        if hearts:
+            card["need_heart"] = hearts
+        blade = blade_hearts(raw.get("blade") or raw.get("attack"))
+        if blade:
+            card["blade_heart"] = blade
+        special = {}
+        for name, count in re.findall(r"(スコア|ドロー)(\d*)", str(raw.get("cost") or "")):
+            key = "score" if name == "スコア" else "draw"
+            special[key] = special.get(key, 0) + int(count or 1)
+        if special:
+            card["special_heart"] = special
+    elif card["type"] == "メンバー":
+        if str(raw.get("cost") or "").isdigit():
+            card["cost"] = int(raw["cost"])
+        if hearts:
+            card["base_heart"] = hearts
+        blade = blade_hearts(raw.get("blade_heart"))
+        if blade:
+            card["blade_heart"] = blade
+        blade_count = raw.get("blade") or raw.get("attack")
+        if str(blade_count or "").isdigit():
+            card["blade"] = int(blade_count)
+
+    ability = raw.get("text_html") or raw.get("text")
+    if ability and ability != "-":
+        card["ability"] = format_text(ability, icons, markup=bool(raw.get("text_html")))
+
+    card["faq"] = []
+    for item in data.get("faqs", []):
+        date = item.get("update_time") or item.get("date") or ""
+        title = f"Q{item.get('qa_id', '')}" + (f"（{date.replace('-', '.')}）" if date else "")
+        relation = [
+            {"card_no": number.strip(), "name": name.strip()}
+            for number, name in re.findall(r"\[([^\[\]：]+)\s*：\s*([^\[\]]+)\]", item.get("card_names") or "")
+        ]
+        card["faq"].append({
+            "title": title,
+            "question": format_text(item.get("question"), icons),
+            "answer": format_text(item.get("answer"), icons),
+            "relation": relation,
         })
-    
-    print(f"{card_info['card_no']} {card_info['name']} fetched")
-    return card_info
+    card["rare_list"] = [{"card_no": card["card_no"], "name": card["name"]}]
+    card["rare_list"].extend(
+        {"card_no": item["card_number"], "name": item.get("card_name", "")}
+        for item in data.get("relationCards", []) if item.get("card_number")
+    )
+    return card
 
 
+async def fetch_card_info(client, semaphore, item, series_map):
+    async with semaphore:
+        data = await get_json(client, "detail", {"id": item["id"]})
+    card = convert_card(data, series_map)
+    if card["card_no"] != item["card_number"]:
+        raise ValueError(f"Detail/list mismatch for card id {item['id']}")
+    return card
 
-async def main():
-    # async with httpx.AsyncClient(timeout=None) as client:
-    #     pprint.pprint(await fetch_card_info(client, asyncio.Semaphore(10), "PL!N-sd1-025-SD"),sort_dicts=False)
-    # return
-    
-    async with httpx.AsyncClient(timeout=None) as client:
-        product_list = await fetch_product(client)
-        products = { product["product_id"]: product for product in product_list }
-        
-        all_card_no = []
-        card_no_lists = await asyncio.gather(
-            *(fetch_card_no_list(client, product["product_id"]) for product in product_list)
-        )
-        for product_id, card_no_list in card_no_lists:
-            products[product_id]["card_list"] = card_no_list
-            all_card_no += card_no_list
-        
-        cards = { card_no: {} for card_no in all_card_no }
-        semaphore = asyncio.Semaphore(10)
-        card_info_lists = await asyncio.gather(
-            *(fetch_card_info(client, semaphore, card_no) for card_no in all_card_no)
-        )
-        for card_info in card_info_lists:
-            cards[card_info["card_no"]] = card_info
-            
-        
-        img_list = []
-        for product in product_list:
-            product_img = f"img/products/" + product["img"].split("/")[-1]
-            img_list.append((product["img"], product_img))
-            products[product["product_id"]]["_img"] = product_img
-        for card_no, card in cards.items():
-            card_img = f"img/cards/" + card["img"].split("/")[-2] + "/" + card["img"].split("/")[-1]
-            img_list.append((card["img"], card_img))
-            cards[card_no]["_img"] = card_img
-        
-        if not os.path.exists("json"): os.makedirs("json")
-        with open("./json/products.json", "w", encoding="utf-8") as f:
-            json.dump(products, f, indent=4, ensure_ascii=False)
-        with open("./json/cards.json", "w", encoding="utf-8") as f:
-            json.dump(cards, f, indent=4, ensure_ascii=False)
-        
-        semaphore = asyncio.Semaphore(10)
-        await asyncio.gather(
-            *(async_download_image(client, semaphore, img[0], img[1]) for img in img_list)
-        )
 
+async def download_image(client, semaphore, url, path):
+    target = Path(path)
+    if target.exists():
+        return
+    async with semaphore:
+        try:
+            response = await get_image(client, url)
+            target.parent.mkdir(parents=True, exist_ok=True)
+            target.write_bytes(response.content)
+        except httpx.HTTPError as error:
+            print(f"Image download failed: {url}: {error}")
+
+
+@retry(stop=stop_after_attempt(10), wait=wait_random_exponential(multiplier=4, min=5, max=60), reraise=True)
+async def get_image(client, url):
+    response = await client.get(url, headers=HEADERS)
+    response.raise_for_status()
+    return response
+
+
+async def download_missing_images():
+    products = json.loads(Path("json/products.json").read_text(encoding="utf-8"))
+    cards = json.loads(Path("json/cards.json").read_text(encoding="utf-8"))
+    images = [(item["img"], item["_img"]) for item in (*products.values(), *cards.values())
+              if item.get("img") and item.get("_img") and not Path(item["_img"]).exists()]
+    print(f"{len(images)} missing images")
+    async with httpx.AsyncClient(timeout=30, follow_redirects=True) as client:
+        semaphore = asyncio.Semaphore(3)
+        await asyncio.gather(*(download_image(client, semaphore, url, path) for url, path in images))
+
+
+def write_json(path, data):
+    target = Path(path)
+    target.parent.mkdir(parents=True, exist_ok=True)
+    temporary = target.with_suffix(target.suffix + ".tmp")
+    temporary.write_text(json.dumps(data, indent=4, ensure_ascii=False), encoding="utf-8")
+    os.replace(temporary, target)
+
+
+async def main(download_images=True):
+    async with httpx.AsyncClient(timeout=30, follow_redirects=True) as client:
+        products = await fetch_products(client)
+        form = await get_json(client, "createSearchForm")
+        series_map = form.get("legacy", {}).get("work_title_display_by_value", {})
+        list_semaphore = asyncio.Semaphore(4)
+        lists = await asyncio.gather(*(fetch_product_cards(client, list_semaphore, code) for code in products))
+        unique = {}
+        for code, items in lists:
+            products[code]["card_list"] = [item["card_number"] for item in items]
+            for item in items:
+                unique[item["card_number"]] = item
+        if not unique:
+            raise ValueError("Card API returned no cards; existing JSON files were kept")
+
+        semaphore = asyncio.Semaphore(3)
+        tasks = [asyncio.create_task(fetch_card_info(client, semaphore, item, series_map))
+                 for item in unique.values()]
+        details = []
+        for count, task in enumerate(asyncio.as_completed(tasks), 1):
+            details.append(await task)
+            if count % 100 == 0:
+                print(f"{count}/{len(tasks)} card details fetched")
+        cards = {card["card_no"]: card for card in details}
+        images = []
+        for product in products.values():
+            if product["img"]:
+                path = "img/products/" + product["img"].rsplit("/", 1)[-1]
+                product["_img"] = path
+                images.append((product["img"], path))
+        for card in cards.values():
+            picture = card["img"].removeprefix(CARD_IMAGES)
+            parts = PurePosixPath(picture).parts
+            if picture.startswith("/") or any(part in (".", "..") for part in parts):
+                raise ValueError(f"Invalid image path: {picture!r}")
+            path = str(Path("img/cards", *parts)).replace("\\", "/")
+            card["_img"] = path
+            images.append((card["img"], path))
+
+        write_json("json/products.json", products)
+        write_json("json/cards.json", cards)
+        print(f"Saved {len(products)} products and {len(cards)} cards")
+        if download_images:
+            await asyncio.gather(*(download_image(client, semaphore, url, path) for url, path in images))
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--skip-images", action="store_true", help="Update JSON without downloading images")
+    parser.add_argument("--images-only", action="store_true", help="Download missing images from existing JSON files")
+    args = parser.parse_args()
+    if args.images_only:
+        asyncio.run(download_missing_images())
+    else:
+        asyncio.run(main(download_images=not args.skip_images))
