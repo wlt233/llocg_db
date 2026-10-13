@@ -243,6 +243,21 @@ def write_json(path, data):
     os.replace(temporary, target)
 
 
+def order_cards(details, previous_path="json/cards.json"):
+    """Keep existing card positions; append new card numbers in a stable order."""
+    by_number = {card["card_no"]: card for card in details}
+    previous = Path(previous_path)
+    if previous.exists():
+        previous_cards = json.loads(previous.read_text(encoding="utf-8"))
+        if not isinstance(previous_cards, dict):
+            raise ValueError(f"Expected a card object in {previous}")
+    else:
+        previous_cards = {}
+    cards = {number: by_number[number] for number in previous_cards if number in by_number}
+    cards.update({number: by_number[number] for number in sorted(by_number.keys() - cards.keys())})
+    return cards
+
+
 async def main(download_images=True):
     async with httpx.AsyncClient(timeout=30, follow_redirects=True) as client:
         products = await fetch_products(client)
@@ -266,7 +281,7 @@ async def main(download_images=True):
             details.append(await task)
             if count % 100 == 0:
                 print(f"{count}/{len(tasks)} card details fetched")
-        cards = {card["card_no"]: card for card in details}
+        cards = order_cards(details)
         images = []
         for product in products.values():
             if product["img"]:
