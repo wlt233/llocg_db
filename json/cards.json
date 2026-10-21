@@ -279,22 +279,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -379,16 +363,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -441,6 +417,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -642,22 +642,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -742,16 +726,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -804,6 +780,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -3695,22 +3695,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -3795,16 +3779,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -3857,6 +3833,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -4124,19 +4124,19 @@
                 "answer": "はい、満たします。自分のライブカード置き場にライブカードがあり、相手のライブカード置き場にライブカードがない場合、自分のライブの合計スコアがいくつであっても、相手より合計スコアが高いものとして扱います。",
                 "relation": [
                     {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
+                        "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-SRL",
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
                         "name": "START!! True dreams"
                     }
                 ]
@@ -4181,22 +4181,6 @@
                     {
                         "card_no": "PL!-sd1-019-SRL",
                         "name": "START:DASH!!"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
                     },
                     {
                         "card_no": "PL!N-bp1-026-SECL",
@@ -4283,16 +4267,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -4345,6 +4321,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -12325,22 +12325,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -12425,16 +12409,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -12487,6 +12463,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -12605,19 +12605,19 @@
                 "answer": "はい、満たします。自分のライブカード置き場にライブカードがあり、相手のライブカード置き場にライブカードがない場合、自分のライブの合計スコアがいくつであっても、相手より合計スコアが高いものとして扱います。",
                 "relation": [
                     {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
+                        "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-SRL",
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
                         "name": "START!! True dreams"
                     }
                 ]
@@ -12662,22 +12662,6 @@
                     {
                         "card_no": "PL!-sd1-019-SRL",
                         "name": "START:DASH!!"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
                     },
                     {
                         "card_no": "PL!N-bp1-026-SECL",
@@ -12764,16 +12748,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -12826,6 +12802,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -13160,22 +13160,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -13260,16 +13244,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -13322,6 +13298,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -13414,7 +13414,7 @@
         "special_heart": {
             "score": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる、「澁谷かのん」「ウィーン・マルガレーテ」「鬼塚冬毬」のうちのメンバー1人と、これにより選んだメンバー以外の『Liella!』のメンバー1人は、{{icon_blade.png|ブレード}}を得る。\n{{live_start.png|ライブ開始時}}ライブ終了時まで、エールによって公開される自分のカードが持つ[桃ブレード]、[赤ブレード]、[黄ブレード]、[緑ブレード]、[青ブレード]、{{icon_b_all.png|ALLブレード}}は、すべて[紫ブレード]になる。",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる、「澁谷かのん」「ウィーン・マルガレーテ」「鬼塚冬毬」のうちのメンバー1人と、これにより選んだメンバー以外の『Liella!』のメンバー1人は、{{icon_blade.png|ブレード}}を得る。\r\n{{live_start.png|ライブ開始時}}ライブ終了時まで、エールによって公開される自分のカードが持つ{{blade_heart01.png|ハート}}、{{blade_heart02.png|ハート}}、{{blade_heart03.png|ハート}}、{{blade_heart04.png|ハート}}、{{blade_heart05.png|ハート}}、{{icon_b_all.png|ALLブレード}}は、すべて{{blade_heart06.png|ハート}}になる。",
         "faq": [],
         "rare_list": [
             {
@@ -16918,7 +16918,7 @@
     "PL!SP-sd1-026-SRL": {
         "card_no": "PL!SP-sd1-026-SRL",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBSP02/PL!SP-sd1-026-SRL.png",
-        "name": "私のSymphony ?澁谷かのんVer.?",
+        "name": "私のSymphony ～澁谷かのんVer.～",
         "product": "プレミアムブースター ラブライブ！スーパースター!! DUO",
         "type": "ライブ",
         "rare": "SRL",
@@ -16948,11 +16948,11 @@
                     },
                     {
                         "card_no": "PL!SP-sd1-026-SD",
-                        "name": "私のSymphony ?澁谷かのんVer.?"
+                        "name": "私のSymphony ～澁谷かのんVer.～"
                     },
                     {
                         "card_no": "PL!SP-sd1-026-SRL",
-                        "name": "私のSymphony ?澁谷かのんVer.?"
+                        "name": "私のSymphony ～澁谷かのんVer.～"
                     }
                 ]
             }
@@ -16960,11 +16960,11 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-sd1-026-SRL",
-                "name": "私のSymphony ?澁谷かのんVer.?"
+                "name": "私のSymphony ～澁谷かのんVer.～"
             },
             {
                 "card_no": "PL!SP-sd1-026-SD",
-                "name": "私のSymphony ?澁谷かのんVer.?"
+                "name": "私のSymphony ～澁谷かのんVer.～"
             }
         ],
         "_img": "img/cards/PBSP02/PL!SP-sd1-026-SRL.png"
@@ -17055,7 +17055,7 @@
         "base_heart": {
             "heart03": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のライブカード置き場に『?'s』のカードがある場合、ライブ終了時まで、自分のステージにいるすべての『μ's』のメンバーは{{icon_blade.png|ブレード}}を得る。\n{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に、ブレードハートを持たない『μ's』のメンバーカードがある場合、カードを1枚引き、手札を1枚控え室に置く。",
+        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のライブカード置き場に『μ's』のカードがある場合、ライブ終了時まで、自分のステージにいるすべての『μ's』のメンバーは{{icon_blade.png|ブレード}}を得る。\r\n{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に、ブレードハートを持たない『μ's』のメンバーカードがある場合、カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
         "rare_list": [
             {
@@ -17090,7 +17090,7 @@
         "base_heart": {
             "heart03": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のライブカード置き場に『?'s』のカードがある場合、ライブ終了時まで、自分のステージにいるすべての『μ's』のメンバーは{{icon_blade.png|ブレード}}を得る。\n{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に、ブレードハートを持たない『μ's』のメンバーカードがある場合、カードを1枚引き、手札を1枚控え室に置く。",
+        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のライブカード置き場に『μ's』のカードがある場合、ライブ終了時まで、自分のステージにいるすべての『μ's』のメンバーは{{icon_blade.png|ブレード}}を得る。\r\n{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に、ブレードハートを持たない『μ's』のメンバーカードがある場合、カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
         "rare_list": [
             {
@@ -17125,7 +17125,7 @@
         "base_heart": {
             "heart03": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のライブカード置き場に『?'s』のカードがある場合、ライブ終了時まで、自分のステージにいるすべての『μ's』のメンバーは{{icon_blade.png|ブレード}}を得る。\n{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に、ブレードハートを持たない『μ's』のメンバーカードがある場合、カードを1枚引き、手札を1枚控え室に置く。",
+        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のライブカード置き場に『μ's』のカードがある場合、ライブ終了時まで、自分のステージにいるすべての『μ's』のメンバーは{{icon_blade.png|ブレード}}を得る。\r\n{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に、ブレードハートを持たない『μ's』のメンバーカードがある場合、カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
         "rare_list": [
             {
@@ -17160,7 +17160,7 @@
         "base_heart": {
             "heart03": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のライブカード置き場に『?'s』のカードがある場合、ライブ終了時まで、自分のステージにいるすべての『μ's』のメンバーは{{icon_blade.png|ブレード}}を得る。\n{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に、ブレードハートを持たない『μ's』のメンバーカードがある場合、カードを1枚引き、手札を1枚控え室に置く。",
+        "ability": "{{live_start.png|ライブ開始時}}{{center.png|センター}}自分のライブカード置き場に『μ's』のカードがある場合、ライブ終了時まで、自分のステージにいるすべての『μ's』のメンバーは{{icon_blade.png|ブレード}}を得る。\r\n{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に、ブレードハートを持たない『μ's』のメンバーカードがある場合、カードを1枚引き、手札を1枚控え室に置く。",
         "faq": [],
         "rare_list": [
             {
@@ -20859,11 +20859,11 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-bp6-002-P＋",
+                        "card_no": "PL!S-bp6-002-R＋",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-bp6-002-R＋",
+                        "card_no": "PL!S-bp6-002-P＋",
                         "name": "桜内梨子"
                     },
                     {
@@ -20912,7 +20912,7 @@
             "b_heart05": 1
         },
         "blade": 6,
-        "ability": "\"{{jidou.png|自動}}{{turn1.png|ターン1回}}『Aqours』のライブカードが自分のライブカード置き場から控え室に置かれたとき、そのライブカードをデッキの一番上か一番下に置いてもよい。\n{{live_start.png|ライブ開始時}}自分のライブカード置き場にあるカードが『Aqours』のみで、かつそれらの必要ハートに含まれる{{heart_02.png|heart02}}と{{heart_04.png|heart04}}と{{heart_05.png|heart05}}の合計が12以上の場合、ライブ終了時まで、{{icon_all.png|ハート}}{{icon_all.png|ハート}}を得る。\"",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}『Aqours』のライブカードが自分のライブカード置き場から控え室に置かれたとき、そのライブカードをデッキの一番上か一番下に置いてもよい。\r\n{{live_start.png|ライブ開始時}}自分のライブカード置き場にあるカードが『Aqours』のみで、かつそれらの必要ハートに含まれる{{heart_02.png|heart02}}と{{heart_04.png|heart04}}と{{heart_05.png|heart05}}の合計が12以上の場合、ライブ終了時まで、{{icon_all.png|ハート}}{{icon_all.png|ハート}}を得る。",
         "faq": [
             {
                 "title": "Q252（2026.06.02）",
@@ -20924,11 +20924,11 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-bp6-002-P＋",
+                        "card_no": "PL!S-bp6-002-R＋",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-bp6-002-R＋",
+                        "card_no": "PL!S-bp6-002-P＋",
                         "name": "桜内梨子"
                     },
                     {
@@ -21007,7 +21007,7 @@
             "b_heart05": 1
         },
         "blade": 6,
-        "ability": "\"{{jidou.png|自動}}{{turn1.png|ターン1回}}『Aqours』のライブカードが自分のライブカード置き場から控え室に置かれたとき、そのライブカードをデッキの一番上か一番下に置いてもよい。\n{{live_start.png|ライブ開始時}}自分のライブカード置き場にあるカードが『Aqours』のみで、かつそれらの必要ハートに含まれる{{heart_02.png|heart02}}と{{heart_04.png|heart04}}と{{heart_05.png|heart05}}の合計が12以上の場合、ライブ終了時まで、{{icon_all.png|ハート}}{{icon_all.png|ハート}}を得る。\"",
+        "ability": "{{jidou.png|自動}}{{turn1.png|ターン1回}}『Aqours』のライブカードが自分のライブカード置き場から控え室に置かれたとき、そのライブカードをデッキの一番上か一番下に置いてもよい。\r\n{{live_start.png|ライブ開始時}}自分のライブカード置き場にあるカードが『Aqours』のみで、かつそれらの必要ハートに含まれる{{heart_02.png|heart02}}と{{heart_04.png|heart04}}と{{heart_05.png|heart05}}の合計が12以上の場合、ライブ終了時まで、{{icon_all.png|ハート}}{{icon_all.png|ハート}}を得る。",
         "faq": [
             {
                 "title": "Q252（2026.06.02）",
@@ -21019,11 +21019,11 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-bp6-002-P＋",
+                        "card_no": "PL!S-bp6-002-R＋",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-bp6-002-R＋",
+                        "card_no": "PL!S-bp6-002-P＋",
                         "name": "桜内梨子"
                     },
                     {
@@ -21154,11 +21154,11 @@
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-bp6-002-P＋",
+                        "card_no": "PL!S-bp6-002-R＋",
                         "name": "桜内梨子"
                     },
                     {
-                        "card_no": "PL!S-bp6-002-R＋",
+                        "card_no": "PL!S-bp6-002-P＋",
                         "name": "桜内梨子"
                     },
                     {
@@ -25488,7 +25488,7 @@
     "PL!HS-pb1-029-L": {
         "card_no": "PL!HS-pb1-029-L",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PBHS/PL!HS-pb1-029-L.png",
-        "name": "全方位キュン?",
+        "name": "全方位キュン♡",
         "product": "プレミアムブースター 蓮ノ空女学院スクールアイドルクラブ",
         "type": "ライブ",
         "rare": "L",
@@ -25509,7 +25509,7 @@
         "rare_list": [
             {
                 "card_no": "PL!HS-pb1-029-L",
-                "name": "全方位キュン?"
+                "name": "全方位キュン♡"
             }
         ],
         "_img": "img/cards/PBHS/PL!HS-pb1-029-L.png"
@@ -30505,6 +30505,10 @@
             {
                 "card_no": "PL!HS-bp5-008-P",
                 "name": "桂城 泉"
+            },
+            {
+                "card_no": "PL!HS-bp5-008-PR",
+                "name": "桂城 泉"
             }
         ],
         "_img": "img/cards/BP05/PL!HS-bp5-008-AR.png"
@@ -30652,6 +30656,10 @@
             {
                 "card_no": "PL!HS-bp5-008-AR",
                 "name": "桂城 泉"
+            },
+            {
+                "card_no": "PL!HS-bp5-008-PR",
+                "name": "桂城 泉"
             }
         ],
         "_img": "img/cards/BP05/PL!HS-bp5-008-R.png"
@@ -30792,6 +30800,10 @@
             },
             {
                 "card_no": "PL!HS-bp5-008-AR",
+                "name": "桂城 泉"
+            },
+            {
+                "card_no": "PL!HS-bp5-008-PR",
                 "name": "桂城 泉"
             }
         ],
@@ -36707,22 +36719,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -36807,16 +36803,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -36869,6 +36857,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -48432,7 +48444,7 @@
         "special_heart": {
             "draw": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、エールによって公開される自分のカードが持つ[桃ブレード]、[赤ブレード]、[黄ブレード]、[緑ブレード]、[紫ブレード]、{{icon_b_all.png|ALLブレード}}は、すべて[青ブレード]になる。\n{{live_success.png|ライブ成功時}}エールにより公開された自分の『虹ヶ咲』のメンバーカードが持つハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}がある場合、このカードのスコアを＋１する。",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、エールによって公開される自分のカードが持つ{{blade_heart01.png|ハート}}、{{blade_heart02.png|ハート}}、{{blade_heart03.png|ハート}}、{{blade_heart04.png|ハート}}、{{blade_heart06.png|ハート}}、{{icon_b_all.png|ALLブレード}}は、すべて{{blade_heart05.png|ハート}}になる。\r\n{{live_success.png|ライブ成功時}}エールにより公開された自分の『虹ヶ咲』のメンバーカードが持つハートの中に{{heart_01.png|heart01}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_06.png|heart06}}がある場合、このカードのスコアを＋１する。",
         "faq": [
             {
                 "title": "Q192（2025.11.17）",
@@ -50267,7 +50279,7 @@
         "special_heart": {
             "score": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる、「澁谷かのん」「ウィーン・マルガレーテ」「鬼塚冬毬」のうちのメンバー1人と、これにより選んだメンバー以外の『Liella!』のメンバー1人は、{{icon_blade.png|ブレード}}を得る。\n{{live_start.png|ライブ開始時}}ライブ終了時まで、エールによって公開される自分のカードが持つ[桃ブレード]、[赤ブレード]、[黄ブレード]、[緑ブレード]、[青ブレード]、{{icon_b_all.png|ALLブレード}}は、すべて[紫ブレード]になる。",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる、「澁谷かのん」「ウィーン・マルガレーテ」「鬼塚冬毬」のうちのメンバー1人と、これにより選んだメンバー以外の『Liella!』のメンバー1人は、{{icon_blade.png|ブレード}}を得る。\r\n{{live_start.png|ライブ開始時}}ライブ終了時まで、エールによって公開される自分のカードが持つ{{blade_heart01.png|ハート}}、{{blade_heart02.png|ハート}}、{{blade_heart03.png|ハート}}、{{blade_heart04.png|ハート}}、{{blade_heart05.png|ハート}}、{{icon_b_all.png|ALLブレード}}は、すべて{{blade_heart06.png|ハート}}になる。",
         "faq": [
             {
                 "title": "Q192（2025.11.17）",
@@ -52905,22 +52917,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -53005,16 +53001,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -53067,6 +53055,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -53232,22 +53244,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -53332,16 +53328,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -53394,6 +53382,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -53476,22 +53488,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -53576,16 +53572,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -53638,6 +53626,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -55650,7 +55662,7 @@
             "heart06": 1
         },
         "blade": 2,
-        "ability": "\"{{toujyou.png|登場}}自分のステージにコスト13以上のメンバーがいる場合、カードを1枚引く。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバーをウェイトにする：{{heart_01.png|heart01}}か{{heart_03.png|heart03}}か{{heart_06.png|heart06}}のうち、1つを選ぶ。ライブ終了時まで、選んだハートを1つ得る。\"",
+        "ability": "{{toujyou.png|登場}}自分のステージにコスト13以上のメンバーがいる場合、カードを1枚引く。\r\n{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバーをウェイトにする：{{heart_01.png|heart01}}か{{heart_03.png|heart03}}か{{heart_06.png|heart06}}のうち、1つを選ぶ。ライブ終了時まで、選んだハートを1つ得る。",
         "faq": [],
         "rare_list": [
             {
@@ -55840,7 +55852,7 @@
             "heart06": 1
         },
         "blade": 2,
-        "ability": "\"{{toujyou.png|登場}}自分のステージにコスト13以上のメンバーがいる場合、カードを1枚引く。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバーをウェイトにする：{{heart_01.png|heart01}}か{{heart_03.png|heart03}}か{{heart_06.png|heart06}}のうち、1つを選ぶ。ライブ終了時まで、選んだハートを1つ得る。\"",
+        "ability": "{{toujyou.png|登場}}自分のステージにコスト13以上のメンバーがいる場合、カードを1枚引く。\r\n{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバーをウェイトにする：{{heart_01.png|heart01}}か{{heart_03.png|heart03}}か{{heart_06.png|heart06}}のうち、1つを選ぶ。ライブ終了時まで、選んだハートを1つ得る。",
         "faq": [],
         "rare_list": [
             {
@@ -56346,22 +56358,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -56446,16 +56442,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -56508,6 +56496,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -56667,22 +56679,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -56767,16 +56763,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -56829,6 +56817,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -57865,11 +57877,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -57888,11 +57900,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -57911,11 +57923,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -57961,7 +57973,7 @@
             "heart05": 2
         },
         "blade": 6,
-        "ability": "\"{{jidou.png|自動}}このターン、自分のステージにメンバーが3回登場したとき、手札が5枚になるまでカードを引く。\n{{live_start.png|ライブ開始時}}このターン、自分のステージにメンバーが2回以上登場している場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。\"",
+        "ability": "{{jidou.png|自動}}このターン、自分のステージにメンバーが3回登場したとき、手札が5枚になるまでカードを引く。\r\n{{live_start.png|ライブ開始時}}このターン、自分のステージにメンバーが2回以上登場している場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [
             {
                 "title": "Q162（2025.08.04）",
@@ -57973,11 +57985,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -57996,11 +58008,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -58019,11 +58031,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -58081,11 +58093,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -58104,11 +58116,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -58127,11 +58139,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -58177,7 +58189,7 @@
             "heart05": 2
         },
         "blade": 6,
-        "ability": "\"{{jidou.png|自動}}このターン、自分のステージにメンバーが3回登場したとき、手札が5枚になるまでカードを引く。\n{{live_start.png|ライブ開始時}}このターン、自分のステージにメンバーが2回以上登場している場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。\"",
+        "ability": "{{jidou.png|自動}}このターン、自分のステージにメンバーが3回登場したとき、手札が5枚になるまでカードを引く。\r\n{{live_start.png|ライブ開始時}}このターン、自分のステージにメンバーが2回以上登場している場合、ライブ終了時まで、「{{jyouji.png|常時}}ライブの合計スコアを＋１する。」を得る。",
         "faq": [
             {
                 "title": "Q162（2025.08.04）",
@@ -58189,11 +58201,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -58212,11 +58224,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -58235,11 +58247,11 @@
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-P＋",
+                        "card_no": "PL!N-bp3-005-R＋",
                         "name": "宮下 愛"
                     },
                     {
-                        "card_no": "PL!N-bp3-005-R＋",
+                        "card_no": "PL!N-bp3-005-P＋",
                         "name": "宮下 愛"
                     },
                     {
@@ -60029,22 +60041,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -60129,16 +60125,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -60191,6 +60179,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -60340,22 +60352,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -60440,16 +60436,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -60502,6 +60490,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -60580,22 +60592,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -60680,16 +60676,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -60742,6 +60730,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -62030,7 +62042,7 @@
             "heart05": 2
         },
         "blade": 1,
-        "ability": "\"{{toujyou.png|登場}}手札のライブカードを1枚控え室に置いてもよい：カードを3枚引く。\n{{live_start.png|ライブ開始時}}手札を2枚まで控え室に置いてもよい：ライブ終了時まで、これによって控え室に置いたカード1枚につき、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\"",
+        "ability": "{{toujyou.png|登場}}手札のライブカードを1枚控え室に置いてもよい：カードを3枚引く。\r\n{{live_start.png|ライブ開始時}}手札を2枚まで控え室に置いてもよい：ライブ終了時まで、これによって控え室に置いたカード1枚につき、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -62136,7 +62148,7 @@
             "heart05": 2
         },
         "blade": 1,
-        "ability": "\"{{toujyou.png|登場}}手札のライブカードを1枚控え室に置いてもよい：カードを3枚引く。\n{{live_start.png|ライブ開始時}}手札を2枚まで控え室に置いてもよい：ライブ終了時まで、これによって控え室に置いたカード1枚につき、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。\"",
+        "ability": "{{toujyou.png|登場}}手札のライブカードを1枚控え室に置いてもよい：カードを3枚引く。\r\n{{live_start.png|ライブ開始時}}手札を2枚まで控え室に置いてもよい：ライブ終了時まで、これによって控え室に置いたカード1枚につき、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
         "faq": [],
         "rare_list": [
             {
@@ -63269,22 +63281,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -63369,16 +63365,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -63431,6 +63419,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -64781,22 +64793,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -64881,16 +64877,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -64943,6 +64931,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -65687,22 +65699,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -65787,16 +65783,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -65849,6 +65837,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -65928,22 +65940,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -66028,16 +66024,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -66090,6 +66078,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -66978,22 +66990,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -67078,16 +67074,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -67140,6 +67128,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -67214,22 +67226,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -67314,16 +67310,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -67376,6 +67364,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -67836,22 +67848,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -67936,16 +67932,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -67998,6 +67986,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -68070,22 +68082,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -68170,16 +68166,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -68232,6 +68220,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -68343,22 +68355,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -68443,16 +68439,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -68505,6 +68493,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -68607,22 +68619,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -68707,16 +68703,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -68769,6 +68757,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -68876,22 +68888,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -68976,16 +68972,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -69038,6 +69026,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -72645,16 +72657,16 @@
                 "answer": "いいえ、2つ目の能力を使用する時点で公開されている、2回目のエールにより公開された自分のカードのみ参照します。",
                 "relation": [
                     {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
                         "card_no": "PL!S-bp2-004-P",
                         "name": "黒澤ダイヤ"
                     },
                     {
                         "card_no": "PL!S-bp2-004-R",
                         "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
                     }
                 ]
             }
@@ -72695,16 +72707,16 @@
                 "answer": "いいえ、2つ目の能力を使用する時点で公開されている、2回目のエールにより公開された自分のカードのみ参照します。",
                 "relation": [
                     {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
                         "card_no": "PL!S-bp2-004-P",
                         "name": "黒澤ダイヤ"
                     },
                     {
                         "card_no": "PL!S-bp2-004-R",
                         "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
                     }
                 ]
             }
@@ -73347,22 +73359,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -73447,16 +73443,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -73509,6 +73497,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -73593,22 +73605,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -73693,16 +73689,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -73755,6 +73743,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -73839,22 +73851,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -73939,16 +73935,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -74001,6 +73989,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -74085,22 +74097,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -74185,16 +74181,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -74247,6 +74235,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -75183,22 +75195,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -75283,16 +75279,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -75345,6 +75333,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -75478,22 +75490,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -75578,16 +75574,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -75640,6 +75628,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -75774,22 +75786,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -75874,16 +75870,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -75936,6 +75924,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -77832,22 +77844,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -77932,16 +77928,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -77994,6 +77982,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -78104,22 +78116,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -78204,16 +78200,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -78266,6 +78254,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -78376,22 +78388,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -78476,16 +78472,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -78538,6 +78526,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -78791,22 +78803,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -78891,16 +78887,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -78953,6 +78941,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -80033,22 +80045,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -80133,16 +80129,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -80195,6 +80183,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -80277,22 +80289,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -80377,16 +80373,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -80439,6 +80427,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -80964,22 +80976,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -81064,16 +81060,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -81126,6 +81114,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -81254,22 +81266,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -81354,16 +81350,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -81416,6 +81404,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -81591,22 +81603,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -81691,16 +81687,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -81753,6 +81741,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -81829,22 +81841,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -81929,16 +81925,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -81991,6 +81979,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -84618,11 +84630,11 @@
                     },
                     {
                         "card_no": "PL!SP-sd1-026-SD",
-                        "name": "私のSymphony ?澁谷かのんVer.?"
+                        "name": "私のSymphony ～澁谷かのんVer.～"
                     },
                     {
                         "card_no": "PL!SP-sd1-026-SRL",
-                        "name": "私のSymphony ?澁谷かのんVer.?"
+                        "name": "私のSymphony ～澁谷かのんVer.～"
                     }
                 ]
             },
@@ -86280,7 +86292,7 @@
         "blade_heart": {
             "b_all": 1
         },
-        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中から、『蓮ノ空』のライブカードを1枚手札に加える。<br>\n(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中から、『蓮ノ空』のライブカードを1枚手札に加える。",
         "faq": [
             {
                 "title": "Q36（2025.08.04）",
@@ -86322,22 +86334,6 @@
                     {
                         "card_no": "PL!-sd1-019-SRL",
                         "name": "START:DASH!!"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
                     },
                     {
                         "card_no": "PL!N-bp1-026-SECL",
@@ -86424,16 +86420,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -86486,6 +86474,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -86518,7 +86530,7 @@
         "special_heart": {
             "draw": 1
         },
-        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に『蓮ノ空』のメンバーカードが10枚以上ある場合、このカードのスコアを＋１する。<br>\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中に『蓮ノ空』のメンバーカードが10枚以上ある場合、このカードのスコアを＋１する。",
         "faq": [
             {
                 "title": "Q107（2025.05.30）",
@@ -86526,16 +86538,16 @@
                 "answer": "いいえ、2つ目の能力を使用する時点で公開されている、2回目のエールにより公開された自分のカードのみ参照します。",
                 "relation": [
                     {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
                         "card_no": "PL!S-bp2-004-P",
                         "name": "黒澤ダイヤ"
                     },
                     {
                         "card_no": "PL!S-bp2-004-R",
                         "name": "黒澤ダイヤ"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
                     }
                 ]
             },
@@ -86581,22 +86593,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -86681,16 +86677,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -86743,6 +86731,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -86772,7 +86784,7 @@
         "blade_heart": {
             "b_all": 1
         },
-        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高く、かつ自分のステージに『蓮ノ空』のメンバーがいる場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。<br>\n(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
+        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高く、かつ自分のステージに『蓮ノ空』のメンバーがいる場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
         "faq": [
             {
                 "title": "Q36（2025.08.04）",
@@ -86816,22 +86828,6 @@
                         "name": "START:DASH!!"
                     },
                     {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
@@ -86916,16 +86912,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -86978,6 +86966,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -89543,7 +89555,7 @@
         "special_heart": {
             "draw": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる『虹ヶ咲』のメンバーが持つ{{heart_01.png|heart01}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_06.png|heart06}}のうち1色につき、このカードのスコアを＋１する。<br>\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいる『虹ヶ咲』のメンバーが持つ{{heart_01.png|heart01}}、{{heart_04.png|heart04}}、{{heart_05.png|heart05}}、{{heart_02.png|heart02}}、{{heart_03.png|heart03}}、{{heart_06.png|heart06}}のうち1色につき、このカードのスコアを＋１する。",
         "faq": [
             {
                 "title": "Q67（2025.02.07）",
@@ -89581,7 +89593,7 @@
         "blade_heart": {
             "b_all": 1
         },
-        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、エールにより公開された自分のカードの中から、『虹ヶ咲』のカードを1枚手札に加える。<br>\n(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
+        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、エールにより公開された自分のカードの中から、『虹ヶ咲』のカードを1枚手札に加える。",
         "faq": [
             {
                 "title": "Q66（2025.02.07）",
@@ -89589,19 +89601,19 @@
                 "answer": "はい、満たします。自分のライブカード置き場にライブカードがあり、相手のライブカード置き場にライブカードがない場合、自分のライブの合計スコアがいくつであっても、相手より合計スコアが高いものとして扱います。",
                 "relation": [
                     {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
+                        "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-SRL",
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
                         "name": "START!! True dreams"
                     }
                 ]
@@ -89646,22 +89658,6 @@
                     {
                         "card_no": "PL!-sd1-019-SRL",
                         "name": "START:DASH!!"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
                     },
                     {
                         "card_no": "PL!N-bp1-026-SECL",
@@ -89748,16 +89744,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -89810,6 +89798,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -89845,7 +89857,7 @@
         "special_heart": {
             "draw": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}自分のライブ中のカードが3枚以上ある場合、このカードのスコアを＋２する。<br>\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分のライブ中のカードが3枚以上ある場合、このカードのスコアを＋２する。",
         "faq": [
             {
                 "title": "Q38（2025.02.07）",
@@ -89918,7 +89930,7 @@
         "special_heart": {
             "draw": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：自分のステージに『虹ヶ咲』のメンバーがいる場合、このカードのスコアを＋１する。<br>\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}{{icon_energy.png|E}}{{icon_energy.png|E}}支払ってもよい：自分のステージに『虹ヶ咲』のメンバーがいる場合、このカードのスコアを＋１する。",
         "faq": [],
         "rare_list": [
             {
@@ -92673,7 +92685,7 @@
         "special_heart": {
             "score": 1
         },
-        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。<br>\n(エールで出た{{icon_score.png|スコア}}1つにつき、成功したライブのスコアの合計に1を加算する。)",
+        "ability": "{{live_success.png|ライブ成功時}}ライブの合計スコアが相手より高い場合、自分のエネルギーデッキから、エネルギーカードを1枚ウェイト状態で置く。",
         "faq": [
             {
                 "title": "Q66（2025.02.07）",
@@ -92681,19 +92693,19 @@
                 "answer": "はい、満たします。自分のライブカード置き場にライブカードがあり、相手のライブカード置き場にライブカードがない場合、自分のライブの合計スコアがいくつであっても、相手より合計スコアが高いものとして扱います。",
                 "relation": [
                     {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
-                    },
-                    {
                         "card_no": "PL!N-bp1-026-SECL",
                         "name": "Poppin' Up!"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
+                        "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-SRL",
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
                         "name": "START!! True dreams"
                     }
                 ]
@@ -92738,22 +92750,6 @@
                     {
                         "card_no": "PL!-sd1-019-SRL",
                         "name": "START:DASH!!"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
                     },
                     {
                         "card_no": "PL!N-bp1-026-SECL",
@@ -92840,16 +92836,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -92902,6 +92890,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -92974,7 +92986,7 @@
         "blade_heart": {
             "b_all": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる「澁谷かのん」1人は{{heart_05.png|heart05}}{{icon_blade.png|ブレード}}を、「唐 可可」1人は{{heart_01.png|heart01}}{{icon_blade.png|ブレード}}を得る。\n{{live_success.png|ライブ成功時}}自分のステージに「澁谷かのん」と「唐 可可」がいる場合、カードを1枚引く。<br>\n(必要ハートを確認する時、エールで出た{{icon_b_all.png|ALLブレード}}は任意の色のハートとして扱う。)",
+        "ability": "{{live_start.png|ライブ開始時}}ライブ終了時まで、自分のステージにいる「澁谷かのん」1人は{{heart_05.png|heart05}}{{icon_blade.png|ブレード}}を、「唐 可可」1人は{{heart_01.png|heart01}}{{icon_blade.png|ブレード}}を得る。\r\n{{live_success.png|ライブ成功時}}自分のステージに「澁谷かのん」と「唐 可可」がいる場合、カードを1枚引く。",
         "faq": [
             {
                 "title": "Q36（2025.08.04）",
@@ -93016,22 +93028,6 @@
                     {
                         "card_no": "PL!-sd1-019-SRL",
                         "name": "START:DASH!!"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-021-L",
-                        "name": "Holiday∞Holiday"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-022-L",
-                        "name": "AWOKE"
-                    },
-                    {
-                        "card_no": "PL!HS-bp1-023-L",
-                        "name": "ド！ド！ド！"
-                    },
-                    {
-                        "card_no": "PL!N-bp1-026-L",
-                        "name": "Poppin' Up!"
                     },
                     {
                         "card_no": "PL!N-bp1-026-SECL",
@@ -93118,16 +93114,8 @@
                         "name": "僕らの走ってきた道は・・・"
                     },
                     {
-                        "card_no": "PL!SP-bp1-023-L",
-                        "name": "START!! True dreams"
-                    },
-                    {
                         "card_no": "PL!SP-bp1-023-SRL",
                         "name": "START!! True dreams"
-                    },
-                    {
-                        "card_no": "PL!SP-bp1-024-L",
-                        "name": "Tiny Stars"
                     },
                     {
                         "card_no": "PL!SP-bp1-024-SRL",
@@ -93180,6 +93168,30 @@
                     {
                         "card_no": "PL!SP-pb1-004-R",
                         "name": "平安名すみれ"
+                    },
+                    {
+                        "card_no": "PL!N-bp1-026-L",
+                        "name": "Poppin' Up!"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-023-L",
+                        "name": "START!! True dreams"
+                    },
+                    {
+                        "card_no": "PL!SP-bp1-024-L",
+                        "name": "Tiny Stars"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-021-L",
+                        "name": "Holiday∞Holiday"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-022-L",
+                        "name": "AWOKE"
+                    },
+                    {
+                        "card_no": "PL!HS-bp1-023-L",
+                        "name": "ド！ド！ド！"
                     }
                 ]
             }
@@ -93217,7 +93229,7 @@
         "special_heart": {
             "draw": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが12枚以上ある場合、このカードのスコアを＋１する。<br>\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが12枚以上ある場合、このカードのスコアを＋１する。",
         "faq": [],
         "rare_list": [
             {
@@ -94878,7 +94890,7 @@
         "special_heart": {
             "draw": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるメンバーが持つ{{icon_blade.png|ブレード}}の合計が10以上の場合、このカードのスコアを＋１する。<br>\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分のステージにいるメンバーが持つ{{icon_blade.png|ブレード}}の合計が10以上の場合、このカードのスコアを＋１する。",
         "faq": [
             {
                 "title": "Q116（2025.06.06）",
@@ -96187,7 +96199,7 @@
     "PL!SP-sd1-026-SD": {
         "card_no": "PL!SP-sd1-026-SD",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/SPSD01/PL!SP-sd1-026-SD.png",
-        "name": "私のSymphony ?澁谷かのんVer.?",
+        "name": "私のSymphony ～澁谷かのんVer.～",
         "product": "スタートデッキ ラブライブ！スーパースター!!",
         "type": "ライブ",
         "rare": "SD",
@@ -96204,7 +96216,7 @@
         "special_heart": {
             "draw": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが9枚以上ある場合、このカードのスコアを＋１する。<br>\n(エールをすべて行った後、エールで出た{{icon_draw.png|ドロー}}1つにつき、カードを1枚引く。)",
+        "ability": "{{live_start.png|ライブ開始時}}自分のエネルギーが9枚以上ある場合、このカードのスコアを＋１する。",
         "faq": [
             {
                 "title": "Q90（2025.04.22）",
@@ -96217,11 +96229,11 @@
                     },
                     {
                         "card_no": "PL!SP-sd1-026-SD",
-                        "name": "私のSymphony ?澁谷かのんVer.?"
+                        "name": "私のSymphony ～澁谷かのんVer.～"
                     },
                     {
                         "card_no": "PL!SP-sd1-026-SRL",
-                        "name": "私のSymphony ?澁谷かのんVer.?"
+                        "name": "私のSymphony ～澁谷かのんVer.～"
                     }
                 ]
             }
@@ -96229,11 +96241,11 @@
         "rare_list": [
             {
                 "card_no": "PL!SP-sd1-026-SD",
-                "name": "私のSymphony ?澁谷かのんVer.?"
+                "name": "私のSymphony ～澁谷かのんVer.～"
             },
             {
                 "card_no": "PL!SP-sd1-026-SRL",
-                "name": "私のSymphony ?澁谷かのんVer.?"
+                "name": "私のSymphony ～澁谷かのんVer.～"
             }
         ],
         "_img": "img/cards/SPSD01/PL!SP-sd1-026-SD.png"
@@ -96566,7 +96578,7 @@
     "LL-PR-004-PR": {
         "card_no": "LL-PR-004-PR",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-004-PR.png",
-        "name": "愛?スクリ～ム！",
+        "name": "愛♡スクリ～ム！",
         "product": "PRカード",
         "type": "ライブ",
         "rare": "PR",
@@ -96581,7 +96593,7 @@
         "blade_heart": {
             "b_all": 1
         },
-        "ability": "{{live_start.png|ライブ開始時}}相手に何が好き？と聞く。\n回答がチョコミントかストロベリーフレイバーかクッキー＆クリームの場合、自分と相手は手札を1枚控え室に置く。\n回答があなたの場合、自分と相手はカードを1枚引く。\n回答がそれ以外の場合、ライブ終了時まで、自分と相手のステージにいるメンバーは{{icon_blade.png|ブレード}}を得る。",
+        "ability": "{{live_start.png|ライブ開始時}}相手に何が好き？と聞く。\r\n回答がチョコミントかストロベリーフレイバーかクッキー＆クリームの場合、自分と相手は手札を1枚控え室に置く。\r\n回答があなたの場合、自分と相手はカードを1枚引く。\r\n回答がそれ以外の場合、ライブ終了時まで、自分と相手のステージにいるメンバーは{{icon_blade.png|ブレード}}を得る。",
         "faq": [
             {
                 "title": "Q185（2025.10.02）",
@@ -96590,7 +96602,7 @@
                 "relation": [
                     {
                         "card_no": "LL-PR-004-PR",
-                        "name": "愛?スクリ～ム！"
+                        "name": "愛♡スクリ～ム！"
                     }
                 ]
             }
@@ -96598,7 +96610,7 @@
         "rare_list": [
             {
                 "card_no": "LL-PR-004-PR",
-                "name": "愛?スクリ～ム！"
+                "name": "愛♡スクリ～ム！"
             }
         ],
         "_img": "img/cards/PR/LL-PR-004-PR.png"
@@ -97417,7 +97429,7 @@
             "b_heart06": 1
         },
         "blade": 3,
-        "ability": "{{jidou.png|自動}}[ターン3回]自分か相手のステージにいるメンバーがウェイト状態になるたび、ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}メンバー1人をウェイトにし、手札を1枚控え室に置く：カードを1枚引く。",
+        "ability": "{{jidou.png|自動}}{{turn3.png|ターン3回}}自分か相手のステージにいるメンバーがウェイト状態になるたび、ライブ終了時まで、{{icon_blade.png|ブレード}}を得る。\n{{kidou.png|起動}}{{turn1.png|ターン1回}}メンバー1人をウェイトにし、手札を1枚控え室に置く：カードを1枚引く。",
         "faq": [],
         "rare_list": [
             {
@@ -104587,5 +104599,44 @@
             }
         ],
         "_img": "img/cards/PR/PYHN-PR-001-PR.png"
+    },
+    "PL!HS-bp5-008-PR": {
+        "card_no": "PL!HS-bp5-008-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-bp5-008-PR.png",
+        "name": "桂城 泉",
+        "product": "PRカード",
+        "type": "メンバー",
+        "rare": "PR",
+        "series": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "Edel Note",
+        "cost": 4,
+        "base_heart": {
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart06": 1
+        },
+        "blade": 2,
+        "ability": "{{toujyou.png|登場}}このメンバーをウェイトにし、手札を1枚控え室に置いてもよい：自分のデッキの上からカードを5枚見る。その中からコスト9以上の『蓮ノ空』のメンバーカードを1枚公開して手札に加えてもよい。残りを控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-bp5-008-PR",
+                "name": "桂城 泉"
+            },
+            {
+                "card_no": "PL!HS-bp5-008-R",
+                "name": "桂城 泉"
+            },
+            {
+                "card_no": "PL!HS-bp5-008-P",
+                "name": "桂城 泉"
+            },
+            {
+                "card_no": "PL!HS-bp5-008-AR",
+                "name": "桂城 泉"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-bp5-008-PR.png"
     }
 }
