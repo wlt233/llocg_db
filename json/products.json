@@ -1,4 +1,31 @@
 {
+    "CLLS01": {
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/thumb/LLC_CLS_box_card_image.png",
+        "href": "https://llofficial-cardgame.com/cardlist/searchresults/?expansion=CLLS01",
+        "product_id": "CLLS01",
+        "title": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "category": "その他",
+        "release_date": "2026.10.24",
+        "card_list": [
+            "PL!S-cl1-001-CL",
+            "PL!S-cl1-002-CL",
+            "PL!S-cl1-003-CL",
+            "PL!S-cl1-004-CL",
+            "PL!S-cl1-005-CL",
+            "PL!S-cl1-006-CL",
+            "PL!S-cl1-007-CL",
+            "PL!S-cl1-008-CL",
+            "PL!S-cl1-009-CL",
+            "PL!S-cl1-010-CL",
+            "PL!S-cl1-011-CL",
+            "PL!S-cl1-012-CL",
+            "PL!S-cl1-013-CL",
+            "PL!S-cl1-014-CL",
+            "PL!S-cl1-015-CL",
+            "PL!S-cl1-016-CL"
+        ],
+        "_img": "img/products/LLC_CLS_box_card_image.png"
+    },
     "PBLL02": {
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/thumb/LLC_ PB07_box_image.png",
         "href": "https://llofficial-cardgame.com/cardlist/searchresults/?expansion=PBLL02",

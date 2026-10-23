@@ -104638,5 +104638,413 @@
             }
         ],
         "_img": "img/cards/PR/PL!HS-bp5-008-PR.png"
+    },
+    "PL!S-cl1-001-CL": {
+        "card_no": "PL!S-cl1-001-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-001-CL.png",
+        "name": "高海千歌",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "メンバー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "ability": "{{toujyou.png|登場}}自分のデッキの上からカードを5枚控え室に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-001-CL",
+                "name": "高海千歌"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-001-CL.png"
+    },
+    "PL!S-cl1-002-CL": {
+        "card_no": "PL!S-cl1-002-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-002-CL.png",
+        "name": "桜内梨子",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "メンバー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "Guilty Kiss",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade": 4,
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された自分のカードの中から、『Aqours』のカードを3枚まで、好きな順番でデッキの下に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-002-CL",
+                "name": "桜内梨子"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-002-CL.png"
+    },
+    "PL!S-cl1-003-CL": {
+        "card_no": "PL!S-cl1-003-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-003-CL.png",
+        "name": "松浦果南",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "メンバー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "AZALEA",
+        "cost": 4,
+        "base_heart": {
+            "heart04": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 2,
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室から『Aqours』のカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-003-CL",
+                "name": "松浦果南"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-003-CL.png"
+    },
+    "PL!S-cl1-004-CL": {
+        "card_no": "PL!S-cl1-004-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-004-CL.png",
+        "name": "黒澤ダイヤ",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "メンバー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "AZALEA",
+        "cost": 15,
+        "base_heart": {
+            "heart02": 1,
+            "heart04": 3,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart04": 1
+        },
+        "blade": 7,
+        "ability": "{{jidou.png|自動}}[センター]{{turn1.png|ターン1回}}自分がエールしたとき、エールにより公開された自分のカードの中にライブカードが2枚以上ある場合、相手のステージにいる元々持つハートの数が4つ以下のメンバー1人をウェイトにする。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-004-CL",
+                "name": "黒澤ダイヤ"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-004-CL.png"
+    },
+    "PL!S-cl1-005-CL": {
+        "card_no": "PL!S-cl1-005-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-005-CL.png",
+        "name": "渡辺 曜",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "メンバー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 11,
+        "base_heart": {
+            "heart02": 2,
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 4,
+        "ability": "{{live_start.png|ライブ開始時}}自分のデッキの一番上のカードを見る。それをデッキの一番下に置いてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-005-CL",
+                "name": "渡辺 曜"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-005-CL.png"
+    },
+    "PL!S-cl1-006-CL": {
+        "card_no": "PL!S-cl1-006-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-006-CL.png",
+        "name": "津島善子",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "メンバー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "Guilty Kiss",
+        "cost": 7,
+        "base_heart": {
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade": 2,
+        "ability": "{{live_start.png|ライブ開始時}}手札を1枚デッキの一番下に置いてもよい：ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-006-CL",
+                "name": "津島善子"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-006-CL.png"
+    },
+    "PL!S-cl1-007-CL": {
+        "card_no": "PL!S-cl1-007-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-007-CL.png",
+        "name": "国木田花丸",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "メンバー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "AZALEA",
+        "cost": 5,
+        "base_heart": {
+            "heart02": 1,
+            "heart04": 1
+        },
+        "blade": 2,
+        "ability": "{{live_start.png|ライブ開始時}}手札を1枚控え室に置いてもよい：ライブ終了時まで、自分のエールは、デッキの上から行う代わりにデッキの下から行う。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-007-CL",
+                "name": "国木田花丸"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-007-CL.png"
+    },
+    "PL!S-cl1-008-CL": {
+        "card_no": "PL!S-cl1-008-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-008-CL.png",
+        "name": "小原鞠莉",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "メンバー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "Guilty Kiss",
+        "cost": 4,
+        "base_heart": {
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "blade": 2,
+        "ability": "{{kidou.png|起動}}{{turn1.png|ターン1回}}このメンバーをウェイトにし、手札を1枚控え室に置く：カードを1枚引く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-008-CL",
+                "name": "小原鞠莉"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-008-CL.png"
+    },
+    "PL!S-cl1-009-CL": {
+        "card_no": "PL!S-cl1-009-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-009-CL.png",
+        "name": "黒澤ルビィ",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "メンバー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "cost": 2,
+        "base_heart": {
+            "heart02": 1
+        },
+        "blade_heart": {
+            "b_heart02": 1
+        },
+        "blade": 1,
+        "ability": "{{kidou.png|起動}}このメンバーをステージから控え室に置く：自分の控え室からメンバーカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-009-CL",
+                "name": "黒澤ルビィ"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-009-CL.png"
+    },
+    "PL!S-cl1-010-CL": {
+        "card_no": "PL!S-cl1-010-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-010-CL.png",
+        "name": "未体験HORIZON",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "ライブ",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "score": 2,
+        "need_heart": {
+            "heart0": 3,
+            "heart02": 1,
+            "heart04": 2
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "ability": "{{live_start.png|ライブ開始時}}自分の控え室から、{{icon_score.png|スコア}}を持つ『Aqours』のライブカード1枚までと、{{icon_b_all.png|ALLブレード}}を持つ『Aqours』のライブカード1枚までと、[{{blade_heart07.png|無2}}]を持つ『Aqours』のライブカード1枚までを選び、それらを好きな順番でデッキの下に置く。その後、ライブ終了時まで、自分のセンターエリアにいる『Aqours』のメンバーは、これによりデッキの下に置いたカード1枚につき、{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-010-CL",
+                "name": "未体験HORIZON"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-010-CL.png"
+    },
+    "PL!S-cl1-011-CL": {
+        "card_no": "PL!S-cl1-011-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-011-CL.png",
+        "name": "想いよひとつになれ",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "ライブ",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "score": 3,
+        "need_heart": {
+            "heart0": 3,
+            "heart02": 2,
+            "heart04": 1,
+            "heart05": 1
+        },
+        "blade_heart": {
+            "b_all": 1
+        },
+        "ability": "{{live_success.png|ライブ成功時}}自分のステージに『Aqours』のメンバーが3人以上おり、かつ、それらのメンバーが同じ色のハートを持つ場合、エールにより公開された自分のカードの中から、その色のハートを持つ『Aqours』のメンバーカード1枚を手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-011-CL",
+                "name": "想いよひとつになれ"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-011-CL.png"
+    },
+    "PL!S-cl1-012-CL": {
+        "card_no": "PL!S-cl1-012-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-012-CL.png",
+        "name": "キセキヒカル",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "ライブ",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "score": 5,
+        "need_heart": {
+            "heart0": 6,
+            "heart02": 2,
+            "heart04": 2,
+            "heart05": 2
+        },
+        "blade_heart": {
+            "b_heart05": 1
+        },
+        "special_heart": {
+            "draw": 1
+        },
+        "ability": "{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場にある『Aqours』の各ライブカードにつき、自分の控え室から、それぞれそのカードと同じカード名を持つライブカードを1枚まで選び、それらを好きな順番でデッキの上に置く。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-012-CL",
+                "name": "キセキヒカル"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-012-CL.png"
+    },
+    "PL!S-cl1-013-CL": {
+        "card_no": "PL!S-cl1-013-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-013-CL.png",
+        "name": "WATER BLUE NEW WORLD",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "ライブ",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "score": 10,
+        "need_heart": {
+            "heart0": 9,
+            "heart05": 15
+        },
+        "blade_heart": {
+            "b_heart07": 2
+        },
+        "ability": "{{live_start.png|ライブ開始時}}自分の控え室にある、ブレードハートを持たない『Aqours』のメンバーカードを6枚まで選ぶ。それらをシャッフルし、デッキの一番下に置く。ライブ終了時まで、自分のステージにいる『Aqours』のメンバー1人は、これによりデッキの下に置いたカード2枚につき、{{heart_05.png|heart05}}{{heart_05.png|heart05}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-013-CL",
+                "name": "WATER BLUE NEW WORLD"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-013-CL.png"
+    },
+    "PL!S-cl1-014-CL": {
+        "card_no": "PL!S-cl1-014-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-014-CL.png",
+        "name": "CYaRon！",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "エネルギー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "CYaRon！",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-014-CL",
+                "name": "CYaRon！"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-014-CL.png"
+    },
+    "PL!S-cl1-015-CL": {
+        "card_no": "PL!S-cl1-015-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-015-CL.png",
+        "name": "AZALEA",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "エネルギー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "AZALEA",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-015-CL",
+                "name": "AZALEA"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-015-CL.png"
+    },
+    "PL!S-cl1-016-CL": {
+        "card_no": "PL!S-cl1-016-CL",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/CLLS01/PL!S-cl1-016-CL.png",
+        "name": "Guilty Kiss",
+        "product": "コレクション クリアポケット ラブライブ！サンシャイン!!",
+        "type": "エネルギー",
+        "rare": "CL",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "Guilty Kiss",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-cl1-016-CL",
+                "name": "Guilty Kiss"
+            }
+        ],
+        "_img": "img/cards/CLLS01/PL!S-cl1-016-CL.png"
     }
 }
