@@ -112414,5 +112414,237 @@
             }
         ],
         "_img": "img/cards/CLLS01/PL!S-cl1-016-CL.png"
+    },
+    "PL!-PR-027-PR": {
+        "card_no": "PL!-PR-027-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-027-PR.png",
+        "name": "星空 凛",
+        "product": "PRカード",
+        "type": "メンバー",
+        "rare": "PR",
+        "series": "ラブライブ！",
+        "unit": "lily white",
+        "cost": 13,
+        "base_heart": {
+            "heart01": 2,
+            "heart03": 2
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 5,
+        "ability": "{{toujyou.png|登場}}自分の成功ライブカード置き場にあるカードのスコアの合計が１１以上の場合、自分の控え室からカードを1枚手札に加える。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-027-PR",
+                "name": "星空 凛"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-027-PR.png"
+    },
+    "PL!HS-PR-043-PR": {
+        "card_no": "PL!HS-PR-043-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-043-PR.png",
+        "name": "桂城 泉",
+        "product": "PRカード",
+        "type": "メンバー",
+        "rare": "PR",
+        "series": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "Edel Note",
+        "cost": 7,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "ability": "{{live_start.png|ライブ開始時}}控え室にあるメンバーカード2枚を好きな順番でデッキの下に置いてもよい：これによりデッキの下に置いたメンバーカードが持つハートの総数が12以上の場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-043-PR",
+                "name": "桂城 泉"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-043-PR.png"
+    },
+    "PL!N-PR-037-PR": {
+        "card_no": "PL!N-PR-037-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-037-PR.png",
+        "name": "近江彼方",
+        "product": "PRカード",
+        "type": "メンバー",
+        "rare": "PR",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 7,
+        "base_heart": {
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 2,
+        "ability": "{{live_start.png|ライブ開始時}}控え室にあるメンバーカード2枚を好きな順番でデッキの下に置いてもよい：これによりデッキの下に置いたメンバーカードが持つハートの総数が12以上の場合、ライブ終了時まで、{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-037-PR",
+                "name": "近江彼方"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-037-PR.png"
+    },
+    "PL!N-PR-038-PR": {
+        "card_no": "PL!N-PR-038-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-038-PR.png",
+        "name": "天王寺璃奈",
+        "product": "PRカード",
+        "type": "メンバー",
+        "rare": "PR",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "QU4RTZ",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "ability": "{{jidou.png|自動}}このメンバーがステージから控え室に置かれたとき、このメンバーがコスト11以下のメンバーとバトンタッチしていた場合、ライブ終了時まで、そのバトンタッチで登場したメンバーは{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-038-PR",
+                "name": "天王寺璃奈"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-038-PR.png"
+    },
+    "PL!N-PR-039-PR": {
+        "card_no": "PL!N-PR-039-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-039-PR.png",
+        "name": "ミア・テイラー",
+        "product": "PRカード",
+        "type": "メンバー",
+        "rare": "PR",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "R3BIRTH",
+        "cost": 11,
+        "base_heart": {
+            "heart03": 2,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 4,
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された相手のカードの枚数が12枚以上ある場合、ライブの合計スコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-039-PR",
+                "name": "ミア・テイラー"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-039-PR.png"
+    },
+    "PL!SP-PR-033-PR": {
+        "card_no": "PL!SP-PR-033-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-033-PR.png",
+        "name": "嵐 千砂都",
+        "product": "PRカード",
+        "type": "メンバー",
+        "rare": "PR",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 9,
+        "base_heart": {
+            "heart02": 1,
+            "heart03": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "ability": "{{live_success.png|ライブ成功時}}手札を1枚控え室に置いてもよい：エールにより公開された自分のカードの中から、このメンバーが持つ{{icon_blade.png|ブレード}}の数以下の{{icon_blade.png|ブレード}}を持つ『Liella!』のメンバーカード1枚を手札に加えてもよい。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-033-PR",
+                "name": "嵐 千砂都"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-033-PR.png"
+    },
+    "PL!SP-PR-034-PR": {
+        "card_no": "PL!SP-PR-034-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-034-PR.png",
+        "name": "葉月 恋",
+        "product": "PRカード",
+        "type": "メンバー",
+        "rare": "PR",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "cost": 9,
+        "base_heart": {
+            "heart03": 1,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade": 4,
+        "ability": "{{jidou.png|自動}}このメンバーがステージから控え室に置かれたとき、このメンバーがコスト11以下のメンバーとバトンタッチしていた場合、ライブ終了時まで、そのバトンタッチで登場したメンバーは{{icon_blade.png|ブレード}}{{icon_blade.png|ブレード}}を得る。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-034-PR",
+                "name": "葉月 恋"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-034-PR.png"
+    },
+    "PL!SP-PR-035-PR": {
+        "card_no": "PL!SP-PR-035-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-035-PR.png",
+        "name": "鬼塚冬毬",
+        "product": "PRカード",
+        "type": "メンバー",
+        "rare": "PR",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "cost": 11,
+        "base_heart": {
+            "heart03": 2,
+            "heart05": 1,
+            "heart06": 1
+        },
+        "blade_heart": {
+            "b_heart03": 1
+        },
+        "blade": 4,
+        "ability": "{{live_success.png|ライブ成功時}}エールにより公開された相手のカードの枚数が12枚以上ある場合、ライブの合計スコアを＋１する。",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-035-PR",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-035-PR.png"
+    },
+    "PL!SP-PR-036-PR＋": {
+        "card_no": "PL!SP-PR-036-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-036-PR2.png",
+        "name": "鬼塚冬毬",
+        "product": "PRカード",
+        "type": "メンバー",
+        "rare": "PR+",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "5yncri5e!",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-036-PR＋",
+                "name": "鬼塚冬毬"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-036-PR2.png"
     }
 }
