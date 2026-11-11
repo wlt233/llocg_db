@@ -17,7 +17,7 @@ API = urljoin(BASE, "manage/card-list-user/")
 CARD_IMAGES = urljoin(BASE, "wordpress/wp-content/images/cardlist/")
 PRODUCT_IMAGES = urljoin(BASE, "wordpress/wp-content/images/thumb/")
 HEADERS = {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)", "referer": BASE}
-COLORS = {"桃": "01", "赤": "02", "黄": "03", "緑": "04", "青": "05", "紫": "06", "無": "0"}
+COLORS = {"桃": "01", "赤": "02", "黄": "03", "緑": "04", "青": "05", "紫": "06", "橙": "07", "無": "0"}
 CATEGORIES = {"pack": "パック商品", "deck": "デッキ商品", "pr": "PRカード", "other": "その他"}
 
 
@@ -77,13 +77,13 @@ async def fetch_product_cards(client, semaphore, code):
 
 def heart_counts(raw):
     counts = {}
-    for index in range(7):
+    for index in range(8):
         key = "heart0" if index == 0 else f"heart{index:02d}"
         count = int(raw.get(key) or 0)
         if count:
             counts[key] = count
     if not counts:
-        for color, count in re.findall(r"([桃赤黄緑青紫無])(\d+)", str(raw.get("heart") or "")):
+        for color, count in re.findall(r"([桃赤黄緑青紫橙無])(\d+)", str(raw.get("heart") or "")):
             key = "heart" + COLORS[color]
             counts[key] = counts.get(key, 0) + int(count)
     return counts
@@ -91,8 +91,10 @@ def heart_counts(raw):
 
 def blade_hearts(value):
     counts = {}
-    for color, count in re.findall(r"(ALL|桃|赤|黄|緑|青|紫|無)(\d+)", str(value or "")):
-        key = "b_all" if color == "ALL" else "b_heart" + ("07" if color == "無" else COLORS[color])
+    for color, count in re.findall(r"(ALL|桃|赤|黄|緑|青|紫|無|橙)(\d+)", str(value or "")):
+        key = "b_all" if color == "ALL" else "b_heart" + (
+            "07" if color == "無" else "08" if color == "橙" else COLORS[color]
+        )
         counts[key] = counts.get(key, 0) + int(count)
     return counts
 
