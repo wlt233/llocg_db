@@ -61557,11 +61557,11 @@
                         "name": "園田海未"
                     },
                     {
-                        "card_no": "PL!-bp3-004-R＋",
+                        "card_no": "PL!-bp3-004-SEC",
                         "name": "園田海未"
                     },
                     {
-                        "card_no": "PL!-bp3-004-SEC",
+                        "card_no": "PL!-bp3-004-R＋",
                         "name": "園田海未"
                     }
                 ]
@@ -61619,11 +61619,11 @@
                         "name": "園田海未"
                     },
                     {
-                        "card_no": "PL!-bp3-004-R＋",
+                        "card_no": "PL!-bp3-004-SEC",
                         "name": "園田海未"
                     },
                     {
-                        "card_no": "PL!-bp3-004-SEC",
+                        "card_no": "PL!-bp3-004-R＋",
                         "name": "園田海未"
                     }
                 ]
@@ -61681,11 +61681,11 @@
                         "name": "園田海未"
                     },
                     {
-                        "card_no": "PL!-bp3-004-R＋",
+                        "card_no": "PL!-bp3-004-SEC",
                         "name": "園田海未"
                     },
                     {
-                        "card_no": "PL!-bp3-004-SEC",
+                        "card_no": "PL!-bp3-004-R＋",
                         "name": "園田海未"
                     }
                 ]
@@ -61748,7 +61748,7 @@
         "name": "園田海未",
         "product": "ブースターパック　夏、はじまる。",
         "type": "メンバー",
-        "rare": "R",
+        "rare": "R+",
         "series": "ラブライブ！",
         "unit": "lily white",
         "cost": 11,
@@ -61758,7 +61758,7 @@
             "heart06": 1
         },
         "blade": 3,
-        "ability": "{{toujyou.png|登場}}自分のステージにいるメンバー1人につき、カードを1枚引く。その後、手札を1枚控え室に置く。\n{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場にカードがある場合、手札を1枚控え室に置いてもよい。そうした場合、自分の控え室から『μ's』のライブカードを1枚手札に加える。",
+        "ability": "{{toujyou.png|登場}}自分のステージにいるメンバー1人につき、カードを1枚引く。その後、手札を1枚控え室に置く。\r\n{{live_start.png|ライブ開始時}}自分の成功ライブカード置き場にカードがある場合、手札を1枚控え室に置いてもよい。そうした場合、自分の控え室から『μ's』のライブカードを1枚手札に加える。",
         "faq": [
             {
                 "title": "Q146（2025.08.04）",
@@ -61774,11 +61774,11 @@
                         "name": "園田海未"
                     },
                     {
-                        "card_no": "PL!-bp3-004-R＋",
+                        "card_no": "PL!-bp3-004-SEC",
                         "name": "園田海未"
                     },
                     {
-                        "card_no": "PL!-bp3-004-SEC",
+                        "card_no": "PL!-bp3-004-R＋",
                         "name": "園田海未"
                     }
                 ]
@@ -115338,7 +115338,7 @@
     "LL!-bp8-E33-LLE": {
         "card_no": "LL!-bp8-E33-LLE",
         "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/BP08/LL!-bp8-E33-LLE.png",
-        "name": "東条希＆エマ・ヴェルデ",
+        "name": "東條 希＆エマ・ヴェルデ",
         "product": "ブースターパック まじかる♡とり～と",
         "type": "エネルギー",
         "rare": "LLE",
@@ -115347,7 +115347,7 @@
         "rare_list": [
             {
                 "card_no": "LL!-bp8-E33-LLE",
-                "name": "東条希＆エマ・ヴェルデ"
+                "name": "東條 希＆エマ・ヴェルデ"
             }
         ],
         "_img": "img/cards/BP08/LL!-bp8-E33-LLE.png"
