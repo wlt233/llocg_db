@@ -121543,5 +121543,276 @@
             }
         ],
         "_img": "img/cards/PR/PL!-bp3-001-PR.png"
+    },
+    "LL-PR-010-PR": {
+        "card_no": "LL-PR-010-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-010-PR.png",
+        "name": "上原歩夢&日野下花帆",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会\nラブライブ！蓮ノ空女学院スクールアイドルクラブ",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-PR-010-PR",
+                "name": "上原歩夢&日野下花帆"
+            }
+        ],
+        "_img": "img/cards/PR/LL-PR-010-PR.png"
+    },
+    "LL-PR-011-PR": {
+        "card_no": "LL-PR-011-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/LL-PR-011-PR.png",
+        "name": "矢澤にこ&宮下 愛&セラス 柳田 リリエンフェルト",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "series": "ラブライブ！\nラブライブ！虹ヶ咲学園スクールアイドル同好会\nラブライブ！蓮ノ空女学院スクールアイドルクラブ",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "LL-PR-011-PR",
+                "name": "矢澤にこ&宮下 愛&セラス 柳田 リリエンフェルト"
+            }
+        ],
+        "_img": "img/cards/PR/LL-PR-011-PR.png"
+    },
+    "PL!-PR-028-PR": {
+        "card_no": "PL!-PR-028-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-028-PR.png",
+        "name": "南 ことり",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-028-PR",
+                "name": "南 ことり"
+            },
+            {
+                "card_no": "PL!-PR-028-PR＋",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-028-PR.png"
+    },
+    "PL!-PR-028-PR＋": {
+        "card_no": "PL!-PR-028-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!-PR-028-PR2.png",
+        "name": "南 ことり",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR+",
+        "series": "ラブライブ！",
+        "unit": "Printemps",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!-PR-028-PR＋",
+                "name": "南 ことり"
+            },
+            {
+                "card_no": "PL!-PR-028-PR",
+                "name": "南 ことり"
+            }
+        ],
+        "_img": "img/cards/PR/PL!-PR-028-PR2.png"
+    },
+    "PL!HS-PR-045-PR": {
+        "card_no": "PL!HS-PR-045-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-045-PR.png",
+        "name": "徒町小鈴",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "series": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "DOLLCHESTRA",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-045-PR",
+                "name": "徒町小鈴"
+            },
+            {
+                "card_no": "PL!HS-PR-045-PR＋",
+                "name": "徒町小鈴"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-045-PR.png"
+    },
+    "PL!HS-PR-045-PR＋": {
+        "card_no": "PL!HS-PR-045-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!HS-PR-045-PR2.png",
+        "name": "徒町小鈴",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR+",
+        "series": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ",
+        "unit": "DOLLCHESTRA",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!HS-PR-045-PR＋",
+                "name": "徒町小鈴"
+            },
+            {
+                "card_no": "PL!HS-PR-045-PR",
+                "name": "徒町小鈴"
+            }
+        ],
+        "_img": "img/cards/PR/PL!HS-PR-045-PR2.png"
+    },
+    "PL!N-PR-040-PR": {
+        "card_no": "PL!N-PR-040-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-040-PR.png",
+        "name": "虹ヶ咲学園スクールアイドル同好会",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-040-PR",
+                "name": "虹ヶ咲学園スクールアイドル同好会"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-040-PR.png"
+    },
+    "PL!N-PR-041-PR": {
+        "card_no": "PL!N-PR-041-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-041-PR.png",
+        "name": "優木せつ菜",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-041-PR",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-PR-041-PR＋",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-041-PR.png"
+    },
+    "PL!N-PR-041-PR＋": {
+        "card_no": "PL!N-PR-041-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!N-PR-041-PR2.png",
+        "name": "優木せつ菜",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR+",
+        "series": "ラブライブ！虹ヶ咲学園スクールアイドル同好会",
+        "unit": "A・ZU・NA",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!N-PR-041-PR＋",
+                "name": "優木せつ菜"
+            },
+            {
+                "card_no": "PL!N-PR-041-PR",
+                "name": "優木せつ菜"
+            }
+        ],
+        "_img": "img/cards/PR/PL!N-PR-041-PR2.png"
+    },
+    "PL!S-PR-050-PR": {
+        "card_no": "PL!S-PR-050-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-050-PR.png",
+        "name": "津島善子",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "Guilty Kiss",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-050-PR",
+                "name": "津島善子"
+            },
+            {
+                "card_no": "PL!S-PR-050-PR＋",
+                "name": "津島善子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-050-PR.png"
+    },
+    "PL!S-PR-050-PR＋": {
+        "card_no": "PL!S-PR-050-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!S-PR-050-PR2.png",
+        "name": "津島善子",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR+",
+        "series": "ラブライブ！サンシャイン!!",
+        "unit": "Guilty Kiss",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!S-PR-050-PR＋",
+                "name": "津島善子"
+            },
+            {
+                "card_no": "PL!S-PR-050-PR",
+                "name": "津島善子"
+            }
+        ],
+        "_img": "img/cards/PR/PL!S-PR-050-PR2.png"
+    },
+    "PL!SP-PR-037-PR": {
+        "card_no": "PL!SP-PR-037-PR",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-037-PR.png",
+        "name": "唐 可可",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-037-PR",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-PR-037-PR＋",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-037-PR.png"
+    },
+    "PL!SP-PR-037-PR＋": {
+        "card_no": "PL!SP-PR-037-PR＋",
+        "img": "https://llofficial-cardgame.com/wordpress/wp-content/images/cardlist/PR/PL!SP-PR-037-PR2.png",
+        "name": "唐 可可",
+        "product": "PRカード",
+        "type": "エネルギー",
+        "rare": "PR+",
+        "series": "ラブライブ！スーパースター!!",
+        "unit": "KALEIDOSCORE",
+        "faq": [],
+        "rare_list": [
+            {
+                "card_no": "PL!SP-PR-037-PR＋",
+                "name": "唐 可可"
+            },
+            {
+                "card_no": "PL!SP-PR-037-PR",
+                "name": "唐 可可"
+            }
+        ],
+        "_img": "img/cards/PR/PL!SP-PR-037-PR2.png"
     }
 }
